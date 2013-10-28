@@ -1,0 +1,228 @@
+countrows: 5
+filename: 846477.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH0AR01083\x1C\"Crawford\"\x1C\"Eric\"\x1C\"Alan Rick\"\x1C\x1C\x1C\x1C\"34
+    CR 455\"\x1C\x1C\"Jonesboro\"\x1CAR\x1C72404\x1CREP\x1CH\x1CAR\x1C01\x1C2012\x1CC00462374\x1C\"Crawford
+    for Congress\"\x1C\"PO Box 16956\"\x1C\x1C\"Jonesboro\"\x1CAR\x1C72403\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\"Crawford\"\x1C\"Eric\"\x1C\"Alan
+    Rick\"\x1C\x1C\x1C20130111\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0AR01083
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Crawford
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Eric
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: Alan Rick
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 34 CR 455
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Jonesboro
+  - name: CANDIDATE STATE
+    number: '12'
+    value: AR
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '72404'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: AR
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '01'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2012'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00462374
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Crawford for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 16956
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Jonesboro
+  - name: PCC STATE
+    number: '24'
+    value: AR
+  - name: PCC ZIP
+    number: '25'
+    value: '72403'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Crawford
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Eric
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: Alan Rick
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130111
+
+'
+- input: "F2S\x1CH0AR01083\x1CC00506824\x1C\"Freshman Class JFC\"\x1C\"228 S Washington
+    Street, Ste 115\"\x1C\x1C\"Alexandria\"\x1CVA\x1C22314\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0AR01083
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00506824
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Freshman Class JFC
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S Washington Street, Ste 115
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '22314
+
+'
+- input: "F2S\x1CH0AR01083\x1CC00511519\x1C\"Patriot Day III\"\x1C\"228 S Washington
+    Street, Ste 115\"\x1C\x1C\"Alexandria\"\x1CVA\x1C22314\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0AR01083
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00511519
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Patriot Day III
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S Washington Street, Ste 115
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '22314
+
+'
+- input: "F2S\x1CH0AR01083\x1CC00493783\x1C\"Freshman Agricultural Republican Member
+    Trust\"\x1C\"7315 Wisconsin Ave, Ste 310 E\"\x1C\x1C\"Bethesda\"\x1CMD\x1C208143202\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0AR01083
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00493783
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Freshman Agricultural Republican Member Trust
+  - name: AUTH STREET 1
+    number: '5'
+    value: 7315 Wisconsin Ave, Ste 310 E
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Bethesda
+  - name: AUTH STATE
+    number: '8'
+    value: MD
+  - name: AUTH ZIP
+    number: '9'
+    value: '208143202
+
+'
+sourceurl: !!python/unicode 20130111
+type: chunk

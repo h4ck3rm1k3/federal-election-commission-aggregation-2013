@@ -1,0 +1,2178 @@
+countrows: 21
+filename: 846489.fec
+header: {}
+rows:
+- 2
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F5A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: ENTITY TYPE
+    number: '3'
+    value: ''
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: VOCES DE LA FRONTERA ACTION
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: ''
+  - name: STREET 1
+    number: '11'
+    value: 1027 S. 5TH STREET
+  - name: STREET 2
+    number: '12'
+    value: ''
+  - name: CITY
+    number: '13'
+    value: MILWAUKEE
+  - name: STATE
+    number: '14'
+    value: WI
+  - name: ZIP
+    number: '15'
+    value: '53204'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: Y
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: ''
+  - name: REPORT CODE
+    number: '19'
+    value: ''
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: '24'
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: '20121102'
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: '20121102'
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '3352.39'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: Hofer
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: Eva
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: ''
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130111'
+  - value: '
+
+'
+  expected_count: 30
+  input: "F5A\x1CC90011826\x1C\x1CVOCES DE LA FRONTERA ACTION\x1C\x1C\x1C\x1C\x1C\x1C\x1C1027
+    S. 5TH STREET\x1C\x1CMILWAUKEE\x1CWI\x1C53204\x1CY\x1C\x1C\x1C\x1C24\x1C20121102\x1C20121102\x1C.00\x1C3352.39\x1CHofer\x1CEva\x1C\x1C\x1C\x1C20130111\x1C\n"
+  input_count: 31
+  record: fec.version.v8_0.F5
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000001
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Neumann-Ortiz
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Christine
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '28.28'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '662.32'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000001\x1CIND\x1C\x1CNeumann-Ortiz\x1CChristine\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C28.28\x1C662.32\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000002
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Perez
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Jhoselinn
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '196.19'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1571.14'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000002\x1CIND\x1C\x1CPerez\x1CJhoselinn\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C196.19\x1C1571.14\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000003
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Ruiz
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Juan
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '137.02'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1901.14'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000003\x1CIND\x1C\x1CRuiz\x1CJuan\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C137.02\x1C1901.14\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000004
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Salas
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Lesley
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '71.28'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '522.72'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000004\x1CIND\x1C\x1CSalas\x1CLesley\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C71.28\x1C522.72\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000005
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Torres
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Primitivo
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '105.60'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '390.72'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000005\x1CIND\x1C\x1CTorres\x1CPrimitivo\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C105.60\x1C390.72\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000006
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Vara-Ramos
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Vanessa
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '17.13'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '137.04'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000006\x1CIND\x1C\x1CVara-Ramos\x1CVanessa\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C17.13\x1C137.04\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000007
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Cirino
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Carlos
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '29.60'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '183.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000007\x1CIND\x1C\x1CCirino\x1CCarlos\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C29.60\x1C183.00\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000008
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Rivas
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Elisa
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '59.21'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '640.66'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000008\x1CIND\x1C\x1CRivas\x1CElisa\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C59.21\x1C640.66\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000009
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Sanchez
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Elizabeth
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '40.37'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '427.93'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000009\x1CIND\x1C\x1CSanchez\x1CElizabeth\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C40.37\x1C427.93\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000010
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Bravo
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Florencio
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '40.37'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '148.03'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000010\x1CIND\x1C\x1CBravo\x1CFlorencio\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C40.37\x1C148.03\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000011
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Galicia
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Ismael
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '45.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '99.58'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000011\x1CIND\x1C\x1CGalicia\x1CIsmael\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C45.75\x1C99.58\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000012
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Aguilera
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Jose
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '45.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '312.19'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000012\x1CIND\x1C\x1CAguilera\x1CJose\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C45.75\x1C312.19\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000013
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Romero
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Maria
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '59.21'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '199.16'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000013\x1CIND\x1C\x1CRomero\x1CMaria\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C59.21\x1C199.16\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000014
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Ziu
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Sofina
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '29.60'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '188.41'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000014\x1CIND\x1C\x1CZiu\x1CSofina\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C29.60\x1C188.41\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000015
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Galicia
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: William
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '45.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '99.58'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000015\x1CIND\x1C\x1CGalicia\x1CWilliam\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C45.75\x1C99.58\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000016
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Reyes
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Yohanna
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '43.06'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '422.54'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Wages
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000016\x1CIND\x1C\x1CReyes\x1CYohanna\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C43.06\x1C422.54\x1CWages\x1C001\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000017
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Pick N Save
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 W. National Ave
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '6.47'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '84.63'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Food
+  - name: CATEGORY CODE
+    number: '22'
+    value: '007'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000017\x1CORG\x1CPick N Save\x1C\x1C\x1C\x1C\x1C\x1C1818
+    W. National Ave\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C6.47\x1C84.63\x1CFood\x1C007\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000018
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Alterra
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 2301 S. Kinnickinnic Ave
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53207'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '11.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '11.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Food
+  - name: CATEGORY CODE
+    number: '22'
+    value: '007'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000018\x1CORG\x1CAlterra\x1C\x1C\x1C\x1C\x1C\x1C2301
+    S. Kinnickinnic Ave\x1C\x1CMilwaukee\x1CWI\x1C53207\x1CG2012\x1C\x1C20121102\x1C11.75\x1C11.75\x1CFood\x1C007\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011826
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000019
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Voces de la Frontera
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1027 S 5th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121102'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '2340.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '2340.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90011826\x1CF57.000019\x1CORG\x1CVoces de la Frontera\x1C\x1C\x1C\x1C\x1C\x1C1027
+    S 5th Street\x1C\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121102\x1C2340.00\x1C2340.00\x1CAds\x1C004\x1C\x1CS\x1C\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+sourceurl: !!python/unicode 20130111
+type: chunk
