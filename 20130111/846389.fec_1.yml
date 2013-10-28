@@ -1,0 +1,129 @@
+countrows: 2
+filename: 846389.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH0MI03126\x1CAMASH\x1CJUSTIN\x1C\x1C\x1C\x1C\x1C1500 E BELTLINE AVE
+    SE STE 250\x1C\x1CGRAND RAPIDS\x1CMI\x1C49506\x1CREP\x1CH\x1CMI\x1C03\x1C2014\x1CC00476291\x1CJUSTIN
+    AMASH FOR CONGRESS\x1C1500 E BELTLINE AVE SE STE 250\x1C\x1CGRAND RAPIDS\x1CMI\x1C49506\x1CC00531574\x1CMICHIGAN
+    YOUNG GUNS VICTORY FUND (AMASH, BENISHEK, HUIZENGA, WALBERG)\x1C25 E MAIN STREET\x1C\x1CRICHMOND\x1CVA\x1C23219\x1CAMASH\x1CJUSTIN\x1C\x1C\x1C\x1C20130110\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0MI03126
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: AMASH
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: JUSTIN
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 1500 E BELTLINE AVE SE STE 250
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: GRAND RAPIDS
+  - name: CANDIDATE STATE
+    number: '12'
+    value: MI
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '49506'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: MI
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '03'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00476291
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: JUSTIN AMASH FOR CONGRESS
+  - name: PCC STREET 1
+    number: '21'
+    value: 1500 E BELTLINE AVE SE STE 250
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: GRAND RAPIDS
+  - name: PCC STATE
+    number: '24'
+    value: MI
+  - name: PCC ZIP
+    number: '25'
+    value: '49506'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00531574
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: MICHIGAN YOUNG GUNS VICTORY FUND (AMASH, BENISHEK, HUIZENGA, WALBERG)
+  - name: AUTH STREET 1
+    number: '28'
+    value: 25 E MAIN STREET
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: RICHMOND
+  - name: AUTH STATE
+    number: '31'
+    value: VA
+  - name: AUTH ZIP
+    number: '32'
+    value: '23219'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: AMASH
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: JUSTIN
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130110
+
+'
+sourceurl: !!python/unicode 20130111
+type: chunk
