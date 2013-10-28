@@ -1,0 +1,991 @@
+countrows: 7
+filename: 843681.fec
+header: {}
+rows:
+- 2
+- input: "F3T\x1CC00510669\x1CFAITH LOUDON FOR CONGRESS\x1C\x1CPO BOX 1694\x1C\x1CPASADENA\x1CMD\x1C21123\x1CMD\x1C04\x1CTER\x1C\x1C\x1C\x1C20121127\x1C20121231\x1CArnold\x1CWilliam\x1CO\x1CMr.\x1C\x1C20121231\x1C0.00\x1C0.00\x1C0.00\x1C510.00\x1C220.00\x1C290.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C220.00\x1C0.00\x1C220.00\x1C510.00\x1C6580.43\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C7090.43\x1C6870.43\x1C220.00\x1C7090.43\x1C7090.43\x1C0.00\x1C76087.37\x1C0.00\x1C76087.37\x1C55403.43\x1C0.00\x1C55403.43\x1C31985.65\x1C32015.72\x1C64001.37\x1C2650.00\x1C9321.00\x1C115.00\x1C76087.37\x1C615.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C76702.37\x1C55403.43\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C8442.90\x1C63846.33\n"
+  record: fec.version.v8_0.F3
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3T
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510669
+  - name: COMMITTEE NAME
+    number: '3'
+    value: FAITH LOUDON FOR CONGRESS
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: PO BOX 1694
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: PASADENA
+  - name: STATE
+    number: '8'
+    value: MD
+  - name: ZIP
+    number: '9'
+    value: '21123'
+  - name: ELECTION STATE
+    number: '10'
+    value: MD
+  - name: ELECTION DISTRICT
+    number: '11'
+    value: '04'
+  - name: REPORT CODE
+    number: '12'
+    value: TER
+  - name: ELECTION CODE
+    number: '13'
+    value: ''
+  - name: DATE OF ELECTION
+    number: '14'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '15'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '16'
+    value: '20121127'
+  - name: COVERAGE THROUGH DATE
+    number: '17'
+    value: '20121231'
+  - name: TREASURER LAST NAME
+    number: '18'
+    value: Arnold
+  - name: TREASURER FIRST NAME
+    number: '19'
+    value: William
+  - name: TREASURER MIDDLE NAME
+    number: '20'
+    value: O
+  - name: TREASURER PREFIX
+    number: '21'
+    value: Mr.
+  - name: TREASURER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20121231'
+  - name: Total Contributions (NO Loans)
+    number: 24-(6a)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 25-(6b)
+    value: '0.00'
+  - name: Net Contributions
+    number: 26-(6c)
+    value: '0.00'
+  - name: Total Operating Expenditures
+    number: 27-(7a)
+    value: '510.00'
+  - name: Total Offset to Operating Expenditures
+    number: 28-(7b)
+    value: '220.00'
+  - name: NET Operating Expenditures.
+    number: 29-(7c)
+    value: '290.00'
+  - name: CASH ON HAND AT CLOSE ...
+    number: 30-8.
+    value: '0.00'
+  - name: DEBTS TO ( Totals from SCH C and/or D)
+    number: 31-9.
+    value: '0.00'
+  - name: DEBTS BY (Totals from SCH C and/or D)
+    number: 32-10.
+    value: '0.00'
+  - name: Individuals Itemized
+    number: 33-11(a i.)
+    value: '0.00'
+  - name: Individuals Unitemized
+    number: 34-11(a.ii)
+    value: '0.00'
+  - name: Individual Contribution Total
+    number: 35-11(a.iii)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 36-11(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 37-11(c)
+    value: '0.00'
+  - name: The Candidate
+    number: 38-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 39-11(e)
+    value: '0.00'
+  - name: Transfers From Other Authorized Committees
+    number: 40-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 41-13(a)
+    value: '0.00'
+  - name: All Other Loans
+    number: 42-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 43-13(c)
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 44-14.
+    value: '220.00'
+  - name: Other Receipts
+    number: 45-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 46-16.
+    value: '220.00'
+  - name: Operating Expenditures
+    number: 47-17.
+    value: '510.00'
+  - name: Transfers to Other Authorized Committees
+    number: 48-18.
+    value: '6580.43'
+  - name: Of Loans made or guar. by the Cand.
+    number: 49-19(a)
+    value: '0.00'
+  - name: Loan Repayments, All Other Loans
+    number: 50-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 51-19(c)
+    value: '0.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 52-20(a)
+    value: '0.00'
+  - name: Refund/Political Party Committees
+    number: 53-20(b)
+    value: '0.00'
+  - name: Refund/Other Political Committees
+    number: 54-20(c)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 55-20(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 56-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 57-22.
+    value: '7090.43'
+  - name: Cash Beginning Reporting Period
+    number: 58-23.
+    value: '6870.43'
+  - name: Total Receipts this Period
+    number: 59-24.
+    value: '220.00'
+  - name: Subtotals
+    number: 60-25.
+    value: '7090.43'
+  - name: Total Disbursements this Period
+    number: 61-26.
+    value: '7090.43'
+  - name: Cash on hand at Close Period
+    number: 62-27.
+    value: '0.00'
+  - name: Total Contributions (No Loans)
+    number: 63-(6a)
+    value: '76087.37'
+  - name: Total Contribution Refunds
+    number: 64-(6b)
+    value: '0.00'
+  - name: Net Contributions
+    number: 65-(6c)
+    value: '76087.37'
+  - name: Total Operating Expenditures
+    number: 66-(7a)
+    value: '55403.43'
+  - name: Total Offsets to Operating Expenditures
+    number: 67-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 68-(7c)
+    value: '55403.43'
+  - name: Individuals Itemized
+    number: 69-11(a i.)
+    value: '31985.65'
+  - name: Individuals Unitemized
+    number: 70-11(a.ii)
+    value: '32015.72'
+  - name: Individuals Total
+    number: 71-11(a.iii)
+    value: '64001.37'
+  - name: Political Party Committees
+    number: 72-11(b)
+    value: '2650.00'
+  - name: All Other Political Committees (PACS)
+    number: 73-11(c)
+    value: '9321.00'
+  - name: The Candidate
+    number: 74-11(d)
+    value: '115.00'
+  - name: Total Contributions
+    number: 75-11(e)
+    value: '76087.37'
+  - name: Transfers From Other AUTH Committees
+    number: 76-12.
+    value: '615.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 77-13(a)
+    value: '0.00'
+  - name: All Other Loans
+    number: 78-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 79-13(c)
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 80-14.
+    value: '0.00'
+  - name: Other Receipts
+    number: 81-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 82-16.
+    value: '76702.37'
+  - name: Operating Expenditures
+    number: 83-17
+    value: '55403.43'
+  - name: Transfers To Other AUTH Committees
+    number: 84-18.
+    value: '0.00'
+  - name: Loan Repayment By Candidate
+    number: 85-19(a)
+    value: '0.00'
+  - name: Loan Repayments, ALL Other Loans
+    number: 86-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 87-19(c)
+    value: '0.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 88-20(a)
+    value: '0.00'
+  - name: Refund, Political Party Committees
+    number: 89-20(b)
+    value: '0.00'
+  - name: Refund, Other Political Committees
+    number: 90-20(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 91-20(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 92-21.
+    value: '8442.90'
+  - name: Total Disbursements
+    number: 93-22.
+    value: '63846.33
+
+'
+- input: "SA14\x1CC00510669\x1CSA14.5742\x1C\x1C\x1CORG\x1CPark Station, LLC\x1C\x1C\x1C\x1C\x1C\x1C1427
+    Clark View Road\x1CSuite 500\x1CBaltimore\x1CMD\x1C21209\x1CG2012\x1C\x1C20121224\x1C220.00\x1C220.00\x1CRefund
+    (Partial) of security deposit for Office Rental Ck #1074\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA14
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510669
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA14.5742
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Park Station, LLC
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1427 Clark View Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: Suite 500
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Baltimore
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: MD
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '21209'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20121224'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '220.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '220.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: 'Refund (Partial) of security deposit for Office Rental Ck #1074'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB17\x1CC00510669\x1CSB17.5737\x1C\x1C\x1CCAN\x1C\x1CLOUDON\x1CFAITH\x1CM\x1C\x1C\x1CPO
+    BOX 1694\x1C\x1CPASADENA\x1CMD\x1C21122\x1CG2012\x1C\x1C20121231\x1C75.00\x1C\x1CReimb
+    for: Mileage,postage and  \"Thank You \"cards\x1C001\x1CC00510669\x1CFAITH LOUDON
+    FOR CONGRESS\x1C\x1C\x1C\x1C\x1C\x1C\x1CH\x1CMD\x1C04\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510669
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.5737
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CAN
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: LOUDON
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: FAITH
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: M
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO BOX 1694
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: PASADENA
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '21122'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121231'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '75.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: 'Reimb for: Mileage,postage and  Thank You cards'
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: C00510669
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: FAITH LOUDON FOR CONGRESS
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: MD
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: '04'
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB18\x1CC00510669\x1CSB18.5739\x1C\x1C\x1CPTY\x1CMaryland Republican Party\x1C\x1C\x1C\x1C\x1C\x1C95
+    Cathedral Street\x1C\x1CAnnapolis\x1CMD\x1C21401\x1CR2012\x1CRunoff\x1C20121231\x1C580.43\x1C\x1CTransfer
+    Excess funds\x1C008\x1CC00510669\x1CFAITH LOUDON FOR CONGRESS\x1C\x1C\x1C\x1C\x1C\x1C\x1CH\x1CMD\x1C04\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB18
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510669
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB18.5739
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PTY
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Maryland Republican Party
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 95 Cathedral Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Annapolis
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '21401'
+  - name: ELECTION CODE
+    number: '18'
+    value: R2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Runoff
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121231'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '580.43'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Transfer Excess funds
+  - name: CATEGORY CODE
+    number: '24'
+    value: 008
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: C00510669
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: FAITH LOUDON FOR CONGRESS
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: MD
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: '04'
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB18\x1CC00510669\x1CSB18.5730\x1C\x1C\x1CCOM\x1CNorth County Republican
+    Club FEC\x1C\x1C\x1C\x1C\x1C\x1C1 Normandy Drive\x1C\x1CGlen Burnie\x1CMD\x1C21060\x1CG2012\x1C\x1C20121204\x1C5000.00\x1C\x1CTransfer
+    excess funds\x1C008\x1CC00510669\x1CFAITH LOUDON FOR CONGRESS\x1C\x1C\x1C\x1C\x1C\x1C\x1CH\x1CMD\x1C04\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB18
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510669
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB18.5730
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: North County Republican Club FEC
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1 Normandy Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Glen Burnie
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '21060'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121204'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Transfer excess funds
+  - name: CATEGORY CODE
+    number: '24'
+    value: 008
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: C00510669
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: FAITH LOUDON FOR CONGRESS
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: MD
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: '04'
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB18\x1CC00510669\x1CSB18.5731\x1C\x1C\x1CPTY\x1CRepublican Central Committee
+    for Prince George's County\x1C\x1C\x1C\x1C\x1C\x1C10903 Indian Head Hwy\x1CSuite
+    212\x1CFort Washington\x1CMD\x1C20744\x1CG2012\x1C\x1C20121206\x1C1000.00\x1C\x1CTransfer
+    Excess funds\x1C008\x1CC00510669\x1CFAITH LOUDON FOR CONGRESS\x1C\x1C\x1C\x1C\x1C\x1C\x1CH\x1CMD\x1C04\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB18
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510669
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB18.5731
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PTY
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Republican Central Committee for Prince George's County
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 10903 Indian Head Hwy
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Suite 212
+  - name: PAYEE CITY
+    number: '15'
+    value: Fort Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20744'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121206'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Transfer Excess funds
+  - name: CATEGORY CODE
+    number: '24'
+    value: 008
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: C00510669
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: FAITH LOUDON FOR CONGRESS
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: MD
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: '04'
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130103
+type: chunk

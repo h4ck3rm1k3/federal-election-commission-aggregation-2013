@@ -1,0 +1,812 @@
+countrows: 11
+filename: 843647.fec
+header: {}
+rows:
+- input: "SB20A\x1CC00473272\x1CEXPB5125\x1C\x1C\x1CIND\x1C\x1CARNAIZ\x1CMATTHEW\x1C\x1C\x1C\x1C133
+    MOKELUMNE RIVER DR.\x1C\x1CLodi\x1CCA\x1C95240\x1CP2014\x1C\x1C20121119\x1C1000.00\x1C\x1CREFUND\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB20A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00473272
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB5125
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ARNAIZ
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: MATTHEW
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 133 MOKELUMNE RIVER DR.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Lodi
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '95240'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2014
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121119'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: REFUND
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB20C\x1CC00473272\x1CEXPB5114\x1C\x1C\x1CCOM\x1CAMERICAN HEALTH CARE ASSOCIATION
+    PAC\x1C\x1C\x1C\x1C\x1C\x1C1201 L ST., N.W.\x1C\x1CWashington\x1CDC\x1C20005\x1CG2012\x1C\x1C20121113\x1C173.08\x1C\x1CREFUND\x1C010\x1CC00006080\x1CAMERICAN
+    HEALTH CARE ASSOCIATION PAC\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB20C
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00473272
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB5114
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: AMERICAN HEALTH CARE ASSOCIATION PAC
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1201 L ST., N.W.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20005'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121113'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '173.08'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: REFUND
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: C00006080
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: AMERICAN HEALTH CARE ASSOCIATION PAC
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB20C\x1CC00473272\x1CEXPB4651\x1C\x1C\x1CCOM\x1CEUREKA POLITICAL ACTION
+    COMMITTEE\x1C\x1C\x1C\x1C\x1C\x1C4905 DEL RAY AVE. #401\x1C\x1CBethesda\x1CMD\x1C20814\x1CG2012\x1C\x1C20121018\x1C1000.00\x1C\x1CREFUND\x1C010\x1CC00390161\x1CEUREKA
+    POLITICAL ACTION COMMITTEE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB20C
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00473272
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB4651
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: EUREKA POLITICAL ACTION COMMITTEE
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '4905 DEL RAY AVE. #401'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Bethesda
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20814'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121018'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: REFUND
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: C00390161
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: EUREKA POLITICAL ACTION COMMITTEE
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB20C\x1CC00473272\x1CEXPB4782\x1C\x1C\x1CCOM\x1CEUREKA POLITICAL ACTION
+    COMMITTEE\x1C\x1C\x1C\x1C\x1C\x1C4905 DEL RAY AVE. #401\x1C\x1CBethesda\x1CMD\x1C20814\x1CG2012\x1C\x1C20121024\x1C1500.00\x1C\x1CREFUND\x1C010\x1CC00390161\x1CEUREKA
+    POLITICAL ACTION COMMITTEE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB20C
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00473272
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB4782
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: EUREKA POLITICAL ACTION COMMITTEE
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '4905 DEL RAY AVE. #401'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Bethesda
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20814'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121024'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1500.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: REFUND
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: C00390161
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: EUREKA POLITICAL ACTION COMMITTEE
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SD10\x1CC00473272\x1CPAYD4674\x1CPTY\x1CNATIONAL REPUBLICAN CONGRESSIONAL
+    COMMITTEE\x1C\x1C\x1C\x1C\x1C\x1C320 FIRST ST. SE\x1C\x1CWASHINGTON\x1CDC\x1C20003\x1CFUNDRAISING
+    EXPENSES\x1C3822.60\x1C0.00\x1C3822.60\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00473272
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD4674
+  - name: ENTITY TYPE
+    number: '4'
+    value: PTY
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 320 FIRST ST. SE
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: WASHINGTON
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20003'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: FUNDRAISING EXPENSES
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '3822.60'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '3822.60'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "SD10\x1CC00473272\x1CPAYD4610\x1CORG\x1CPOLITICAL DATA INC.\x1C\x1C\x1C\x1C\x1C\x1CP.
+    O. BOX 1706\x1C\x1CBurbank\x1CCA\x1C91507\x1CMAILING LIST\x1C637.57\x1C0.00\x1C637.57\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00473272
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD4610
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: POLITICAL DATA INC.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: P. O. BOX 1706
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Burbank
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '91507'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: MAILING LIST
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '637.57'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '637.57'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "TEXT\x1CC00473272\x1CTINCA4723\x1CINCA4723\x1CSA11C\x1CFUNDS FROM PERMISSABLE
+    SOURCE\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00473272
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA4723
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA4723
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11C
+  - name: TEXT4000
+    number: '6'
+    value: 'FUNDS FROM PERMISSABLE SOURCE
+
+'
+- input: "TEXT\x1CC00473272\x1CTINCA4770\x1CINCA4770\x1CSA11AI\x1CRefund issued 1/2/13\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00473272
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA4770
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA4770
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Refund issued 1/2/13
+
+'
+- input: "TEXT\x1CC00473272\x1CTINCA5121\x1CINCA5121\x1CSA11AI\x1CDuplicate contribution
+    refunded 11/19/12\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00473272
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA5121
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA5121
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Duplicate contribution refunded 11/19/12
+
+'
+- input: "TEXT\x1CC00473272\x1CTIDTA642\x1CIDTA642\x1CSA12\x1CExcess contribution
+    returned\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00473272
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA642
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA642
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA12
+  - name: TEXT4000
+    number: '6'
+    value: 'Excess contribution returned
+
+'
+- input: "TEXT\x1CC00473272\x1CTEXT-F3A\x1C\x1CF3A\x1CSch A election cycle correction\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00473272
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-F3A
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3A
+  - name: TEXT4000
+    number: '6'
+    value: 'Sch A election cycle correction
+
+'
+sourceurl: !!python/unicode 20130102
+type: chunk

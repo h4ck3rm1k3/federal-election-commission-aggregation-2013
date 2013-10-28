@@ -1,0 +1,1161 @@
+countrows: 12
+filename: 844238.fec
+header: {}
+rows:
+- 2
+- input: "F5N\x1CC90013459\x1CORG\x1CNational Committee to Preserve Social Security
+    & Medicare\x1C\x1C\x1C\x1C\x1C\x1C\x1C10 G Street, NE\x1CSuite 600\x1CWashington\x1CDC\x1C20002\x1CN\x1C\x1C\x1CYE\x1C\x1C20121001\x1C20121231\x1C0.00\x1C17129.67\x1CKim\x1CChristine\x1C\x1C\x1C\x1C20130104\n"
+  record: fec.version.v8_0.F5
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F5N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013459
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: National Committee to Preserve Social Security & Medicare
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: ''
+  - name: STREET 1
+    number: '11'
+    value: 10 G Street, NE
+  - name: STREET 2
+    number: '12'
+    value: Suite 600
+  - name: CITY
+    number: '13'
+    value: Washington
+  - name: STATE
+    number: '14'
+    value: DC
+  - name: ZIP
+    number: '15'
+    value: '20002'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: N
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: ''
+  - name: REPORT CODE
+    number: '19'
+    value: YE
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: '20121001'
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: '20121231'
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '0.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '17129.67'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: Kim
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: Christine
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: ''
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130104
+
+'
+- input: "F57\x1CC90013459\x1CVN7DP4DQ84\x1CORG\x1CAds on Wheels, Inc.\x1C\x1C\x1C\x1C\x1C\x1C1
+    Crosswoods Path Blvd\x1CFl 2\x1CMerrimack\x1CNH\x1C030547218\x1CG2012\x1C\x1C20121002\x1C4250.00\x1C31014.15\x1CBillboard
+    Advertising & Shipping of 'Hello Romney'\x1C004\x1C\x1CO\x1CP80003353\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013459
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7DP4DQ84
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Ads on Wheels, Inc.
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1 Crosswoods Path Blvd
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fl 2
+  - name: PAYEE CITY
+    number: '13'
+    value: Merrimack
+  - name: PAYEE STATE
+    number: '14'
+    value: NH
+  - name: PAYEE ZIP
+    number: '15'
+    value: 030547218
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121002'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '4250.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '31014.15'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Billboard Advertising & Shipping of 'Hello Romney'
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013459\x1CVN7DP4DQQ3\x1CORG\x1CAds on Wheels, Inc.\x1C\x1C\x1C\x1C\x1C\x1C1
+    Crosswoods Path Blvd\x1CFl 2\x1CMerrimack\x1CNH\x1C030547218\x1CG2012\x1C\x1C20121010\x1C4250.00\x1C31014.15\x1CBillboard
+    Advertising & Shipping of 'Hello Romney'\x1C004\x1C\x1CO\x1CP80003353\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013459
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7DP4DQQ3
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Ads on Wheels, Inc.
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1 Crosswoods Path Blvd
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fl 2
+  - name: PAYEE CITY
+    number: '13'
+    value: Merrimack
+  - name: PAYEE STATE
+    number: '14'
+    value: NH
+  - name: PAYEE ZIP
+    number: '15'
+    value: 030547218
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121010'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '4250.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '31014.15'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Billboard Advertising & Shipping of 'Hello Romney'
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013459\x1CVN7DP4DR79\x1CORG\x1CAds on Wheels, Inc.\x1C\x1C\x1C\x1C\x1C\x1C1
+    Crosswoods Path Blvd\x1CFl 2\x1CMerrimack\x1CNH\x1C030547218\x1CG2012\x1C\x1C20121026\x1C4250.00\x1C31014.15\x1CBillboard
+    Advertising & Shipping of 'Hello Romney'\x1C004\x1C\x1CO\x1CP80003353\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013459
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7DP4DR79
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Ads on Wheels, Inc.
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1 Crosswoods Path Blvd
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fl 2
+  - name: PAYEE CITY
+    number: '13'
+    value: Merrimack
+  - name: PAYEE STATE
+    number: '14'
+    value: NH
+  - name: PAYEE ZIP
+    number: '15'
+    value: 030547218
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '4250.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '31014.15'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Billboard Advertising & Shipping of 'Hello Romney'
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013459\x1CVN7DP4RQ09\x1CIND\x1C\x1CBauman\x1CJon\x1C\x1C\x1C\x1C3168
+    Oakshire Dr\x1C\x1CLos Angeles\x1CCA\x1C900681743\x1CG2012\x1C\x1C20121002\x1C1395.95\x1C31014.15\x1CTravel
+    for 'Hello Romney'\x1C004\x1C\x1CO\x1CP80003353\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013459
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7DP4RQ09
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Bauman
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Jon
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 3168 Oakshire Dr
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Los Angeles
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '900681743'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121002'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1395.95'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '31014.15'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Travel for 'Hello Romney'
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013459\x1CVN7DP5SK24\x1CIND\x1C\x1CBauman\x1CJon\x1C\x1C\x1C\x1C3168
+    Oakshire Dr\x1C\x1CLos Angeles\x1CCA\x1C900681743\x1CG2012\x1C\x1C20121009\x1C1110.96\x1C31014.15\x1CTravel\x1C007\x1C\x1CO\x1CP80003353\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013459
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7DP5SK24
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Bauman
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Jon
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 3168 Oakshire Dr
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Los Angeles
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '900681743'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121009'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1110.96'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '31014.15'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Travel
+  - name: CATEGORY CODE
+    number: '22'
+    value: '007'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013459\x1CVN7DP5SK16\x1CIND\x1C\x1CBurtenshaw\x1CEd\x1C\x1C\x1C\x1C1710
+    Knob Hill Court\x1C\x1COwings\x1CMD\x1C20736\x1CG2012\x1C\x1C20121011\x1C286.83\x1C31014.15\x1CTravel\x1C007\x1C\x1CO\x1CP80003353\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013459
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7DP5SK16
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Burtenshaw
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Ed
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1710 Knob Hill Court
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Owings
+  - name: PAYEE STATE
+    number: '14'
+    value: MD
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20736'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121011'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '286.83'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '31014.15'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Travel
+  - name: CATEGORY CODE
+    number: '22'
+    value: '007'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013459\x1CVN7DP4TQK4\x1CIND\x1C\x1CGlaser\x1CJohn\x1C\x1C\x1C\x1C1713
+    Hollinwood Dr\x1C\x1CAlexandria\x1CVA\x1C223071927\x1CG2012\x1C\x1C20121002\x1C160.00\x1C31014.15\x1CPermits
+    for 'Hello Romney'\x1C004\x1C\x1CO\x1CP80003353\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013459
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7DP4TQK4
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Glaser
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: John
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1713 Hollinwood Dr
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Alexandria
+  - name: PAYEE STATE
+    number: '14'
+    value: VA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '223071927'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121002'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '160.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '31014.15'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Permits for 'Hello Romney'
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013459\x1CVN7DP4SWW7\x1CIND\x1C\x1CGreen\x1CRobert\x1C\x1C\x1C\x1C38
+    Brown St\x1C\x1CMarblehead\x1CMA\x1C019453739\x1CG2012\x1C\x1C20121002\x1C918.04\x1C31014.15\x1CTravel
+    for 'Hello Romney'\x1C004\x1C\x1CO\x1CP80003353\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013459
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7DP4SWW7
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Green
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Robert
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 38 Brown St
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Marblehead
+  - name: PAYEE STATE
+    number: '14'
+    value: MA
+  - name: PAYEE ZIP
+    number: '15'
+    value: 019453739
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121002'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '918.04'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '31014.15'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Travel for 'Hello Romney'
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013459\x1CVN7DP51AM8\x1CIND\x1C\x1CSmith\x1CJames\x1C\x1C\x1C\x1C4324
+    Melody Ln\x1CApt 105\x1CMadison\x1CWI\x1C537042870\x1CG2012\x1C\x1C20121010\x1C185.93\x1C31014.15\x1CTravel
+    for 'Hello Romney'\x1C004\x1C\x1CO\x1CP80003353\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013459
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7DP51AM8
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Smith
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: James
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 4324 Melody Ln
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Apt 105
+  - name: PAYEE CITY
+    number: '13'
+    value: Madison
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '537042870'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121010'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '185.93'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '31014.15'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Travel for 'Hello Romney'
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013459\x1CVN7DP4SNQ3\x1CIND\x1C\x1CWilliams\x1CTy\x1C\x1C\x1C\x1C608
+    Bayliss Dr\x1C\x1CNorth Chesterfield\x1CVA\x1C232354010\x1CG2012\x1C\x1C20121002\x1C321.96\x1C31014.15\x1CTravel
+    for 'Hello Romney'\x1C004\x1C\x1CO\x1CP80003353\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013459
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7DP4SNQ3
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Williams
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Ty
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 608 Bayliss Dr
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: North Chesterfield
+  - name: PAYEE STATE
+    number: '14'
+    value: VA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '232354010'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121002'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '321.96'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '31014.15'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Travel for 'Hello Romney'
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130104
+type: chunk

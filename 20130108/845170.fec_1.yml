@@ -1,0 +1,152 @@
+countrows: 3
+filename: 845170.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH2PA04135\x1CPERRY\x1CSCOTT\x1C\x1C\x1C\x1C\x1C155 Warrington Road\x1C\x1CDILLSBURG\x1CPA\x1C17019\x1CREP\x1CH\x1CPA\x1C04\x1C2014\x1CC00510164\x1CPatriots
+    For Perry\x1CPO Box 147\x1C\x1CRed Lion\x1CPA\x1C17356\x1C\x1CFirst Capital PAC\x1CPO
+    Box 196\x1C\x1CHarrisburg\x1CPA\x1C17108\x1CPERRY\x1CSCOTT\x1C\x1C\x1C\x1C20130108\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2PA04135
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: PERRY
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: SCOTT
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 155 Warrington Road
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: DILLSBURG
+  - name: CANDIDATE STATE
+    number: '12'
+    value: PA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '17019'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: PA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '04'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00510164
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Patriots For Perry
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 147
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Red Lion
+  - name: PCC STATE
+    number: '24'
+    value: PA
+  - name: PCC ZIP
+    number: '25'
+    value: '17356'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: First Capital PAC
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO Box 196
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Harrisburg
+  - name: AUTH STATE
+    number: '31'
+    value: PA
+  - name: AUTH ZIP
+    number: '32'
+    value: '17108'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: PERRY
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: SCOTT
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130108
+
+'
+- input: "TEXT\x1CH2PA04135\x1C.TEXT\x1C\x1CF2N\x1CTo correct F2 report filed in error
+    containing old address i\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: H2PA04135
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: .TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F2N
+  - name: TEXT4000
+    number: '6'
+    value: 'To correct F2 report filed in error containing old address i
+
+'
+sourceurl: !!python/unicode 20130108
+type: chunk

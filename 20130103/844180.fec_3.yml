@@ -1,0 +1,680 @@
+countrows: 8
+filename: 844180.fec
+header: {}
+rows:
+- input: "SL\x1CC00166710\x1CSL35\x1C35\x1CADP WF - Levin (6983)\x1C20120801\x1C20120831\x1C5000.00\x1C0.00\x1C5000.00\x1C0.00\x1C5000.00\x1C0.00\x1C0.00\x1C53705.00\x1C0.00\x1C53705.00\x1C0.00\x1C53705.00\x1C48745.38\x1C5000.00\x1C53745.38\x1C53705.00\x1C40.38\x1C98000.00\x1C0.00\x1C98000.00\x1C0.00\x1C98000.00\x1C0.00\x1C0.00\x1C97959.62\x1C0.00\x1C97959.62\x1C0.00\x1C97959.62\x1C0.00\x1C98000.00\x1C98000.00\x1C97959.62\x1C40.38\n"
+  record: fec.version.v8_0.SL
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SL
+  - name: FILER COMMITTEE ID
+    number: '2'
+    value: C00166710
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SL35
+  - name: RECORD ID NUMBER (for account name)
+    number: '4'
+    value: '35'
+  - name: ACCOUNT NAME
+    number: '5'
+    value: ADP WF - Levin (6983)
+  - name: COVERAGE FROM DATE
+    number: '6'
+    value: '20120801'
+  - name: COVERAGE THROUGH DATE
+    number: '7'
+    value: '20120831'
+  - name: Itemized Receipts From Persons
+    number: 8-1a.
+    value: '5000.00'
+  - name: Unitemized Receipts From Persons
+    number: 9-1b.
+    value: '0.00'
+  - name: Total Receipts From Persons
+    number: 10-1c.
+    value: '5000.00'
+  - name: OTHER RECEIPTS
+    number: 11-2.
+    value: '0.00'
+  - name: TOTAL RECEIPTS
+    number: 12-3.
+    value: '5000.00'
+  - name: Voter Registration DISBURSEMENTS
+    number: 13-4(a).
+    value: '0.00'
+  - name: Voter ID DISBURSEMENTS
+    number: 14-4(b).
+    value: '0.00'
+  - name: GOTV DISBURSEMENTS
+    number: 15-4(c).
+    value: '53705.00'
+  - name: Generic Campaign DISBURSEMENTS
+    number: 16-4(d).
+    value: '0.00'
+  - name: Line 4 Total
+    number: 17-4(e)
+    value: '53705.00'
+  - name: OTHER DISBURSEMENTS
+    number: 18-5.
+    value: '0.00'
+  - name: TOTAL DISBURSEMENTS
+    number: 19-6.
+    value: '53705.00'
+  - name: CASH ON HAND (Beginning)
+    number: 20-7.
+    value: '48745.38'
+  - name: RECEIPTS
+    number: 21-8.
+    value: '5000.00'
+  - name: SUBTOTAL
+    number: 22-9.
+    value: '53745.38'
+  - name: DISBURSEMENTS
+    number: 23-10.
+    value: '53705.00'
+  - name: ENDING CASH ON HAND
+    number: 24-11.
+    value: '40.38'
+  - name: Itemized Receipts From Persons
+    number: 25-1a.
+    value: '98000.00'
+  - name: Unitemized Receipts From Persons
+    number: 26-1b.
+    value: '0.00'
+  - name: Total Receipts From Persons
+    number: 27-1c.
+    value: '98000.00'
+  - name: OTHER RECEIPTS
+    number: 28-2.
+    value: '0.00'
+  - name: TOTAL RECEIPTS
+    number: 29-3.
+    value: '98000.00'
+  - name: Voter Registration DISBURSEMENTS
+    number: 30-4(a).
+    value: '0.00'
+  - name: Voter ID DISBURSEMENTS
+    number: 31-4(b).
+    value: '0.00'
+  - name: GOTV DISBURSEMENTS
+    number: 32-4(c).
+    value: '97959.62'
+  - name: Generic Campaign DISBURSEMENTS
+    number: 33-4(d).
+    value: '0.00'
+  - name: Line 4 Total
+    number: 34-4(e)
+    value: '97959.62'
+  - name: OTHER DISBURSEMENTS
+    number: 35-5.
+    value: '0.00'
+  - name: TOTAL DISBURSEMENTS
+    number: 36-6.
+    value: '97959.62'
+  - name: CASH ON HAND as of Jan 1
+    number: 37-7.
+    value: '0.00'
+  - name: RECEIPTS
+    number: 38-8.
+    value: '98000.00'
+  - name: SUBTOTAL
+    number: 39-9.
+    value: '98000.00'
+  - name: DISBURSEMENTS
+    number: 40-10.
+    value: '97959.62'
+  - name: ENDING CASH ON HAND
+    number: 41-11.
+    value: '40.38
+
+'
+- input: "SASL1A\x1CC00166710\x1C1a-000243290\x1C\x1C\x1CIND\x1C\x1CVradenburg\x1CGeorge\x1C\x1C\x1CIII\x1C2901
+    Woodland Dr NW\x1C\x1CWashington\x1CDC\x1C20008\x1C\x1C\x1C20120823\x1C5000.00\x1C5000.00\x1C\x1CN/A\x1CRetired\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C35\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00166710
+  - name: TRANSACTION ID
+    number: '3'
+    value: 1a-000243290
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Vradenburg
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: George
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: III
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2901 Woodland Dr NW
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Washington
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '20008'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120823'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '5000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: N/A
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Retired
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '35
+
+'
+- input: "SBSL4C\x1CC00166710\x1C4C-35-00072-00074\x1C\x1C\x1CORG\x1CArizona Democratic
+    Party\x1C\x1C\x1C\x1C\x1C\x1C2910 N Central\x1C\x1CPhoenix\x1CAZ\x1C85012\x1C\x1C\x1C20120801\x1C48745.00\x1C\x1CAllocation
+    Transfer\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C35\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SBSL4C
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00166710
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 4C-35-00072-00074
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Arizona Democratic Party
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2910 N Central
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Phoenix
+  - name: PAYEE STATE
+    number: '16'
+    value: AZ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '85012'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120801'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '48745.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Allocation Transfer
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '35
+
+'
+- input: "SBSL4C\x1CC00166710\x1C4C-35-00074-00076\x1C\x1C\x1CORG\x1CArizona Democratic
+    Party\x1C\x1C\x1C\x1C\x1C\x1C2910 N Central\x1C\x1CPhoenix\x1CAZ\x1C85012\x1C\x1C\x1C20120830\x1C4960.00\x1C\x1CAllocation
+    Transfer\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C35\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SBSL4C
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00166710
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 4C-35-00074-00076
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Arizona Democratic Party
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2910 N Central
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Phoenix
+  - name: PAYEE STATE
+    number: '16'
+    value: AZ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '85012'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120830'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '4960.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Allocation Transfer
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '35
+
+'
+- input: "TEXT\x1CC00166710\x1CTEXT-00001\x1C\x1CF3XA\x1CThe Committee is amending
+    this report in reference to the Commissions Request for Further Information regarding
+    the Amended August Monthly Report dated 12/04/2012.  The Committee has removed
+    the referenced MEMO from the Amended August Monthly Report and moved it to this
+    Amended September Monthly Report to correspond to the refund reported on Schedule
+    B for Line 28(a).  Please note that the employees that were disclosed on Schedule
+    H4 and Schedule B supporting Line 21(b) as payroll spent less than 25% of their
+    time during the period working on Federal Election Activity or activities in connection
+    with a Federal Election.  This also includes fringe benefits for those specific
+    employees.  -   All fundraising and event activity on this report were for the
+    sole benefit of the committee and not attributable to any candidate for federal
+    office.  -  No transfers from any national committees were used for any activity
+    that meets the definition of exempt activity. This report includes Memo Schedule
+    A entries for contributions received by the DNC Victory Fund Joint Fundraising
+    Program.  The Committee may not have received its share of the proceeds as of
+    the end of the reporting period.  If not, the Committee expects to receive transfers
+    at some point in time in the near future.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00166710
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00001
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3XA
+  - name: TEXT4000
+    number: '6'
+    value: 'The Committee is amending this report in reference to the Commissions
+      Request for Further Information regarding the Amended August Monthly Report
+      dated 12/04/2012.  The Committee has removed the referenced MEMO from the Amended
+      August Monthly Report and moved it to this Amended September Monthly Report
+      to correspond to the refund reported on Schedule B for Line 28(a).  Please note
+      that the employees that were disclosed on Schedule H4 and Schedule B supporting
+      Line 21(b) as payroll spent less than 25% of their time during the period working
+      on Federal Election Activity or activities in connection with a Federal Election.  This
+      also includes fringe benefits for those specific employees.  -   All fundraising
+      and event activity on this report were for the sole benefit of the committee
+      and not attributable to any candidate for federal office.  -  No transfers from
+      any national committees were used for any activity that meets the definition
+      of exempt activity. This report includes Memo Schedule A entries for contributions
+      received by the DNC Victory Fund Joint Fundraising Program.  The Committee may
+      not have received its share of the proceeds as of the end of the reporting period.  If
+      not, the Committee expects to receive transfers at some point in time in the
+      near future.
+
+'
+- input: "TEXT\x1CC00166710\x1CTEXT-00002\x1C30a-44-01106-03462\x1CH6\x1CNot attributable
+    to any candidate for federal office.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00166710
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00002
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30a-44-01106-03462
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: H6
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office.
+
+'
+- input: "TEXT\x1CC00166710\x1CTEXT-00003\x1C30b-00-00746-00746\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00166710
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00003
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-00-00746-00746
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+- input: "TEXT\x1CC00166710\x1CTEXT-00004\x1C30b-00-00754-00754\x1CSB30b\x1CNot attributable
+    to any candidate for federal office\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00166710
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-00004
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: 30b-00-00754-00754
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB30b
+  - name: TEXT4000
+    number: '6'
+    value: 'Not attributable to any candidate for federal office
+
+'
+sourceurl: !!python/unicode 20130103
+type: chunk
