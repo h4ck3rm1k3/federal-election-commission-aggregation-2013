@@ -1,0 +1,130 @@
+countrows: 2
+filename: 857816.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH8NY07046\x1CCrowley\x1CJoseph\x1C\x1C\x1C\x1C\x1C48-24 65Th Street\x1C\x1CWoodside
+    \x1CNY\x1C11377\x1CDEM\x1CH\x1CNY\x1C14\x1C2014\x1CC00338954\x1CCrowley for Congress
+    \x1C84-56 Grand Avenue\x1C\x1CElmhurst \x1CNY\x1C11373\x1CC00541086\x1CCrowley
+    Leadership Fund\x1CPO Box 15320\x1C\x1CWashington \x1CDC\x1C20003\x1CCrowley\x1CJoseph
+    \x1C\x1C\x1C\x1C20130220\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8NY07046
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Crowley
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Joseph
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 48-24 65Th Street
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: 'Woodside '
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NY
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '11377'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NY
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '14'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00338954
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: 'Crowley for Congress '
+  - name: PCC STREET 1
+    number: '21'
+    value: 84-56 Grand Avenue
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: 'Elmhurst '
+  - name: PCC STATE
+    number: '24'
+    value: NY
+  - name: PCC ZIP
+    number: '25'
+    value: '11373'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00541086
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Crowley Leadership Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO Box 15320
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: 'Washington '
+  - name: AUTH STATE
+    number: '31'
+    value: DC
+  - name: AUTH ZIP
+    number: '32'
+    value: '20003'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Crowley
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: 'Joseph '
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130220
+
+'
+sourceurl: !!python/unicode 20130220
+type: chunk

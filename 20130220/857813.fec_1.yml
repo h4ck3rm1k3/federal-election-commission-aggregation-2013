@@ -1,0 +1,235 @@
+countrows: 3
+filename: 857813.fec
+header: {}
+rows:
+- 2
+- input: "F3LN\x1CC00475103\x1CFitzpatrick for Congress\x1C\x1CPO Box 185\x1C\x1CLanghorne\x1CPA\x1C190470185\x1CPA\x1C08\x1CQYE\x1C\x1C\x1C\x1C20121001\x1C20121231\x1C\x1CX\x1C14900.00\x1C45645.00\x1CPoprik\x1CJohn\x1CT.\x1CMr.\x1C\x1C20130220\n"
+  record: fec.version.v8_0.F3L
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3LN
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00475103
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Fitzpatrick for Congress
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: PO Box 185
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Langhorne
+  - name: STATE
+    number: '8'
+    value: PA
+  - name: ZIP
+    number: '9'
+    value: '190470185'
+  - name: ELECTION STATE
+    number: '10'
+    value: PA
+  - name: ELECTION DISTRICT
+    number: '11'
+    value: 08
+  - name: REPORT CODE
+    number: '12'
+    value: QYE
+  - name: DATE OF ELECTION
+    number: '13'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '14'
+    value: ''
+  - name: SEMI-ANNUAL PERIOD - Sect 5(c) or (d)
+    number: '15'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '16'
+    value: '20121001'
+  - name: COVERAGE THROUGH DATE
+    number: '17'
+    value: '20121231'
+  - name: SEMI-ANNUAL JAN-JUN - Sect 6(b)
+    number: '18'
+    value: ''
+  - name: SEMI-ANNUAL JUL-DEC - Sect 6(b)
+    number: '19'
+    value: X
+  - name: QTR/MON/POST BUNDLED CONTRIBUTIONS
+    number: '20'
+    value: '14900.00'
+  - name: SEMI-ANNUAL BUNDLED CONTRIBS
+    number: '21'
+    value: '45645.00'
+  - name: TREASURER LAST NAME
+    number: '22'
+    value: Poprik
+  - name: TREASURER FIRST NAME
+    number: '23'
+    value: John
+  - name: TREASURER MIDDLE NAME
+    number: '24'
+    value: T.
+  - name: TREASURER PREFIX
+    number: '25'
+    value: Mr.
+  - name: TREASURER SUFFIX
+    number: '26'
+    value: ''
+  - name: DATE SIGNED
+    number: '27'
+    value: '20130220
+
+'
+- input: "SA3L\x1CC00475103\x1C65740\x1C\x1C\x1CPAC\x1CVotesane PAC\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 2713\x1C\x1CAlexandria\x1CVA\x1C223010713\x1C\x1C\x1C\x1C14900.00\x1C45645.00\x1C\x1C\x1C\x1CC00484535\x1CVotesane
+    PAC\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA3L
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00475103
+  - name: TRANSACTION ID
+    number: '3'
+    value: '65740'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Votesane PAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: PO Box 2713
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Alexandria
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: VA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '223010713'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: ''
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '14900.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '45645.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: C00484535
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: Votesane PAC
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130220
+type: chunk

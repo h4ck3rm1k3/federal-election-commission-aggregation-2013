@@ -1,0 +1,236 @@
+countrows: 3
+filename: 857662.fec
+header: {}
+rows:
+- 2
+- input: "F3LN\x1CC00348607\x1CIMPACT\x1C\x1C192 Lexington Avenue\x1CSuite 1001\x1CNew
+    York\x1CNY\x1C10016\x1CNY\x1C\x1CMSY\x1C\x1C\x1C\x1C20121127\x1C20121231\x1C\x1C\x1C0.00\x1C47500.00\x1CBarrett\x1CDavid\x1CA.\x1C\x1C\x1C20130220\n"
+  record: fec.version.v8_0.F3L
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3LN
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348607
+  - name: COMMITTEE NAME
+    number: '3'
+    value: IMPACT
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 192 Lexington Avenue
+  - name: STREET 2
+    number: '6'
+    value: Suite 1001
+  - name: CITY
+    number: '7'
+    value: New York
+  - name: STATE
+    number: '8'
+    value: NY
+  - name: ZIP
+    number: '9'
+    value: '10016'
+  - name: ELECTION STATE
+    number: '10'
+    value: NY
+  - name: ELECTION DISTRICT
+    number: '11'
+    value: ''
+  - name: REPORT CODE
+    number: '12'
+    value: MSY
+  - name: DATE OF ELECTION
+    number: '13'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '14'
+    value: ''
+  - name: SEMI-ANNUAL PERIOD - Sect 5(c) or (d)
+    number: '15'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '16'
+    value: '20121127'
+  - name: COVERAGE THROUGH DATE
+    number: '17'
+    value: '20121231'
+  - name: SEMI-ANNUAL JAN-JUN - Sect 6(b)
+    number: '18'
+    value: ''
+  - name: SEMI-ANNUAL JUL-DEC - Sect 6(b)
+    number: '19'
+    value: ''
+  - name: QTR/MON/POST BUNDLED CONTRIBUTIONS
+    number: '20'
+    value: '0.00'
+  - name: SEMI-ANNUAL BUNDLED CONTRIBS
+    number: '21'
+    value: '47500.00'
+  - name: TREASURER LAST NAME
+    number: '22'
+    value: Barrett
+  - name: TREASURER FIRST NAME
+    number: '23'
+    value: David
+  - name: TREASURER MIDDLE NAME
+    number: '24'
+    value: A.
+  - name: TREASURER PREFIX
+    number: '25'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '26'
+    value: ''
+  - name: DATE SIGNED
+    number: '27'
+    value: '20130220
+
+'
+- input: "SA3L\x1CC00348607\x1C3LA6676578\x1C\x1C\x1CIND\x1C\x1CFinley\x1CShannon\x1C\x1C\x1C\x1C2909
+    Cleveland Avenue, NW\x1C\x1CWashington\x1CDC\x1C20008\x1C\x1C\x1C\x1C\x1C47500.00\x1C\x1CCapitol
+    Counsel\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA3L
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348607
+  - name: TRANSACTION ID
+    number: '3'
+    value: 3LA6676578
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Finley
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Shannon
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2909 Cleveland Avenue, NW
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Washington
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '20008'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: ''
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: ''
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '47500.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: Capitol Counsel
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130220
+type: chunk

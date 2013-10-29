@@ -1,0 +1,131 @@
+countrows: 2
+filename: 857800.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CP80003353\x1C\"ROMNEY / PAUL D. RYAN\"\x1C\"MITT\"\x1C\x1C\x1C\x1CX\x1C\"C/O
+    RED CURVE SOLUTIONS, LLC\"\x1C\"138 CONANT ST., 1ST FLOOR\"\x1C\"BEVERLY\"\x1CMA\x1C01915\x1CREP\x1CP\x1C\x1C\x1C2012\x1CC00431171\x1C\"ROMNEY
+    FOR PRESIDENT, INC.\"\x1C\"C/O RED CURVE SOLUTIONS, LLC\"\x1C\"138 CONANT ST.,
+    1ST FLOOR\"\x1C\"BEVERLY\"\x1CMA\x1C01915\x1C\x1C\"ROMNEY VICTORY, INC. (JOINT
+    FUNDRAISING REPRESENTATIVE)\"\x1C\"C/O RED CURVE SOLUTIONS, LLC\"\x1C\"138 CONANT
+    ST., 1ST FLOOR\"\x1C\"BEVERLY\"\x1CMA\x1C01915\x1C\"ROMNEY / PAUL D. RYAN\"\x1C\"MITT\"\x1C\x1C\x1C\x1C20130220\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: P80003353
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: ROMNEY / PAUL D. RYAN
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: MITT
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: X
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: C/O RED CURVE SOLUTIONS, LLC
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: 138 CONANT ST., 1ST FLOOR
+  - name: CANDIDATE CITY
+    number: '11'
+    value: BEVERLY
+  - name: CANDIDATE STATE
+    number: '12'
+    value: MA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: 01915
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: P
+  - name: CANDIDATE STATE
+    number: '16'
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: ''
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2012'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00431171
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: ROMNEY FOR PRESIDENT, INC.
+  - name: PCC STREET 1
+    number: '21'
+    value: C/O RED CURVE SOLUTIONS, LLC
+  - name: PCC STREET 2
+    number: '22'
+    value: 138 CONANT ST., 1ST FLOOR
+  - name: PCC CITY
+    number: '23'
+    value: BEVERLY
+  - name: PCC STATE
+    number: '24'
+    value: MA
+  - name: PCC ZIP
+    number: '25'
+    value: 01915
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ROMNEY VICTORY, INC. (JOINT FUNDRAISING REPRESENTATIVE)
+  - name: AUTH STREET 1
+    number: '28'
+    value: C/O RED CURVE SOLUTIONS, LLC
+  - name: AUTH STREET 2
+    number: '29'
+    value: 138 CONANT ST., 1ST FLOOR
+  - name: AUTH CITY
+    number: '30'
+    value: BEVERLY
+  - name: AUTH STATE
+    number: '31'
+    value: MA
+  - name: AUTH ZIP
+    number: '32'
+    value: 01915
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: ROMNEY / PAUL D. RYAN
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: MITT
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130220
+
+'
+sourceurl: !!python/unicode 20130220
+type: chunk
