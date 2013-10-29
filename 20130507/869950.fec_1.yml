@@ -1,0 +1,889 @@
+countrows: 7
+filename: 869950.fec
+header: {}
+rows:
+- 2
+- input: "F1A\x1CC00178038\x1C\x1CNew Hampshire Democratic Party\x1C\x1C105 N. State
+    Street\x1C\x1CConcord\x1CNH\x1C03301\x1CX\x1Ctreasurer@nhdp.org\x1C\x1Chttp://www.NHDP.org\x1C20120806\x1CRapp\x1CBrian\x1C\x1CMr.\x1C\x1C20130507\x1CD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CDEM\x1CSTA\x1C\x1C\x1C\x1C\x1CC00507830\x1CSwing
+    State Victory Fund\x1C\x1C\x1C\x1C\x1C\x1C\x1CPO Box 8102\x1C\x1CChicago\x1CIL\x1C60680\x1CJFR\x1CRapp\x1CBrian\x1C\x1C\x1C\x1C105
+    N. State Street\x1C\x1CConcord\x1CNH\x1C03301\x1CTreasurer\x1C6032256899\x1CRapp\x1CBrian\x1C\x1C\x1C\x1C105
+    N. State Street\x1C\x1CConcord\x1CNH\x1C03301\x1CTreasurer\x1C6032256899\x1CRapp\x1CBrian\x1C\x1C\x1C\x1C105
+    N. State Street\x1C\x1CConcord\x1CNH\x1C03301\x1CTreasurer\x1C6032256899\x1CCitizens
+    Bank\x1C1 Capital Plz\x1C\x1CConcord\x1CNH\x1C03301\x1CBank of America\x1CPO Box
+    27025\x1C\x1CRichmond\x1CVA\x1C23261\n"
+  record: fec.version.v8_0.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00178038
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: New Hampshire Democratic Party
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 105 N. State Street
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Concord
+  - name: STATE
+    number: '9'
+    value: NH
+  - name: ZIP
+    number: '10'
+    value: '03301'
+  - name: CHANGE OF COMMITTEE EMAIL
+    number: '11'
+    value: X
+  - name: COMMITTEE EMAIL
+    number: '12'
+    value: treasurer@nhdp.org
+  - name: CHANGE OF COMMITTEE WEB URL
+    number: '13'
+    value: ''
+  - name: COMMITTEE WEB URL
+    number: '14'
+    value: http://www.NHDP.org
+  - name: EFFECTIVE DATE
+    number: '15'
+    value: '20120806'
+  - name: SIGNATURE LAST NAME
+    number: '16'
+    value: Rapp
+  - name: SIGNATURE FIRST NAME
+    number: '17'
+    value: Brian
+  - name: SIGNATURE MIDDLE NAME
+    number: '18'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '19'
+    value: Mr.
+  - name: SIGNATURE SUFFIX
+    number: '20'
+    value: ''
+  - name: DATE SIGNED
+    number: '21'
+    value: '20130507'
+  - name: COMMITTEE TYPE
+    number: 22-5.
+    value: D
+  - name: CANDIDATE ID NUMBER
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 30-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 31-5.
+    value: ''
+  - name: PARTY CODE
+    number: 32-5.
+    value: DEM
+  - name: PARTY TYPE
+    number: 33-5.
+    value: STA
+  - name: ORGANIZATION TYPE
+    number: 34-5 (e).
+    value: ''
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 35-5 (e).
+    value: ''
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 36-5 (f).
+    value: ''
+  - name: LEADERSHIP PAC
+    number: 37-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 38-6.
+    value: C00507830
+  - name: AFFILIATED Committee NAME
+    number: 39-6.
+    value: Swing State Victory Fund
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 40-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 41-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 42-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 43-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 44-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 45-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 46-6.
+    value: PO Box 8102
+  - name: AFFILIATED STREET 2
+    number: 47-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 48-6.
+    value: Chicago
+  - name: AFFILIATED STATE
+    number: 49-6.
+    value: IL
+  - name: AFFILIATED ZIP
+    number: 50-6.
+    value: '60680'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 51-6.
+    value: JFR
+  - name: CUSTODIAN LAST NAME
+    number: 52-7.
+    value: Rapp
+  - name: CUSTODIAN FIRST NAME
+    number: 53-7.
+    value: Brian
+  - name: CUSTODIAN MIDDLE NAME
+    number: 54-7.
+    value: ''
+  - name: CUSTODIAN PREFIX
+    number: 55-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 56-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 57-7.
+    value: 105 N. State Street
+  - name: CUSTODIAN STREET 2
+    number: 58-7.
+    value: ''
+  - name: CUSTODIAN CITY
+    number: 59-7.
+    value: Concord
+  - name: CUSTODIAN STATE
+    number: 60-7.
+    value: NH
+  - name: CUSTODIAN ZIP
+    number: 61-7.
+    value: '03301'
+  - name: CUSTODIAN TITLE
+    number: 62-7.
+    value: Treasurer
+  - name: CUSTODIAN TELEPHONE
+    number: 63-7.
+    value: '6032256899'
+  - name: TREASURER LAST NAME
+    number: 64-8.
+    value: Rapp
+  - name: TREASURER FIRST NAME
+    number: 65-8.
+    value: Brian
+  - name: TREASURER MIDDLE NAME
+    number: 66-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 67-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 68-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 69-8.
+    value: 105 N. State Street
+  - name: TREASURER STREET 2
+    number: 70-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 71-8.
+    value: Concord
+  - name: TREASURER STATE
+    number: 72-8.
+    value: NH
+  - name: TREASURER ZIP
+    number: 73-8.
+    value: '03301'
+  - name: TREASURER TITLE
+    number: 74-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 75-8.
+    value: '6032256899'
+  - name: AGENT LAST NAME
+    number: 76-8.
+    value: Rapp
+  - name: AGENT FIRST NAME
+    number: 77-8.
+    value: Brian
+  - name: AGENT MIDDLE NAME
+    number: 78-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 79-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 80-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 81-8.
+    value: 105 N. State Street
+  - name: AGENT STREET 2
+    number: 82-8.
+    value: ''
+  - name: AGENT CITY
+    number: 83-8.
+    value: Concord
+  - name: AGENT STATE
+    number: 84-8.
+    value: NH
+  - name: AGENT ZIP
+    number: 85-8.
+    value: '03301'
+  - name: AGENT TITLE
+    number: 86-8.
+    value: Treasurer
+  - name: AGENT TELEPHONE
+    number: 87-8.
+    value: '6032256899'
+  - name: BANK NAME
+    number: 88-9. a)
+    value: Citizens Bank
+  - name: BANK STREET 1
+    number: 89-9. a)
+    value: 1 Capital Plz
+  - name: BANK STREET 2
+    number: 90-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 91-9. a)
+    value: Concord
+  - name: BANK STATE
+    number: 92-9. a)
+    value: NH
+  - name: BANK ZIP
+    number: 93-9. a)
+    value: '03301'
+  - name: BANK NAME
+    number: 94-9. b)
+    value: Bank of America
+  - name: BANK STREET 1
+    number: 95-9. b)
+    value: PO Box 27025
+  - name: BANK STREET 2
+    number: 96-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 97-9. b)
+    value: Richmond
+  - name: BANK STATE
+    number: 98-9. b)
+    value: VA
+  - name: BANK ZIP
+    number: 99-9. b)
+    value: '23261
+
+'
+- input: "F1S\x1CC00178038\x1C\x1C\x1CC00073791\x1CDollars for Democrats\x1C\x1C\x1C\x1C\x1C\x1C\x1C430
+    S. Capitol St. SE\x1C\x1CWashington\x1CDC\x1C20003\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CM&T
+    Bank\x1C1350 I St. NW\x1CSuite 200\x1CWashington\x1CDC\x1C20005\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00178038
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00073791
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: Dollars for Democrats
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 430 S. Capitol St. SE
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Washington
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: DC
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: '20003'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: M&T Bank
+  - name: BANK STREET 1
+    number: 32-9.
+    value: 1350 I St. NW
+  - name: BANK STREET 2
+    number: 33-9.
+    value: Suite 200
+  - name: BANK CITY
+    number: 34-9.
+    value: Washington
+  - name: BANK STATE
+    number: 35-9.
+    value: DC
+  - name: BANK ZIP
+    number: 36-9.
+    value: '20005
+
+'
+- input: "F1S\x1CC00178038\x1C\x1C\x1C\x1CDSP Joint Victory Fund\x1C\x1C\x1C\x1C\x1C\x1C\x1C430
+    S. Capitol St. SE\x1C\x1CWashington\x1CDC\x1C20003\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CBB&T
+    Bank\x1C434 Fayetteville St.\x1C\x1CRaleigh\x1CNC\x1C27601\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00178038
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: DSP Joint Victory Fund
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 430 S. Capitol St. SE
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Washington
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: DC
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: '20003'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: BB&T Bank
+  - name: BANK STREET 1
+    number: 32-9.
+    value: 434 Fayetteville St.
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: Raleigh
+  - name: BANK STATE
+    number: 35-9.
+    value: NC
+  - name: BANK ZIP
+    number: 36-9.
+    value: '27601
+
+'
+- input: "F1S\x1CC00178038\x1C\x1C\x1CC00010603\x1CDNC State Party Victory Fund\x1C\x1C\x1C\x1C\x1C\x1C\x1C430
+    S. Capitol St. SE\x1C430 S. Capitol St. SE\x1CWashington\x1CDC\x1C20003\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CBank
+    of America\x1C730 15th St. NW\x1C\x1CWashington\x1CDC\x1C20006\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00178038
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00010603
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: DNC State Party Victory Fund
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 430 S. Capitol St. SE
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: 430 S. Capitol St. SE
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Washington
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: DC
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: '20003'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: Bank of America
+  - name: BANK STREET 1
+    number: 32-9.
+    value: 730 15th St. NW
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: Washington
+  - name: BANK STATE
+    number: 35-9.
+    value: DC
+  - name: BANK ZIP
+    number: 36-9.
+    value: '20006
+
+'
+- input: "F1S\x1CC00178038\x1C\x1C\x1CC00494740\x1CObama Victory Fund 2012\x1C\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8102\x1C\x1CChicago\x1CIL\x1C60680\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00178038
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00494740
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: Obama Victory Fund 2012
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: PO Box 8102
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Chicago
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: IL
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: '60680'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 32-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: ''
+  - name: BANK STATE
+    number: 35-9.
+    value: ''
+  - name: BANK ZIP
+    number: 36-9.
+    value: '
+
+'
+- input: "F1S\x1CC00178038\x1C\x1C\x1CC00526210\x1CAnnie Kuster Victory Fund\x1C\x1C\x1C\x1C\x1C\x1C\x1C1
+    Park Row\x1C5th Floor\x1CProvidence\x1CRI\x1C02903\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00178038
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00526210
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: Annie Kuster Victory Fund
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 1 Park Row
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: 5th Floor
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Providence
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: RI
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: 02903
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 32-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: ''
+  - name: BANK STATE
+    number: 35-9.
+    value: ''
+  - name: BANK ZIP
+    number: 36-9.
+    value: '
+
+'
+sourceurl: !!python/unicode 20130507
+type: chunk

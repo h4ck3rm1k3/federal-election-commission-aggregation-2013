@@ -1,0 +1,417 @@
+countrows: 7
+filename: 869422.fec
+header: {}
+rows:
+- 2
+- input: "F6N\x1CC00541243\x1C\x1CELIZABETH COLBERT BUSCH FOR CONGRESS\x1CPO BOX 21949\x1C\x1CCHARLESTON\x1CSC\x1C29413\x1CH4SC01172\x1CBUSCH\x1CELIZABETH
+    COLBERT\x1C\x1C\x1C\x1CH\x1CSC\x1C01\x1CBusch\x1CClaus\x1C\x1C\x1C\x1C20130501\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: ELIZABETH COLBERT BUSCH FOR CONGRESS
+  - name: STREET 1
+    number: '5'
+    value: PO BOX 21949
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: CHARLESTON
+  - name: STATE
+    number: '8'
+    value: SC
+  - name: ZIP
+    number: '9'
+    value: '29413'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H4SC01172
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: BUSCH
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: ELIZABETH COLBERT
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: SC
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '01'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Busch
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Claus
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130501
+
+'
+- input: "F65\x1CC00541243\x1CF6.4473\x1CIND\x1C\x1CPatman\x1CCarrin Mauritz\x1C\x1C\x1C\x1CP.O.
+    Box 50033\x1C\x1CAustin\x1CTX\x1C78763\x1C\x1C20130430\x1C2600.00\x1CRetired\x1CRetired\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4473
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Patman
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Carrin Mauritz
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: P.O. Box 50033
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Austin
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '78763'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130430'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2600.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Retired
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Retired
+
+'
+- input: "F65\x1CC00541243\x1CF6.4476\x1CPAC\x1CAMERICAN FEDERATION OF GOVT. EMPL.
+    POLITICAL ACTION COMMITTEE\x1C\x1C\x1C\x1C\x1C\x1C80 F STREET, NW\x1C\x1CWASHINGTON\x1CDC\x1C20001\x1CC00009936\x1C20130430\x1C1000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4476
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 80 F STREET, NW
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: WASHINGTON
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20001'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00009936
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130430'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F65\x1CC00541243\x1CF6.4482\x1CPAC\x1CINTERNATIONAL ASSOCIATION OF HEAT
+    & FROST INSULATORS AND ASBESTOS WORKERS P A C\x1C\x1C\x1C\x1C\x1C\x1C9602 MARTIN
+    LUTHER KING HIGHWAY\x1C\x1CLANHAM\x1CMD\x1C20706\x1CC00115527\x1C20130430\x1C1000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4482
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: INTERNATIONAL ASSOCIATION OF HEAT & FROST INSULATORS AND ASBESTOS WORKERS
+      P A C
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 9602 MARTIN LUTHER KING HIGHWAY
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: LANHAM
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: MD
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20706'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00115527
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130430'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F65\x1CC00541243\x1CF6.4485\x1CPAC\x1CJOINT ACTION COMMITTEE FOR POLITICAL
+    AFFAIRS\x1C\x1C\x1C\x1C\x1C\x1CPO BOX 105\x1C\x1CHIGHLAND PARK\x1CIL\x1C60035\x1CC00139659\x1C20130430\x1C2000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4485
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: PO BOX 105
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: HIGHLAND PARK
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '60035'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00139659
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130430'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F65\x1CC00541243\x1CF6.4479\x1CPAC\x1CLABORERS' INTERNATIONAL UNION OF NORTH
+    AMERICA (LIUNA) PAC\x1C\x1C\x1C\x1C\x1C\x1C905 16TH ST., N.W.\x1CSECOND FLOOR\x1CWASHINGTON\x1CDC\x1C20006\x1CC00007922\x1C20130430\x1C5000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4479
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 905 16TH ST., N.W.
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: SECOND FLOOR
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: WASHINGTON
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20006'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00007922
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130430'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '5000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130502
+type: chunk

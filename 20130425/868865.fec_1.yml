@@ -1,0 +1,551 @@
+countrows: 9
+filename: 868865.fec
+header: {}
+rows:
+- 2
+- input: "F6N\x1CC00541243\x1C\x1CELIZABETH COLBERT BUSCH FOR CONGRESS\x1CPO BOX 21949\x1C\x1CCHARLESTON\x1CSC\x1C29413\x1CH4SC01172\x1CBUSCH\x1CELIZABETH
+    COLBERT\x1C\x1C\x1C\x1CH\x1CSC\x1C01\x1CBusch\x1CClaus\x1C\x1C\x1C\x1C20130425\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: ELIZABETH COLBERT BUSCH FOR CONGRESS
+  - name: STREET 1
+    number: '5'
+    value: PO BOX 21949
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: CHARLESTON
+  - name: STATE
+    number: '8'
+    value: SC
+  - name: ZIP
+    number: '9'
+    value: '29413'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H4SC01172
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: BUSCH
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: ELIZABETH COLBERT
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: SC
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '01'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Busch
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Claus
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130425
+
+'
+- input: "F65\x1CC00541243\x1CF6.4329\x1CIND\x1C\x1CAnderson\x1CAllan\x1C\x1C\x1C\x1C42
+    Meeting Street\x1C\x1CCharleston\x1CSC\x1C29401\x1C\x1C20130423\x1C1000.00\x1CRetired\x1CRetired\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4329
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Anderson
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Allan
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 42 Meeting Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29401'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130423'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Retired
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Retired
+
+'
+- input: "F65\x1CC00541243\x1CF6.4317\x1CIND\x1C\x1CMansheim\x1CDenise\x1C\x1C\x1C\x1C7
+    Osprey Links Drive\x1C\x1CDaufuskie Island\x1CSC\x1C29915\x1C\x1C20130423\x1C2600.00\x1CRetired\x1CRetired\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4317
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Mansheim
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Denise
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 7 Osprey Links Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Daufuskie Island
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29915'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130423'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2600.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Retired
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Retired
+
+'
+- input: "F65\x1CC00541243\x1CF6.4323\x1CIND\x1C\x1CMcGinnis\x1CMargaret\x1C\x1C\x1C\x1C41
+    Church Street\x1C\x1CCharleston\x1CSC\x1C29401\x1C\x1C20130423\x1C1000.00\x1CMUSC\x1CCRNA
+    Nurse Anesthetist\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4323
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: McGinnis
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Margaret
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 41 Church Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29401'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130423'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: MUSC
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'CRNA Nurse Anesthetist
+
+'
+- input: "F65\x1CC00541243\x1CF6.4326\x1CIND\x1C\x1CParrish\x1CCharles\x1C\x1C\x1C\x1C3139
+    Bay Shore Road\x1C\x1CSarasota\x1CFL\x1C34234\x1C\x1C20130423\x1C1000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4326
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Parrish
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Charles
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 3139 Bay Shore Road
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Sarasota
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: FL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '34234'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130423'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F65\x1CC00541243\x1CF6.4332\x1CIND\x1C\x1CRyan\x1CMichael L.\x1C\x1C\x1C\x1C33
+    West 81st Street\x1C\x1CNew York\x1CNY\x1C10024\x1C\x1C20130423\x1C1000.00\x1CCleary
+    Gottlieb\x1CAttorney\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4332
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Ryan
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Michael L.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 33 West 81st Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: New York
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: NY
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '10024'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130423'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Cleary Gottlieb
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Attorney
+
+'
+- input: "F65\x1CC00541243\x1CF6.4314\x1CIND\x1C\x1CSmith\x1CTerrence\x1C\x1C\x1C\x1C46
+    Intercoastal Court\x1C\x1CIsle of Palms\x1CSC\x1C29451\x1C\x1C20130423\x1C2600.00\x1CEastern
+    Distribution Inc.\x1CCEO\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4314
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Smith
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Terrence
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 46 Intercoastal Court
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Isle of Palms
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29451'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130423'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2600.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Eastern Distribution Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'CEO
+
+'
+- input: "F65\x1CC00541243\x1CF6.4320\x1CIND\x1C\x1CStewart\x1CRebekah\x1C\x1C\x1C\x1C60
+    Meeting Street\x1C\x1CCharleston\x1CSC\x1C29401\x1C\x1C20130423\x1C1000.00\x1CSelf-employed\x1COwner-FlyLine
+    Wine\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4320
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Stewart
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Rebekah
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 60 Meeting Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29401'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130423'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Self-employed
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Owner-FlyLine Wine
+
+'
+sourceurl: !!python/unicode 20130425
+type: chunk

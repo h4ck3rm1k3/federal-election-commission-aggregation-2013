@@ -1,0 +1,2250 @@
+countrows: 23
+filename: 869308.fec
+header: {}
+rows:
+- 2
+- input: "F3N\x1CC00251348\x1CThe Jefferson Committee\x1C\x1C1723 Valmont Street\x1C\x1CNew
+    Orleans\x1CLA\x1C70115\x1CLA\x1C02\x1CQ1\x1C\x1C\x1C\x1C20130101\x1C20130331\x1CColeman\x1CAngela\x1C\x1C\x1C\x1C20130430\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C1464.50\x1C0.00\x1C238913.66\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C1464.50\x1C0.00\x1C1464.50\x1C0.00\x1C1464.50\x1C482450.38\x1C0.00\x1C482450.38\x1C866916.47\x1C0.00\x1C866916.47\x1C403022.78\x1C20027.60\x1C423050.38\x1C31900.00\x1C27500.00\x1C0.00\x1C482450.38\x1C0.00\x1C288676.59\x1C4000.00\x1C292676.59\x1C0.00\x1C2659.79\x1C777786.76\x1C866916.47\x1C0.00\x1C28262.93\x1C0.00\x1C28262.93\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C158815.80\x1C1053995.20\n"
+  record: fec.version.v8_0.F3
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: COMMITTEE NAME
+    number: '3'
+    value: The Jefferson Committee
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1723 Valmont Street
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: New Orleans
+  - name: STATE
+    number: '8'
+    value: LA
+  - name: ZIP
+    number: '9'
+    value: '70115'
+  - name: ELECTION STATE
+    number: '10'
+    value: LA
+  - name: ELECTION DISTRICT
+    number: '11'
+    value: '02'
+  - name: REPORT CODE
+    number: '12'
+    value: Q1
+  - name: ELECTION CODE
+    number: '13'
+    value: ''
+  - name: DATE OF ELECTION
+    number: '14'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '15'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '16'
+    value: '20130101'
+  - name: COVERAGE THROUGH DATE
+    number: '17'
+    value: '20130331'
+  - name: TREASURER LAST NAME
+    number: '18'
+    value: Coleman
+  - name: TREASURER FIRST NAME
+    number: '19'
+    value: Angela
+  - name: TREASURER MIDDLE NAME
+    number: '20'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '21'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20130430'
+  - name: Total Contributions (NO Loans)
+    number: 24-(6a)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 25-(6b)
+    value: '0.00'
+  - name: Net Contributions
+    number: 26-(6c)
+    value: '0.00'
+  - name: Total Operating Expenditures
+    number: 27-(7a)
+    value: '0.00'
+  - name: Total Offset to Operating Expenditures
+    number: 28-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 29-(7c)
+    value: '0.00'
+  - name: CASH ON HAND AT CLOSE ...
+    number: 30-8.
+    value: '1464.50'
+  - name: DEBTS TO ( Totals from SCH C and/or D)
+    number: 31-9.
+    value: '0.00'
+  - name: DEBTS BY (Totals from SCH C and/or D)
+    number: 32-10.
+    value: '238913.66'
+  - name: Individuals Itemized
+    number: 33-11(a i.)
+    value: '0.00'
+  - name: Individuals Unitemized
+    number: 34-11(a.ii)
+    value: '0.00'
+  - name: Individual Contribution Total
+    number: 35-11(a.iii)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 36-11(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 37-11(c)
+    value: '0.00'
+  - name: The Candidate
+    number: 38-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 39-11(e)
+    value: '0.00'
+  - name: Transfers From Other Authorized Committees
+    number: 40-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 41-13(a)
+    value: '0.00'
+  - name: All Other Loans
+    number: 42-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 43-13(c)
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 44-14.
+    value: '0.00'
+  - name: Other Receipts
+    number: 45-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 46-16.
+    value: '0.00'
+  - name: Operating Expenditures
+    number: 47-17.
+    value: '0.00'
+  - name: Transfers to Other Authorized Committees
+    number: 48-18.
+    value: '0.00'
+  - name: Of Loans made or guar. by the Cand.
+    number: 49-19(a)
+    value: '0.00'
+  - name: Loan Repayments, All Other Loans
+    number: 50-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 51-19(c)
+    value: '0.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 52-20(a)
+    value: '0.00'
+  - name: Refund/Political Party Committees
+    number: 53-20(b)
+    value: '0.00'
+  - name: Refund/Other Political Committees
+    number: 54-20(c)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 55-20(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 56-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 57-22.
+    value: '0.00'
+  - name: Cash Beginning Reporting Period
+    number: 58-23.
+    value: '1464.50'
+  - name: Total Receipts this Period
+    number: 59-24.
+    value: '0.00'
+  - name: Subtotals
+    number: 60-25.
+    value: '1464.50'
+  - name: Total Disbursements this Period
+    number: 61-26.
+    value: '0.00'
+  - name: Cash on hand at Close Period
+    number: 62-27.
+    value: '1464.50'
+  - name: Total Contributions (No Loans)
+    number: 63-(6a)
+    value: '482450.38'
+  - name: Total Contribution Refunds
+    number: 64-(6b)
+    value: '0.00'
+  - name: Net Contributions
+    number: 65-(6c)
+    value: '482450.38'
+  - name: Total Operating Expenditures
+    number: 66-(7a)
+    value: '866916.47'
+  - name: Total Offsets to Operating Expenditures
+    number: 67-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 68-(7c)
+    value: '866916.47'
+  - name: Individuals Itemized
+    number: 69-11(a i.)
+    value: '403022.78'
+  - name: Individuals Unitemized
+    number: 70-11(a.ii)
+    value: '20027.60'
+  - name: Individuals Total
+    number: 71-11(a.iii)
+    value: '423050.38'
+  - name: Political Party Committees
+    number: 72-11(b)
+    value: '31900.00'
+  - name: All Other Political Committees (PACS)
+    number: 73-11(c)
+    value: '27500.00'
+  - name: The Candidate
+    number: 74-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 75-11(e)
+    value: '482450.38'
+  - name: Transfers From Other AUTH Committees
+    number: 76-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 77-13(a)
+    value: '288676.59'
+  - name: All Other Loans
+    number: 78-13(b)
+    value: '4000.00'
+  - name: Total Loans
+    number: 79-13(c)
+    value: '292676.59'
+  - name: Offsets to Operating Expenditures
+    number: 80-14.
+    value: '0.00'
+  - name: Other Receipts
+    number: 81-15.
+    value: '2659.79'
+  - name: Total Receipts
+    number: 82-16.
+    value: '777786.76'
+  - name: Operating Expenditures
+    number: 83-17
+    value: '866916.47'
+  - name: Transfers To Other AUTH Committees
+    number: 84-18.
+    value: '0.00'
+  - name: Loan Repayment By Candidate
+    number: 85-19(a)
+    value: '28262.93'
+  - name: Loan Repayments, ALL Other Loans
+    number: 86-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 87-19(c)
+    value: '28262.93'
+  - name: Refund/Individuals Other than Political Committees
+    number: 88-20(a)
+    value: '0.00'
+  - name: Refund, Political Party Committees
+    number: 89-20(b)
+    value: '0.00'
+  - name: Refund, Other Political Committees
+    number: 90-20(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 91-20(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 92-21.
+    value: '158815.80'
+  - name: Total Disbursements
+    number: 93-22.
+    value: '1053995.20
+
+'
+- input: "SC/10\x1CC00251348\x1CSC/10.18969\x1C13A\x1CORG\x1CAmerican Express\x1C\x1C\x1C\x1C\x1C\x1CBox
+    804247\x1C\x1CChicago\x1CIL\x1C06068\x1CP2006\x1C\x1C10060.67\x1C10119.29\x1C-58.62\x1C20061210\x1C12/10/2015\x1C\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.18969
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: ORG
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: American Express
+  - name: LENDER LAST NAME
+    number: '7'
+    value: ''
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: ''
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: Box 804247
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Chicago
+  - name: LENDER STATE
+    number: '15'
+    value: IL
+  - name: LENDER ZIP
+    number: '16'
+    value: 06068
+  - name: ELECTION CODE
+    number: '17'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '10060.67'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '10119.29'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '-58.62'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061210'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/10/2015
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: ''
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00251348\x1CSC/10.16915\x1C13A\x1CORG\x1CDryades Savings Bank\x1C\x1C\x1C\x1C\x1C\x1CP.
+    O. Box 56009\x1C\x1CNew Orleans\x1CLA\x1C70156\x1CR2006\x1CRunoff\x1C25000.00\x1C400.00\x1C24600.00\x1C20061219\x1C12/19/2020\x1C\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.16915
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: ORG
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: Dryades Savings Bank
+  - name: LENDER LAST NAME
+    number: '7'
+    value: ''
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: ''
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: P. O. Box 56009
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: New Orleans
+  - name: LENDER STATE
+    number: '15'
+    value: LA
+  - name: LENDER ZIP
+    number: '16'
+    value: '70156'
+  - name: ELECTION CODE
+    number: '17'
+    value: R2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: Runoff
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '25000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '400.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '24600.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061219'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/19/2020
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: ''
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC2/10\x1CC00251348\x1CSC/10.16915.0.SC2\x1CSC/10.16915\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1C\x1C\x1C24600.00\n"
+  record: fec.version.v8_0.SC2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC2/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.16915.0.SC2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.16915
+  - name: GUARANTOR LAST NAME
+    number: '5'
+    value: Jefferson
+  - name: GUARANTOR FIRST NAME
+    number: '6'
+    value: William J.
+  - name: GUARANTOR MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: GUARANTOR PREFIX
+    number: '8'
+    value: ''
+  - name: GUARANTOR SUFFIX
+    number: '9'
+    value: ''
+  - name: GUARANTOR STREET 1
+    number: '10'
+    value: 1723 Valmont Street
+  - name: GUARANTOR STREET 2
+    number: '11'
+    value: ''
+  - name: GUARANTOR CITY
+    number: '12'
+    value: New Orleans
+  - name: GUARANTOR STATE
+    number: '13'
+    value: LA
+  - name: GUARANTOR ZIP
+    number: '14'
+    value: '70115'
+  - name: GUARANTOR EMPLOYER
+    number: '15'
+    value: ''
+  - name: GUARANTOR OCCUPATION
+    number: '16'
+    value: ''
+  - name: GUARANTEED AMOUNT
+    number: '17'
+    value: '24600.00
+
+'
+- input: "SC/10\x1CC00251348\x1CSC/10.20471\x1C13A\x1CORG\x1CJeffco Services\x1C\x1C\x1C\x1C\x1C\x1C4120
+    Eve Street\x1C\x1CNew Orleans\x1CLA\x1C70125\x1CP2006\x1C\x1C3900.00\x1C0.00\x1C3900.00\x1C20061115\x1C2012\x1C\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.20471
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: ORG
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: Jeffco Services
+  - name: LENDER LAST NAME
+    number: '7'
+    value: ''
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: ''
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 4120 Eve Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: New Orleans
+  - name: LENDER STATE
+    number: '15'
+    value: LA
+  - name: LENDER ZIP
+    number: '16'
+    value: '70125'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '3900.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '3900.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061115'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: '2012'
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: ''
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC2/10\x1CC00251348\x1CSC/10.20471.0.SC2\x1CSC/10.20471\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1C\x1C\x1C3900.00\n"
+  record: fec.version.v8_0.SC2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC2/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.20471.0.SC2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.20471
+  - name: GUARANTOR LAST NAME
+    number: '5'
+    value: Jefferson
+  - name: GUARANTOR FIRST NAME
+    number: '6'
+    value: William J.
+  - name: GUARANTOR MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: GUARANTOR PREFIX
+    number: '8'
+    value: ''
+  - name: GUARANTOR SUFFIX
+    number: '9'
+    value: ''
+  - name: GUARANTOR STREET 1
+    number: '10'
+    value: 1723 Valmont Street
+  - name: GUARANTOR STREET 2
+    number: '11'
+    value: ''
+  - name: GUARANTOR CITY
+    number: '12'
+    value: New Orleans
+  - name: GUARANTOR STATE
+    number: '13'
+    value: LA
+  - name: GUARANTOR ZIP
+    number: '14'
+    value: '70115'
+  - name: GUARANTOR EMPLOYER
+    number: '15'
+    value: ''
+  - name: GUARANTOR OCCUPATION
+    number: '16'
+    value: ''
+  - name: GUARANTEED AMOUNT
+    number: '17'
+    value: '3900.00
+
+'
+- input: "SC/10\x1CC00251348\x1CSC/10.18232\x1C13A\x1CCAN\x1C\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1CG2006\x1C\x1C30000.00\x1C21377.28\x1C8622.72\x1C20061102\x1C11/2/2020\x1C0.0000\x1CN\x1CY\x1C\x1CH0LA02119\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1CH\x1CLA\x1C02\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.18232
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Jefferson
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: William J.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1723 Valmont Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: New Orleans
+  - name: LENDER STATE
+    number: '15'
+    value: LA
+  - name: LENDER ZIP
+    number: '16'
+    value: '70115'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '30000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '21377.28'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '8622.72'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061102'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 11/2/2020
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H0LA02119
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: Jefferson
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: William J.
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: LA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '02'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC2/10\x1CC00251348\x1CSC/10.18232.0.SC2\x1CSC/10.18232\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1C\x1C\x1C8622.72\n"
+  record: fec.version.v8_0.SC2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC2/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.18232.0.SC2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.18232
+  - name: GUARANTOR LAST NAME
+    number: '5'
+    value: Jefferson
+  - name: GUARANTOR FIRST NAME
+    number: '6'
+    value: William J.
+  - name: GUARANTOR MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: GUARANTOR PREFIX
+    number: '8'
+    value: ''
+  - name: GUARANTOR SUFFIX
+    number: '9'
+    value: ''
+  - name: GUARANTOR STREET 1
+    number: '10'
+    value: 1723 Valmont Street
+  - name: GUARANTOR STREET 2
+    number: '11'
+    value: ''
+  - name: GUARANTOR CITY
+    number: '12'
+    value: New Orleans
+  - name: GUARANTOR STATE
+    number: '13'
+    value: LA
+  - name: GUARANTOR ZIP
+    number: '14'
+    value: '70115'
+  - name: GUARANTOR EMPLOYER
+    number: '15'
+    value: ''
+  - name: GUARANTOR OCCUPATION
+    number: '16'
+    value: ''
+  - name: GUARANTEED AMOUNT
+    number: '17'
+    value: '8622.72
+
+'
+- input: "SC/10\x1CC00251348\x1CSC/10.18233\x1C13A\x1CCAN\x1C\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1CG2006\x1C\x1C20000.00\x1C11000.00\x1C9000.00\x1C20061109\x1C11/9/2020\x1C0.0000\x1CN\x1CY\x1C\x1CH0LA02119\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1CH\x1CLA\x1C02\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.18233
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Jefferson
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: William J.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1723 Valmont Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: New Orleans
+  - name: LENDER STATE
+    number: '15'
+    value: LA
+  - name: LENDER ZIP
+    number: '16'
+    value: '70115'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '20000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '11000.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '9000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061109'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 11/9/2020
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H0LA02119
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: Jefferson
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: William J.
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: LA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '02'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC2/10\x1CC00251348\x1CSC/10.18233.0.SC2\x1CSC/10.18233\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1C\x1C\x1C9000.00\n"
+  record: fec.version.v8_0.SC2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC2/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.18233.0.SC2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.18233
+  - name: GUARANTOR LAST NAME
+    number: '5'
+    value: Jefferson
+  - name: GUARANTOR FIRST NAME
+    number: '6'
+    value: William J.
+  - name: GUARANTOR MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: GUARANTOR PREFIX
+    number: '8'
+    value: ''
+  - name: GUARANTOR SUFFIX
+    number: '9'
+    value: ''
+  - name: GUARANTOR STREET 1
+    number: '10'
+    value: 1723 Valmont Street
+  - name: GUARANTOR STREET 2
+    number: '11'
+    value: ''
+  - name: GUARANTOR CITY
+    number: '12'
+    value: New Orleans
+  - name: GUARANTOR STATE
+    number: '13'
+    value: LA
+  - name: GUARANTOR ZIP
+    number: '14'
+    value: '70115'
+  - name: GUARANTOR EMPLOYER
+    number: '15'
+    value: ''
+  - name: GUARANTOR OCCUPATION
+    number: '16'
+    value: ''
+  - name: GUARANTEED AMOUNT
+    number: '17'
+    value: '9000.00
+
+'
+- input: "SC/10\x1CC00251348\x1CSC/10.18234\x1C13A\x1CCAN\x1C\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1CG2006\x1C\x1C33000.00\x1C7500.00\x1C25500.00\x1C20061110\x1C11/10/2020\x1C0.0000\x1CN\x1CY\x1C\x1CH0LA02119\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1CH\x1CLA\x1C02\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.18234
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Jefferson
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: William J.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1723 Valmont Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: New Orleans
+  - name: LENDER STATE
+    number: '15'
+    value: LA
+  - name: LENDER ZIP
+    number: '16'
+    value: '70115'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '33000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '7500.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '25500.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061110'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 11/10/2020
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H0LA02119
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: Jefferson
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: William J.
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: LA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '02'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC2/10\x1CC00251348\x1CSC/10.18234.0.SC2\x1CSC/10.18234\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1C\x1C\x1C25500.00\n"
+  record: fec.version.v8_0.SC2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC2/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.18234.0.SC2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.18234
+  - name: GUARANTOR LAST NAME
+    number: '5'
+    value: Jefferson
+  - name: GUARANTOR FIRST NAME
+    number: '6'
+    value: William J.
+  - name: GUARANTOR MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: GUARANTOR PREFIX
+    number: '8'
+    value: ''
+  - name: GUARANTOR SUFFIX
+    number: '9'
+    value: ''
+  - name: GUARANTOR STREET 1
+    number: '10'
+    value: 1723 Valmont Street
+  - name: GUARANTOR STREET 2
+    number: '11'
+    value: ''
+  - name: GUARANTOR CITY
+    number: '12'
+    value: New Orleans
+  - name: GUARANTOR STATE
+    number: '13'
+    value: LA
+  - name: GUARANTOR ZIP
+    number: '14'
+    value: '70115'
+  - name: GUARANTOR EMPLOYER
+    number: '15'
+    value: ''
+  - name: GUARANTOR OCCUPATION
+    number: '16'
+    value: ''
+  - name: GUARANTEED AMOUNT
+    number: '17'
+    value: '25500.00
+
+'
+- input: "SC/10\x1CC00251348\x1CSC/10.18235\x1C13A\x1CCAN\x1C\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1CG2006\x1C\x1C20000.00\x1C0.00\x1C20000.00\x1C20061114\x1C11/14/2015\x1C0.0000\x1CN\x1CY\x1C\x1CH0LA02119\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1CH\x1CLA\x1C02\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.18235
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Jefferson
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: William J.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1723 Valmont Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: New Orleans
+  - name: LENDER STATE
+    number: '15'
+    value: LA
+  - name: LENDER ZIP
+    number: '16'
+    value: '70115'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '20000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '20000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061114'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 11/14/2015
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H0LA02119
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: Jefferson
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: William J.
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: LA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '02'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC2/10\x1CC00251348\x1CSC/10.18235.0.SC2\x1CSC/10.18235\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1C\x1C\x1C20000.00\n"
+  record: fec.version.v8_0.SC2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC2/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.18235.0.SC2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.18235
+  - name: GUARANTOR LAST NAME
+    number: '5'
+    value: Jefferson
+  - name: GUARANTOR FIRST NAME
+    number: '6'
+    value: William J.
+  - name: GUARANTOR MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: GUARANTOR PREFIX
+    number: '8'
+    value: ''
+  - name: GUARANTOR SUFFIX
+    number: '9'
+    value: ''
+  - name: GUARANTOR STREET 1
+    number: '10'
+    value: 1723 Valmont Street
+  - name: GUARANTOR STREET 2
+    number: '11'
+    value: ''
+  - name: GUARANTOR CITY
+    number: '12'
+    value: New Orleans
+  - name: GUARANTOR STATE
+    number: '13'
+    value: LA
+  - name: GUARANTOR ZIP
+    number: '14'
+    value: '70115'
+  - name: GUARANTOR EMPLOYER
+    number: '15'
+    value: ''
+  - name: GUARANTOR OCCUPATION
+    number: '16'
+    value: ''
+  - name: GUARANTEED AMOUNT
+    number: '17'
+    value: '20000.00
+
+'
+- input: "SC/10\x1CC00251348\x1CSC/10.16918\x1C13A\x1CCAN\x1C\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1CR2006\x1CRunoff\x1C100000.00\x1C0.00\x1C100000.00\x1C20061208\x1C12/08/2020\x1C0.0000\x1CN\x1CY\x1C\x1CH0LA02119\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1CH\x1CLA\x1C02\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.16918
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Jefferson
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: William J.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1723 Valmont Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: New Orleans
+  - name: LENDER STATE
+    number: '15'
+    value: LA
+  - name: LENDER ZIP
+    number: '16'
+    value: '70115'
+  - name: ELECTION CODE
+    number: '17'
+    value: R2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: Runoff
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '100000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '100000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061208'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/08/2020
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H0LA02119
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: Jefferson
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: William J.
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: LA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '02'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC2/10\x1CC00251348\x1CSC/10.16918.0.SC2\x1CSC/10.16918\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1C\x1C\x1C100000.00\n"
+  record: fec.version.v8_0.SC2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC2/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.16918.0.SC2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.16918
+  - name: GUARANTOR LAST NAME
+    number: '5'
+    value: Jefferson
+  - name: GUARANTOR FIRST NAME
+    number: '6'
+    value: William J.
+  - name: GUARANTOR MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: GUARANTOR PREFIX
+    number: '8'
+    value: ''
+  - name: GUARANTOR SUFFIX
+    number: '9'
+    value: ''
+  - name: GUARANTOR STREET 1
+    number: '10'
+    value: 1723 Valmont Street
+  - name: GUARANTOR STREET 2
+    number: '11'
+    value: ''
+  - name: GUARANTOR CITY
+    number: '12'
+    value: New Orleans
+  - name: GUARANTOR STATE
+    number: '13'
+    value: LA
+  - name: GUARANTOR ZIP
+    number: '14'
+    value: '70115'
+  - name: GUARANTOR EMPLOYER
+    number: '15'
+    value: ''
+  - name: GUARANTOR OCCUPATION
+    number: '16'
+    value: ''
+  - name: GUARANTEED AMOUNT
+    number: '17'
+    value: '100000.00
+
+'
+- input: "SC/10\x1CC00251348\x1CSC/10.16916\x1C13A\x1CORG\x1CLiberty Bank\x1C\x1C\x1C\x1C\x1C\x1C3801
+    Canal Street\x1C\x1CNew Orleans\x1CLA\x1C70119\x1CR2006\x1CRunoff\x1C25000.00\x1C3366.36\x1C21633.64\x1C20061215\x1C12/15/2012\x1C0.0000\x1CY\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.16916
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: ORG
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: Liberty Bank
+  - name: LENDER LAST NAME
+    number: '7'
+    value: ''
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: ''
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 3801 Canal Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: New Orleans
+  - name: LENDER STATE
+    number: '15'
+    value: LA
+  - name: LENDER ZIP
+    number: '16'
+    value: '70119'
+  - name: ELECTION CODE
+    number: '17'
+    value: R2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: Runoff
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '25000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '3366.36'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '21633.64'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061215'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/15/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: Y
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC2/10\x1CC00251348\x1CSC/10.16916.0.SC2\x1CSC/10.16916\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1C\x1C\x1C21633.64\n"
+  record: fec.version.v8_0.SC2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC2/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.16916.0.SC2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.16916
+  - name: GUARANTOR LAST NAME
+    number: '5'
+    value: Jefferson
+  - name: GUARANTOR FIRST NAME
+    number: '6'
+    value: William J.
+  - name: GUARANTOR MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: GUARANTOR PREFIX
+    number: '8'
+    value: ''
+  - name: GUARANTOR SUFFIX
+    number: '9'
+    value: ''
+  - name: GUARANTOR STREET 1
+    number: '10'
+    value: 1723 Valmont Street
+  - name: GUARANTOR STREET 2
+    number: '11'
+    value: ''
+  - name: GUARANTOR CITY
+    number: '12'
+    value: New Orleans
+  - name: GUARANTOR STATE
+    number: '13'
+    value: LA
+  - name: GUARANTOR ZIP
+    number: '14'
+    value: '70115'
+  - name: GUARANTOR EMPLOYER
+    number: '15'
+    value: ''
+  - name: GUARANTOR OCCUPATION
+    number: '16'
+    value: ''
+  - name: GUARANTEED AMOUNT
+    number: '17'
+    value: '21633.64
+
+'
+- input: "SC/10\x1CC00251348\x1CSC/10.18976\x1C13A\x1CORG\x1CMBNA Visa\x1C\x1C\x1C\x1C\x1C\x1CBox
+    15019\x1C\x1CWilmington\x1CDE\x1C19850\x1CP2006\x1C\x1C13734.00\x1C0.00\x1C13734.00\x1C20061121\x1C11/21/2012\x1C\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.18976
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: ORG
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: MBNA Visa
+  - name: LENDER LAST NAME
+    number: '7'
+    value: ''
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: ''
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: Box 15019
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Wilmington
+  - name: LENDER STATE
+    number: '15'
+    value: DE
+  - name: LENDER ZIP
+    number: '16'
+    value: '19850'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '13734.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '13734.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061121'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 11/21/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: ''
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00251348\x1CSC/10.18977\x1C13A\x1CORG\x1CMBNA Visa\x1C\x1C\x1C\x1C\x1C\x1CBox
+    15019\x1C\x1CWilmington\x1CDE\x1C19850\x1CR2006\x1CRunoff\x1C7981.92\x1C0.00\x1C7981.92\x1C20061205\x1C12/5/2012\x1C\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.18977
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: ORG
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: MBNA Visa
+  - name: LENDER LAST NAME
+    number: '7'
+    value: ''
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: ''
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: Box 15019
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Wilmington
+  - name: LENDER STATE
+    number: '15'
+    value: DE
+  - name: LENDER ZIP
+    number: '16'
+    value: '19850'
+  - name: ELECTION CODE
+    number: '17'
+    value: R2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: Runoff
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '7981.92'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '7981.92'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061205'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/5/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: ''
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00251348\x1CSC/10.20459\x1C13B\x1CIND\x1C\x1CJefferson\x1CAndrea\x1C\x1C\x1C\x1C650
+    Poydras Street\x1CSuite 2245\x1CNew Orleans\x1CLA\x1C70130\x1CR2006\x1CRunoff\x1C4000.00\x1C0.00\x1C4000.00\x1C20061218\x1C12/18/2012\x1C0.0000\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.20459
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: IND
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Jefferson
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Andrea
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 650 Poydras Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: Suite 2245
+  - name: LENDER CITY
+    number: '14'
+    value: New Orleans
+  - name: LENDER STATE
+    number: '15'
+    value: LA
+  - name: LENDER ZIP
+    number: '16'
+    value: '70130'
+  - name: ELECTION CODE
+    number: '17'
+    value: R2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: Runoff
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '4000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '4000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061218'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/18/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC2/10\x1CC00251348\x1CSC/10.20459.0.SC2\x1CSC/10.20459\x1CJefferson\x1CWilliam
+    J.\x1C\x1C\x1C\x1C1723 Valmont Street\x1C\x1CNew Orleans\x1CLA\x1C70115\x1C\x1C\x1C4000.00\n"
+  record: fec.version.v8_0.SC2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC2/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00251348
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.20459.0.SC2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.20459
+  - name: GUARANTOR LAST NAME
+    number: '5'
+    value: Jefferson
+  - name: GUARANTOR FIRST NAME
+    number: '6'
+    value: William J.
+  - name: GUARANTOR MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: GUARANTOR PREFIX
+    number: '8'
+    value: ''
+  - name: GUARANTOR SUFFIX
+    number: '9'
+    value: ''
+  - name: GUARANTOR STREET 1
+    number: '10'
+    value: 1723 Valmont Street
+  - name: GUARANTOR STREET 2
+    number: '11'
+    value: ''
+  - name: GUARANTOR CITY
+    number: '12'
+    value: New Orleans
+  - name: GUARANTOR STATE
+    number: '13'
+    value: LA
+  - name: GUARANTOR ZIP
+    number: '14'
+    value: '70115'
+  - name: GUARANTOR EMPLOYER
+    number: '15'
+    value: ''
+  - name: GUARANTOR OCCUPATION
+    number: '16'
+    value: ''
+  - name: GUARANTEED AMOUNT
+    number: '17'
+    value: '4000.00
+
+'
+sourceurl: !!python/unicode 20130430
+type: chunk

@@ -1,0 +1,130 @@
+countrows: 2
+filename: 869020.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH0NJ03153\x1CRunyan\x1CJon\x1C\x1C\x1C\x1C\x1C263 Mt Laurel Rd\x1C\x1CMt
+    Laurel\x1CNJ\x1C08054   \x1CREP\x1CH\x1CNJ\x1C03\x1C2014\x1CC00477661\x1CJon Runyan
+    for Congress, Inc\x1CPO Box 225\x1C\x1CColonia\x1CNJ\x1C07067   \x1CC00492884\x1CLucky
+    13 Joint Fundraising Committee\x1C228 S. Washington St\x1CSuite 115\x1CAlexandria\x1CVA\x1C22314
+    \  \x1CRunyan\x1CJon\x1C\x1C\x1C\x1C20130426\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0NJ03153
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Runyan
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Jon
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 263 Mt Laurel Rd
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Mt Laurel
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NJ
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '08054   '
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NJ
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '03'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00477661
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Jon Runyan for Congress, Inc
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 225
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Colonia
+  - name: PCC STATE
+    number: '24'
+    value: NJ
+  - name: PCC ZIP
+    number: '25'
+    value: '07067   '
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00492884
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Lucky 13 Joint Fundraising Committee
+  - name: AUTH STREET 1
+    number: '28'
+    value: 228 S. Washington St
+  - name: AUTH STREET 2
+    number: '29'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '30'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '31'
+    value: VA
+  - name: AUTH ZIP
+    number: '32'
+    value: '22314   '
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Runyan
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Jon
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130426
+
+'
+sourceurl: !!python/unicode 20130426
+type: chunk

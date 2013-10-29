@@ -1,0 +1,197 @@
+countrows: 3
+filename: 868511.fec
+header: {}
+rows:
+- 2
+- input: "F24N\x1CC00032995\x1C24\x1C\x1CAMALGAMATED TRANSIT UNION - COPE\x1C5025
+    Wisconsin Ave NW\x1C\x1CWashington\x1CDC\x1C20016\x1CHanley\x1CLawrence J.\x1C\x1C\x1C\x1C20130422\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00032995
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '5'
+    value: AMALGAMATED TRANSIT UNION - COPE
+  - name: STREET 1
+    number: '6'
+    value: 5025 Wisconsin Ave NW
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Washington
+  - name: STATE
+    number: '9'
+    value: DC
+  - name: ZIP
+    number: '10'
+    value: '20016'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Hanley
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Lawrence J.
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130422
+
+'
+- input: "SE\x1CC00032995\x1C4755877\x1C\x1C\x1C\x1CHarbinger Publications\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8325\x1C\x1CColumbia\x1CSC\x1C29202\x1CS2013\x1CSpecial-General2013\x1C20130422\x1C1491.10\x1C5000.00\x1CFlyers\x1C011\x1C\x1CS\x1C\x1CBusch\x1CElizabeth\x1C\x1CMs.\x1C\x1CH\x1CSC\x1C01\x1CHanley\x1CLawrence
+    J.\x1C\x1C\x1C\x1C20130422\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00032995
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '4755877'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ''
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Harbinger Publications
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 8325
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Columbia
+  - name: PAYEE STATE
+    number: '16'
+    value: SC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '29202'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-General2013
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130422'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1491.10'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '5000.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Flyers
+  - name: CATEGORY CODE
+    number: '24'
+    value: '011'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Busch
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Elizabeth
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: Ms.
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: SC
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '01'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Hanley
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Lawrence J.
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130422'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130422
+type: chunk

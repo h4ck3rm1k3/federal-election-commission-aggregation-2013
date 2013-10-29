@@ -1,0 +1,128 @@
+countrows: 2
+filename: 869393.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH6NJ13191\x1CSIRES\x1CALBIO\x1C\x1C\x1C\x1C\x1C6050 BOULEVARD EAST
+    APT 68\x1C\x1CWEST NEW YORK\x1CNJ\x1C07093\x1CDEM\x1CH\x1CNJ\x1C13\x1C2014\x1CC00410753\x1CSires
+    for Congress\x1C6050 Blvd. East\x1CApt. 6B\x1CWest New York\x1CNJ\x1C07093\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CSIRES\x1CALBIO\x1C\x1C\x1C\x1C20130430\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6NJ13191
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: SIRES
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: ALBIO
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 6050 BOULEVARD EAST APT 68
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: WEST NEW YORK
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NJ
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: 07093
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NJ
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '13'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00410753
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Sires for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: 6050 Blvd. East
+  - name: PCC STREET 2
+    number: '22'
+    value: Apt. 6B
+  - name: PCC CITY
+    number: '23'
+    value: West New York
+  - name: PCC STATE
+    number: '24'
+    value: NJ
+  - name: PCC ZIP
+    number: '25'
+    value: 07093
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: SIRES
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: ALBIO
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130430
+
+'
+sourceurl: !!python/unicode 20130501
+type: chunk

@@ -1,0 +1,326 @@
+countrows: 8
+filename: 869370.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH0WI07051\x1CDuffy\x1CSean\x1C\x1C\x1C\x1C\x1C5805 Pine Terrace\x1C\x1CWeston\x1CWI\x1C544761983\x1CREP\x1CH\x1CWI\x1C07\x1C2014\x1CC00464339\x1CDuffy
+    for Congress\x1CPO Box 538\x1C\x1CWausau\x1CWI\x1C544020538\x1C\x1CBlue Ox Victory\x1CPO
+    Box 538\x1C\x1CWausau\x1CWI\x1C544020538\x1CDuffy\x1CSean\x1C\x1C\x1C\x1C20130430\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0WI07051
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Duffy
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Sean
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 5805 Pine Terrace
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Weston
+  - name: CANDIDATE STATE
+    number: '12'
+    value: WI
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '544761983'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: WI
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '07'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00464339
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Duffy for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 538
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Wausau
+  - name: PCC STATE
+    number: '24'
+    value: WI
+  - name: PCC ZIP
+    number: '25'
+    value: '544020538'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Blue Ox Victory
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO Box 538
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Wausau
+  - name: AUTH STATE
+    number: '31'
+    value: WI
+  - name: AUTH ZIP
+    number: '32'
+    value: '544020538'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Duffy
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Sean
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130430
+
+'
+- input: "F2S\x1CH0WI07051\x1CC00493429\x1CMajority Makers 2012\x1C110 Pine Avenue\x1CSuite
+    1010\x1CLong Beach\x1CCA\x1C908024418\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0WI07051
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00493429
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Majority Makers 2012
+  - name: AUTH STREET 1
+    number: '5'
+    value: 110 Pine Avenue
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 1010
+  - name: AUTH CITY
+    number: '7'
+    value: Long Beach
+  - name: AUTH STATE
+    number: '8'
+    value: CA
+  - name: AUTH ZIP
+    number: '9'
+    value: '908024418
+
+'
+- input: "F2S\x1CH0WI07051\x1CC00493791\x1CMajority Victory Fund (Meehan, Barletta,
+    Dold, Duffy, Farenthold)\x1C25 E Main Street\x1C\x1CRichmond\x1CVA\x1C232192109\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0WI07051
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00493791
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Majority Victory Fund (Meehan, Barletta, Dold, Duffy, Farenthold)
+  - name: AUTH STREET 1
+    number: '5'
+    value: 25 E Main Street
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Richmond
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '232192109
+
+'
+- input: "F2S\x1CH0WI07051\x1CC00497156\x1CPatriot Day 2011\x1C228 S Washington Street\x1CSuite
+    115\x1CAlexandria\x1CVA\x1C223145404\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0WI07051
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00497156
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Patriot Day 2011
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S Washington Street
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '223145404
+
+'
+- input: "F2S\x1CH0WI07051\x1CC00506824\x1CFreshman Class JFC\x1C228 S Washington
+    Street\x1CSuite 115\x1CAlexandria\x1CVA\x1C223145404\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0WI07051
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00506824
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Freshman Class JFC
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S Washington Street
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '223145404
+
+'
+- input: "F2S\x1CH0WI07051\x1CC00523985\x1CFreshman Hold'Em JFC\x1C209  Pennsylvania
+    Avenue SE\x1CSuite 2109\x1CWashington\x1CDC\x1C200031107\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0WI07051
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00523985
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Freshman Hold'Em JFC
+  - name: AUTH STREET 1
+    number: '5'
+    value: 209  Pennsylvania Avenue SE
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 2109
+  - name: AUTH CITY
+    number: '7'
+    value: Washington
+  - name: AUTH STATE
+    number: '8'
+    value: DC
+  - name: AUTH ZIP
+    number: '9'
+    value: '200031107
+
+'
+- input: "F2S\x1CH0WI07051\x1CC00527549\x1CWire To Wire Committee\x1C320  1st Street
+    SE\x1C\x1CWashington\x1CDC\x1C200031838\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0WI07051
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00527549
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Wire To Wire Committee
+  - name: AUTH STREET 1
+    number: '5'
+    value: 320  1st Street SE
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Washington
+  - name: AUTH STATE
+    number: '8'
+    value: DC
+  - name: AUTH ZIP
+    number: '9'
+    value: '200031838
+
+'
+sourceurl: !!python/unicode 20130501
+type: chunk

@@ -1,0 +1,128 @@
+countrows: 2
+filename: 869323.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH2NV04011\x1CHorsford\x1CSteven\x1CAlexzander\x1C\x1C\x1C\x1C4120
+    Bichmont St.\x1C\x1CLas Vegas\x1CNV\x1C89130\x1CDEM\x1CH\x1CNV\x1C04\x1C2014\x1CC00504613\x1CHorsford
+    for Congress\x1C6100 Elton Ave.\x1CSuite 1000\x1CLas Vegas\x1CNV\x1C89107\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CHorsford\x1CSteven\x1CAlexzander\x1C\x1C\x1C20130430\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2NV04011
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Horsford
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Steven
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: Alexzander
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 4120 Bichmont St.
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Las Vegas
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NV
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '89130'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NV
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '04'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00504613
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Horsford for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: 6100 Elton Ave.
+  - name: PCC STREET 2
+    number: '22'
+    value: Suite 1000
+  - name: PCC CITY
+    number: '23'
+    value: Las Vegas
+  - name: PCC STATE
+    number: '24'
+    value: NV
+  - name: PCC ZIP
+    number: '25'
+    value: '89107'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Horsford
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Steven
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: Alexzander
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130430
+
+'
+sourceurl: !!python/unicode 20130430
+type: chunk

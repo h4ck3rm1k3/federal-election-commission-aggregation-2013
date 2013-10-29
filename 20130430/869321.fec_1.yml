@@ -1,0 +1,129 @@
+countrows: 2
+filename: 869321.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH2SC02059\x1CWilson\x1CJoe\x1C\x1CThe Hon.\x1C\x1C\x1C2825 Wilton
+    Road\x1C\x1CWest Columbia\x1CSC\x1C291702601\x1CREP\x1CH\x1CSC\x1C02\x1C2014\x1CC00368522\x1CJoe
+    Wilson For Congress Committee\x1CPO Box 2145\x1C\x1CWest Columbia\x1CSC\x1C291712145\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CWilson\x1CJoe\x1C\x1CThe
+    Hon.\x1C\x1C20130430\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2SC02059
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Wilson
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Joe
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: The Hon.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 2825 Wilton Road
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: West Columbia
+  - name: CANDIDATE STATE
+    number: '12'
+    value: SC
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '291702601'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: SC
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '02'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00368522
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Joe Wilson For Congress Committee
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 2145
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: West Columbia
+  - name: PCC STATE
+    number: '24'
+    value: SC
+  - name: PCC ZIP
+    number: '25'
+    value: '291712145'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Wilson
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Joe
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: The Hon.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130430
+
+'
+sourceurl: !!python/unicode 20130430
+type: chunk

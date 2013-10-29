@@ -1,0 +1,549 @@
+countrows: 9
+filename: 869371.fec
+header: {}
+rows:
+- 2
+- input: "F6N\x1CC00541243\x1C\x1CELIZABETH COLBERT BUSCH FOR CONGRESS\x1CPO BOX 21949\x1C\x1CCHARLESTON\x1CSC\x1C29413\x1CH4SC01172\x1CBUSCH\x1CELIZABETH
+    COLBERT\x1C\x1C\x1C\x1CH\x1CSC\x1C01\x1CBusch\x1CClaus\x1C\x1C\x1C\x1C20130430\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: ELIZABETH COLBERT BUSCH FOR CONGRESS
+  - name: STREET 1
+    number: '5'
+    value: PO BOX 21949
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: CHARLESTON
+  - name: STATE
+    number: '8'
+    value: SC
+  - name: ZIP
+    number: '9'
+    value: '29413'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H4SC01172
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: BUSCH
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: ELIZABETH COLBERT
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: SC
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '01'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Busch
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Claus
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130430
+
+'
+- input: "F65\x1CC00541243\x1CF6.4451\x1CIND\x1C\x1CCawley\x1CJohn\x1C\x1C\x1C\x1C975
+    Grove Street\x1C\x1CSan Francisco\x1CCA\x1C94117\x1C\x1C20130429\x1C1600.00\x1CPacific
+    Gourmet\x1CFood Distributor\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4451
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Cawley
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: John
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 975 Grove Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '94117'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130429'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1600.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Pacific Gourmet
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Food Distributor
+
+'
+- input: "F65\x1CC00541243\x1CF6.4460\x1CIND\x1C\x1CDeantonio\x1CMiriam\x1C\x1C\x1C\x1C786
+    Woodware Road\x1C\x1CCharleston\x1CSC\x1C29407\x1C\x1C20130429\x1C1000.00\x1CRetired\x1CRetired\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4460
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Deantonio
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Miriam
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 786 Woodware Road
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29407'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130429'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Retired
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Retired
+
+'
+- input: "F65\x1CC00541243\x1CF6.4463\x1CIND\x1C\x1CDodson\x1CDonna\x1C\x1C\x1C\x1C230
+    Rodriguez #A\x1C\x1CSanta Fe\x1CSC\x1C87501\x1C\x1C20130429\x1C1000.00\x1CRetired\x1CRetired\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4463
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Dodson
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Donna
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: '230 Rodriguez #A'
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Santa Fe
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '87501'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130429'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Retired
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Retired
+
+'
+- input: "F65\x1CC00541243\x1CF6.4454\x1CIND\x1C\x1CLynch\x1CGenevieve\x1C\x1C\x1C\x1C270
+    Broadway Apt 22A\x1C\x1CNew York\x1CNY\x1C10007\x1C\x1C20130429\x1C1500.00\x1CSelf-employed\x1CRestaurant
+    Owner\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4454
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Lynch
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Genevieve
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 270 Broadway Apt 22A
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: New York
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: NY
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '10007'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130429'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1500.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Self-employed
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Restaurant Owner
+
+'
+- input: "F65\x1CC00541243\x1CF6.4457\x1CIND\x1C\x1CMorris\x1CMae\x1C\x1C\x1C\x1C11
+    Meeting Street\x1C\x1CCharleston\x1CSC\x1C29401\x1C\x1C20130429\x1C1000.00\x1CRetired\x1CRetired\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4457
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Morris
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Mae
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 11 Meeting Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29401'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130429'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Retired
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Retired
+
+'
+- input: "F65\x1CC00541243\x1CF6.4466\x1CPAC\x1CTRI-STATE MAXED OUT WOMEN\x1C\x1C\x1C\x1C\x1C\x1C445
+    PARK AVENUE\x1C9TH FLOOR\x1CNEW YORK\x1CNY\x1C10022\x1CC00488387\x1C20130429\x1C2500.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4466
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: TRI-STATE MAXED OUT WOMEN
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 445 PARK AVENUE
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: 9TH FLOOR
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: NEW YORK
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: NY
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '10022'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00488387
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130429'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2500.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F65\x1CC00541243\x1CF6.4469\x1CPAC\x1CUNITED FOOD & COMMERCIAL WORKERS INTERNATIONAL
+    UNION ACTIVE BALLOT CLUB\x1C\x1C\x1C\x1C\x1C\x1C1775 K STREET N.W.\x1C\x1CWASHINGTON\x1CDC\x1C20006\x1CC00002766\x1C20130429\x1C2500.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4469
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: UNITED FOOD & COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 1775 K STREET N.W.
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: WASHINGTON
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20006'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00002766
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130429'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2500.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130501
+type: chunk

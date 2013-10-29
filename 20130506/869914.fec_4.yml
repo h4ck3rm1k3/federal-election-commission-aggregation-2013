@@ -1,0 +1,7237 @@
+countrows: 93
+filename: 869914.fec
+header: {}
+rows:
+- input: "H4\x1CC00035600\x1CD485566\x1CD485198\x1CH4\x1CORG\x1CIowa State Fair\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 57130\x1C\x1CDes Moines\x1CIA\x1C503170003\x1CAdministrative\x1C20120824\x1C50.00\x1C10.50\x1C39.50\x1C652064.05\x1CFair
+    Tickets\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485566
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485198
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Iowa State Fair
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 57130
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503170003'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120824'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '50.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '10.50'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '39.50'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Fair Tickets
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485286\x1C\x1C\x1CIND\x1C\x1CDeaver\x1CNicholas\x1C\x1C\x1C\x1C2424
+    Richards Drive\x1C\x1CWaco\x1CTX\x1C76710\x1CAdministrative\x1C20120824\x1C10.00\x1C2.80\x1C7.20\x1C652064.05\x1CReimbursement\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485286
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Deaver
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Nicholas
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2424 Richards Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Waco
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '76710'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120824'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '10.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '2.80'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '7.20'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Reimbursement
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485548\x1CD485286\x1CH4\x1CORG\x1CIowa State Fair\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 57130\x1C\x1CDes Moines\x1CIA\x1C503170003\x1CAdministrative\x1C20120824\x1C10.00\x1C2.10\x1C7.90\x1C652064.05\x1CFair
+    Tickets\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485548
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485286
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Iowa State Fair
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 57130
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503170003'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120824'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '10.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '2.10'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '7.90'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Fair Tickets
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485311\x1C\x1C\x1CIND\x1C\x1CCharles\x1CRebecca\x1C\x1C\x1C\x1C1400
+    S. Marion Road #104\x1C\x1CSioux Falls\x1CSD\x1C57106\x1CAdministrative\x1C20120831\x1C17.46\x1C4.89\x1C12.57\x1C652064.05\x1CReimbursement\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485311
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Charles
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Rebecca
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '1400 S. Marion Road #104'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Sioux Falls
+  - name: PAYEE STATE
+    number: '16'
+    value: SD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '57106'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120831'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '17.46'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '4.89'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '12.57'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Reimbursement
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485520\x1CD485311\x1CH4\x1CORG\x1CCarroll Post Office\x1C\x1C\x1C\x1C\x1C\x1C614
+    N Clark Street\x1C\x1CCarroll\x1CIA\x1C51401\x1CAdministrative\x1C20120831\x1C9.00\x1C1.89\x1C7.11\x1C652064.05\x1CPostage\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485520
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485311
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Carroll Post Office
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 614 N Clark Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Carroll
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '51401'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120831'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '9.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '1.89'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '7.11'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Postage
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485519\x1CD485311\x1CH4\x1CORG\x1CWalmart\x1C\x1C\x1C\x1C\x1C\x1C1001
+    73rd St\x1C\x1CDes Moines\x1CIA\x1C503241311\x1CAdministrative\x1C20120831\x1C8.46\x1C1.78\x1C6.68\x1C652064.05\x1COffice
+    Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485519
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485311
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Walmart
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1001 73rd St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503241311'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120831'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '8.46'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '1.78'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '6.68'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485324\x1C\x1C\x1CIND\x1C\x1CMcCoy\x1CRonni\x1CChristina\x1C\x1C\x1C3531
+    Oakland Road NE, Apt. A\x1C\x1CCedar Rapids\x1CIA\x1C52402\x1CAdministrative\x1C20120811\x1C68.00\x1C14.28\x1C53.72\x1C652064.05\x1CReimbursement\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485324
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: McCoy
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Ronni
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: Christina
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 3531 Oakland Road NE, Apt. A
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Cedar Rapids
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '52402'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120811'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '68.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '14.28'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '53.72'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Reimbursement
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485597\x1CD485324\x1CH4\x1CORG\x1CCedar Rapids Parks
+    and Rec\x1C\x1C\x1C\x1C\x1C\x1C2000 Mt. Vernon Road\x1C\x1CCedar Rapids\x1CIA\x1C52403\x1CAdministrative\x1C20120811\x1C68.00\x1C14.28\x1C53.72\x1C652064.05\x1CRoom
+    Rental\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485597
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485324
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Cedar Rapids Parks and Rec
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2000 Mt. Vernon Road
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Cedar Rapids
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '52403'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120811'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '68.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '14.28'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '53.72'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Room Rental
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485325\x1C\x1C\x1CIND\x1C\x1CMcCoy\x1CRonni\x1CChristina\x1C\x1C\x1C3531
+    Oakland Road NE, Apt. A\x1C\x1CCedar Rapids\x1CIA\x1C52402\x1CAdministrative\x1C20120811\x1C144.20\x1C40.38\x1C103.82\x1C652064.05\x1CReimbursement\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485325
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: McCoy
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Ronni
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: Christina
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 3531 Oakland Road NE, Apt. A
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Cedar Rapids
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '52402'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120811'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '144.20'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '40.38'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '103.82'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Reimbursement
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485598\x1CD485325\x1CH4\x1CORG\x1CWalmart\x1C\x1C\x1C\x1C\x1C\x1C1001
+    73rd St\x1C\x1CDes Moines\x1CIA\x1C503241311\x1CAdministrative\x1C20120811\x1C144.20\x1C30.28\x1C113.92\x1C652064.05\x1COffice
+    Supplies and Refreshments\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485598
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485325
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Walmart
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1001 73rd St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503241311'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120811'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '144.20'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '30.28'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '113.92'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Office Supplies and Refreshments
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485332\x1C\x1C\x1CIND\x1C\x1CFortune\x1CRuth\x1C\x1C\x1C\x1C47A
+    Vernon Avenue Apt. #2\x1C\x1CBrooklyn\x1CNY\x1C11206\x1CAdministrative\x1C20120824\x1C10.00\x1C2.80\x1C7.20\x1C652064.05\x1CReimbursement\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485332
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Fortune
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Ruth
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '47A Vernon Avenue Apt. #2'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Brooklyn
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '11206'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120824'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '10.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '2.80'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '7.20'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Reimbursement
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485577\x1CD485332\x1CH4\x1CORG\x1CIowa State Fair\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 57130\x1C\x1CDes Moines\x1CIA\x1C503170003\x1CAdministrative\x1C20120824\x1C10.00\x1C2.10\x1C7.90\x1C652064.05\x1CFair
+    Tickets\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485577
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485332
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Iowa State Fair
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 57130
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503170003'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120824'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '10.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '2.10'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '7.90'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Fair Tickets
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485371\x1C\x1C\x1CIND\x1C\x1CKerger\x1CTerry\x1C\x1C\x1CJr\x1C783
+    NE 5th Street, Apt. 208\x1C\x1CAnkeny\x1CIA\x1C50021\x1CAdministrative\x1C20120831\x1C143.34\x1C40.14\x1C103.20\x1C652064.05\x1CReimbursement\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485371
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Kerger
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Terry
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: Jr
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 783 NE 5th Street, Apt. 208
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Ankeny
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '50021'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120831'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '143.34'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '40.14'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '103.20'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Reimbursement
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485587\x1CD485371\x1CH4\x1CORG\x1CMenard's\x1C\x1C\x1C\x1C\x1C\x1C6000
+    SE 14th St\x1C\x1CDes Moines\x1CIA\x1C503201703\x1CAdministrative\x1C20120831\x1C18.49\x1C3.88\x1C14.61\x1C652064.05\x1COffice
+    Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485587
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485371
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Menard's
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 6000 SE 14th St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503201703'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120831'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '18.49'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '3.88'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '14.61'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485586\x1CD485371\x1CH4\x1CORG\x1CStaples\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 83689\x1C\x1CChicago\x1CIL\x1C60696\x1CAdministrative\x1C20120831\x1C124.85\x1C26.22\x1C98.63\x1C652064.05\x1COffice
+    Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485586
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485371
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Staples
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 83689
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Chicago
+  - name: PAYEE STATE
+    number: '16'
+    value: IL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '60696'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120831'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '124.85'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '26.22'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '98.63'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485384\x1C\x1C\x1CIND\x1C\x1CSchacht\x1CTrent\x1CWayne\x1C\x1C\x1C4807
+    Pommel Place\x1C\x1CWest Des Moines\x1CIA\x1C502652938\x1CAdministrative\x1C20120824\x1C114.00\x1C31.92\x1C82.08\x1C652064.05\x1CReimbursement\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485384
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Schacht
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Trent
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: Wayne
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 4807 Pommel Place
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: West Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '502652938'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120824'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '114.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '31.92'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '82.08'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Reimbursement
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485609\x1CD485384\x1CH4\x1CORG\x1CHoliday Inn Express
+    - Baltimore\x1C\x1C\x1C\x1C\x1C\x1C7481 New Ridge Rd\x1C\x1CHanover\x1CMD\x1C210763129\x1CAdministrative\x1C20120824\x1C114.00\x1C23.94\x1C90.06\x1C652064.05\x1CParking\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485609
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485384
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Holiday Inn Express - Baltimore
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 7481 New Ridge Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Hanover
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '210763129'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120824'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '114.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '23.94'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '90.06'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Parking
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485759\x1C\x1C\x1CIND\x1C\x1CGeiken\x1CKevin\x1C\x1C\x1C\x1C400
+    E Locust St\x1CUnit 212\x1CDes Moines\x1CIA\x1C503091936\x1CAdministrative\x1C20120811\x1C700.14\x1C147.03\x1C553.11\x1C652064.05\x1CReimbursement\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485759
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Geiken
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Kevin
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 400 E Locust St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Unit 212
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503091936'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120811'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '700.14'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '147.03'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '553.11'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Reimbursement
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485762\x1CD485759\x1CH4\x1CORG\x1CChipotle\x1C\x1C\x1C\x1C\x1C\x1C2600
+    Connecticut Ave NW\x1C\x1CWashington\x1CDC\x1C200081558\x1CAdministrative\x1C20120811\x1C407.68\x1C85.61\x1C322.07\x1C652064.05\x1CMeals\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485762
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485759
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Chipotle
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2600 Connecticut Ave NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '200081558'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120811'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '407.68'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '85.61'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '322.07'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Meals
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485761\x1CD485759\x1CH4\x1CORG\x1CHyVee\x1C\x1C\x1C\x1C\x1C\x1C1107
+    E Army Post Rd\x1C\x1CDes Moines\x1CIA\x1C503155942\x1CAdministrative\x1C20120811\x1C287.16\x1C60.30\x1C226.86\x1C652064.05\x1CMeals\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485761
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485759
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: HyVee
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1107 E Army Post Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503155942'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120811'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '287.16'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '60.30'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '226.86'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Meals
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485760\x1CD485759\x1CH4\x1CORG\x1CSubway\x1C\x1C\x1C\x1C\x1C\x1C4226
+    Fleur Dr\x1C\x1CDes Moines\x1CIA\x1C503212397\x1CAdministrative\x1C20120811\x1C5.30\x1C1.11\x1C4.19\x1C652064.05\x1CMeals\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485760
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485759
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Subway
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 4226 Fleur Dr
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503212397'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120811'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '5.30'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '1.11'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '4.19'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Meals
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485764\x1C\x1C\x1CIND\x1C\x1COster\x1CJordan\x1CE\x1C\x1C\x1C615
+    19th St\x1CApt 2\x1CDes Moines\x1CIA\x1C503093345\x1CAdministrative\x1C20120824\x1C232.35\x1C48.79\x1C183.56\x1C652064.05\x1CReimbursement\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485764
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Oster
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Jordan
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: E
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 615 19th St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Apt 2
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503093345'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120824'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '232.35'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '48.79'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '183.56'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Reimbursement
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485765\x1CD485764\x1CH4\x1CORG\x1CCity of Windsor Heights\x1C\x1C\x1C\x1C\x1C\x1C6800
+    School Street\x1C\x1CWindsor Heights\x1CIA\x1C50324\x1CAdministrative\x1C20120824\x1C175.00\x1C36.75\x1C138.25\x1C652064.05\x1CRoom
+    Rental\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485765
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485764
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: City of Windsor Heights
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 6800 School Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Windsor Heights
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '50324'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120824'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '175.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '36.75'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '138.25'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Room Rental
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485767\x1CD485764\x1CH4\x1CORG\x1CHome Depot\x1C\x1C\x1C\x1C\x1C\x1C4900
+    SE 14th St\x1C\x1CDes Moines\x1CIA\x1C503201604\x1CAdministrative\x1C20120824\x1C2.08\x1C0.44\x1C1.64\x1C652064.05\x1COffice
+    Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485767
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485764
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Home Depot
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 4900 SE 14th St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503201604'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120824'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '2.08'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '0.44'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '1.64'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485766\x1CD485764\x1CH4\x1CORG\x1COffice Max\x1C\x1C\x1C\x1C\x1C\x1C5020
+    SE 14th St\x1C\x1CDes Moines\x1CIA\x1C503201606\x1CAdministrative\x1C20120824\x1C43.63\x1C9.16\x1C34.47\x1C652064.05\x1COffice
+    Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485766
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485764
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Office Max
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 5020 SE 14th St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503201606'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120824'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '43.63'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '9.16'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '34.47'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00035600\x1CD485768\x1CD485764\x1CH4\x1CORG\x1CWalgreen's\x1C\x1C\x1C\x1C\x1C\x1C535
+    E Broadway\x1C\x1CCouncil Bluffs\x1CIA\x1C515034419\x1CAdministrative\x1C20120824\x1C11.64\x1C2.44\x1C9.20\x1C652064.05\x1COffice
+    Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485768
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485764
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Walgreen's
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 535 E Broadway
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Council Bluffs
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '515034419'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120824'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '11.64'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '2.44'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '9.20'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '652064.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H5\x1CC00035600\x1CT587\x1CLevin\x1C20120810\x1C15120.00\x1C0.00\x1C0.00\x1C15120.00\x1C0.00\n"
+  record: fec.version.v8_0.SH5
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H5
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: T587
+  - name: ACCOUNT NAME
+    number: '4'
+    value: Levin
+  - name: RECEIPT DATE
+    number: '5'
+    value: '20120810'
+  - name: TOTAL AMOUNT TRANSFERRED
+    number: '6'
+    value: '15120.00'
+  - name: VOTER REGISTRATION AMOUNT
+    number: '7'
+    value: '0.00'
+  - name: VOTER ID AMOUNT
+    number: '8'
+    value: '0.00'
+  - name: GOTV AMOUNT
+    number: '9'
+    value: '15120.00'
+  - name: GENERIC CAMPAIGN AMOUNT
+    number: '10'
+    value: '0.00
+
+'
+- input: "H6\x1CC00035600\x1CD484511H6\x1C\x1C\x1CORG\x1CCapAd Communications\x1C\x1C\x1C\x1C\x1C\x1C5620
+    James Gunnell Lane\x1C\x1CAlexandria\x1CVA\x1C22310\x1CIDP FEDERAL EXPENSE RECORDS
+    ENTERED BY IGG on 2012-09-18\x1C20120810\x1C993.65\x1C278.22\x1C715.43\x1C109014.57\x1CGeneric
+    GOTV Auto Calls\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D484511H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: CapAd Communications
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 5620 James Gunnell Lane
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Alexandria
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22310'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: IDP FEDERAL EXPENSE RECORDS ENTERED BY IGG on 2012-09-18
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120810'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '993.65'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '278.22'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '715.43'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '109014.57'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Generic GOTV Auto Calls
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 26-
+    value: ''
+  - name: Activity GOTV
+    number: 27-
+    value: X
+  - name: Activity Is Voter ID
+    number: 28-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 29-
+    value: ''
+  - name: MEMO CODE
+    number: '30'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '31'
+    value: '
+
+'
+- input: "H6\x1CC00035600\x1CD484519H6\x1C\x1C\x1CORG\x1CCarter Printing\x1C\x1C\x1C\x1C\x1C\x1C1739
+    E Grand Ave\x1C\x1CDes Moines\x1CIA\x1C503163611\x1CIDP FEDERAL EXPENSE RECORDS
+    ENTERED BY IGG on 2012-09-18\x1C20120810\x1C396.44\x1C111.00\x1C285.44\x1C109014.57\x1CGeneric
+    GOTV Printing\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D484519H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Carter Printing
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1739 E Grand Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503163611'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: IDP FEDERAL EXPENSE RECORDS ENTERED BY IGG on 2012-09-18
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120810'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '396.44'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '111.00'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '285.44'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '109014.57'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Generic GOTV Printing
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 26-
+    value: ''
+  - name: Activity GOTV
+    number: 27-
+    value: X
+  - name: Activity Is Voter ID
+    number: 28-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 29-
+    value: ''
+  - name: MEMO CODE
+    number: '30'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '31'
+    value: '
+
+'
+- input: "H6\x1CC00035600\x1CD484522H6\x1C\x1C\x1CORG\x1CCarter Printing\x1C\x1C\x1C\x1C\x1C\x1C1739
+    E Grand Ave\x1C\x1CDes Moines\x1CIA\x1C503163611\x1CIDP FEDERAL EXPENSE RECORDS
+    ENTERED BY IGG on 2012-09-18\x1C20120828\x1C992.66\x1C277.94\x1C714.72\x1C109014.57\x1CGeneric
+    GOTV Printing\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D484522H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Carter Printing
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1739 E Grand Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503163611'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: IDP FEDERAL EXPENSE RECORDS ENTERED BY IGG on 2012-09-18
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120828'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '992.66'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '277.94'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '714.72'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '109014.57'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Generic GOTV Printing
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 26-
+    value: ''
+  - name: Activity GOTV
+    number: 27-
+    value: X
+  - name: Activity Is Voter ID
+    number: 28-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 29-
+    value: ''
+  - name: MEMO CODE
+    number: '30'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '31'
+    value: '
+
+'
+- input: "H6\x1CC00035600\x1CD484521H6\x1C\x1C\x1CORG\x1CCarter Printing\x1C\x1C\x1C\x1C\x1C\x1C1739
+    E Grand Ave\x1C\x1CDes Moines\x1CIA\x1C503163611\x1CIDP FEDERAL EXPENSE RECORDS
+    ENTERED BY IGG on 2012-09-18\x1C20120828\x1C1251.82\x1C350.51\x1C901.31\x1C109014.57\x1CGeneric
+    GOTV Printing\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D484521H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Carter Printing
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1739 E Grand Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503163611'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: IDP FEDERAL EXPENSE RECORDS ENTERED BY IGG on 2012-09-18
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120828'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '1251.82'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '350.51'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '901.31'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '109014.57'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Generic GOTV Printing
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 26-
+    value: ''
+  - name: Activity GOTV
+    number: 27-
+    value: X
+  - name: Activity Is Voter ID
+    number: 28-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 29-
+    value: ''
+  - name: MEMO CODE
+    number: '30'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '31'
+    value: '
+
+'
+- input: "H6\x1CC00035600\x1CD484707H6\x1C\x1C\x1CORG\x1CStrategy Group\x1C\x1C\x1C\x1C\x1C\x1C35
+    S Raymond Ave\x1CSte 405\x1CPasadena\x1CCA\x1C911051972\x1CIDP FEDERAL EXPENSE
+    RECORDS ENTERED BY IGG on 2012-09-18\x1C20120810\x1C84338.00\x1C23614.64\x1C60723.36\x1C109014.57\x1CPrinting/Production/Postage
+    - Generic GOTV\x1C\x1C\x1CX\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H6
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D484707H6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Strategy Group
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 35 S Raymond Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Ste 405
+  - name: PAYEE CITY
+    number: '15'
+    value: Pasadena
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '911051972'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: IDP FEDERAL EXPENSE RECORDS ENTERED BY IGG on 2012-09-18
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20120810'
+  - name: TOTAL FED-LEVIN AMOUNT
+    number: '20'
+    value: '84338.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '23614.64'
+  - name: LEVIN SHARE
+    number: '22'
+    value: '60723.36'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '109014.57'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Printing/Production/Postage - Generic GOTV
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity Is Voter Registration
+    number: 26-
+    value: ''
+  - name: Activity GOTV
+    number: 27-
+    value: X
+  - name: Activity Is Voter ID
+    number: 28-
+    value: ''
+  - name: Activity is Generic Campaign
+    number: 29-
+    value: ''
+  - name: MEMO CODE
+    number: '30'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '31'
+    value: '
+
+'
+- input: "SL\x1CC00035600\x1CSchedL1\x1CLevin\x1CLevin Designations & Expenditures\x1C20120801\x1C20120831\x1C151500.00\x1C0.00\x1C151500.00\x1C0.00\x1C151500.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C15120.00\x1C15120.00\x1C1819.44\x1C151500.00\x1C153319.44\x1C15120.00\x1C138199.44\x1C151500.00\x1C0.00\x1C151500.00\x1C0.00\x1C151500.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C15120.00\x1C15120.00\x1C1819.44\x1C151500.00\x1C153319.44\x1C15120.00\x1C138199.44\n"
+  record: fec.version.v8_0.SL
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SL
+  - name: FILER COMMITTEE ID
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SchedL1
+  - name: RECORD ID NUMBER (for account name)
+    number: '4'
+    value: Levin
+  - name: ACCOUNT NAME
+    number: '5'
+    value: Levin Designations & Expenditures
+  - name: COVERAGE FROM DATE
+    number: '6'
+    value: '20120801'
+  - name: COVERAGE THROUGH DATE
+    number: '7'
+    value: '20120831'
+  - name: Itemized Receipts From Persons
+    number: 8-1a.
+    value: '151500.00'
+  - name: Unitemized Receipts From Persons
+    number: 9-1b.
+    value: '0.00'
+  - name: Total Receipts From Persons
+    number: 10-1c.
+    value: '151500.00'
+  - name: OTHER RECEIPTS
+    number: 11-2.
+    value: '0.00'
+  - name: TOTAL RECEIPTS
+    number: 12-3.
+    value: '151500.00'
+  - name: Voter Registration DISBURSEMENTS
+    number: 13-4(a).
+    value: '0.00'
+  - name: Voter ID DISBURSEMENTS
+    number: 14-4(b).
+    value: '0.00'
+  - name: GOTV DISBURSEMENTS
+    number: 15-4(c).
+    value: '0.00'
+  - name: Generic Campaign DISBURSEMENTS
+    number: 16-4(d).
+    value: '0.00'
+  - name: Line 4 Total
+    number: 17-4(e)
+    value: '0.00'
+  - name: OTHER DISBURSEMENTS
+    number: 18-5.
+    value: '15120.00'
+  - name: TOTAL DISBURSEMENTS
+    number: 19-6.
+    value: '15120.00'
+  - name: CASH ON HAND (Beginning)
+    number: 20-7.
+    value: '1819.44'
+  - name: RECEIPTS
+    number: 21-8.
+    value: '151500.00'
+  - name: SUBTOTAL
+    number: 22-9.
+    value: '153319.44'
+  - name: DISBURSEMENTS
+    number: 23-10.
+    value: '15120.00'
+  - name: ENDING CASH ON HAND
+    number: 24-11.
+    value: '138199.44'
+  - name: Itemized Receipts From Persons
+    number: 25-1a.
+    value: '151500.00'
+  - name: Unitemized Receipts From Persons
+    number: 26-1b.
+    value: '0.00'
+  - name: Total Receipts From Persons
+    number: 27-1c.
+    value: '151500.00'
+  - name: OTHER RECEIPTS
+    number: 28-2.
+    value: '0.00'
+  - name: TOTAL RECEIPTS
+    number: 29-3.
+    value: '151500.00'
+  - name: Voter Registration DISBURSEMENTS
+    number: 30-4(a).
+    value: '0.00'
+  - name: Voter ID DISBURSEMENTS
+    number: 31-4(b).
+    value: '0.00'
+  - name: GOTV DISBURSEMENTS
+    number: 32-4(c).
+    value: '0.00'
+  - name: Generic Campaign DISBURSEMENTS
+    number: 33-4(d).
+    value: '0.00'
+  - name: Line 4 Total
+    number: 34-4(e)
+    value: '0.00'
+  - name: OTHER DISBURSEMENTS
+    number: 35-5.
+    value: '15120.00'
+  - name: TOTAL DISBURSEMENTS
+    number: 36-6.
+    value: '15120.00'
+  - name: CASH ON HAND as of Jan 1
+    number: 37-7.
+    value: '1819.44'
+  - name: RECEIPTS
+    number: 38-8.
+    value: '151500.00'
+  - name: SUBTOTAL
+    number: 39-9.
+    value: '153319.44'
+  - name: DISBURSEMENTS
+    number: 40-10.
+    value: '15120.00'
+  - name: ENDING CASH ON HAND
+    number: 41-11.
+    value: '138199.44
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613368\x1C\x1C\x1CCOM\x1CBeard for Iowa Senate\x1C\x1C\x1C\x1C\x1C\x1C303
+    Upper Broadway\x1C\x1CDecorah\x1CIA\x1C52101\x1CG2012\x1C\x1C20120817\x1C7500.00\x1C7500.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613368
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Beard for Iowa Senate
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 303 Upper Broadway
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Decorah
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '52101'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120817'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '7500.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '7500.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7578932\x1C\x1C\x1CCOM\x1CCitizens for Gronstal\x1C\x1C\x1C\x1C\x1C\x1C220
+    Bennett Ave\x1C\x1CCouncil Bluffs\x1CIA\x1C515035205\x1CG2012\x1C\x1C20120725\x1C10000.00\x1C10000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7578932
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Citizens for Gronstal
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 220 Bennett Ave
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Council Bluffs
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '515035205'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120725'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '10000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613359\x1C\x1C\x1CCOM\x1CCitizens for Schoenjahn\x1C\x1C\x1C\x1C\x1C\x1C6509
+    C Ave\x1C\x1CArlington\x1CIA\x1C506068116\x1CG2012\x1C\x1C20120803\x1C10000.00\x1C10000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613359
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Citizens for Schoenjahn
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 6509 C Ave
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Arlington
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '506068116'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120803'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '10000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613376\x1C\x1C\x1CCOM\x1CCitizens for Sharon Steckman\x1C\x1C\x1C\x1C\x1C\x1C1038
+    15th St NE\x1C\x1CMason City\x1CIA\x1C504011420\x1CG2012\x1C\x1C20120829\x1C6000.00\x1C6000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613376
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Citizens for Sharon Steckman
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1038 15th St NE
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Mason City
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '504011420'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120829'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '6000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '6000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613374\x1C\x1C\x1CCOM\x1CCitizens for Wessel-Kroeschell\x1C\x1C\x1C\x1C\x1C\x1C518
+    Ash Ave\x1C\x1CAmes\x1CIA\x1C500147068\x1CG2012\x1C\x1C20120817\x1C10000.00\x1C10000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613374
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Citizens for Wessel-Kroeschell
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 518 Ash Ave
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Ames
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '500147068'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120817'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '10000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613371\x1C\x1C\x1CCOM\x1CCitizens for Willems\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 213\x1C\x1CLisbon\x1CIA\x1C522530213\x1CG2012\x1C\x1C20120824\x1C10000.00\x1C10000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613371
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Citizens for Willems
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: PO Box 213
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Lisbon
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '522530213'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120824'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '10000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613361\x1C\x1C\x1CCOM\x1CCommittee to Elect Joe
+    Seng\x1C\x1C\x1C\x1C\x1C\x1C4804 Northwest Blvd\x1C\x1CDavenport\x1CIA\x1C528063732\x1CG2012\x1C\x1C20120806\x1C5000.00\x1C5000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613361
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Committee to Elect Joe Seng
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 4804 Northwest Blvd
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Davenport
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '528063732'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120806'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '5000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613377\x1C\x1C\x1CCOM\x1CCommittee to Elect Lisa
+    Heddens\x1C\x1C\x1C\x1C\x1C\x1C4541 513th Ave\x1C\x1CAmes\x1CIA\x1C500149035\x1CG2012\x1C\x1C20120829\x1C10000.00\x1C10000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613377
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Committee to Elect Lisa Heddens
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 4541 513th Ave
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Ames
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '500149035'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120829'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '10000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613373\x1C\x1C\x1CCOM\x1CCommittee to Elect Mascher\x1C\x1C\x1C\x1C\x1C\x1C40
+    Gryn Ct\x1C\x1CIowa City\x1CIA\x1C522464440\x1CG2012\x1C\x1C20120817\x1C10000.00\x1C10000.00\x1C\x1CState
+    of Iowa\x1CLegislator\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613373
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Committee to Elect Mascher
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 40 Gryn Ct
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Iowa City
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '522464440'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120817'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '10000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: State of Iowa
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Legislator
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613353\x1C\x1C\x1CCOM\x1CCommittee to Elect Robert
+    E. Dvorsky\x1C\x1C\x1C\x1C\x1C\x1C412 6th St\x1C\x1CCoralville\x1CIA\x1C522412511\x1CG2012\x1C\x1C20120803\x1C5000.00\x1C5000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613353
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Committee to Elect Robert E. Dvorsky
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 412 6th St
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Coralville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '522412511'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120803'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '5000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613356\x1C\x1C\x1CCOM\x1CCourtney for State Senate\x1C\x1C\x1C\x1C\x1C\x1C2200
+    Summer St\x1C\x1CBurlington\x1CIA\x1C526013324\x1CG2012\x1C\x1C20120803\x1C8000.00\x1C8000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613356
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Courtney for State Senate
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2200 Summer St
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Burlington
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '526013324'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120803'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '8000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '8000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613366\x1C\x1C\x1CPAC\x1CGreat Plains Laborers
+    District Council Iowa PAC\x1C\x1C\x1C\x1C\x1C\x1C5806 Meredith Dr\x1CSte B\x1CUrbandale\x1CIA\x1C503221203\x1CG2012\x1C\x1C20120815\x1C5000.00\x1C5000.00\x1C\x1C\x1C\x1C\x1CGreat
+    Plains Laborers District Council Iowa PAC\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613366
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Great Plains Laborers District Council Iowa PAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 5806 Meredith Dr
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: Ste B
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Urbandale
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '503221203'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120815'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '5000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: Great Plains Laborers District Council Iowa PAC
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7578937\x1C\x1C\x1CPAC\x1CINTERNATIONAL ASSOCIATION
+    OF FIRE FIGHTERS\x1C\x1C\x1C\x1C\x1C\x1C1750 New York Ave NW\x1C\x1CWashington\x1CDC\x1C200065301\x1CG2012\x1C\x1C20120725\x1C5000.00\x1C5000.00\x1C\x1C\x1CContact\x1CC70003108\x1CINTERNATIONAL
+    ASSOCIATION OF FIRE FIGHTERS\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7578937
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1750 New York Ave NW
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Washington
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '200065301'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120725'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '5000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Contact
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: C70003108
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613375\x1C\x1C\x1CPAC\x1CISEA PAC\x1C\x1C\x1C\x1C\x1C\x1C777
+    3rd St\x1C\x1CDes Moines\x1CIA\x1C503091301\x1CG2012\x1C\x1C20120824\x1C5000.00\x1C5000.00\x1C\x1C\x1C\x1C\x1CISEA
+    PAC\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613375
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ISEA PAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 777 3rd St
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Des Moines
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '503091301'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120824'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '5000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ISEA PAC
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613372\x1C\x1C\x1CCOM\x1CJacoby for House Committee\x1C\x1C\x1C\x1C\x1C\x1C2308
+    N Ridge Dr\x1C\x1CCoralville\x1CIA\x1C522411389\x1CG2012\x1C\x1C20120810\x1C10000.00\x1C10000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613372
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Jacoby for House Committee
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2308 N Ridge Dr
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Coralville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '522411389'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120810'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '10000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613358\x1C\x1C\x1CCOM\x1CNeighbors for Hatch\x1C\x1C\x1C\x1C\x1C\x1C1623
+    Woodland Ave\x1C\x1CDes Moines\x1CIA\x1C503093215\x1CG2012\x1C\x1C20120803\x1C10000.00\x1C10000.00\x1C\x1CState
+    of Iowa\x1CState Senator\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613358
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Neighbors for Hatch
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1623 Woodland Ave
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Des Moines
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '503093215'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120803'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '10000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: State of Iowa
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: State Senator
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7578934\x1C\x1C\x1CCOM\x1CPeople for Beall\x1C\x1C\x1C\x1C\x1C\x1C1928
+    N 22nd St\x1CFt Dodge\x1CFort Dodge\x1CIA\x1C505017863\x1CG2012\x1C\x1C20120725\x1C5000.00\x1C5000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7578934
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: People for Beall
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1928 N 22nd St
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: Ft Dodge
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Fort Dodge
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '505017863'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120725'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '5000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '5000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613365\x1C\x1C\x1CCOM\x1CSodders for State Senate\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 723\x1C\x1CState Center\x1CIA\x1C502470723\x1CG2012\x1C\x1C20120809\x1C10000.00\x1C10000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613365
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Sodders for State Senate
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: PO Box 723
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: State Center
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '502470723'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120809'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '10000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SASL1A\x1CC00035600\x1CC7613363\x1C\x1C\x1CCOM\x1CWilhelm for Iowa Senate\x1C\x1C\x1C\x1C\x1C\x1C414
+    N Elm St\x1C\x1CCresco\x1CIA\x1C521361344\x1CG2012\x1C\x1C20120806\x1C10000.00\x1C10000.00\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SASL1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID
+    number: '3'
+    value: C7613363
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Wilhelm for Iowa Senate
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 414 N Elm St
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Cresco
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '521361344'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20120806'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '10000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '10000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: 'Levin
+
+'
+- input: "SBSL5\x1CC00035600\x1CD485540\x1C\x1C\x1CORG\x1CIowa Democratic Party -
+    \ Federal Account\x1C\x1C\x1C\x1C\x1C\x1C5661 Fleur Dr\x1C\x1CDes Moines\x1CIA\x1C503212841\x1CG2012\x1C\x1C20120810\x1C15120.00\x1C\x1CTransfer
+    to Federal Account\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLevin\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SBSL5
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D485540
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Iowa Democratic Party -  Federal Account
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 5661 Fleur Dr
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Des Moines
+  - name: PAYEE STATE
+    number: '16'
+    value: IA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '503212841'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120810'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '15120.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Transfer to Federal Account
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: 'Levin
+
+'
+- input: "TEXT\x1CC00035600\x1CX0\x1C\x1CF3XA\x1CThis is in response to the Federal
+    Election Commission's letter dated April 4, 2013.  Please note that none of the
+    funds received from the 'Democratic Congressional Campaign Committee, DNC Services
+    Corporation/Democratic National Committee, Kentucky Democratic Party and North
+    Dakota Democratic NPL Party' were used for the Federal share of allocable Federal
+    Election Activity.  The Committee maintains a separate bank account in which party
+    transfers are deposited.  This account is never used to pay for allocable Federal
+    Election Activity.  In addition, the Committee disclosed payments for Salaries/Wages
+    for this period on Schedule H4 for Line 21a and Schedule B for Line 30b.  The
+    Committee paid its employees with 100% federal funds and disclosed the expenditures
+    on Line 30b when the individual spent more than 25% of their compensated time
+    in a given month on Federal Election Activity or activities in connection with
+    a Federal Election.  Those individuals who spent 25% or less of their compensated
+    time in a given month on FEA or activities in connection with a Federal Election
+    were paid with Federal funds and allocated on Schedule H4.  In either case, all
+    amounts spent for employee specific 'fringe benefits,' consisting of health insurance,
+    disability insurance, life insurance, retirement benefits and payroll taxes were
+    paid for and reported on a proportional basis equal to the amount associated with
+    the individual that received the compensation and the funds with which the individual
+    was paid.  Any reimbursements/allocation transfers to the Committee's federal
+    account from the Committee's non-federal account for salaries and/or benefits
+    were associated with individuals whose activities do not exceed 25% in a given
+    month.  Receipts reported on Schedule A for Line 17, unless otherwise noted, were
+    for the purchase of access to the Committee's voter file.  The Committee believed
+    this price properly reflected the fair market value of the file, which represented
+    the normal charge for such data in our state.  All costs associated with the voter
+    file were paid 100% out of the federal account and were therefore not allocable.
+    \ Payments listed on Schedule H4 for office supplies were payments either to vendors
+    or reimbursements to individuals for basic supplies used for day-to-day operations.
+    \ These items included, but were not limited to pens, paper, paper clips, pencils,
+    ink, toner, video tapes, CDs, cups, toilet paper, paper towels, tissues, trash
+    bags, coffee, tape, extension cords, light bulbs, labels, folders, organizers,
+    envelopes, soap, cleaning products, etc...\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X0
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3XA
+  - name: TEXT4000
+    number: '6'
+    value: 'This is in response to the Federal Election Commission''s letter dated
+      April 4, 2013.  Please note that none of the funds received from the ''Democratic
+      Congressional Campaign Committee, DNC Services Corporation/Democratic National
+      Committee, Kentucky Democratic Party and North Dakota Democratic NPL Party''
+      were used for the Federal share of allocable Federal Election Activity.  The
+      Committee maintains a separate bank account in which party transfers are deposited.  This
+      account is never used to pay for allocable Federal Election Activity.  In addition,
+      the Committee disclosed payments for Salaries/Wages for this period on Schedule
+      H4 for Line 21a and Schedule B for Line 30b.  The Committee paid its employees
+      with 100% federal funds and disclosed the expenditures on Line 30b when the
+      individual spent more than 25% of their compensated time in a given month on
+      Federal Election Activity or activities in connection with a Federal Election.  Those
+      individuals who spent 25% or less of their compensated time in a given month
+      on FEA or activities in connection with a Federal Election were paid with Federal
+      funds and allocated on Schedule H4.  In either case, all amounts spent for employee
+      specific ''fringe benefits,'' consisting of health insurance, disability insurance,
+      life insurance, retirement benefits and payroll taxes were paid for and reported
+      on a proportional basis equal to the amount associated with the individual that
+      received the compensation and the funds with which the individual was paid.  Any
+      reimbursements/allocation transfers to the Committee''s federal account from
+      the Committee''s non-federal account for salaries and/or benefits were associated
+      with individuals whose activities do not exceed 25% in a given month.  Receipts
+      reported on Schedule A for Line 17, unless otherwise noted, were for the purchase
+      of access to the Committee''s voter file.  The Committee believed this price
+      properly reflected the fair market value of the file, which represented the
+      normal charge for such data in our state.  All costs associated with the voter
+      file were paid 100% out of the federal account and were therefore not allocable.  Payments
+      listed on Schedule H4 for office supplies were payments either to vendors or
+      reimbursements to individuals for basic supplies used for day-to-day operations.  These
+      items included, but were not limited to pens, paper, paper clips, pencils, ink,
+      toner, video tapes, CDs, cups, toilet paper, paper towels, tissues, trash bags,
+      coffee, tape, extension cords, light bulbs, labels, folders, organizers, envelopes,
+      soap, cleaning products, etc...
+
+'
+- input: "TEXT\x1CC00035600\x1CX1\x1CC7610022\x1CSA17\x1CRepresents state income tax
+    checkoff contributions.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X1
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7610022
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Represents state income tax checkoff contributions.
+
+'
+- input: "TEXT\x1CC00035600\x1CX10\x1CC7609989\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X10
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7609989
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX11\x1CC7584847\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X11
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584847
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX12\x1CC7609850\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X12
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7609850
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX13\x1CC7610154\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X13
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7610154
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX14\x1CC7584878\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X14
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584878
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX15\x1CC7584849\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X15
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584849
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX16\x1CC7584904\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X16
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584904
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX17\x1CC7584880\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X17
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584880
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX18\x1CC7584873\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X18
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584873
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX19\x1CC7584872\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X19
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584872
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX2\x1CC7584912\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584912
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX20\x1CC7609983\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X20
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7609983
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX21\x1CC7584839\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X21
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584839
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX22\x1CC7584858\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X22
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584858
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX23\x1CC7610011\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X23
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7610011
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX24\x1CC7584910\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X24
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584910
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX25\x1CC7584909\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X25
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584909
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX26\x1CC7609848\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X26
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7609848
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX27\x1CC7609945\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X27
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7609945
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX28\x1CC7609853\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X28
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7609853
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX29\x1CC7584870\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X29
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584870
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX3\x1CC7610018\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X3
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7610018
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX30\x1CC7584875\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X30
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584875
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX31\x1CC7584913\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X31
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584913
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX32\x1CC7609944\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X32
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7609944
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX33\x1CD484694\x1CSB21B\x1CNot on behalf of any federal
+    candidate.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X33
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D484694
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21B
+  - name: TEXT4000
+    number: '6'
+    value: 'Not on behalf of any federal candidate.
+
+'
+- input: "TEXT\x1CC00035600\x1CX34\x1CD484554\x1CSB21B\x1CNot on behalf of any federal
+    candidate.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X34
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D484554
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21B
+  - name: TEXT4000
+    number: '6'
+    value: 'Not on behalf of any federal candidate.
+
+'
+- input: "TEXT\x1CC00035600\x1CX35\x1CD484555\x1CSB21B\x1CNot on behalf of any federal
+    candidate.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X35
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D484555
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21B
+  - name: TEXT4000
+    number: '6'
+    value: 'Not on behalf of any federal candidate.
+
+'
+- input: "TEXT\x1CC00035600\x1CX36\x1CD485647\x1CSB21B\x1CNot on behalf of any federal
+    candidate.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X36
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D485647
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21B
+  - name: TEXT4000
+    number: '6'
+    value: 'Not on behalf of any federal candidate.
+
+'
+- input: "TEXT\x1CC00035600\x1CX37\x1CD484573\x1CH4\x1CThis is a service fee for payroll
+    processing such as filing taxes and cutting checks, not a salary payment for an
+    individual(s).\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X37
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D484573
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: H4
+  - name: TEXT4000
+    number: '6'
+    value: 'This is a service fee for payroll processing such as filing taxes and
+      cutting checks, not a salary payment for an individual(s).
+
+'
+- input: "TEXT\x1CC00035600\x1CX38\x1CD484576\x1CH4\x1CThis is a service fee for payroll
+    processing such as filing taxes and cutting checks, not a salary payment for an
+    individual(s).\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X38
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D484576
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: H4
+  - name: TEXT4000
+    number: '6'
+    value: 'This is a service fee for payroll processing such as filing taxes and
+      cutting checks, not a salary payment for an individual(s).
+
+'
+- input: "TEXT\x1CC00035600\x1CX39\x1CD484595\x1CH4\x1CThis is a service fee for payroll
+    processing such as filing taxes and cutting checks, not a salary payment for an
+    individual(s).\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X39
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D484595
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: H4
+  - name: TEXT4000
+    number: '6'
+    value: 'This is a service fee for payroll processing such as filing taxes and
+      cutting checks, not a salary payment for an individual(s).
+
+'
+- input: "TEXT\x1CC00035600\x1CX4\x1CC7584856\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X4
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584856
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX5\x1CC7584911\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X5
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584911
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX6\x1CC7584836\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584836
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX7\x1CC7584908\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X7
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584908
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX8\x1CC7609882\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X8
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7609882
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+- input: "TEXT\x1CC00035600\x1CX9\x1CC7584852\x1CSA17\x1CPurchase of voter file access.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00035600
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X9
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: C7584852
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA17
+  - name: TEXT4000
+    number: '6'
+    value: 'Purchase of voter file access.
+
+'
+sourceurl: !!python/unicode 20130506
+type: chunk

@@ -1,0 +1,908 @@
+countrows: 9
+filename: 868957.fec
+header: {}
+rows:
+- 2
+- input: "F24A\x1CC00520080\x1C24\x1C20121027\x1CFriends of Democracy\x1C1133 19th
+    St NW Floor 9\x1C\x1CWashington,\x1CDC\x1C20036\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20130425\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: '20121027'
+  - name: COMMITTEE NAME
+    number: '5'
+    value: Friends of Democracy
+  - name: STREET 1
+    number: '6'
+    value: 1133 19th St NW Floor 9
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Washington,
+  - name: STATE
+    number: '9'
+    value: DC
+  - name: ZIP
+    number: '10'
+    value: '20036'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Donnelly
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: David
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130425
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA61KH7\x1C\x1C\x1CORG\x1CChong and Koster\x1C\x1C\x1C\x1C\x1C\x1C1244
+    19th St NW\x1C\x1CWashington\x1CDC\x1C200366618\x1CG2012\x1C\x1C20121027\x1C40950.00\x1C167985.04\x1Cweb
+    advertising\x1C004\x1C\x1CO\x1CH0NY19139\x1CHAYWORTH\x1CNAN\x1C\x1C\x1C\x1CH\x1CNY\x1C18\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20130425\x1C\x1Cnon-contribution
+    account\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA61KH7
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Chong and Koster
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1244 19th St NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '200366618'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121027'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '40950.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '167985.04'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: web advertising
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H0NY19139
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: HAYWORTH
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: NAN
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '18'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130425'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: 'non-contribution account
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA61KJ5\x1C\x1C\x1CORG\x1CChong and Koster\x1C\x1C\x1C\x1C\x1C\x1C1244
+    19th St NW\x1C\x1CWashington\x1CDC\x1C200366618\x1CG2012\x1C\x1C20121027\x1C43250.00\x1C363863.26\x1Cweb
+    advertising\x1C004\x1C\x1CO\x1CH0NH02017\x1CBASS\x1CCHARLES F.\x1C\x1C\x1C\x1CH\x1CNH\x1C02\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20130425\x1C\x1Cnon-contribution
+    account\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA61KJ5
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Chong and Koster
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1244 19th St NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '200366618'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121027'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '43250.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '363863.26'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: web advertising
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H0NH02017
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: BASS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CHARLES F.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: NH
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '02'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130425'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: 'non-contribution account
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA61KK3\x1C\x1C\x1CORG\x1CChong and Koster\x1C\x1C\x1C\x1C\x1C\x1C1244
+    19th St NW\x1C\x1CWashington\x1CDC\x1C200366618\x1CG2012\x1C\x1C20121027\x1C37500.00\x1C334841.92\x1Cweb
+    advertising\x1C004\x1C\x1CO\x1CH6CA34112\x1CLUNGREN\x1CDANIEL E.\x1C\x1C\x1C\x1CH\x1CCA\x1C07\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20130425\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA61KK3
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Chong and Koster
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1244 19th St NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '200366618'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121027'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '37500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '334841.92'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: web advertising
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H6CA34112
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: LUNGREN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: DANIEL E.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: CA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '07'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130425'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA61KM1\x1C\x1C\x1CORG\x1CChong and Koster\x1C\x1C\x1C\x1C\x1C\x1C1244
+    19th St NW\x1C\x1CWashington\x1CDC\x1C200366618\x1CG2012\x1C\x1C20121027\x1C14500.00\x1C90098.51\x1Cweb
+    advertising\x1C004\x1C\x1CO\x1CH8CA44034\x1CBONO MACK\x1CMARY\x1C\x1C\x1C\x1CH\x1CCA\x1C36\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20130425\x1C\x1Cnon-contribution
+    account\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA61KM1
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Chong and Koster
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1244 19th St NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '200366618'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121027'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '14500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '90098.51'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: web advertising
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H8CA44034
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: BONO MACK
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: MARY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: CA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '36'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130425'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: 'non-contribution account
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA61KN9\x1C\x1C\x1CORG\x1CChong and Koster\x1C\x1C\x1C\x1C\x1C\x1C1244
+    19th St NW\x1C\x1CWashington\x1CDC\x1C200366618\x1CG2012\x1C\x1C20121027\x1C14500.00\x1C120358.49\x1Cweb
+    advertising\x1C004\x1C\x1CO\x1CH0NY25078\x1CBUERKLE\x1CANN MARIE\x1C\x1C\x1C\x1CH\x1CNY\x1C24\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20130425\x1C\x1Cnon-contribution
+    account\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA61KN9
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Chong and Koster
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1244 19th St NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '200366618'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121027'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '14500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '120358.49'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: web advertising
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H0NY25078
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: BUERKLE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: ANN MARIE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '24'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130425'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: 'non-contribution account
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA650P6\x1C\x1C\x1CORG\x1CWinning Connections\x1C\x1C\x1C\x1C\x1C\x1C317
+    Pennsylvania Ave SE\x1CFl 2\x1CWashington\x1CDC\x1C200031148\x1CG2012\x1C\x1C20121027\x1C895.56\x1C90098.51\x1Cvoter
+    persuasion & turnout calling\x1C005\x1C\x1CO\x1CH8CA44034\x1CBONO MACK\x1CMARY\x1C\x1C\x1C\x1CH\x1CCA\x1C36\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20130425\x1C\x1C(non-contribution
+    acct) orignially estimated/reported as $1,095.62\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA650P6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Winning Connections
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 317 Pennsylvania Ave SE
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Fl 2
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '200031148'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121027'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '895.56'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '90098.51'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: voter persuasion & turnout calling
+  - name: CATEGORY CODE
+    number: '24'
+    value: '005'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H8CA44034
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: BONO MACK
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: MARY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: CA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '36'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130425'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '(non-contribution acct) orignially estimated/reported as $1,095.62
+
+'
+- input: "TEXT\x1CC00520080\x1CX822\x1C\x1CF24A\x1CThis was intended to be a 24 Hour
+    Notice rather than a 48 Hour Notice.  One expenditure amount has been corrected
+    to $895.56 from $1095.62\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X822
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F24A
+  - name: TEXT4000
+    number: '6'
+    value: 'This was intended to be a 24 Hour Notice rather than a 48 Hour Notice.  One
+      expenditure amount has been corrected to $895.56 from $1095.62
+
+'
+sourceurl: !!python/unicode 20130425
+type: chunk

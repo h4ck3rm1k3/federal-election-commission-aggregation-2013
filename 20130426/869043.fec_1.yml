@@ -1,0 +1,128 @@
+countrows: 2
+filename: 869043.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH0NY19139\x1C\"Hayworth\"\x1C\"Nan\"\x1C\x1C\x1C\x1C\x1C\"PO Box
+    394\"\x1C\x1C\"Fishkill\"\x1CNY\x1C12524\x1CREP\x1CH\x1CNY\x1C18\x1C2014\x1CC00466490\x1C\"Friends
+    of Nan Hayworth\"\x1C\"PO Box 394\"\x1C\x1C\"Fishkill\"\x1CNY\x1C12524\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\"Hayworth\"\x1C\"Nan\"\x1C\x1C\x1C\x1C20130426\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0NY19139
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Hayworth
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Nan
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO Box 394
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Fishkill
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NY
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '12524'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NY
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '18'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00466490
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Friends of Nan Hayworth
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 394
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Fishkill
+  - name: PCC STATE
+    number: '24'
+    value: NY
+  - name: PCC ZIP
+    number: '25'
+    value: '12524'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Hayworth
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Nan
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130426
+
+'
+sourceurl: !!python/unicode 20130426
+type: chunk

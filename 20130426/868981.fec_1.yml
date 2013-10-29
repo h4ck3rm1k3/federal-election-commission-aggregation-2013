@@ -1,0 +1,752 @@
+countrows: 12
+filename: 868981.fec
+header: {}
+rows:
+- 2
+- input: "F6N\x1CC00541243\x1C\x1CELIZABETH COLBERT BUSCH FOR CONGRESS\x1CPO BOX 21949\x1C\x1CCHARLESTON\x1CSC\x1C29413\x1CH4SC01172\x1CBUSCH\x1CELIZABETH
+    COLBERT\x1C\x1C\x1C\x1CH\x1CSC\x1C01\x1CBusch\x1CClaus\x1C\x1C\x1C\x1C20130425\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: ELIZABETH COLBERT BUSCH FOR CONGRESS
+  - name: STREET 1
+    number: '5'
+    value: PO BOX 21949
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: CHARLESTON
+  - name: STATE
+    number: '8'
+    value: SC
+  - name: ZIP
+    number: '9'
+    value: '29413'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H4SC01172
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: BUSCH
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: ELIZABETH COLBERT
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: SC
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '01'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Busch
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Claus
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130425
+
+'
+- input: "F65\x1CC00541243\x1CF6.4346\x1CIND\x1C\x1CArms\x1CAbigail\x1C\x1C\x1C\x1C8356
+    Orange Court\x1C\x1CAlexandria\x1CVA\x1C22309\x1C\x1C20130424\x1C1000.00\x1CShearman
+    & Sterling\x1CAttorney\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4346
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Arms
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Abigail
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 8356 Orange Court
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Alexandria
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: VA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '22309'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130424'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Shearman & Sterling
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Attorney
+
+'
+- input: "F65\x1CC00541243\x1CF6.4340\x1CIND\x1C\x1CCooper\x1CLawrence E.\x1C\x1C\x1C\x1C1150
+    Lake Hearn Drive\x1CSuite 650\x1CAtlanta\x1CGA\x1C30342\x1C\x1C20130424\x1C1000.00\x1CBentley
+    Investments\x1CPresident\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4340
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Cooper
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Lawrence E.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 1150 Lake Hearn Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: Suite 650
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Atlanta
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: GA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '30342'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130424'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Bentley Investments
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'President
+
+'
+- input: "F65\x1CC00541243\x1CF6.4349\x1CIND\x1C\x1CDarwin\x1CRebecca\x1C\x1C\x1C\x1C20
+    Trumbo Street\x1C\x1CCharleston\x1CSC\x1C29401\x1C\x1C20130424\x1C2600.00\x1CGarden
+    & Gun\x1CPresident, CEO & Founder\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4349
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Darwin
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Rebecca
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 20 Trumbo Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29401'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130424'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2600.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Garden & Gun
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'President, CEO & Founder
+
+'
+- input: "F65\x1CC00541243\x1CF6.4366\x1CIND\x1C\x1CHuge\x1CHarry\x1C\x1C\x1C\x1C25
+    E. Battery Street\x1C\x1CCharleston\x1CSC\x1C29401\x1C\x1C20130424\x1C1000.00\x1CSelf-employed\x1CLawyer\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4366
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Huge
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Harry
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 25 E. Battery Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29401'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130424'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Self-employed
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Lawyer
+
+'
+- input: "F65\x1CC00541243\x1CF6.4358\x1CIND\x1C\x1CLeighton\x1CPenelope\x1C\x1C\x1C\x1C7
+    Motley Lane\x1C\x1CCharleston\x1CSC\x1C29401\x1C\x1C20130424\x1C2600.00\x1CRetired\x1CRetired\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4358
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Leighton
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Penelope
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 7 Motley Lane
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29401'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130424'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2600.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Retired
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Retired
+
+'
+- input: "F65\x1CC00541243\x1CF6.4337\x1CIND\x1C\x1CMaxwell\x1CRonald A.\x1C\x1C\x1C\x1CP.O.
+    Box 3084\x1C\x1CAiken\x1CSC\x1C29802\x1C\x1C20130424\x1C1000.00\x1CMaxwll Law
+    Firm\x1CAttorney\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4337
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Maxwell
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Ronald A.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: P.O. Box 3084
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Aiken
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29802'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130424'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Maxwll Law Firm
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Attorney
+
+'
+- input: "F65\x1CC00541243\x1CF6.4355\x1CIND\x1C\x1CMeagher\x1CGeorgia\x1C\x1C\x1C\x1C5
+    Alexander Street\x1C\x1CCharleston\x1CSC\x1C29401\x1C\x1C20130424\x1C2600.00\x1CRetired\x1CRetired
+    Lawyer\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4355
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Meagher
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Georgia
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 5 Alexander Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29401'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130424'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2600.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Retired
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Retired Lawyer
+
+'
+- input: "F65\x1CC00541243\x1CF6.4352\x1CIND\x1C\x1CYorkin\x1CPeg\x1C\x1C\x1C\x1C433
+    S. Beverly Drive\x1C\x1CBeverly Hills\x1CCA\x1C90212\x1C\x1C20130424\x1C1000.00\x1CRetired\x1CRetired\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4352
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Yorkin
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Peg
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 433 S. Beverly Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Beverly Hills
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '90212'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130424'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Retired
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Retired
+
+'
+- input: "F65\x1CC00541243\x1CF6.4364\x1CPAC\x1CINT'L. ASSOCIATION OF BRIDGE, STRUCTURAL,
+    ORNAMENTAL & REINFORCING IRON WORKERS (IPAL)\x1C\x1C\x1C\x1C\x1C\x1C1750 NEW YORK
+    AVE. NW\x1CSUITE 400\x1CWASHINGTON\x1CDC\x1C20006\x1CC00027359\x1C20130424\x1C4000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4364
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: INT'L. ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL & REINFORCING IRON
+      WORKERS (IPAL)
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 1750 NEW YORK AVE. NW
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: SUITE 400
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: WASHINGTON
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20006'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00027359
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130424'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '4000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F65\x1CC00541243\x1CF6.4361\x1CPAC\x1CNEW DEMOCRAT COALITION POLITICAL ACTION
+    COMMITTEE AKA NDC PAC\x1C\x1C\x1C\x1C\x1C\x1C700 13TH STREET, NW\x1CSUITE 600\x1CWASHINGTON\x1CDC\x1C20005\x1CC00409730\x1C20130424\x1C5000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541243
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4361
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: NEW DEMOCRAT COALITION POLITICAL ACTION COMMITTEE AKA NDC PAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 700 13TH STREET, NW
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: SUITE 600
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: WASHINGTON
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20005'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00409730
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130424'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '5000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130426
+type: chunk
