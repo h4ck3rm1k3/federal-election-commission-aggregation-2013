@@ -1,0 +1,201 @@
+countrows: 3
+filename: 859566.fec
+header: {}
+rows:
+- 2
+- input: "F24N\x1CC00509489\x1C24\x1C\x1CPATRIOT SUPER PAC\x1C14325 WILLARD RD\x1CSUITE
+    100\x1CCHANTILLY\x1CVA\x1C20151\x1CThomas\x1CFreiling\x1CM\x1C\x1C\x1C20130307\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00509489
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '5'
+    value: PATRIOT SUPER PAC
+  - name: STREET 1
+    number: '6'
+    value: 14325 WILLARD RD
+  - name: STREET 2
+    number: '7'
+    value: SUITE 100
+  - name: CITY
+    number: '8'
+    value: CHANTILLY
+  - name: STATE
+    number: '9'
+    value: VA
+  - name: ZIP
+    number: '10'
+    value: '20151'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Thomas
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Freiling
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: M
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130307
+
+'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00509489
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: WFT2013271329-1
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PAC
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Patriot Super PAC
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 14325 Willard Road
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Suite 100
+  - name: PAYEE CITY
+    number: '15'
+    value: Chantilly
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20151'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130308'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '4395.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '2013.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Television Advertisements/Iowa
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00509489
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Robert
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: McDonnell
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: F
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: IA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Thomas
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Freiling
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: M
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130307'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - value: '
+
+'
+  expected_count: 43
+  input: "SE\x1CC00509489\x1CWFT2013271329-1\x1C\x1C\x1CPAC\x1CPatriot Super PAC\x1C\x1C\x1C\x1C\x1C\x1C14325
+    Willard Road\x1CSuite 100\x1CChantilly\x1CVA\x1C20151\x1CP2013\x1C\x1C20130308\x1C4395.00\x1C2013.00\x1CTelevision
+    Advertisements/Iowa\x1C\x1CC00509489\x1CO\x1C\x1CRobert\x1CMcDonnell\x1CF\x1C\x1C\x1CP\x1CIA\x1C\x1CThomas\x1CFreiling\x1CM\x1C\x1C\x1C20130307\x1C\x1C\x1C\n"
+  input_count: 44
+  record: fec.version.v8_0.SE
+  result: []
+sourceurl: !!python/unicode 20130307
+type: chunk

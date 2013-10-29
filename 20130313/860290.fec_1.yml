@@ -1,0 +1,198 @@
+countrows: 3
+filename: 860290.fec
+header: {}
+rows:
+- 2
+- input: "F24N\x1CC00541524\x1C24\x1C\x1CCOASTAL CONSERVATIVE FUND\x1C164 MARKET STREET
+    #257\x1C\x1CCHARLESTON\x1CSC\x1C29401\x1CTyrrell\x1CJames\x1CE\x1C\x1CIII\x1C20130313\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541524
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '5'
+    value: COASTAL CONSERVATIVE FUND
+  - name: STREET 1
+    number: '6'
+    value: '164 MARKET STREET #257'
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: CHARLESTON
+  - name: STATE
+    number: '9'
+    value: SC
+  - name: ZIP
+    number: '10'
+    value: '29401'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Tyrrell
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: James
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: E
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: III
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130313
+
+'
+- input: "SE\x1CC00541524\x1CSE.4111\x1C\x1C\x1CORG\x1CSRH Media, Inc.\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 367\x1C\x1CSpencerville\x1CMD\x1C20868\x1CS2013\x1CSpecial-Primary\x1C20130312\x1C11925.00\x1C11925.00\x1CMedia
+    Placement and Production\x1C\x1CC00541524\x1CS\x1CH4SC00018\x1CBOSTIC\x1CCURTIS
+    EILLIOTT\x1C\x1C\x1C\x1CH\x1CSC\x1C01\x1CTyrrell\x1CJames\x1CE\x1C\x1CIII\x1C20130313\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541524
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4111
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: SRH Media, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. Box 367
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Spencerville
+  - name: PAYEE STATE
+    number: '16'
+    value: MD
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20868'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-Primary
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130312'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '11925.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '11925.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Media Placement and Production
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00541524
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H4SC00018
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: BOSTIC
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CURTIS EILLIOTT
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: SC
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '01'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tyrrell
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: James
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: E
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: III
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130313'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130313
+type: chunk

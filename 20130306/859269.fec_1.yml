@@ -1,0 +1,1647 @@
+countrows: 16
+filename: 859269.fec
+header: {}
+rows:
+- 2
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F5N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: ENTITY TYPE
+    number: '3'
+    value: ''
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: VOTEVETS.ORG ACTION FUND
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: ''
+  - name: STREET 1
+    number: '11'
+    value: '2201 WISCONSIN AVE NW #320'
+  - name: STREET 2
+    number: '12'
+    value: ''
+  - name: CITY
+    number: '13'
+    value: WASHINGTON
+  - name: STATE
+    number: '14'
+    value: DC
+  - name: ZIP
+    number: '15'
+    value: '20007'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: Y
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: ''
+  - name: REPORT CODE
+    number: '19'
+    value: YE
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: '20121001'
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: '20121231'
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '1553619.06'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: Mellman
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: Peter
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: ''
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130306'
+  - value: '
+
+'
+  expected_count: 30
+  input: "F5N\x1CC90010620\x1C\x1CVOTEVETS.ORG ACTION FUND\x1C\x1C\x1C\x1C\x1C\x1C\x1C2201
+    WISCONSIN AVE NW #320\x1C\x1CWASHINGTON\x1CDC\x1C20007\x1CY\x1C\x1C\x1CYE\x1C\x1C20121001\x1C20121231\x1C.00\x1C1553619.06\x1CMellman\x1CPeter\x1C\x1C\x1C\x1C20130306\x1C\n"
+  input_count: 31
+  record: fec.version.v8_0.F5
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000001
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Grassroots Campaigns, Inc.
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: PO Box 120557
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Boston
+  - name: PAYEE STATE
+    number: '14'
+    value: MA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '02112'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121003'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '35000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '62785.21'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Canvass and literature distribution (Veteran)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S6MT00162
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Tester
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Jon
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: MT
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000001\x1CORG\x1C\"Grassroots Campaigns, Inc.\"\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 120557\x1C\x1CBoston\x1CMA\x1C02112\x1CG2012\x1C\x1C20121003\x1C35000.00\x1C62785.21\x1CCanvass
+    and literature distribution (Veteran)\x1C004\x1C\x1CS\x1CS6MT00162\x1CTester\x1CJon\x1C\x1C\x1C\x1CS\x1CMT\x1C00\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000002
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Precision Strategies, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 203 N. Patrick St.
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Alexandria
+  - name: PAYEE STATE
+    number: '14'
+    value: VA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '22314'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121003'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '13065.24'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '62785.21'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Production and printing literature (Veteran)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S6MT00162
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Tester
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Jon
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: MT
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000002\x1CORG\x1C\"Precision Strategies, LLC\"\x1C\x1C\x1C\x1C\x1C\x1C203
+    N. Patrick St.\x1C\x1CAlexandria\x1CVA\x1C22314\x1CG2012\x1C\x1C20121003\x1C13065.24\x1C62785.21\x1CProduction
+    and printing literature (Veteran)\x1C004\x1C\x1CS\x1CS6MT00162\x1CTester\x1CJon\x1C\x1C\x1C\x1CS\x1CMT\x1C00\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000003
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Kate Nelson Media, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 5812 Pratt Court
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Alexandria
+  - name: PAYEE STATE
+    number: '14'
+    value: VA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '22310'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121004'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '300000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '579485.60'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Broadcast and cable media buy (Pledge)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2IN00083
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Mourdock
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Richard
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IN
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000003\x1CORG\x1C\"Kate Nelson Media, LLC\"\x1C\x1C\x1C\x1C\x1C\x1C5812
+    Pratt Court\x1C\x1CAlexandria\x1CVA\x1C22310\x1CG2012\x1C\x1C20121004\x1C300000.00\x1C579485.60\x1CBroadcast
+    and cable media buy (Pledge)\x1C004\x1C\x1CO\x1CS2IN00083\x1CMourdock\x1CRichard\x1C\x1C\x1C\x1CS\x1CIN\x1C00\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000004
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Envision Communications Inc.
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 2715 M Street NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20007'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121004'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '14485.60'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '579485.60'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Ad production (Pledge)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2IN00083
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Mourdock
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Richard
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IN
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000004\x1CORG\x1CEnvision Communications Inc.\x1C\x1C\x1C\x1C\x1C\x1C2715
+    M Street NW\x1C\x1CWashington\x1CDC\x1C20007\x1CG2012\x1C\x1C20121004\x1C14485.60\x1C579485.60\x1CAd
+    production (Pledge)\x1C004\x1C\x1CO\x1CS2IN00083\x1CMourdock\x1CRichard\x1C\x1C\x1C\x1CS\x1CIN\x1C00\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000005
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Waterfront Strategies
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 3050 K Street NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20007'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121015'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '117012.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '354931.25'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Broadcast TV buy (Respect)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2AZ00141
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Flake
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Jeff
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: AZ
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000005\x1CORG\x1CWaterfront Strategies\x1C\x1C\x1C\x1C\x1C\x1C3050
+    K Street NW\x1C\x1CWashington\x1CDC\x1C20007\x1CG2012\x1C\x1C20121015\x1C117012.50\x1C354931.25\x1CBroadcast
+    TV buy (Respect)\x1C004\x1C\x1CO\x1CS2AZ00141\x1CFlake\x1CJeff\x1C\x1C\x1C\x1CS\x1CAZ\x1C00\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000006
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Waterfront Strategies
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 3050 K Street NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20007'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121019'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '73768.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '354931.25'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Broadcast TV buy (Respect)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2AZ00141
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Flake
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Jeff
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: AZ
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000006\x1CORG\x1CWaterfront Strategies\x1C\x1C\x1C\x1C\x1C\x1C3050
+    K Street NW\x1C\x1CWashington\x1CDC\x1C20007\x1CG2012\x1C\x1C20121019\x1C73768.75\x1C354931.25\x1CBroadcast
+    TV buy (Respect)\x1C004\x1C\x1CO\x1CS2AZ00141\x1CFlake\x1CJeff\x1C\x1C\x1C\x1CS\x1CAZ\x1C00\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000007
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Precision Network LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1750 K Street NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20006'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121022'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '100000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '579485.60'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Website, video production, and online advertising (whoisrichardmourdock.com)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2IN00083
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Mourdock
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Richard
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IN
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000007\x1CORG\x1CPrecision Network LLC\x1C\x1C\x1C\x1C\x1C\x1C1750
+    K Street NW\x1C\x1CWashington\x1CDC\x1C20006\x1CG2012\x1C\x1C20121022\x1C100000.00\x1C579485.60\x1C\"Website,
+    video production, and online advertising (whoisrichardmourdock.com)\"\x1C004\x1C\x1CO\x1CS2IN00083\x1CMourdock\x1CRichard\x1C\x1C\x1C\x1CS\x1CIN\x1C00\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000008
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Envision Communications
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 2715 M Street NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20007'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20131022'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '14063.76'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '694063.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Ad production costs (Waste)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S8VA00214
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Allen
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: George
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000008\x1CORG\x1CEnvision Communications\x1C\x1C\x1C\x1C\x1C\x1C2715
+    M Street NW\x1C\x1CWashington\x1CDC\x1C20007\x1CG2012\x1C\x1C20131022\x1C14063.76\x1C694063.76\x1CAd
+    production costs (Waste)\x1C004\x1C\x1CO\x1CS8VA00214\x1CAllen\x1CGeorge\x1C\x1C\x1C\x1CS\x1CVA\x1C00\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000009
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Buying Time, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 650 Massachusetts Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121022'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '180000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '694063.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Broadcast TV media buy (Waste)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S8VA00214
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Allen
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: George
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000009\x1CORG\x1C\"Buying Time, LLC\"\x1C\x1C\x1C\x1C\x1C\x1C650
+    Massachusetts Ave NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121022\x1C180000.00\x1C694063.76\x1CBroadcast
+    TV media buy (Waste)\x1C004\x1C\x1CO\x1CS8VA00214\x1CAllen\x1CGeorge\x1C\x1C\x1C\x1CS\x1CVA\x1C00\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000010
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Kate Nelson Media, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 5812 Pratt Court
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Alexandria
+  - name: PAYEE STATE
+    number: '14'
+    value: VA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '22310'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121023'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '165000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '579485.60'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Broadcast TV media buy (Pledge)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2IN00083
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Mourdock
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Richard
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IN
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000010\x1CORG\x1C\"Kate Nelson Media, LLC\"\x1C\x1C\x1C\x1C\x1C\x1C5812
+    Pratt Court\x1C\x1CAlexandria\x1CVA\x1C22310\x1CG2012\x1C\x1C20121023\x1C165000.00\x1C579485.60\x1CBroadcast
+    TV media buy (Pledge)\x1C004\x1C\x1CO\x1CS2IN00083\x1CMourdock\x1CRichard\x1C\x1C\x1C\x1CS\x1CIN\x1C00\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000011
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Petel & Co.
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 737 8th SE
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20003'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121023'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '25200.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '26503.24'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Mail production and postage (Abandoned)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0IL08090
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Walsh
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Joe
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: 08
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000011\x1CORG\x1CPetel & Co.\x1C\x1C\x1C\x1C\x1C\x1C737
+    8th SE\x1C\x1CWashington\x1CDC\x1C20003\x1CG2012\x1C\x1C20121023\x1C25200.00\x1C26503.24\x1CMail
+    production and postage (Abandoned)\x1C004\x1C\x1CO\x1CH0IL08090\x1CWalsh\x1CJoe\x1C\x1C\x1C\x1CH\x1CIL\x1C08\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000012
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Catalist, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1090 Vermont Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20005'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121023'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1303.24'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '26503.24'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Purchase of mail file (Abandoned)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0IL08090
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Walsh
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Joe
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: 08
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000012\x1CORG\x1C\"Catalist, LLC\"\x1C\x1C\x1C\x1C\x1C\x1C1090
+    Vermont Ave NW\x1C\x1CWashington\x1CDC\x1C20005\x1CG2012\x1C\x1C20121023\x1C1303.24\x1C26503.24\x1CPurchase
+    of mail file (Abandoned)\x1C004\x1C\x1CO\x1CH0IL08090\x1CWalsh\x1CJoe\x1C\x1C\x1C\x1CH\x1CIL\x1C08\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000013
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Buying Time, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 650 Massachusetts Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121030'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '500000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '694063.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Broadcast TV buy (Waste)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S8VA00214
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Allen
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: George
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000013\x1CORG\x1C\"Buying Time, LLC\"\x1C\x1C\x1C\x1C\x1C\x1C650
+    Massachusetts Ave NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121030\x1C500000.00\x1C694063.76\x1CBroadcast
+    TV buy (Waste)\x1C004\x1C\x1CO\x1CS8VA00214\x1CAllen\x1CGeorge\x1C\x1C\x1C\x1CS\x1CVA\x1C00\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010620
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000014
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: The Strategy Group
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1606 20th St. NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20009'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121101'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '14719.97'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '62785.21'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Mail production and postage (MTP2)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S6MT00162
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Tester
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Jon
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: MT
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010620\x1CF57.000014\x1CORG\x1CThe Strategy Group\x1C\x1C\x1C\x1C\x1C\x1C1606
+    20th St. NW\x1C\x1CWashington\x1CDC\x1C20009\x1CG2012\x1C\x1C20121101\x1C14719.97\x1C62785.21\x1CMail
+    production and postage (MTP2)\x1C004\x1C\x1CS\x1CS6MT00162\x1CTester\x1CJon\x1C\x1C\x1C\x1CS\x1CMT\x1C00\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+sourceurl: !!python/unicode 20130306
+type: chunk

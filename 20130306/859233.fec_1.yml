@@ -1,0 +1,151 @@
+countrows: 3
+filename: 859233.fec
+header: {}
+rows:
+- 2
+- input: "F6N\x1CC00540377\x1C\x1CTeddy Turner for Congress\x1CP.O. Box 35\x1C\x1CCharleston\x1CSC\x1C29402\x1CH3SC01018\x1CTurner\x1CRobert\x1CEdward\x1C\x1CIV\x1CH\x1CSC\x1C01\x1CSmith\x1CMichael\x1C\x1C\x1C\x1C20130306\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00540377
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Teddy Turner for Congress
+  - name: STREET 1
+    number: '5'
+    value: P.O. Box 35
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Charleston
+  - name: STATE
+    number: '8'
+    value: SC
+  - name: ZIP
+    number: '9'
+    value: '29402'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H3SC01018
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: Turner
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: Robert
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: Edward
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: IV
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: SC
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '01'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Smith
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Michael
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130306
+
+'
+- input: "F65\x1CC00540377\x1CF6.4378\x1CIND\x1C\x1CFasola\x1CAlfred\x1C\x1C\x1C\x1CP.O.
+    Box 80489\x1C\x1CCharleston\x1CSC\x1C29416\x1C\x1C20130304\x1C2600.00\x1CHY-STOR
+    Technologies\x1CCEO\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00540377
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4378
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Fasola
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Alfred
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: P.O. Box 80489
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29416'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130304'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2600.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: HY-STOR Technologies
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'CEO
+
+'
+sourceurl: !!python/unicode 20130306
+type: chunk

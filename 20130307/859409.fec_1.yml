@@ -1,0 +1,430 @@
+countrows: 3
+filename: 859409.fec
+header: {}
+rows:
+- 2
+- input: "F1A\x1CC00475145\x1C\x1CMARINO FOR CONGRESS\x1C\x1CPO BOX 653\x1C\x1CWILLIAMSPORT\x1CPA\x1C17703\x1CX\x1Chrlaw01@gmail.com;jabell57@comcast.net\x1C\x1Cwww.tommarinoforcongress.com\x1C20130307\x1CRothenberg\x1CHoward\x1C\x1C\x1C\x1C20130307\x1CA\x1CH0PA10078\x1CMARINO\x1CTHOMAS
+    ANTHONY\x1C\x1C\x1C\x1CH\x1CPA\x1C10\x1CREP\x1C\x1C\x1C\x1C\x1C\x1CC00495242\x1CPA
+    + 5 COMMITTEE\x1C\x1C\x1C\x1C\x1C\x1C\x1C7315 WISCONSIN AVENUE STE 310 EAST\x1C\x1CBETHESDA\x1CMD\x1C20814\x1CJFR\x1CBell\x1CJacqueline\x1CA\x1C\x1C\x1C130
+    Eldred Street\x1C\x1CWilliamsport\x1CPA\x1C17701\x1CCustodian of Records\x1C5709710728\x1CRothenberg\x1CHoward\x1C\x1C\x1C\x1C102
+    Sturbridge Rd\x1C\x1CClarks Summit\x1CPA\x1C18411\x1CTreasurer\x1C5702072889\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CJersey
+    Shore State Bank\x1C300 Market Street\x1C\x1CWilliamsport\x1CPA\x1C17701\x1CWachovia
+    Bank, N.A.\x1C7901 Wisconsin Avenue\x1CMD1010\x1CBethesda\x1CMD\x1C20814\n"
+  record: fec.version.v8_0.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00475145
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: MARINO FOR CONGRESS
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: PO BOX 653
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: WILLIAMSPORT
+  - name: STATE
+    number: '9'
+    value: PA
+  - name: ZIP
+    number: '10'
+    value: '17703'
+  - name: CHANGE OF COMMITTEE EMAIL
+    number: '11'
+    value: X
+  - name: COMMITTEE EMAIL
+    number: '12'
+    value: hrlaw01@gmail.com;jabell57@comcast.net
+  - name: CHANGE OF COMMITTEE WEB URL
+    number: '13'
+    value: ''
+  - name: COMMITTEE WEB URL
+    number: '14'
+    value: www.tommarinoforcongress.com
+  - name: EFFECTIVE DATE
+    number: '15'
+    value: '20130307'
+  - name: SIGNATURE LAST NAME
+    number: '16'
+    value: Rothenberg
+  - name: SIGNATURE FIRST NAME
+    number: '17'
+    value: Howard
+  - name: SIGNATURE MIDDLE NAME
+    number: '18'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '19'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '20'
+    value: ''
+  - name: DATE SIGNED
+    number: '21'
+    value: '20130307'
+  - name: COMMITTEE TYPE
+    number: 22-5.
+    value: A
+  - name: CANDIDATE ID NUMBER
+    number: 23-5.
+    value: H0PA10078
+  - name: CANDIDATE LAST NAME
+    number: 24-5.
+    value: MARINO
+  - name: CANDIDATE FIRST NAME
+    number: 25-5.
+    value: THOMAS ANTHONY
+  - name: CANDIDATE MIDDLE NAME
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 29-5.
+    value: H
+  - name: CANDIDATE STATE
+    number: 30-5.
+    value: PA
+  - name: CANDIDATE DISTRICT
+    number: 31-5.
+    value: '10'
+  - name: PARTY CODE
+    number: 32-5.
+    value: REP
+  - name: PARTY TYPE
+    number: 33-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 34-5 (e).
+    value: ''
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 35-5 (e).
+    value: ''
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 36-5 (f).
+    value: ''
+  - name: LEADERSHIP PAC
+    number: 37-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 38-6.
+    value: C00495242
+  - name: AFFILIATED Committee NAME
+    number: 39-6.
+    value: PA + 5 COMMITTEE
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 40-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 41-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 42-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 43-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 44-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 45-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 46-6.
+    value: 7315 WISCONSIN AVENUE STE 310 EAST
+  - name: AFFILIATED STREET 2
+    number: 47-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 48-6.
+    value: BETHESDA
+  - name: AFFILIATED STATE
+    number: 49-6.
+    value: MD
+  - name: AFFILIATED ZIP
+    number: 50-6.
+    value: '20814'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 51-6.
+    value: JFR
+  - name: CUSTODIAN LAST NAME
+    number: 52-7.
+    value: Bell
+  - name: CUSTODIAN FIRST NAME
+    number: 53-7.
+    value: Jacqueline
+  - name: CUSTODIAN MIDDLE NAME
+    number: 54-7.
+    value: A
+  - name: CUSTODIAN PREFIX
+    number: 55-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 56-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 57-7.
+    value: 130 Eldred Street
+  - name: CUSTODIAN STREET 2
+    number: 58-7.
+    value: ''
+  - name: CUSTODIAN CITY
+    number: 59-7.
+    value: Williamsport
+  - name: CUSTODIAN STATE
+    number: 60-7.
+    value: PA
+  - name: CUSTODIAN ZIP
+    number: 61-7.
+    value: '17701'
+  - name: CUSTODIAN TITLE
+    number: 62-7.
+    value: Custodian of Records
+  - name: CUSTODIAN TELEPHONE
+    number: 63-7.
+    value: '5709710728'
+  - name: TREASURER LAST NAME
+    number: 64-8.
+    value: Rothenberg
+  - name: TREASURER FIRST NAME
+    number: 65-8.
+    value: Howard
+  - name: TREASURER MIDDLE NAME
+    number: 66-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 67-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 68-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 69-8.
+    value: 102 Sturbridge Rd
+  - name: TREASURER STREET 2
+    number: 70-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 71-8.
+    value: Clarks Summit
+  - name: TREASURER STATE
+    number: 72-8.
+    value: PA
+  - name: TREASURER ZIP
+    number: 73-8.
+    value: '18411'
+  - name: TREASURER TITLE
+    number: 74-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 75-8.
+    value: '5702072889'
+  - name: AGENT LAST NAME
+    number: 76-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 77-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 78-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 79-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 80-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 81-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 82-8.
+    value: ''
+  - name: AGENT CITY
+    number: 83-8.
+    value: ''
+  - name: AGENT STATE
+    number: 84-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 85-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 86-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 87-8.
+    value: ''
+  - name: BANK NAME
+    number: 88-9. a)
+    value: Jersey Shore State Bank
+  - name: BANK STREET 1
+    number: 89-9. a)
+    value: 300 Market Street
+  - name: BANK STREET 2
+    number: 90-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 91-9. a)
+    value: Williamsport
+  - name: BANK STATE
+    number: 92-9. a)
+    value: PA
+  - name: BANK ZIP
+    number: 93-9. a)
+    value: '17701'
+  - name: BANK NAME
+    number: 94-9. b)
+    value: Wachovia Bank, N.A.
+  - name: BANK STREET 1
+    number: 95-9. b)
+    value: 7901 Wisconsin Avenue
+  - name: BANK STREET 2
+    number: 96-9. b)
+    value: MD1010
+  - name: BANK CITY
+    number: 97-9. b)
+    value: Bethesda
+  - name: BANK STATE
+    number: 98-9. b)
+    value: MD
+  - name: BANK ZIP
+    number: 99-9. b)
+    value: '20814
+
+'
+- input: "F1S\x1CC00475145\x1C\x1C\x1CC00491332\x1CAMERICA'S NEW MAJORITY\x1C\x1C\x1C\x1C\x1C\x1C\x1C228
+    S. WASHINGTON STREET\x1CSUITE 115\x1CALEXANDRIA\x1CVA\x1C22314\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CBB
+    & T\x1C1909 K Street, NW\x1C\x1CWashington\x1CDC\x1C20006\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00475145
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00491332
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: AMERICA'S NEW MAJORITY
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 228 S. WASHINGTON STREET
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: SUITE 115
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: ALEXANDRIA
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: VA
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: '22314'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: BB & T
+  - name: BANK STREET 1
+    number: 32-9.
+    value: 1909 K Street, NW
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: Washington
+  - name: BANK STATE
+    number: 35-9.
+    value: DC
+  - name: BANK ZIP
+    number: 36-9.
+    value: '20006
+
+'
+sourceurl: !!python/unicode 20130307
+type: chunk

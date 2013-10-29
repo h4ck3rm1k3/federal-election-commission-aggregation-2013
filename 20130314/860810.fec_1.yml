@@ -1,0 +1,129 @@
+countrows: 2
+filename: 860810.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH0GA08099\x1CScott\x1CJames Austin\x1C\x1CRep.\x1C\x1C\x1C621 McLendon
+    St\x1C\x1CAshburn\x1CGA\x1C317145024\x1CREP\x1CH\x1CGA\x1C08\x1C2014\x1CC00482737\x1CAustin
+    Scott for Congress Inc\x1CPO Box 2530\x1C\x1CTifton\x1CGA\x1C31793\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CScott\x1CJames
+    Austin\x1C\x1CRep.\x1C\x1C20130314\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0GA08099
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Scott
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: James Austin
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Rep.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 621 McLendon St
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Ashburn
+  - name: CANDIDATE STATE
+    number: '12'
+    value: GA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '317145024'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: GA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: 08
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00482737
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Austin Scott for Congress Inc
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 2530
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Tifton
+  - name: PCC STATE
+    number: '24'
+    value: GA
+  - name: PCC ZIP
+    number: '25'
+    value: '31793'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Scott
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: James Austin
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: Rep.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130314
+
+'
+sourceurl: !!python/unicode 20130314
+type: chunk

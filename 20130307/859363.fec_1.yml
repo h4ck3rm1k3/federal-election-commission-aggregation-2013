@@ -1,0 +1,152 @@
+countrows: 3
+filename: 859363.fec
+header: {}
+rows:
+- 2
+- input: "F6N\x1CC00285254\x1C\x1CSANFORD FOR CONGRESS\x1CP. O. BOX 160\x1C\x1CSULLIVANS
+    ISLAND\x1CSC\x1C29482\x1CH4SC01073\x1CSanford\x1CMarshall\x1CC.\x1CHon.\x1C\x1CH\x1CSC\x1C01\x1CDupree\x1CMarie\x1C\x1CMrs.\x1C\x1C20130307\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00285254
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: SANFORD FOR CONGRESS
+  - name: STREET 1
+    number: '5'
+    value: P. O. BOX 160
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: SULLIVANS ISLAND
+  - name: STATE
+    number: '8'
+    value: SC
+  - name: ZIP
+    number: '9'
+    value: '29482'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H4SC01073
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: Sanford
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: Marshall
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: C.
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: Hon.
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: SC
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '01'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Dupree
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Marie
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: Mrs.
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130307
+
+'
+- input: "F65\x1CC00285254\x1CF6.5344\x1CIND\x1C\x1CGreen\x1CGuerry\x1C\x1CMr.\x1C\x1C401
+    Church St.\x1C\x1CGeorgetown\x1CSC\x1C29440\x1C\x1C20130305\x1C1000.00\x1CScreen
+    Tight\x1CManufacturing\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00285254
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.5344
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Green
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Guerry
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 401 Church St.
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Georgetown
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29440'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130305'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Screen Tight
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Manufacturing
+
+'
+sourceurl: !!python/unicode 20130307
+type: chunk

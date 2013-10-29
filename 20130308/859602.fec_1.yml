@@ -1,0 +1,196 @@
+countrows: 3
+filename: 859602.fec
+header: {}
+rows:
+- 2
+- input: "F24N\x1CC00540807\x1C24\x1C\x1CPalmetto Conservatives Fund\x1CPO Box 11182\x1C\x1CColumbia\x1CSC\x1C29211\x1CWilson\x1CDave\x1C\x1C\x1C\x1C20130307\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00540807
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '5'
+    value: Palmetto Conservatives Fund
+  - name: STREET 1
+    number: '6'
+    value: PO Box 11182
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Columbia
+  - name: STATE
+    number: '9'
+    value: SC
+  - name: ZIP
+    number: '10'
+    value: '29211'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Wilson
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Dave
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130307
+
+'
+- input: "SE\x1CC00540807\x1CSE.4109\x1C\x1C\x1CIND\x1C\x1CWilson\x1CDave\x1C\x1C\x1C\x1CPO
+    Box 11182\x1C\x1CColumbia\x1CSC\x1C29211\x1CS2013\x1CSpecial-Primary\x1C20130306\x1C1500.00\x1C1500.00\x1CVideo
+    production\x1C\x1CC00540807\x1CS\x1CH0SC01105\x1CGROOMS\x1CLAWRENCE K\x1C\x1C\x1C\x1CH\x1CSC\x1C01\x1CWilson\x1CDave\x1C\x1C\x1C\x1C20130307\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00540807
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4109
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Wilson
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Dave
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 11182
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Columbia
+  - name: PAYEE STATE
+    number: '16'
+    value: SC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '29211'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-Primary
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130306'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '1500.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Video production
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00540807
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H0SC01105
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: GROOMS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: LAWRENCE K
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: SC
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '01'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Wilson
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Dave
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130307'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130308
+type: chunk

@@ -1,0 +1,739 @@
+countrows: 7
+filename: 859583.fec
+header: {}
+rows:
+- 2
+- input: "F24A\x1CC00503078\x1C24\x1C20130307\x1CStrong Utah PAC\x1C329 West Pierpont
+    Ave\x1C\x1CSalt Lake City\x1CUT\x1C84101\x1CEdmonds\x1CMichael\x1CD\x1C\x1C\x1C20130307\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503078
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: '20130307'
+  - name: COMMITTEE NAME
+    number: '5'
+    value: Strong Utah PAC
+  - name: STREET 1
+    number: '6'
+    value: 329 West Pierpont Ave
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Salt Lake City
+  - name: STATE
+    number: '9'
+    value: UT
+  - name: ZIP
+    number: '10'
+    value: '84101'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Edmonds
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Michael
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: D
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130307
+
+'
+- input: "SE\x1CC00503078\x1CSE.4110\x1C\x1C\x1CORG\x1CLetter 23\x1C\x1C\x1C\x1C\x1C\x1C329
+    Pierpont Ave\x1C\x1CSalt Lake City\x1CUT\x1C84101\x1CC2012\x1CConvention\x1C20120312\x1C4500.00\x1C28000.00\x1CGOTV
+    Telephone Calls\x1C\x1CC00503078\x1CS\x1C\x1CHatch\x1COrrin\x1C\x1C\x1C\x1CS\x1CUT\x1C\x1CEdmonds\x1CMichael\x1CD\x1C\x1C\x1C20130307\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503078
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4110
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Letter 23
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 329 Pierpont Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Salt Lake City
+  - name: PAYEE STATE
+    number: '16'
+    value: UT
+  - name: PAYEE ZIP
+    number: '17'
+    value: '84101'
+  - name: ELECTION CODE
+    number: '18'
+    value: C2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Convention
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120312'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '4500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '28000.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: GOTV Telephone Calls
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00503078
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Hatch
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Orrin
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: UT
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Edmonds
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Michael
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: D
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130307'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00503078\x1CSE.4111\x1C\x1C\x1CORG\x1CLetter 23\x1C\x1C\x1C\x1C\x1C\x1C329
+    Pierpont Ave\x1C\x1CSalt Lake City\x1CUT\x1C84101\x1CC2012\x1CConvention\x1C20120312\x1C3500.00\x1C23500.00\x1CRadio
+    Advertising\x1C004\x1CC00503078\x1CS\x1C\x1CHatch\x1COrrin\x1C\x1C\x1C\x1CS\x1CUT\x1C\x1CEdmonds\x1CMichael\x1CD\x1C\x1C\x1C20130307\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503078
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4111
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Letter 23
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 329 Pierpont Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Salt Lake City
+  - name: PAYEE STATE
+    number: '16'
+    value: UT
+  - name: PAYEE ZIP
+    number: '17'
+    value: '84101'
+  - name: ELECTION CODE
+    number: '18'
+    value: C2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Convention
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120312'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '3500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '23500.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Radio Advertising
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00503078
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Hatch
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Orrin
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: UT
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Edmonds
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Michael
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: D
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130307'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00503078\x1CSE.4149\x1C\x1C\x1CORG\x1CLetter 23\x1C\x1C\x1C\x1C\x1C\x1C329
+    Pierpont Ave\x1C\x1CSalt Lake City\x1CUT\x1C84101\x1CC2012\x1CConvention\x1C20120405\x1C8500.00\x1C36500.00\x1CPolling\x1C005\x1CC00503078\x1CS\x1C\x1CHatch\x1COrrin\x1C\x1C\x1C\x1CS\x1CUT\x1C\x1CEdmonds\x1CMichael\x1CD\x1C\x1C\x1C20130307\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503078
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4149
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Letter 23
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 329 Pierpont Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Salt Lake City
+  - name: PAYEE STATE
+    number: '16'
+    value: UT
+  - name: PAYEE ZIP
+    number: '17'
+    value: '84101'
+  - name: ELECTION CODE
+    number: '18'
+    value: C2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Convention
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120405'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '8500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '36500.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Polling
+  - name: CATEGORY CODE
+    number: '24'
+    value: '005'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00503078
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Hatch
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Orrin
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: UT
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Edmonds
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Michael
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: D
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130307'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00503078\x1CSE.4154\x1C\x1C\x1CORG\x1CLetter 23\x1C\x1C\x1C\x1C\x1C\x1C329
+    Pierpont Ave\x1C\x1CSalt Lake City\x1CUT\x1C84101\x1CC2012\x1CConvention\x1C20120407\x1C2500.00\x1C39000.00\x1CPhone
+    Calls\x1C003\x1CC00503078\x1CS\x1C\x1CHatch\x1COrrin\x1C\x1C\x1C\x1CS\x1CUT\x1C\x1CEdmonds\x1CMichael\x1CD\x1C\x1C\x1C20130307\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503078
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4154
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Letter 23
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 329 Pierpont Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Salt Lake City
+  - name: PAYEE STATE
+    number: '16'
+    value: UT
+  - name: PAYEE ZIP
+    number: '17'
+    value: '84101'
+  - name: ELECTION CODE
+    number: '18'
+    value: C2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Convention
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120407'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '2500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '39000.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Phone Calls
+  - name: CATEGORY CODE
+    number: '24'
+    value: '003'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00503078
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Hatch
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Orrin
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: UT
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Edmonds
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Michael
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: D
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130307'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00503078\x1CSE.4155\x1C\x1C\x1CORG\x1CLetter 23\x1C\x1C\x1C\x1C\x1C\x1C329
+    Pierpont Ave\x1C\x1CSalt Lake City\x1CUT\x1C84101\x1CC2012\x1CConvention\x1C20120424\x1C3785.00\x1C48000.00\x1CPolling\x1C005\x1CC00503078\x1CS\x1C\x1CHatch\x1COrrin\x1C\x1C\x1C\x1CS\x1CUT\x1C\x1CEdmonds\x1CMichael\x1CD\x1C\x1C\x1C20130307\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503078
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4155
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Letter 23
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 329 Pierpont Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Salt Lake City
+  - name: PAYEE STATE
+    number: '16'
+    value: UT
+  - name: PAYEE ZIP
+    number: '17'
+    value: '84101'
+  - name: ELECTION CODE
+    number: '18'
+    value: C2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Convention
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120424'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '3785.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '48000.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Polling
+  - name: CATEGORY CODE
+    number: '24'
+    value: '005'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00503078
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Hatch
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Orrin
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: UT
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Edmonds
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Michael
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: D
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130307'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130307
+type: chunk

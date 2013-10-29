@@ -1,0 +1,369 @@
+countrows: 5
+filename: 860255.fec
+header: {}
+rows:
+- 2
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F24N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00495010
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '5'
+    value: Conservative Campaign Committee
+  - name: STREET 1
+    number: '6'
+    value: PO Box 984
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Willows
+  - name: STATE
+    number: '9'
+    value: CA
+  - name: ZIP
+    number: '10'
+    value: '959880984'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Lawler
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Kelly
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130312'
+  - value: '
+
+'
+  expected_count: 16
+  input: "F24N\x1CC00495010\x1C24\x1C\x1CConservative Campaign Committee\x1CPO Box
+    984\x1C\x1CWillows\x1CCA\x1C959880984\x1CLawler\x1CKelly\x1C\x1C\x1C\x1C20130312\x1C\n"
+  input_count: 17
+  record: fec.version.v8_0.F24
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00495010
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '68770'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Wierzbicki
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Joe
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1501  15th Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Apt. 4
+  - name: PAYEE CITY
+    number: '15'
+    value: Sacramento
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '958146019'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130312'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '4250'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '9220'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: 3/13 to 3/19 Radio Advertising - Special
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Grooms
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Larry
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: SC
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '01'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Lawler
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Kelly
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130312'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - value: '
+
+'
+  expected_count: 43
+  input: "SE\x1CC00495010\x1C68770\x1C\x1C\x1CIND\x1C\x1CWierzbicki\x1CJoe\x1C\x1C\x1C\x1C1501
+    \ 15th Street\x1CApt. 4\x1CSacramento\x1CCA\x1C958146019\x1CS2013\x1C\x1C20130312\x1C4250\x1C9220\x1C3/13
+    to 3/19 Radio Advertising - Special\x1C\x1C\x1CS\x1C\x1CGrooms\x1CLarry\x1C\x1C\x1C\x1CH\x1CSC\x1C01\x1CLawler\x1CKelly\x1C\x1C\x1C\x1C20130312\x1C\x1C\x1C\n"
+  input_count: 44
+  record: fec.version.v8_0.SE
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00495010
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '68771'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Gill
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Ryan
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: J
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2210  I Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Apt. 3A
+  - name: PAYEE CITY
+    number: '15'
+    value: Sacramento
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '958164032'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130312'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '2800'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '9220'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: '3/13 to 3/19 Radio Advertising -Special '
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Grooms
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Larry
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: SC
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '01'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Lawler
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Kelly
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130312'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - value: '
+
+'
+  expected_count: 43
+  input: "SE\x1CC00495010\x1C68771\x1C\x1C\x1CIND\x1C\x1CGill\x1CRyan\x1CJ\x1C\x1C\x1C2210
+    \ I Street\x1CApt. 3A\x1CSacramento\x1CCA\x1C958164032\x1CS2013\x1C\x1C20130312\x1C2800\x1C9220\x1C3/13
+    to 3/19 Radio Advertising -Special \x1C\x1C\x1CS\x1C\x1CGrooms\x1CLarry\x1C\x1C\x1C\x1CH\x1CSC\x1C01\x1CLawler\x1CKelly\x1C\x1C\x1C\x1C20130312\x1C\x1C\x1C\n"
+  input_count: 44
+  record: fec.version.v8_0.SE
+  result: []
+- input: "TEXT\x1CC00495010\x1CTE-20130312\x1C\x1CF24N\x1CTo report Expenditures for
+    Special Election being held 3/19/13\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00495010
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TE-20130312
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F24N
+  - name: TEXT4000
+    number: '6'
+    value: 'To report Expenditures for Special Election being held 3/19/13
+
+'
+sourceurl: !!python/unicode 20130313
+type: chunk
