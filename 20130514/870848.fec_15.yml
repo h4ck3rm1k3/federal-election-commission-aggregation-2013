@@ -1,0 +1,140 @@
+countrows: 2
+filename: 870848.fec
+header: {}
+rows:
+- input: "SD10\x1CC00488478\x1CSD10.32965\x1CORG\x1CActRight Legal Foundation\x1C\x1C\x1C\x1C\x1C\x1C2029
+    K Street NW\x1CSuite 300\x1CWashington\x1CDC\x1C20006\x1CInvoiced July retainer
+    for legal services\x1C0.00\x1C1000.00\x1C0.00\x1C1000.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00488478
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.32965
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ActRight Legal Foundation
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2029 K Street NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Suite 300
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20006'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Invoiced July retainer for legal services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '1000.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1000.00
+
+'
+- input: "SD10\x1CC00488478\x1CSD10.6657\x1CIND\x1C\x1CBostrom\x1CBarry\x1CA\x1C\x1C\x1C2524
+    N 8th Street\x1C\x1CTerre Haute\x1CIN\x1C47804\x1CLegal services rendered in January
+    2012\x1C1000.00\x1C0.00\x1C0.00\x1C1000.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00488478
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.6657
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Bostrom
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: Barry
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: A
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2524 N 8th Street
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Terre Haute
+  - name: CREDITOR STATE
+    number: '14'
+    value: IN
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '47804'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Legal services rendered in January 2012
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '1000.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1000.00
+
+'
+sourceurl: !!python/unicode 20130514
+type: chunk

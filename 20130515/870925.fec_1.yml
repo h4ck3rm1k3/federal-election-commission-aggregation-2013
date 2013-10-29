@@ -1,0 +1,315 @@
+countrows: 2
+filename: 870925.fec
+header: {}
+rows:
+- 2
+- input: "F1A\x1CC00438051\x1C\x1CDISCOVER FINANCIAL SERVICES POLITICAL ACTION COMMITTEE\x1C\x1C500
+    8TH STREET NW SUITE 210\x1C\x1CWASHINGTON\x1CDC\x1C20004\x1C\x1Csuenicosia@discover.com\x1C\x1C\x1C20130515\x1CNicosia\x1CSusan\x1CE.\x1C\x1C\x1C20130515\x1CE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CC\x1C\x1C\x1C\x1C\x1CDiscover
+    Financial Services\x1C\x1C\x1C\x1C\x1C\x1C\x1C2500 Lake Cook Road\x1C\x1CRiverwoods\x1CIL\x1C60015\x1CORG\x1CNicosia\x1CSusan\x1CE.\x1C\x1C\x1C500
+    8th Street, NW\x1CSuite 210\x1CWashington\x1CDC\x1C20004\x1CAssistant Treasurer\x1C2028637277\x1CGordon\x1CTod\x1C\x1C\x1C\x1C625
+    Deerfield Road\x1C\x1CDeerfield\x1CIL\x1C60015\x1CTreasurer\x1C2244050721\x1CNicosia\x1CSusan\x1CE.\x1C\x1C\x1C500
+    8th Street, NW\x1CSuite 210\x1CWashington\x1CDC\x1C20004\x1CAssistant Treasurer\x1C2028637277\x1CDiscover
+    Bank\x1CP.O. Box 2003\x1C500 East Market Street\x1CGreenwood\x1CDE\x1C19950\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00438051
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: DISCOVER FINANCIAL SERVICES POLITICAL ACTION COMMITTEE
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 500 8TH STREET NW SUITE 210
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: WASHINGTON
+  - name: STATE
+    number: '9'
+    value: DC
+  - name: ZIP
+    number: '10'
+    value: '20004'
+  - name: CHANGE OF COMMITTEE EMAIL
+    number: '11'
+    value: ''
+  - name: COMMITTEE EMAIL
+    number: '12'
+    value: suenicosia@discover.com
+  - name: CHANGE OF COMMITTEE WEB URL
+    number: '13'
+    value: ''
+  - name: COMMITTEE WEB URL
+    number: '14'
+    value: ''
+  - name: EFFECTIVE DATE
+    number: '15'
+    value: '20130515'
+  - name: SIGNATURE LAST NAME
+    number: '16'
+    value: Nicosia
+  - name: SIGNATURE FIRST NAME
+    number: '17'
+    value: Susan
+  - name: SIGNATURE MIDDLE NAME
+    number: '18'
+    value: E.
+  - name: SIGNATURE PREFIX
+    number: '19'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '20'
+    value: ''
+  - name: DATE SIGNED
+    number: '21'
+    value: '20130515'
+  - name: COMMITTEE TYPE
+    number: 22-5.
+    value: E
+  - name: CANDIDATE ID NUMBER
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 30-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 31-5.
+    value: ''
+  - name: PARTY CODE
+    number: 32-5.
+    value: ''
+  - name: PARTY TYPE
+    number: 33-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 34-5 (e).
+    value: C
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 35-5 (e).
+    value: ''
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 36-5 (f).
+    value: ''
+  - name: LEADERSHIP PAC
+    number: 37-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 39-6.
+    value: Discover Financial Services
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 40-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 41-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 42-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 43-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 44-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 45-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 46-6.
+    value: 2500 Lake Cook Road
+  - name: AFFILIATED STREET 2
+    number: 47-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 48-6.
+    value: Riverwoods
+  - name: AFFILIATED STATE
+    number: 49-6.
+    value: IL
+  - name: AFFILIATED ZIP
+    number: 50-6.
+    value: '60015'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 51-6.
+    value: ORG
+  - name: CUSTODIAN LAST NAME
+    number: 52-7.
+    value: Nicosia
+  - name: CUSTODIAN FIRST NAME
+    number: 53-7.
+    value: Susan
+  - name: CUSTODIAN MIDDLE NAME
+    number: 54-7.
+    value: E.
+  - name: CUSTODIAN PREFIX
+    number: 55-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 56-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 57-7.
+    value: 500 8th Street, NW
+  - name: CUSTODIAN STREET 2
+    number: 58-7.
+    value: Suite 210
+  - name: CUSTODIAN CITY
+    number: 59-7.
+    value: Washington
+  - name: CUSTODIAN STATE
+    number: 60-7.
+    value: DC
+  - name: CUSTODIAN ZIP
+    number: 61-7.
+    value: '20004'
+  - name: CUSTODIAN TITLE
+    number: 62-7.
+    value: Assistant Treasurer
+  - name: CUSTODIAN TELEPHONE
+    number: 63-7.
+    value: '2028637277'
+  - name: TREASURER LAST NAME
+    number: 64-8.
+    value: Gordon
+  - name: TREASURER FIRST NAME
+    number: 65-8.
+    value: Tod
+  - name: TREASURER MIDDLE NAME
+    number: 66-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 67-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 68-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 69-8.
+    value: 625 Deerfield Road
+  - name: TREASURER STREET 2
+    number: 70-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 71-8.
+    value: Deerfield
+  - name: TREASURER STATE
+    number: 72-8.
+    value: IL
+  - name: TREASURER ZIP
+    number: 73-8.
+    value: '60015'
+  - name: TREASURER TITLE
+    number: 74-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 75-8.
+    value: '2244050721'
+  - name: AGENT LAST NAME
+    number: 76-8.
+    value: Nicosia
+  - name: AGENT FIRST NAME
+    number: 77-8.
+    value: Susan
+  - name: AGENT MIDDLE NAME
+    number: 78-8.
+    value: E.
+  - name: AGENT PREFIX
+    number: 79-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 80-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 81-8.
+    value: 500 8th Street, NW
+  - name: AGENT STREET 2
+    number: 82-8.
+    value: Suite 210
+  - name: AGENT CITY
+    number: 83-8.
+    value: Washington
+  - name: AGENT STATE
+    number: 84-8.
+    value: DC
+  - name: AGENT ZIP
+    number: 85-8.
+    value: '20004'
+  - name: AGENT TITLE
+    number: 86-8.
+    value: Assistant Treasurer
+  - name: AGENT TELEPHONE
+    number: 87-8.
+    value: '2028637277'
+  - name: BANK NAME
+    number: 88-9. a)
+    value: Discover Bank
+  - name: BANK STREET 1
+    number: 89-9. a)
+    value: P.O. Box 2003
+  - name: BANK STREET 2
+    number: 90-9. a)
+    value: 500 East Market Street
+  - name: BANK CITY
+    number: 91-9. a)
+    value: Greenwood
+  - name: BANK STATE
+    number: 92-9. a)
+    value: DE
+  - name: BANK ZIP
+    number: 93-9. a)
+    value: '19950'
+  - name: BANK NAME
+    number: 94-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 95-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 96-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 97-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 98-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 99-9. b)
+    value: '
+
+'
+sourceurl: !!python/unicode 20130515
+type: chunk
