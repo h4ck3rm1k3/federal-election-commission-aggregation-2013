@@ -1,0 +1,129 @@
+countrows: 2
+filename: 873761.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH2MD01154\x1CLAFERLA\x1CJOHN JAMES\x1C\x1CDr.\x1C\x1C\x1C209 BIRCH
+    RUN ROAD\x1C\x1CCHESTERTOWN\x1CMD\x1C21620\x1CDem\x1CH\x1CMD\x1C01\x1C2014\x1CC00507335\x1CLAFERLA
+    FOR CONGRESS\x1C209 BIRCH RUN ROAD\x1CPO BOX 832\x1CCHESTERTOWN\x1CMD\x1C21620\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CLAFERLA\x1CJOHN
+    JAMES\x1C\x1CDr.\x1C\x1C20130613\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2MD01154
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: LAFERLA
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: JOHN JAMES
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Dr.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 209 BIRCH RUN ROAD
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: CHESTERTOWN
+  - name: CANDIDATE STATE
+    number: '12'
+    value: MD
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '21620'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: Dem
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: MD
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '01'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00507335
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: LAFERLA FOR CONGRESS
+  - name: PCC STREET 1
+    number: '21'
+    value: 209 BIRCH RUN ROAD
+  - name: PCC STREET 2
+    number: '22'
+    value: PO BOX 832
+  - name: PCC CITY
+    number: '23'
+    value: CHESTERTOWN
+  - name: PCC STATE
+    number: '24'
+    value: MD
+  - name: PCC ZIP
+    number: '25'
+    value: '21620'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: LAFERLA
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: JOHN JAMES
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: Dr.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130613
+
+'
+sourceurl: !!python/unicode 20130613
+type: chunk

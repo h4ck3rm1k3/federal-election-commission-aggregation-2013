@@ -1,0 +1,130 @@
+countrows: 2
+filename: 873170.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH8GA12011\x1CSTONE\x1CJOHN ERWIN II\x1CErwin\x1CMr.\x1CII\x1CX\x1C4228
+    MATCH POINT DR\x1C\x1CAUGUSTA\x1CGA\x1C30909\x1CRep\x1CH\x1CGA\x1C12\x1C2014\x1CC00444422\x1CCOMMITTEE
+    TO ELECT JOHN STONE\x1C13016 Belle Meade Lane\x1C\x1CMarkham\x1CVA\x1C22643\x1CC00444422\x1CCOMMITTEE
+    TO ELECT JOHN STONE\x1C13016 Belle Meade Lane\x1C\x1CMarkham\x1CVA\x1C22643\x1CSTONE\x1CJOHN
+    ERWIN II\x1CErwin\x1CMr.\x1CII\x1C20130606\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8GA12011
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: STONE
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: JOHN ERWIN II
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: Erwin
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Mr.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: II
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: X
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 4228 MATCH POINT DR
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: AUGUSTA
+  - name: CANDIDATE STATE
+    number: '12'
+    value: GA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '30909'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: Rep
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: GA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '12'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00444422
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: COMMITTEE TO ELECT JOHN STONE
+  - name: PCC STREET 1
+    number: '21'
+    value: 13016 Belle Meade Lane
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Markham
+  - name: PCC STATE
+    number: '24'
+    value: VA
+  - name: PCC ZIP
+    number: '25'
+    value: '22643'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00444422
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: COMMITTEE TO ELECT JOHN STONE
+  - name: AUTH STREET 1
+    number: '28'
+    value: 13016 Belle Meade Lane
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Markham
+  - name: AUTH STATE
+    number: '31'
+    value: VA
+  - name: AUTH ZIP
+    number: '32'
+    value: '22643'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: STONE
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: JOHN ERWIN II
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: Erwin
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: Mr.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: II
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130606
+
+'
+sourceurl: !!python/unicode 20130606
+type: chunk

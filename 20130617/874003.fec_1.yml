@@ -1,0 +1,469 @@
+countrows: 5
+filename: 874003.fec
+header: {}
+rows:
+- 2
+- input: "F24N\x1CC00484642\x1C24\x1C\x1CSenate Majority PAC\x1C700 13th Street, NW\x1CSuite
+    600\x1CWashington\x1CNY\x1C20005\x1CLambe\x1CRebecca\x1C\x1C\x1C\x1C20130617\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00484642
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '5'
+    value: Senate Majority PAC
+  - name: STREET 1
+    number: '6'
+    value: 700 13th Street, NW
+  - name: STREET 2
+    number: '7'
+    value: Suite 600
+  - name: CITY
+    number: '8'
+    value: Washington
+  - name: STATE
+    number: '9'
+    value: NY
+  - name: ZIP
+    number: '10'
+    value: '20005'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Lambe
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Rebecca
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130617
+
+'
+- input: "SE\x1CC00484642\x1CVN7GB9J65K8\x1C\x1C\x1CORG\x1CDixon/Davis Media Group
+    LLC\x1C\x1C\x1C\x1C\x1C\x1C1028 33rd St NW\x1CSte 300\x1CWashington\x1CDC\x1C200073571\x1CO2013\x1CSpecial
+    General\x1C20130616\x1C14741.00\x1C1239335.00\x1CMedia Production Costs - Estimate\x1C\x1C\x1CO\x1CS4MA00184\x1CGomez\x1CGabriel\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CLambe\x1CRebecca\x1C\x1C\x1C\x1C20130617\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00484642
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7GB9J65K8
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Dixon/Davis Media Group LLC
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1028 33rd St NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Ste 300
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '200073571'
+  - name: ELECTION CODE
+    number: '18'
+    value: O2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130616'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '14741.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '1239335.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Media Production Costs - Estimate
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S4MA00184
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Gomez
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Gabriel
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Lambe
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Rebecca
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130617'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00484642\x1CVN7GB9J65M6\x1C\x1C\x1CORG\x1CThe Pivot Group, Inc.\x1C\x1C\x1C\x1C\x1C\x1C1720
+    I St NW\x1CSte 550\x1CWashington\x1CDC\x1C200063741\x1CO2013\x1CSpecial General\x1C20130617\x1C62583.00\x1C1239335.00\x1CDirect
+    Mail - Estimate\x1C\x1C\x1CO\x1CS4MA00184\x1CGomez\x1CGabriel\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CLambe\x1CRebecca\x1C\x1C\x1C\x1C20130617\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00484642
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7GB9J65M6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: The Pivot Group, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1720 I St NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Ste 550
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '200063741'
+  - name: ELECTION CODE
+    number: '18'
+    value: O2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130617'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '62583.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '1239335.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Direct Mail - Estimate
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S4MA00184
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Gomez
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Gabriel
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Lambe
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Rebecca
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130617'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00484642\x1CVN7GB9J65J0\x1C\x1C\x1CORG\x1CWaterfront Strategies\x1C\x1C\x1C\x1C\x1C\x1C3050
+    K St NW\x1CSte 100\x1CWashington\x1CDC\x1C200075108\x1CO2013\x1CSpecial General\x1C20130616\x1C575000.00\x1C1239335.00\x1CMedia
+    Buy\x1C\x1C\x1CO\x1CS4MA00184\x1CGomez\x1CGabriel\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CLambe\x1CRebecca\x1C\x1C\x1C\x1C20130617\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00484642
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7GB9J65J0
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Waterfront Strategies
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 3050 K St NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Ste 100
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '200075108'
+  - name: ELECTION CODE
+    number: '18'
+    value: O2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130616'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '575000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '1239335.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Media Buy
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S4MA00184
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Gomez
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Gabriel
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Lambe
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Rebecca
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130617'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130617
+type: chunk

@@ -1,0 +1,1426 @@
+countrows: 10
+filename: 873831.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104299
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '130531_23'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Palamar
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: David
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: E
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 250 East 54th Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: New York
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '100224810'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130321'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '550.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Dup deduct from 2/15/09 to 12/31/09
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: NO VALUE!
+  expected_count: 44
+  input: "SB28A\x1CC00104299\x1C130531_23\x1C\x1C\x1CIND\x1C\x1CPalamar\x1CDavid\x1CE\x1C\x1C\x1C250
+    East 54th Street\x1C\x1CNew York\x1CNY\x1C100224810\x1C\x1C\x1C20130321\x1C550.00\x1C\x1CDup
+    deduct from 2/15/09 to 12/31/09\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 43
+  record: fec.version.v8_0.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104299
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '130531_22'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Puleo, III
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Frank
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: Charles
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 560 Mission Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: CA1-1800
+  - name: PAYEE CITY
+    number: '15'
+    value: San Francisco
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '941052907'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130321'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '252.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Dup deduct from 4/15/10 to 5/31/10
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: NO VALUE!
+  expected_count: 44
+  input: "SB28A\x1CC00104299\x1C130531_22\x1C\x1C\x1CIND\x1C\x1CPuleo, III\x1CFrank\x1CCharles\x1C\x1C\x1C560
+    Mission Street\x1CCA1-1800\x1CSan Francisco\x1CCA\x1C941052907\x1C\x1C\x1C20130321\x1C252.00\x1C\x1CDup
+    deduct from 4/15/10 to 5/31/10\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 43
+  record: fec.version.v8_0.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104299
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '130531_13'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Spier
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Gregory
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: M
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 712 Main St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: TX2-N078
+  - name: PAYEE CITY
+    number: '15'
+    value: Houston
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '770023201'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130321'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '864.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Dup deduct from 1/1/12 to 12/31/12
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: NO VALUE!
+  expected_count: 44
+  input: "SB28A\x1CC00104299\x1C130531_13\x1C\x1C\x1CIND\x1C\x1CSpier\x1CGregory\x1CM\x1C\x1C\x1C712
+    Main St\x1CTX2-N078\x1CHouston\x1CTX\x1C770023201\x1C\x1C\x1C20130321\x1C864.00\x1C\x1CDup
+    deduct from 1/1/12 to 12/31/12\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 43
+  record: fec.version.v8_0.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104299
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '130531_12'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Spier
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Gregory
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: M
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 712 Main St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: TX2-N078
+  - name: PAYEE CITY
+    number: '15'
+    value: Houston
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '770023201'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130321'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '864.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Dup deduct from 1/1/11 to 12/31/11
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: NO VALUE!
+  expected_count: 44
+  input: "SB28A\x1CC00104299\x1C130531_12\x1C\x1C\x1CIND\x1C\x1CSpier\x1CGregory\x1CM\x1C\x1C\x1C712
+    Main St\x1CTX2-N078\x1CHouston\x1CTX\x1C770023201\x1C\x1C\x1C20130321\x1C864.00\x1C\x1CDup
+    deduct from 1/1/11 to 12/31/11\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 43
+  record: fec.version.v8_0.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104299
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 50D90C2BE2E87B3779F
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Sriubas
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Andrew
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: Richard
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 383 Madison Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: NY1-M180
+  - name: PAYEE CITY
+    number: '15'
+    value: New York
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '101790001'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130321'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1197.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Dup deduct from 1/15/11 to 10/15/11
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: NO VALUE!
+  expected_count: 44
+  input: "SB28A\x1CC00104299\x1C50D90C2BE2E87B3779F\x1C\x1C\x1CIND\x1C\x1CSriubas\x1CAndrew\x1CRichard\x1C\x1C\x1C383
+    Madison Ave\x1CNY1-M180\x1CNew York\x1CNY\x1C101790001\x1C\x1C\x1C20130321\x1C1197.00\x1C\x1CDup
+    deduct from 1/15/11 to 10/15/11\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 43
+  record: fec.version.v8_0.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104299
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: E0419861B1E7C352C9D
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Sriubas
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Andrew
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: Richard
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 383 Madison Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: NY1-M180
+  - name: PAYEE CITY
+    number: '15'
+    value: New York
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '101790001'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130321'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1053.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Dup deduct from 4/30/10 to 12/31/10
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: NO VALUE!
+  expected_count: 44
+  input: "SB28A\x1CC00104299\x1CE0419861B1E7C352C9D\x1C\x1C\x1CIND\x1C\x1CSriubas\x1CAndrew\x1CRichard\x1C\x1C\x1C383
+    Madison Ave\x1CNY1-M180\x1CNew York\x1CNY\x1C101790001\x1C\x1C\x1C20130321\x1C1053.00\x1C\x1CDup
+    deduct from 4/30/10 to 12/31/10\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 43
+  record: fec.version.v8_0.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104299
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '130531_21'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Thompson
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Benjamin
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: S
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 383 Madison Avenue
+  - name: PAYEE STREET 2
+    number: '14'
+    value: NY1-M137
+  - name: PAYEE CITY
+    number: '15'
+    value: New York
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '100173217'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130321'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '80.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Dup deduct from 3/31/10 to 5/31/10
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: NO VALUE!
+  expected_count: 44
+  input: "SB28A\x1CC00104299\x1C130531_21\x1C\x1C\x1CIND\x1C\x1CThompson\x1CBenjamin\x1CS\x1C\x1C\x1C383
+    Madison Avenue\x1CNY1-M137\x1CNew York\x1CNY\x1C100173217\x1C\x1C\x1C20130321\x1C80.00\x1C\x1CDup
+    deduct from 3/31/10 to 5/31/10\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 43
+  record: fec.version.v8_0.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104299
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '130531_17'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Virzi
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Joseph
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: J
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1300 E 9th St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: OH2-5402
+  - name: PAYEE CITY
+    number: '15'
+    value: Cleveland
+  - name: PAYEE STATE
+    number: '16'
+    value: OH
+  - name: PAYEE ZIP
+    number: '17'
+    value: '441141508'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130321'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1512.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Dup deduct from 1/1/11 to 12/31/11
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: NO VALUE!
+  expected_count: 44
+  input: "SB28A\x1CC00104299\x1C130531_17\x1C\x1C\x1CIND\x1C\x1CVirzi\x1CJoseph\x1CJ\x1C\x1C\x1C1300
+    E 9th St\x1COH2-5402\x1CCleveland\x1COH\x1C441141508\x1C\x1C\x1C20130321\x1C1512.00\x1C\x1CDup
+    deduct from 1/1/11 to 12/31/11\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 43
+  record: fec.version.v8_0.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104299
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '130531_16'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Virzi
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Joseph
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: J
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1300 E 9th St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: OH2-5402
+  - name: PAYEE CITY
+    number: '15'
+    value: Cleveland
+  - name: PAYEE STATE
+    number: '16'
+    value: OH
+  - name: PAYEE ZIP
+    number: '17'
+    value: '441141508'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130321'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1197.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Dup deduct from 3/31/10 to 12/31/10
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: NO VALUE!
+  expected_count: 44
+  input: "SB28A\x1CC00104299\x1C130531_16\x1C\x1C\x1CIND\x1C\x1CVirzi\x1CJoseph\x1CJ\x1C\x1C\x1C1300
+    E 9th St\x1COH2-5402\x1CCleveland\x1COH\x1C441141508\x1C\x1C\x1C20130321\x1C1197.00\x1C\x1CDup
+    deduct from 3/31/10 to 12/31/10\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 43
+  record: fec.version.v8_0.SB
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00104299
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '130531_18'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Virzi
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Joseph
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: J
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1300 E 9th St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: OH2-5402
+  - name: PAYEE CITY
+    number: '15'
+    value: Cleveland
+  - name: PAYEE STATE
+    number: '16'
+    value: OH
+  - name: PAYEE ZIP
+    number: '17'
+    value: '441141501'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130321'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1512.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Dup deduct from 1/1/12 to 12/31/12
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: NO VALUE!
+  expected_count: 44
+  input: "SB28A\x1CC00104299\x1C130531_18\x1C\x1C\x1CIND\x1C\x1CVirzi\x1CJoseph\x1CJ\x1C\x1C\x1C1300
+    E 9th St\x1COH2-5402\x1CCleveland\x1COH\x1C441141501\x1C\x1C\x1C20130321\x1C1512.00\x1C\x1CDup
+    deduct from 1/1/12 to 12/31/12\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 43
+  record: fec.version.v8_0.SB
+  result: []
+sourceurl: !!python/unicode 20130614
+type: chunk
