@@ -1,0 +1,219 @@
+countrows: 5
+filename: 855739.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH0CA03078\x1CBera\x1CAmerish\x1C\x1C\x1C\x1C\x1C6107 Pirate Point
+    Ct.\x1C\x1CElk Grove\x1CCA\x1C95758\x1CDEM\x1CH\x1CCA\x1C07\x1C2014\x1CC00461061\x1CBera
+    for Congress\x1CPost Office Box 582496\x1C\x1CElk Grove\x1CCA\x1C95758\x1CC00512749\x1CRed
+    to Blue Majority Fund\x1CPost Office Box 1174\x1C\x1CSpringfield\x1CVA\x1C22151\x1CBera\x1CAmerish\x1C\x1C\x1C\x1C20130215\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0CA03078
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Bera
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Amerish
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 6107 Pirate Point Ct.
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Elk Grove
+  - name: CANDIDATE STATE
+    number: '12'
+    value: CA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '95758'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: CA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '07'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00461061
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Bera for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: Post Office Box 582496
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Elk Grove
+  - name: PCC STATE
+    number: '24'
+    value: CA
+  - name: PCC ZIP
+    number: '25'
+    value: '95758'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00512749
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Red to Blue Majority Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: Post Office Box 1174
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Springfield
+  - name: AUTH STATE
+    number: '31'
+    value: VA
+  - name: AUTH ZIP
+    number: '32'
+    value: '22151'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Bera
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Amerish
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130215
+
+'
+- input: "F2S\x1CH0CA03078\x1CC00519900\x1CBera 2012 Victory Fund\x1C5429 Madison
+    Avenue\x1C\x1CSacramento\x1CCA\x1C95841\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0CA03078
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00519900
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Bera 2012 Victory Fund
+  - name: AUTH STREET 1
+    number: '5'
+    value: 5429 Madison Avenue
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Sacramento
+  - name: AUTH STATE
+    number: '8'
+    value: CA
+  - name: AUTH ZIP
+    number: '9'
+    value: '95841
+
+'
+- input: "F2S\x1CH0CA03078\x1CC00541516\x1CNew American Victory Fund\x1C430 S. Capitol
+    Street, SE\x1C2nd Flr.\x1CWashington\x1CDC\x1C20003\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0CA03078
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00541516
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: New American Victory Fund
+  - name: AUTH STREET 1
+    number: '5'
+    value: 430 S. Capitol Street, SE
+  - name: AUTH STREET 2
+    number: '6'
+    value: 2nd Flr.
+  - name: AUTH CITY
+    number: '7'
+    value: Washington
+  - name: AUTH STATE
+    number: '8'
+    value: DC
+  - name: AUTH ZIP
+    number: '9'
+    value: '20003
+
+'
+- input: "TEXT\x1CH0CA03078\x1CTEXT-F2\x1C\x1CF2A\x1CAmend to disclose additional
+    Joint Fundraising Committee Information\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: H0CA03078
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-F2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F2A
+  - name: TEXT4000
+    number: '6'
+    value: 'Amend to disclose additional Joint Fundraising Committee Information
+
+'
+sourceurl: !!python/unicode 20130216
+type: chunk

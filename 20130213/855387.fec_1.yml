@@ -1,0 +1,152 @@
+countrows: 3
+filename: 855387.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH2CA50026\x1CVargas\x1CJuan C.\x1C\x1C\x1C\x1CX\x1C330 Encinitas
+    Blvd., Suite 101\x1C\x1CEncinitas\x1CCA\x1C92024\x1CDEM\x1CH\x1CCA\x1C51\x1C2014\x1CC00497321\x1CVargas
+    for Congress\x1C330 Encinitas Blvd., Suite 101\x1C\x1CEncinitas\x1CCA\x1C92024\x1CC00408161\x1CFriends
+    of Juan Vargas\x1C330 Encinitas Blvd., Suite 101\x1C\x1CEncinitas\x1CCA\x1C92024\x1CVargas\x1CJuan\x1C\x1C\x1C\x1C20130212\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2CA50026
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Vargas
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Juan C.
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: X
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 330 Encinitas Blvd., Suite 101
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Encinitas
+  - name: CANDIDATE STATE
+    number: '12'
+    value: CA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '92024'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: CA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '51'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00497321
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Vargas for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: 330 Encinitas Blvd., Suite 101
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Encinitas
+  - name: PCC STATE
+    number: '24'
+    value: CA
+  - name: PCC ZIP
+    number: '25'
+    value: '92024'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00408161
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Friends of Juan Vargas
+  - name: AUTH STREET 1
+    number: '28'
+    value: 330 Encinitas Blvd., Suite 101
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Encinitas
+  - name: AUTH STATE
+    number: '31'
+    value: CA
+  - name: AUTH ZIP
+    number: '32'
+    value: '92024'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Vargas
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Juan
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130212
+
+'
+- input: "TEXT\x1CH2CA50026\x1CTEXT-F2\x1C\x1CF2A\x1CAmend to change committee's address.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: H2CA50026
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-F2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F2A
+  - name: TEXT4000
+    number: '6'
+    value: 'Amend to change committee''s address.
+
+'
+sourceurl: !!python/unicode 20130213
+type: chunk

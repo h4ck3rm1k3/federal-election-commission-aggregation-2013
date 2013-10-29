@@ -1,0 +1,162 @@
+countrows: 3
+filename: 855102.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH0WI08075\x1CRibble\x1CReid\x1CJ.\x1CRep.\x1C\x1C\x1CN7611 Lower
+    Cliff Road\x1C\x1CSherwood\x1CWI\x1C541699701\x1CREP\x1CH\x1CWI\x1C08\x1C2014\x1CC00463620\x1CRibble
+    For Congress\x1CPO Box 7200\x1C\x1CAppleton\x1CWI\x1C549127069\x1CC00527549\x1CWire
+    to Wire Committee\x1C320 1st Street SE\x1C\x1CWashington\x1CDC\x1C200031838\x1CRibble\x1CReid\x1CJ.\x1CRep.\x1C\x1C20130211\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0WI08075
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Ribble
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Reid
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: J.
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Rep.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: N7611 Lower Cliff Road
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Sherwood
+  - name: CANDIDATE STATE
+    number: '12'
+    value: WI
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '541699701'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: WI
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: 08
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00463620
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Ribble For Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 7200
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Appleton
+  - name: PCC STATE
+    number: '24'
+    value: WI
+  - name: PCC ZIP
+    number: '25'
+    value: '549127069'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00527549
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Wire to Wire Committee
+  - name: AUTH STREET 1
+    number: '28'
+    value: 320 1st Street SE
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Washington
+  - name: AUTH STATE
+    number: '31'
+    value: DC
+  - name: AUTH ZIP
+    number: '32'
+    value: '200031838'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Ribble
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Reid
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: J.
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: Rep.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130211
+
+'
+- input: "F2S\x1CH0WI08075\x1CC00499202\x1CRibble Responsible Government Committee\x1CPO
+    Box 30844\x1C\x1CBethesda\x1CMD\x1C208240844\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0WI08075
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00499202
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Ribble Responsible Government Committee
+  - name: AUTH STREET 1
+    number: '5'
+    value: PO Box 30844
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Bethesda
+  - name: AUTH STATE
+    number: '8'
+    value: MD
+  - name: AUTH ZIP
+    number: '9'
+    value: '208240844
+
+'
+sourceurl: !!python/unicode 20130211
+type: chunk

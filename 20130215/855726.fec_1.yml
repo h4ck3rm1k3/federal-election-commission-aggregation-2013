@@ -1,0 +1,161 @@
+countrows: 3
+filename: 855726.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH2IA05072\x1CKing\x1CSteve\x1C\x1CMr.\x1C\x1CX\x1C3897 Esther Ave.\x1C\x1CKiron\x1CIA\x1C514488003\x1CREP\x1CH\x1CIA\x1C04\x1C2014\x1CC00373563\x1CKing
+    for Congress\x1C202 W 2nd St.\x1CPO Box 398\x1CWall Lake\x1CIA\x1C51466\x1CC00522052\x1CTrucking
+    for Freedom\x1C1610 Obrien Avenue\x1C\x1CBelmond\x1CIA\x1C50421\x1CKing\x1CSteve\x1C\x1CMr.\x1C\x1C20130215\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2IA05072
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: King
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Steve
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Mr.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: X
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 3897 Esther Ave.
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Kiron
+  - name: CANDIDATE STATE
+    number: '12'
+    value: IA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '514488003'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: IA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '04'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00373563
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: King for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: 202 W 2nd St.
+  - name: PCC STREET 2
+    number: '22'
+    value: PO Box 398
+  - name: PCC CITY
+    number: '23'
+    value: Wall Lake
+  - name: PCC STATE
+    number: '24'
+    value: IA
+  - name: PCC ZIP
+    number: '25'
+    value: '51466'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00522052
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Trucking for Freedom
+  - name: AUTH STREET 1
+    number: '28'
+    value: 1610 Obrien Avenue
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Belmond
+  - name: AUTH STATE
+    number: '31'
+    value: IA
+  - name: AUTH ZIP
+    number: '32'
+    value: '50421'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: King
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Steve
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: Mr.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130215
+
+'
+- input: "F2S\x1CH2IA05072\x1CC00524579\x1CReplace Obamacare Democrats\x1C2470 Daniell's
+    Bridge Rd Ste. 121\x1C\x1CAthens\x1CGA\x1C30606\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2IA05072
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00524579
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Replace Obamacare Democrats
+  - name: AUTH STREET 1
+    number: '5'
+    value: 2470 Daniell's Bridge Rd Ste. 121
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Athens
+  - name: AUTH STATE
+    number: '8'
+    value: GA
+  - name: AUTH ZIP
+    number: '9'
+    value: '30606
+
+'
+sourceurl: !!python/unicode 20130215
+type: chunk

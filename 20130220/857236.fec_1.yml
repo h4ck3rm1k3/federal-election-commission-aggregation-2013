@@ -1,0 +1,419 @@
+countrows: 7
+filename: 857236.fec
+header: {}
+rows:
+- 2
+- input: "F6N\x1CC00539866\x1C\x1CRobin Kelly for Congress\x1CP.O Box 6953\x1C\x1CChicago\x1CIL\x1C60680\x1CH2IL02172\x1CKelly\x1CRobin\x1C\x1C\x1C\x1CH\x1CIL\x1C02\x1CVanmeter\x1CRyan\x1C\x1C\x1C\x1C20130219\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00539866
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Robin Kelly for Congress
+  - name: STREET 1
+    number: '5'
+    value: P.O Box 6953
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Chicago
+  - name: STATE
+    number: '8'
+    value: IL
+  - name: ZIP
+    number: '9'
+    value: '60680'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H2IL02172
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: Kelly
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: Robin
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: IL
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '02'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Vanmeter
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Ryan
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130219
+
+'
+- input: "F65\x1CC00539866\x1CC9084545\x1CIND\x1C\x1CAntunovich\x1CJoseph\x1C\x1C\x1C\x1C224
+    W Huron St\x1C\x1CChicago\x1CIL\x1C606543981\x1C\x1C20130217\x1C2600.00\x1CAntunovich
+    Associates\x1CArchitect\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00539866
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C9084545
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Antunovich
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Joseph
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 224 W Huron St
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Chicago
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '606543981'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130217'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2600.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Antunovich Associates
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Architect
+
+'
+- input: "F65\x1CC00539866\x1CC9084785\x1CIND\x1C\x1CBaskin\x1CSheldon\x1C\x1C\x1C\x1C200
+    E Randolph St\x1CSte 2100\x1CChicago\x1CIL\x1C606016432\x1C\x1C20130218\x1C1000.00\x1CSelf\x1CAttorney/Real
+    Estate\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00539866
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C9084785
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Baskin
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Sheldon
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 200 E Randolph St
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: Ste 2100
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Chicago
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '606016432'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130218'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Self
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Attorney/Real Estate
+
+'
+- input: "F65\x1CC00539866\x1CC9084987\x1CIND\x1C\x1CDodds\x1CJill\x1C\x1C\x1C\x1C195
+    N Harbor Dr\x1CApt 3302\x1CChicago\x1CIL\x1C606017533\x1C\x1C20130218\x1C1000.00\x1CMetro
+    Anesthesia Consultants\x1CManaging partner\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00539866
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C9084987
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Dodds
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Jill
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 195 N Harbor Dr
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: Apt 3302
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Chicago
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '606017533'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130218'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Metro Anesthesia Consultants
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Managing partner
+
+'
+- input: "F65\x1CC00539866\x1CC9084422\x1CIND\x1C\x1CDoyle\x1CMichael\x1C\x1C\x1C\x1C218
+    Lorraine St\x1C\x1CGlen Ellyn\x1CIL\x1C601375327\x1C\x1C20130217\x1C2600.00\x1CIomas
+    Research LLC\x1CCEO\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00539866
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C9084422
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Doyle
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Michael
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 218 Lorraine St
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Glen Ellyn
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '601375327'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130217'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2600.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Iomas Research LLC
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'CEO
+
+'
+- input: "F65\x1CC00539866\x1CC9084790\x1CIND\x1C\x1CPuri\x1CSunil\x1C\x1C\x1C\x1C6801
+    Spring Creek Rd\x1C\x1CRockford\x1CIL\x1C611147420\x1C\x1C20130218\x1C2500.00\x1CFirst
+    Rockford Group\x1CCEO\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00539866
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C9084790
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Puri
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Sunil
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 6801 Spring Creek Rd
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Rockford
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '611147420'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130218'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2500.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: First Rockford Group
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'CEO
+
+'
+sourceurl: !!python/unicode 20130220
+type: chunk

@@ -1,0 +1,606 @@
+countrows: 6
+filename: 857177.fec
+header: {}
+rows:
+- 2
+- input: "F24N\x1CC00520262\x1C24\x1C\x1CUniversity of Hawaii Professional Assembly\x1C1017
+    Palm Drive\x1C\x1CHonolulu\x1CHI\x1C96814\x1CBye\x1CCatherine\x1CT.\x1C\x1C\x1C20130219\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520262
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '5'
+    value: University of Hawaii Professional Assembly
+  - name: STREET 1
+    number: '6'
+    value: 1017 Palm Drive
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Honolulu
+  - name: STATE
+    number: '9'
+    value: HI
+  - name: ZIP
+    number: '10'
+    value: '96814'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Bye
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Catherine
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: T.
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130219
+
+'
+- input: "SE\x1CC00520262\x1CSE.4309\x1C\x1C\x1CIND\x1C\x1CHanselman\x1CKristeen\x1C\x1C\x1C\x1C1177
+    Mokuhana St, #H102\x1C\x1CHonolulu\x1CHI\x1C96825\x1CP2012\x1C\x1C20120731\x1C1076.32\x1C252311.08\x1CTime
+    spent on messaging, tv media schedule, etc\x1C001\x1CC00520262\x1CS\x1CS6HI00180\x1CCASE\x1CEDWARD
+    ESPENETT\x1C\x1C\x1C\x1CS\x1CHI\x1C\x1CBye\x1CCatherine\x1CT.\x1C\x1C\x1C20130219\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520262
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4309
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Hanselman
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Kristeen
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '1177 Mokuhana St, #H102'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Honolulu
+  - name: PAYEE STATE
+    number: '16'
+    value: HI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '96825'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120731'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1076.32'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '252311.08'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Time spent on messaging, tv media schedule, etc
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00520262
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6HI00180
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: CASE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: EDWARD ESPENETT
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: HI
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Bye
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Catherine
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: T.
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130219'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520262\x1CSE.4311\x1C\x1C\x1CIND\x1C\x1CHanselman\x1CKristeen\x1C\x1C\x1C\x1C1177
+    Mokuhana St, #H102\x1C\x1CHonolulu\x1CHI\x1C96825\x1CP2012\x1C\x1C20120731\x1C296.92\x1C252608.00\x1CTime
+    spent on preparing mailing & tv spot\x1C001\x1CC00520262\x1CO\x1CS2HI00114\x1CLINGLE\x1CLINDA\x1C\x1C\x1C\x1CS\x1CHI\x1C\x1CBye\x1CCatherine\x1CT.\x1C\x1C\x1C20130219\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520262
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4311
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Hanselman
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Kristeen
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '1177 Mokuhana St, #H102'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Honolulu
+  - name: PAYEE STATE
+    number: '16'
+    value: HI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '96825'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120731'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '296.92'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '252608.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Time spent on preparing mailing & tv spot
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00520262
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2HI00114
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: LINGLE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: LINDA
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: HI
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Bye
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Catherine
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: T.
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130219'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520262\x1CSE.4308\x1C\x1C\x1CORG\x1CStrategic Communication Solutions,
+    LLC\x1C\x1C\x1C\x1C\x1C\x1CPO Box 283137\x1C\x1CHonolulu\x1CHI\x1C968283137\x1CP2012\x1C\x1C20120731\x1C1564.33\x1C251011.28\x1CDiscuss
+    political messaging,\x1C004\x1CC00520262\x1CS\x1CS6HI00180\x1CCASE\x1CEDWARD ESPENETT\x1C\x1C\x1C\x1CS\x1CHI\x1C\x1CBye\x1CCatherine\x1CT.\x1C\x1C\x1C20130219\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520262
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4308
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Strategic Communication Solutions, LLC
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 283137
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Honolulu
+  - name: PAYEE STATE
+    number: '16'
+    value: HI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '968283137'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120731'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1564.33'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '251011.28'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Discuss political messaging,
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00520262
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6HI00180
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: CASE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: EDWARD ESPENETT
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: HI
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Bye
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Catherine
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: T.
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130219'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520262\x1CSE.4310\x1C\x1C\x1CORG\x1CStrategic Communication Solutions,
+    LLC\x1C\x1C\x1C\x1C\x1C\x1CPO Box 283137\x1C\x1CHonolulu\x1CHI\x1C968283137\x1CP2012\x1C\x1C20120731\x1C223.48\x1C251234.76\x1CDirect
+    Mail\x1C004\x1CC00520262\x1CO\x1CS2HI00114\x1CLINGLE\x1CLINDA\x1C\x1C\x1C\x1CS\x1CHI\x1C\x1CBye\x1CCatherine\x1CT.\x1C\x1C\x1C20130219\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520262
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4310
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Strategic Communication Solutions, LLC
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 283137
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Honolulu
+  - name: PAYEE STATE
+    number: '16'
+    value: HI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '968283137'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120731'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '223.48'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '251234.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Direct Mail
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00520262
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2HI00114
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: LINGLE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: LINDA
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: HI
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Bye
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Catherine
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: T.
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130219'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130219
+type: chunk

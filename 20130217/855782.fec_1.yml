@@ -1,0 +1,606 @@
+countrows: 6
+filename: 855782.fec
+header: {}
+rows:
+- 2
+- input: "F24N\x1CC00532812\x1C24\x1C\x1CProgressive U.S.A. Voters\x1C1543 Wazee St\x1C\x1CDenver\x1CCO\x1C80202\x1CMason\x1CDyana\x1C\x1C\x1C\x1C20130217\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00532812
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '5'
+    value: Progressive U.S.A. Voters
+  - name: STREET 1
+    number: '6'
+    value: 1543 Wazee St
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Denver
+  - name: STATE
+    number: '9'
+    value: CO
+  - name: ZIP
+    number: '10'
+    value: '80202'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Mason
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Dyana
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130217
+
+'
+- input: "SE\x1CC00532812\x1CSE.4179\x1C\x1C\x1CORG\x1CGrassroots Voter Outreach\x1C\x1C\x1C\x1C\x1C\x1C59
+    Temple Place\x1C\x1CBoston\x1CMA\x1C02111\x1CS2013\x1CSpecial-Primary\x1C20130215\x1C1374.00\x1C2061.00\x1Cpaid
+    voter contact canvass\x1C001\x1CC00532812\x1CO\x1CH2IL02164\x1CHutchinson\x1CToi\x1C\x1C\x1C\x1CH\x1CIL\x1C02\x1CMason\x1CDyana\x1C\x1C\x1C\x1C20130217\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00532812
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4179
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Grassroots Voter Outreach
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 59 Temple Place
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Boston
+  - name: PAYEE STATE
+    number: '16'
+    value: MA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '02111'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-Primary
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130215'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1374.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '2061.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: paid voter contact canvass
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00532812
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H2IL02164
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Hutchinson
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Toi
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '02'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Mason
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Dyana
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130217'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00532812\x1CSE.4180\x1C\x1C\x1CORG\x1CGrassroots Voter Outreach\x1C\x1C\x1C\x1C\x1C\x1C59
+    Temple Place\x1C\x1CBoston\x1CMA\x1C02111\x1CS2013\x1CSpecial-Primary\x1C20130216\x1C1374.00\x1C3435.00\x1Cpaid
+    voter contact canvass\x1C001\x1CC00532812\x1CO\x1CH8IL11113\x1CHALVORSON\x1CDEBORAH
+    L\x1C\x1C\x1C\x1CH\x1CIL\x1C02\x1CMason\x1CDyana\x1C\x1C\x1C\x1C20130217\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00532812
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4180
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Grassroots Voter Outreach
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 59 Temple Place
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Boston
+  - name: PAYEE STATE
+    number: '16'
+    value: MA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '02111'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-Primary
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130216'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1374.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '3435.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: paid voter contact canvass
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00532812
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H8IL11113
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: HALVORSON
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: DEBORAH L
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '02'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Mason
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Dyana
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130217'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00532812\x1CSE.4177\x1C\x1C\x1CORG\x1CWork For Progress\x1C\x1C\x1C\x1C\x1C\x1C1543
+    Wazee St, Ste 310\x1C\x1CDenver\x1CCO\x1C80202\x1CS2013\x1CSpecial-Primary\x1C20130212\x1C343.50\x1C343.50\x1Cpaid
+    voter contact costs\x1C001\x1CC00532812\x1CO\x1CH8IL11113\x1CHALVORSON\x1CDEBORAH
+    L\x1C\x1C\x1C\x1CH\x1CIL\x1C02\x1CMason\x1CDyana\x1C\x1C\x1C\x1C20130217\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00532812
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4177
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Work For Progress
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1543 Wazee St, Ste 310
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Denver
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80202'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-Primary
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130212'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '343.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '343.50'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: paid voter contact costs
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00532812
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H8IL11113
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: HALVORSON
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: DEBORAH L
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '02'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Mason
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Dyana
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130217'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00532812\x1CSE.4178\x1C\x1C\x1CORG\x1CWork For Progress\x1C\x1C\x1C\x1C\x1C\x1C1543
+    Wazee St, Ste 310\x1C\x1CDenver\x1CCO\x1C80202\x1CS2013\x1CSpecial-Primary\x1C20130212\x1C343.50\x1C687.00\x1Cpaid
+    voter contact costs\x1C001\x1CC00532812\x1CO\x1CH2IL02164\x1CHutchinson\x1CToi\x1C\x1C\x1C\x1CH\x1CIL\x1C02\x1CMason\x1CDyana\x1C\x1C\x1C\x1C20130217\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00532812
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4178
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Work For Progress
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1543 Wazee St, Ste 310
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Denver
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '80202'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-Primary
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130212'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '343.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '687.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: paid voter contact costs
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00532812
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H2IL02164
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Hutchinson
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Toi
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '02'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Mason
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Dyana
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130217'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130217
+type: chunk
