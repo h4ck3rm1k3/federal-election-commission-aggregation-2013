@@ -1,0 +1,129 @@
+countrows: 2
+filename: 858802.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH2TX00015\x1CJohnson\x1CEddie\x1CBernice\x1C\x1C\x1C\x1C3102 Maple
+    Ave., #605\x1C\x1CDallas\x1CTX\x1C75201   \x1CDEM\x1CH\x1CTX\x1C30\x1C2014\x1CC00254573\x1CEddie
+    Bernice Johnson for Congress\x1C3102 Maple Avenue, Suite 605\x1C\x1CDallas\x1CTX\x1C75201
+    \  \x1C        \x1C\x1C\x1C\x1C\x1C \x1C       \x1CJohnson\x1CEddie\x1CBernice\x1C\x1C\x1C20130228\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2TX00015
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Johnson
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Eddie
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: Bernice
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: '3102 Maple Ave., #605'
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Dallas
+  - name: CANDIDATE STATE
+    number: '12'
+    value: TX
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '75201   '
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: TX
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '30'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00254573
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Eddie Bernice Johnson for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: 3102 Maple Avenue, Suite 605
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Dallas
+  - name: PCC STATE
+    number: '24'
+    value: TX
+  - name: PCC ZIP
+    number: '25'
+    value: '75201   '
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: '        '
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ' '
+  - name: AUTH ZIP
+    number: '32'
+    value: '       '
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Johnson
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Eddie
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: Bernice
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130228
+
+'
+sourceurl: !!python/unicode 20130228
+type: chunk

@@ -1,0 +1,265 @@
+countrows: 4
+filename: 858799.fec
+header: {}
+rows:
+- 2
+- input: "F3LN\x1CC00226522\x1CRICHARD E NEAL FOR CONGRESS COMMITTEE\x1C\x1C76 MAGNOLIA
+    TERRACE\x1C\x1CSPRINGFIELD\x1CMA\x1C01108\x1C\x1C\x1CQYS\x1C\x1C\x1C\x1C20121018\x1C20121231\x1C\x1C\x1C0.00\x1C23200.00\x1CHall\x1CMichael
+    F.\x1C\x1CMr.\x1C\x1C20130228\n"
+  record: fec.version.v8_0.F3L
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3LN
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00226522
+  - name: COMMITTEE NAME
+    number: '3'
+    value: RICHARD E NEAL FOR CONGRESS COMMITTEE
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 76 MAGNOLIA TERRACE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: SPRINGFIELD
+  - name: STATE
+    number: '8'
+    value: MA
+  - name: ZIP
+    number: '9'
+    value: 01108
+  - name: ELECTION STATE
+    number: '10'
+    value: ''
+  - name: ELECTION DISTRICT
+    number: '11'
+    value: ''
+  - name: REPORT CODE
+    number: '12'
+    value: QYS
+  - name: DATE OF ELECTION
+    number: '13'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '14'
+    value: ''
+  - name: SEMI-ANNUAL PERIOD - Sect 5(c) or (d)
+    number: '15'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '16'
+    value: '20121018'
+  - name: COVERAGE THROUGH DATE
+    number: '17'
+    value: '20121231'
+  - name: SEMI-ANNUAL JAN-JUN - Sect 6(b)
+    number: '18'
+    value: ''
+  - name: SEMI-ANNUAL JUL-DEC - Sect 6(b)
+    number: '19'
+    value: ''
+  - name: QTR/MON/POST BUNDLED CONTRIBUTIONS
+    number: '20'
+    value: '0.00'
+  - name: SEMI-ANNUAL BUNDLED CONTRIBS
+    number: '21'
+    value: '23200.00'
+  - name: TREASURER LAST NAME
+    number: '22'
+    value: Hall
+  - name: TREASURER FIRST NAME
+    number: '23'
+    value: Michael F.
+  - name: TREASURER MIDDLE NAME
+    number: '24'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '25'
+    value: Mr.
+  - name: TREASURER SUFFIX
+    number: '26'
+    value: ''
+  - name: DATE SIGNED
+    number: '27'
+    value: '20130228
+
+'
+- input: "TEXT\x1CC00226522\x1C.TEXT\x1C\x1CF3LN\x1CAs there were no bundled contributions
+    in the last Reporting Period, the semi-annual F3L was not filed.  All bundled
+    contributions for 2013 were reported in quarterly filings.  I apologize for the
+    oversight.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00226522
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: .TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3LN
+  - name: TEXT4000
+    number: '6'
+    value: 'As there were no bundled contributions in the last Reporting Period, the
+      semi-annual F3L was not filed.  All bundled contributions for 2013 were reported
+      in quarterly filings.  I apologize for the oversight.
+
+'
+- input: "SA3L\x1CC00226522\x1CSA3L.38358\x1C\x1C\x1CPAC\x1CFMR LLC POLITICAL ACTION
+    COMMITTEE (FIDELITY PAC)\x1C\x1C\x1C\x1C\x1C\x1C82 Devonshire Street\x1C\x1CBoston\x1CMA\x1C02109\x1C\x1C\x1C\x1C\x1C23200.00\x1C\x1C\x1C\x1CC00215046\x1CFMR
+    LLC POLITICAL ACTION COMMITTEE (FIDELITY PAC)\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA3L
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00226522
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA3L.38358
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: FMR LLC POLITICAL ACTION COMMITTEE (FIDELITY PAC)
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 82 Devonshire Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Boston
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: MA
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: 02109
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: ''
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: ''
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '23200.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: ''
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: C00215046
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: FMR LLC POLITICAL ACTION COMMITTEE (FIDELITY PAC)
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130228
+type: chunk

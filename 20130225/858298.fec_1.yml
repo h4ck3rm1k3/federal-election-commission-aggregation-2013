@@ -1,0 +1,129 @@
+countrows: 2
+filename: 858298.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH8NJ04014\x1CSmith\x1CChristopher\x1CH.\x1C\x1C\x1C\x1CPO Box 3184\x1C\x1CHamilton\x1CNJ\x1C08619
+    \  \x1CREP\x1CH\x1CNJ\x1C04\x1C2014\x1CC00096412\x1CCommittee To Reelect Congressman
+    Chris Smith\x1CP.O. Box 3184\x1C\x1CHamilton\x1CNJ\x1C08619   \x1C        \x1C\x1C\x1C\x1C\x1C
+    \x1C       \x1CSmith\x1CChristopher\x1CH.\x1C\x1C\x1C20130225\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8NJ04014
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Smith
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Christopher
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: H.
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO Box 3184
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Hamilton
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NJ
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '08619   '
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NJ
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '04'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00096412
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Committee To Reelect Congressman Chris Smith
+  - name: PCC STREET 1
+    number: '21'
+    value: P.O. Box 3184
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Hamilton
+  - name: PCC STATE
+    number: '24'
+    value: NJ
+  - name: PCC ZIP
+    number: '25'
+    value: '08619   '
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: '        '
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ' '
+  - name: AUTH ZIP
+    number: '32'
+    value: '       '
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Smith
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Christopher
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: H.
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130225
+
+'
+sourceurl: !!python/unicode 20130225
+type: chunk

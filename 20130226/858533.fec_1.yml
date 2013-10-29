@@ -1,0 +1,316 @@
+countrows: 2
+filename: 858533.fec
+header: {}
+rows:
+- 2
+- input: "F1N\x1CC00350744\x1C\x1CThe Goldman Sachs Group, Inc. Political Action Committee\x1C\x1C101
+    Constitution Avenue, NW\x1CSuite 1000 East\x1CWashington\x1CDC\x1C20001\x1C\x1Cjody.stacoffe@gs.com\x1C\x1C\x1C20130220\x1CO'Connor\x1CRobert\x1C\x1C\x1C\x1C20130226\x1CF\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\x1C\x1CThe
+    Goldman Sachs Group Inc\x1C\x1C\x1C\x1C\x1C\x1C\x1C85 Broad Street\x1C\x1CNew
+    York\x1CNY\x1C10004\x1CORG\x1CO'Connor\x1CRobert\x1C\x1C\x1C\x1C101 Constitution
+    Avenue, NW\x1CSuite 1000 East\x1CWashington\x1CDC\x1C20001\x1CTreasurer\x1C2026373700\x1CO'Connor\x1CRobert\x1C\x1C\x1C\x1C101
+    Constitution Avenue, NW\x1CSuite 1000 East\x1CWashington\x1CDC\x1C20001\x1CTreasurer\x1C2026373700\x1CConnolly\x1CKen\x1C\x1C\x1C\x1C101
+    Constitution Avenue, NW\x1CSuite 1000 East\x1CWashington\x1CDC\x1C20001\x1CAssistant
+    Treasurer\x1C2026373700\x1CCongressional Bank\x1C7963 Tuckerman Lane\x1C\x1CPotomac\x1CMD\x1C20854\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00350744
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: The Goldman Sachs Group, Inc. Political Action Committee
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 101 Constitution Avenue, NW
+  - name: STREET 2
+    number: '7'
+    value: Suite 1000 East
+  - name: CITY
+    number: '8'
+    value: Washington
+  - name: STATE
+    number: '9'
+    value: DC
+  - name: ZIP
+    number: '10'
+    value: '20001'
+  - name: CHANGE OF COMMITTEE EMAIL
+    number: '11'
+    value: ''
+  - name: COMMITTEE EMAIL
+    number: '12'
+    value: jody.stacoffe@gs.com
+  - name: CHANGE OF COMMITTEE WEB URL
+    number: '13'
+    value: ''
+  - name: COMMITTEE WEB URL
+    number: '14'
+    value: ''
+  - name: EFFECTIVE DATE
+    number: '15'
+    value: '20130220'
+  - name: SIGNATURE LAST NAME
+    number: '16'
+    value: O'Connor
+  - name: SIGNATURE FIRST NAME
+    number: '17'
+    value: Robert
+  - name: SIGNATURE MIDDLE NAME
+    number: '18'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '19'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '20'
+    value: ''
+  - name: DATE SIGNED
+    number: '21'
+    value: '20130226'
+  - name: COMMITTEE TYPE
+    number: 22-5.
+    value: F
+  - name: CANDIDATE ID NUMBER
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 30-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 31-5.
+    value: ''
+  - name: PARTY CODE
+    number: 32-5.
+    value: ''
+  - name: PARTY TYPE
+    number: 33-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 34-5 (e).
+    value: ''
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 35-5 (e).
+    value: ''
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 36-5 (f).
+    value: X
+  - name: LEADERSHIP PAC
+    number: 37-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 39-6.
+    value: The Goldman Sachs Group Inc
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 40-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 41-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 42-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 43-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 44-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 45-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 46-6.
+    value: 85 Broad Street
+  - name: AFFILIATED STREET 2
+    number: 47-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 48-6.
+    value: New York
+  - name: AFFILIATED STATE
+    number: 49-6.
+    value: NY
+  - name: AFFILIATED ZIP
+    number: 50-6.
+    value: '10004'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 51-6.
+    value: ORG
+  - name: CUSTODIAN LAST NAME
+    number: 52-7.
+    value: O'Connor
+  - name: CUSTODIAN FIRST NAME
+    number: 53-7.
+    value: Robert
+  - name: CUSTODIAN MIDDLE NAME
+    number: 54-7.
+    value: ''
+  - name: CUSTODIAN PREFIX
+    number: 55-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 56-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 57-7.
+    value: 101 Constitution Avenue, NW
+  - name: CUSTODIAN STREET 2
+    number: 58-7.
+    value: Suite 1000 East
+  - name: CUSTODIAN CITY
+    number: 59-7.
+    value: Washington
+  - name: CUSTODIAN STATE
+    number: 60-7.
+    value: DC
+  - name: CUSTODIAN ZIP
+    number: 61-7.
+    value: '20001'
+  - name: CUSTODIAN TITLE
+    number: 62-7.
+    value: Treasurer
+  - name: CUSTODIAN TELEPHONE
+    number: 63-7.
+    value: '2026373700'
+  - name: TREASURER LAST NAME
+    number: 64-8.
+    value: O'Connor
+  - name: TREASURER FIRST NAME
+    number: 65-8.
+    value: Robert
+  - name: TREASURER MIDDLE NAME
+    number: 66-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 67-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 68-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 69-8.
+    value: 101 Constitution Avenue, NW
+  - name: TREASURER STREET 2
+    number: 70-8.
+    value: Suite 1000 East
+  - name: TREASURER CITY
+    number: 71-8.
+    value: Washington
+  - name: TREASURER STATE
+    number: 72-8.
+    value: DC
+  - name: TREASURER ZIP
+    number: 73-8.
+    value: '20001'
+  - name: TREASURER TITLE
+    number: 74-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 75-8.
+    value: '2026373700'
+  - name: AGENT LAST NAME
+    number: 76-8.
+    value: Connolly
+  - name: AGENT FIRST NAME
+    number: 77-8.
+    value: Ken
+  - name: AGENT MIDDLE NAME
+    number: 78-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 79-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 80-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 81-8.
+    value: 101 Constitution Avenue, NW
+  - name: AGENT STREET 2
+    number: 82-8.
+    value: Suite 1000 East
+  - name: AGENT CITY
+    number: 83-8.
+    value: Washington
+  - name: AGENT STATE
+    number: 84-8.
+    value: DC
+  - name: AGENT ZIP
+    number: 85-8.
+    value: '20001'
+  - name: AGENT TITLE
+    number: 86-8.
+    value: Assistant Treasurer
+  - name: AGENT TELEPHONE
+    number: 87-8.
+    value: '2026373700'
+  - name: BANK NAME
+    number: 88-9. a)
+    value: Congressional Bank
+  - name: BANK STREET 1
+    number: 89-9. a)
+    value: 7963 Tuckerman Lane
+  - name: BANK STREET 2
+    number: 90-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 91-9. a)
+    value: Potomac
+  - name: BANK STATE
+    number: 92-9. a)
+    value: MD
+  - name: BANK ZIP
+    number: 93-9. a)
+    value: '20854'
+  - name: BANK NAME
+    number: 94-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 95-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 96-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 97-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 98-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 99-9. b)
+    value: '
+
+'
+sourceurl: !!python/unicode 20130226
+type: chunk
