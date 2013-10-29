@@ -1,0 +1,214 @@
+countrows: 4
+filename: 848227.fec
+header: {}
+rows:
+- 2
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F7N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70003298
+  - name: ORGANIZATION NAME
+    number: '3'
+    value: NATIONAL RIGHT TO LIFE COMMITTEE
+  - name: ORGANIZATION STREET 1
+    number: '4'
+    value: 512 10TH STREET NW
+  - name: ORGANIZATION STREET 2
+    number: '5'
+    value: ''
+  - name: ORGANIZATION CITY
+    number: '6'
+    value: WASHINGTON
+  - name: ORGANIZATION STATE
+    number: '7'
+    value: DC
+  - name: ORGANIZATION ZIP
+    number: '8'
+    value: '20004'
+  - name: ORGANIZATION TYPE
+    number: '9'
+    value: M
+  - name: REPORT CODE
+    number: '10'
+    value: YE
+  - name: DATE OF ELECTION
+    number: '11'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '12'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '13'
+    value: '20121001'
+  - name: COVERAGE THROUGH DATE
+    number: '14'
+    value: '20121231'
+  - name: TOTAL COSTS
+    number: '15'
+    value: '38949.00'
+  - name: PERSON DESIGNATED TO SIGN LAST NAME
+    number: '16'
+    value: Cross
+  - name: PERSON DESIGNATED TO SIGN FIRST NAME
+    number: '17'
+    value: Karen
+  - name: PERSON DESIGNATED TO SIGN MIDDLE NAME
+    number: '18'
+    value: A
+  - name: PERSON DESIGNATED TO SIGN PREFIX
+    number: '19'
+    value: ''
+  - name: PERSON DESIGNATED TO SIGN SUFFIX
+    number: '20'
+    value: ''
+  - name: PERSON DESIGNATED TO SIGN TITLE
+    number: '21'
+    value: Political Director
+  - name: DATE SIGNED
+    number: '22'
+    value: '20130122'
+  - value: '
+
+'
+  expected_count: 22
+  input: "F7N\x1CC70003298\x1CNATIONAL RIGHT TO LIFE COMMITTEE\x1C512 10TH STREET
+    NW\x1C\x1CWASHINGTON\x1CDC\x1C20004\x1CM\x1CYE\x1C\x1C\x1C20121001\x1C20121231\x1C38949.00\x1CCross\x1CKaren\x1CA\x1C\x1C\x1CPolitical
+    Director\x1C20130122\x1C\n"
+  input_count: 23
+  record: fec.version.v8_0.F7
+  result: []
+- input: "F76\x1CC70003298\x1CF76.4124\x1CTP\x1C\x1CM\x1C20121001\x1C10035.00\x1CG2012\x1C\x1CO\x1CP80003338\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70003298
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4124
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: TP
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: ''
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121001'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '10035.00'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: Barack
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '
+
+'
+- input: "F76\x1CC70003298\x1CF76.4123\x1CDM\x1C\x1CM\x1C20121010\x1C28914.00\x1CG2012\x1C\x1CO\x1CP80003338\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70003298
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4123
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: DM
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: ''
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121010'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '28914.00'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: Barack
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130122
+type: chunk

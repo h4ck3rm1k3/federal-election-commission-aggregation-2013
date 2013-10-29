@@ -1,0 +1,455 @@
+countrows: 4
+filename: 847671.fec
+header: {}
+rows:
+- 2
+- input: "F1A\x1CC00022368\x1C\x1CNational Association of Chain Drug Stores Political
+    Action Committee\x1C\x1C1776 Wilson Boulevard\x1CSuite 200\x1CArlington\x1CVA\x1C22209\x1CX\x1Cjldavis@nacds.org\x1C\x1C\x1C20130118\x1CFitzsimmons\x1CDavid
+    M.\x1C\x1C\x1C\x1C20130118\x1CE\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CT\x1CX\x1C\x1C\x1C\x1CNational
+    Association of Chain Drug Stores, Inc.\x1C\x1C\x1C\x1C\x1C\x1C\x1C1776 Wilson
+    Boulevard\x1CSuite 200\x1CArlington\x1CVA\x1C22209\x1CORG\x1CJames\x1CR.\x1C\x1C\x1CHuber\x1C413
+    N. Lee Street\x1C\x1CAlexandria\x1CVA\x1C22314\x1CTreasurer\x1C7035493001\x1CFitzsimmons\x1CDavid
+    M.\x1C\x1C\x1C\x1C1776 Wilson Boulevard\x1CSuite 200\x1CArlington\x1CVA\x1C22209\x1CTreasurer\x1C7035493001\x1CFitzsimmons\x1CDavid
+    M.\x1C\x1C\x1C\x1C1776 Wilson Boulevard\x1CSuite 200\x1CArlington\x1CVA\x1C22209\x1CTreasurer\x1C7038389541\x1CSuntrust
+    Bank\x1CP. O. Box 622227\x1C\x1COrlando\x1CFL\x1C328622227\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00022368
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: National Association of Chain Drug Stores Political Action Committee
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 1776 Wilson Boulevard
+  - name: STREET 2
+    number: '7'
+    value: Suite 200
+  - name: CITY
+    number: '8'
+    value: Arlington
+  - name: STATE
+    number: '9'
+    value: VA
+  - name: ZIP
+    number: '10'
+    value: '22209'
+  - name: CHANGE OF COMMITTEE EMAIL
+    number: '11'
+    value: X
+  - name: COMMITTEE EMAIL
+    number: '12'
+    value: jldavis@nacds.org
+  - name: CHANGE OF COMMITTEE WEB URL
+    number: '13'
+    value: ''
+  - name: COMMITTEE WEB URL
+    number: '14'
+    value: ''
+  - name: EFFECTIVE DATE
+    number: '15'
+    value: '20130118'
+  - name: SIGNATURE LAST NAME
+    number: '16'
+    value: Fitzsimmons
+  - name: SIGNATURE FIRST NAME
+    number: '17'
+    value: David M.
+  - name: SIGNATURE MIDDLE NAME
+    number: '18'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '19'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '20'
+    value: ''
+  - name: DATE SIGNED
+    number: '21'
+    value: '20130118'
+  - name: COMMITTEE TYPE
+    number: 22-5.
+    value: E
+  - name: CANDIDATE ID NUMBER
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 30-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 31-5.
+    value: ''
+  - name: PARTY CODE
+    number: 32-5.
+    value: ''
+  - name: PARTY TYPE
+    number: 33-5.
+    value: ''
+  - name: ORGANIZATION TYPE
+    number: 34-5 (e).
+    value: T
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 35-5 (e).
+    value: X
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 36-5 (f).
+    value: ''
+  - name: LEADERSHIP PAC
+    number: 37-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 39-6.
+    value: National Association of Chain Drug Stores, Inc.
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 40-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 41-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 42-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 43-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 44-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 45-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 46-6.
+    value: 1776 Wilson Boulevard
+  - name: AFFILIATED STREET 2
+    number: 47-6.
+    value: Suite 200
+  - name: AFFILIATED CITY
+    number: 48-6.
+    value: Arlington
+  - name: AFFILIATED STATE
+    number: 49-6.
+    value: VA
+  - name: AFFILIATED ZIP
+    number: 50-6.
+    value: '22209'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 51-6.
+    value: ORG
+  - name: CUSTODIAN LAST NAME
+    number: 52-7.
+    value: James
+  - name: CUSTODIAN FIRST NAME
+    number: 53-7.
+    value: R.
+  - name: CUSTODIAN MIDDLE NAME
+    number: 54-7.
+    value: ''
+  - name: CUSTODIAN PREFIX
+    number: 55-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 56-7.
+    value: Huber
+  - name: CUSTODIAN STREET 1
+    number: 57-7.
+    value: 413 N. Lee Street
+  - name: CUSTODIAN STREET 2
+    number: 58-7.
+    value: ''
+  - name: CUSTODIAN CITY
+    number: 59-7.
+    value: Alexandria
+  - name: CUSTODIAN STATE
+    number: 60-7.
+    value: VA
+  - name: CUSTODIAN ZIP
+    number: 61-7.
+    value: '22314'
+  - name: CUSTODIAN TITLE
+    number: 62-7.
+    value: Treasurer
+  - name: CUSTODIAN TELEPHONE
+    number: 63-7.
+    value: '7035493001'
+  - name: TREASURER LAST NAME
+    number: 64-8.
+    value: Fitzsimmons
+  - name: TREASURER FIRST NAME
+    number: 65-8.
+    value: David M.
+  - name: TREASURER MIDDLE NAME
+    number: 66-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 67-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 68-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 69-8.
+    value: 1776 Wilson Boulevard
+  - name: TREASURER STREET 2
+    number: 70-8.
+    value: Suite 200
+  - name: TREASURER CITY
+    number: 71-8.
+    value: Arlington
+  - name: TREASURER STATE
+    number: 72-8.
+    value: VA
+  - name: TREASURER ZIP
+    number: 73-8.
+    value: '22209'
+  - name: TREASURER TITLE
+    number: 74-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 75-8.
+    value: '7035493001'
+  - name: AGENT LAST NAME
+    number: 76-8.
+    value: Fitzsimmons
+  - name: AGENT FIRST NAME
+    number: 77-8.
+    value: David M.
+  - name: AGENT MIDDLE NAME
+    number: 78-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 79-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 80-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 81-8.
+    value: 1776 Wilson Boulevard
+  - name: AGENT STREET 2
+    number: 82-8.
+    value: Suite 200
+  - name: AGENT CITY
+    number: 83-8.
+    value: Arlington
+  - name: AGENT STATE
+    number: 84-8.
+    value: VA
+  - name: AGENT ZIP
+    number: 85-8.
+    value: '22209'
+  - name: AGENT TITLE
+    number: 86-8.
+    value: Treasurer
+  - name: AGENT TELEPHONE
+    number: 87-8.
+    value: '7038389541'
+  - name: BANK NAME
+    number: 88-9. a)
+    value: Suntrust Bank
+  - name: BANK STREET 1
+    number: 89-9. a)
+    value: P. O. Box 622227
+  - name: BANK STREET 2
+    number: 90-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 91-9. a)
+    value: Orlando
+  - name: BANK STATE
+    number: 92-9. a)
+    value: FL
+  - name: BANK ZIP
+    number: 93-9. a)
+    value: '328622227'
+  - name: BANK NAME
+    number: 94-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 95-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 96-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 97-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 98-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 99-9. b)
+    value: '
+
+'
+- input: "F1S\x1CC00022368\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CDreyfus
+    Gov't Cash Management\x1C200 Park Ave.\x1C8th Floor\x1CNew York\x1CNY\x1C10166\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00022368
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: ''
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: ''
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: ''
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: ''
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: ''
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: ''
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: Dreyfus Gov't Cash Management
+  - name: BANK STREET 1
+    number: 32-9.
+    value: 200 Park Ave.
+  - name: BANK STREET 2
+    number: 33-9.
+    value: 8th Floor
+  - name: BANK CITY
+    number: 34-9.
+    value: New York
+  - name: BANK STATE
+    number: 35-9.
+    value: NY
+  - name: BANK ZIP
+    number: 36-9.
+    value: '10166
+
+'
+- input: "TEXT\x1CC00022368\x1C35719240\x1C\x1CF1A\x1CAmending FEC Form 1   updated
+    address, Treasurer info\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00022368
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '35719240'
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F1A
+  - name: TEXT4000
+    number: '6'
+    value: 'Amending FEC Form 1   updated address, Treasurer info
+
+'
+sourceurl: !!python/unicode 20130118
+type: chunk

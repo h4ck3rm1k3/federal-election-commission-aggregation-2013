@@ -1,0 +1,160 @@
+countrows: 3
+filename: 847002.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH6CA22125\x1CMcCarthy\x1CKevin\x1C\x1C\x1C\x1C\x1CPO Box 12667\x1C\x1CBakersfield\x1CCA\x1C933892667\x1CREP\x1CH\x1CCA\x1C23\x1C2014\x1CC00420935\x1CKevin
+    McCarthy for Congress\x1CPO Box 12667\x1C\x1CBakersfield\x1CCA\x1C933892667\x1CC00493908\x1CMcCarthy
+    Victory Fund\x1CPO Box 13307\x1C\x1CBakersfield\x1CCA\x1C933893307\x1CMcCarthy\x1CKevin\x1C\x1C\x1C\x1C20130115\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6CA22125
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: McCarthy
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Kevin
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO Box 12667
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Bakersfield
+  - name: CANDIDATE STATE
+    number: '12'
+    value: CA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '933892667'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: CA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '23'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00420935
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Kevin McCarthy for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 12667
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Bakersfield
+  - name: PCC STATE
+    number: '24'
+    value: CA
+  - name: PCC ZIP
+    number: '25'
+    value: '933892667'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00493908
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: McCarthy Victory Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO Box 13307
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Bakersfield
+  - name: AUTH STATE
+    number: '31'
+    value: CA
+  - name: AUTH ZIP
+    number: '32'
+    value: '933893307'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: McCarthy
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Kevin
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130115
+
+'
+- input: "F2S\x1CH6CA22125\x1CC00484360\x1CFour Amigos Joint Committee\x1C601 S Boulevard\x1C\x1CTampa\x1CFL\x1C336062629\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6CA22125
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00484360
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Four Amigos Joint Committee
+  - name: AUTH STREET 1
+    number: '5'
+    value: 601 S Boulevard
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Tampa
+  - name: AUTH STATE
+    number: '8'
+    value: FL
+  - name: AUTH ZIP
+    number: '9'
+    value: '336062629
+
+'
+sourceurl: !!python/unicode 20130115
+type: chunk

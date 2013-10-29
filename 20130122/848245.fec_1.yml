@@ -1,0 +1,364 @@
+countrows: 6
+filename: 848245.fec
+header: {}
+rows:
+- 2
+- input: "F6A\x1CC00464032\x1C20121031\x1CTom Reed for Congress\x1CPO Box 450\x1C\x1CVictor\x1CNY\x1C145640450\x1CH0NY29054\x1CReed\x1CThomas\x1CW\x1C\x1CII\x1CH\x1CNY\x1C23\x1CReed\x1CJohn\x1C\x1C\x1C\x1C20130122\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00464032
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: '20121031'
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Tom Reed for Congress
+  - name: STREET 1
+    number: '5'
+    value: PO Box 450
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Victor
+  - name: STATE
+    number: '8'
+    value: NY
+  - name: ZIP
+    number: '9'
+    value: '145640450'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H0NY29054
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: Reed
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: Thomas
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: W
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: II
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: NY
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '23'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Reed
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: John
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130122
+
+'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00464032
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '7567000'
+  - name: ENTITY TYPE
+    number: '4'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: Amgen Political Action Committee
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 601 13th Street NW
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: Floor 12
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Washington
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '200053819'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00251876
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121031'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '3000'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: ''
+  - value: '
+
+'
+  expected_count: 20
+  input: "F65\x1CC00464032\x1C7567000\x1CCOM\x1CAmgen Political Action Committee\x1C\x1C\x1C\x1C\x1C\x1C601
+    13th Street NW\x1CFloor 12\x1CWashington\x1CDC\x1C200053819\x1CC00251876\x1C20121031\x1C3000\x1C\x1C\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.F65
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00464032
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '7453000'
+  - name: ENTITY TYPE
+    number: '4'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: Chesapeake Energy Corporation
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: PO Box 18576
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Oklahoma City
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: OK
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '731540576'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00389288
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121031'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '5000'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: ''
+  - value: '
+
+'
+  expected_count: 20
+  input: "F65\x1CC00464032\x1C7453000\x1CCOM\x1CChesapeake Energy Corporation\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 18576\x1C\x1COklahoma City\x1COK\x1C731540576\x1CC00389288\x1C20121031\x1C5000\x1C\x1C\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.F65
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00464032
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '7455000'
+  - name: ENTITY TYPE
+    number: '4'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: Maynard Cooper & Gale
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 1901 Sixth Avenue North
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: 2400 Regions Barbert Plaza
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Birmingham
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: AL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '35203'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00272724
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121031'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: ''
+  - value: '
+
+'
+  expected_count: 20
+  input: "F65\x1CC00464032\x1C7455000\x1CCOM\x1CMaynard Cooper & Gale\x1C\x1C\x1C\x1C\x1C\x1C1901
+    Sixth Avenue North\x1C2400 Regions Barbert Plaza\x1CBirmingham\x1CAL\x1C35203\x1CC00272724\x1C20121031\x1C1000\x1C\x1C\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.F65
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00464032
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '7454000'
+  - name: ENTITY TYPE
+    number: '4'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: Merck PAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 601 Pennsylvania Avenue NW
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: North Bldg - Suite 1200
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Washington
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '200042601'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00097485
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121031'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: ''
+  - value: '
+
+'
+  expected_count: 20
+  input: "F65\x1CC00464032\x1C7454000\x1CCOM\x1CMerck PAC\x1C\x1C\x1C\x1C\x1C\x1C601
+    Pennsylvania Avenue NW\x1CNorth Bldg - Suite 1200\x1CWashington\x1CDC\x1C200042601\x1CC00097485\x1C20121031\x1C1000\x1C\x1C\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.F65
+  result: []
+sourceurl: !!python/unicode 20130122
+type: chunk

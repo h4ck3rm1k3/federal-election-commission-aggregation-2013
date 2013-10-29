@@ -1,0 +1,226 @@
+countrows: 4
+filename: 847443.fec
+header: {}
+rows:
+- 2
+- input: "F6A\x1CC00445023\x1C20121031\x1CGuthrie For Congress\x1CPO Box 9639\x1C\x1CBowling
+    Green\x1CKY\x1C421029639\x1CH8KY02031\x1CGuthrie\x1CS. Brett\x1C\x1C\x1C\x1CH\x1CKY\x1C02\x1CLaRue\x1CLaura\x1C\x1C\x1C\x1C20130117\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445023
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: '20121031'
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Guthrie For Congress
+  - name: STREET 1
+    number: '5'
+    value: PO Box 9639
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Bowling Green
+  - name: STATE
+    number: '8'
+    value: KY
+  - name: ZIP
+    number: '9'
+    value: '421029639'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H8KY02031
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: Guthrie
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: S. Brett
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: KY
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '02'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: LaRue
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Laura
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130117
+
+'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445023
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '7153000'
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Heit-Welch
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Cindy
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 2003 Amys Ridge Court
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Beavercreek
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '454347197'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121030'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Guardian Healthcare
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: Presidnet
+  - value: '
+
+'
+  expected_count: 20
+  input: "F65\x1CC00445023\x1C7153000\x1CIND\x1C\x1CHeit-Welch\x1CCindy\x1C\x1C\x1C\x1C2003
+    Amys Ridge Court\x1C\x1CBeavercreek\x1COH\x1C454347197\x1C\x1C20121030\x1C1000\x1CGuardian
+    Healthcare\x1CPresidnet\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.F65
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445023
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '7155000'
+  - name: ENTITY TYPE
+    number: '4'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: Realtors PAC-RPAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 430 N Michigan Avenue
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Chicago
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '606114011'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121031'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '3000'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: ''
+  - value: '
+
+'
+  expected_count: 20
+  input: "F65\x1CC00445023\x1C7155000\x1CCOM\x1CRealtors PAC-RPAC\x1C\x1C\x1C\x1C\x1C\x1C430
+    N Michigan Avenue\x1C\x1CChicago\x1CIL\x1C606114011\x1C\x1C20121031\x1C3000\x1C\x1C\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.F65
+  result: []
+sourceurl: !!python/unicode 20130117
+type: chunk

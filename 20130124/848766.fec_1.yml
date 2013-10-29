@@ -1,0 +1,557 @@
+countrows: 7
+filename: 848766.fec
+header: {}
+rows:
+- 2
+- input: "F5N\x1CC90011875\x1CORG\x1CSIERRA CLUB\x1C\x1C\x1C\x1C\x1C\x1C\x1C85 SECOND
+    ST. 2ND FLOOR\x1C\x1CSAN FRANCISCO\x1CCA\x1C94105\x1CN\x1C\x1C\x1C\x1C24\x1C\x1C\x1C0.00\x1C3565.40\x1CSheehan\x1CGayle\x1C\x1C\x1C\x1C20130124\n"
+  record: fec.version.v8_0.F5
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F5N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011875
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: SIERRA CLUB
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: ''
+  - name: STREET 1
+    number: '11'
+    value: 85 SECOND ST. 2ND FLOOR
+  - name: STREET 2
+    number: '12'
+    value: ''
+  - name: CITY
+    number: '13'
+    value: SAN FRANCISCO
+  - name: STATE
+    number: '14'
+    value: CA
+  - name: ZIP
+    number: '15'
+    value: '94105'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: N
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: ''
+  - name: REPORT CODE
+    number: '19'
+    value: ''
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: '24'
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: ''
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: ''
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '0.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '3565.40'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: Sheehan
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: Gayle
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: ''
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130124
+
+'
+- input: "TEXT\x1CC90011875\x1C.TEXT\x1C\x1CF5N\x1CThis is a missing 24-hour report
+    that resulted from an inadvertent administrative error made by a reporting staff
+    member. Staff worked promptly to file the missing report upon discovering the
+    oversight through our periodic compliance reviews, and the expenses listed here
+    will be included in the January 31 Year End report.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011875
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: .TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F5N
+  - name: TEXT4000
+    number: '6'
+    value: 'This is a missing 24-hour report that resulted from an inadvertent administrative
+      error made by a reporting staff member. Staff worked promptly to file the missing
+      report upon discovering the oversight through our periodic compliance reviews,
+      and the expenses listed here will be included in the January 31 Year End report.
+
+'
+- input: "F57\x1CC90011875\x1CF57.4966\x1CIND\x1C\x1CEmpsall\x1CNathan\x1C\x1C\x1C\x1C50
+    F Street, NW, Eighth Floor\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121031\x1C2266.07\x1C8690.65\x1CSalaries
+    & Benefits\x1C001\x1C\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011875
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4966
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Empsall
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Nathan
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 50 F Street, NW, Eighth Floor
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '2266.07'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '8690.65'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Salaries & Benefits
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00
+
+'
+- input: "F57\x1CC90011875\x1CF57.4972\x1CIND\x1C\x1CMoyer\x1CHeather\x1C\x1C\x1C\x1C50
+    F Street, NW, Eighth Floor\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121031\x1C18.19\x1C9941.43\x1CSalaries
+    & Benefits\x1C001\x1C\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011875
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4972
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Moyer
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Heather
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 50 F Street, NW, Eighth Floor
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '18.19'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '9941.43'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Salaries & Benefits
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00
+
+'
+- input: "F57\x1CC90011875\x1CF57.4973\x1CIND\x1C\x1CPollard\x1CTrey\x1C\x1C\x1C\x1C50
+    F Street, NW, Eighth Floor\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121031\x1C48.55\x1C9989.98\x1CSalaries
+    & Benefits\x1C001\x1C\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011875
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4973
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Pollard
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Trey
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 50 F Street, NW, Eighth Floor
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '48.55'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '9989.98'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Salaries & Benefits
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00
+
+'
+- input: "F57\x1CC90011875\x1CF57.4971\x1CIND\x1C\x1CRagbourn\x1CZachary\x1C\x1C\x1C\x1C50
+    F Street, NW, Eighth Floor\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121031\x1C1232.59\x1C9923.24\x1CSalaries
+    & Benefits\x1C001\x1C\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011875
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4971
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: Ragbourn
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: Zachary
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 50 F Street, NW, Eighth Floor
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1232.59'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '9923.24'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Salaries & Benefits
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00
+
+'
+sourceurl: !!python/unicode 20130124
+type: chunk

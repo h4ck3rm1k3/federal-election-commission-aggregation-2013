@@ -1,0 +1,225 @@
+countrows: 4
+filename: 849753.fec
+header: {}
+rows:
+- 2
+- input: "F6A\x1CC00516708\x1C20121018\x1CMaggie Brooks for Congress\x1CPO Box 10118\x1C\x1CRochester\x1CNY\x1C146100118\x1CH2NY25074\x1CBrooks\x1CMaggie\x1C\x1C\x1C\x1CH\x1CNY\x1C25\x1CUpton\x1CRoger\x1C\x1C\x1C\x1C20130128\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00516708
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: '20121018'
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Maggie Brooks for Congress
+  - name: STREET 1
+    number: '5'
+    value: PO Box 10118
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Rochester
+  - name: STATE
+    number: '8'
+    value: NY
+  - name: ZIP
+    number: '9'
+    value: '146100118'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H2NY25074
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: Brooks
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: Maggie
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: NY
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '25'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Upton
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Roger
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130128
+
+'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00516708
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '2442000'
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: Plastic Cosmetic & Restorative Surgery
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 2640 Ridgeway Avenue
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Rochester
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: NY
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '146264209'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121017'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: ''
+  - value: '
+
+'
+  expected_count: 20
+  input: "F65\x1CC00516708\x1C2442000\x1CORG\x1CPlastic Cosmetic & Restorative Surgery\x1C\x1C\x1C\x1C\x1C\x1C2640
+    Ridgeway Avenue\x1C\x1CRochester\x1CNY\x1C146264209\x1C\x1C20121017\x1C1000\x1C\x1C\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.F65
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00516708
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '247010'
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Capuano
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Donald
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: J
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: M.D.
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 2640 Ridgeway Avenue
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Rochester
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: NY
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '146264209'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121017'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Plastic Cosmetic & Restorati
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: Physician
+  - value: '
+
+'
+  expected_count: 20
+  input: "F65\x1CC00516708\x1C247010\x1CIND\x1C\x1CCapuano\x1CDonald\x1CJ\x1C\x1CM.D.\x1C2640
+    Ridgeway Avenue\x1C\x1CRochester\x1CNY\x1C146264209\x1C\x1C20121017\x1C1000\x1CPlastic
+    Cosmetic & Restorati\x1CPhysician\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.F65
+  result: []
+sourceurl: !!python/unicode 20130128
+type: chunk

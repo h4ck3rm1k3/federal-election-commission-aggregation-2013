@@ -1,0 +1,128 @@
+countrows: 2
+filename: 848035.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH2WA04041\x1CHASTINGS\x1CDOC\x1C\x1C\x1C\x1C\x1CPO BOX 2926\x1C\x1CPASCO\x1CWA\x1C99302\x1CREP\x1CH\x1CWA\x1C04\x1C2014\x1CC00286856\x1CFRIENDS
+    OF DOC HASTINGS\x1CPO BOX 2926\x1C\x1CPASCO\x1CWA\x1C99302\x1CC00258525\x1CHASTINGS
+    FOR CONGRESS CAMPAIGN COMMITTEE\x1CPO BOX 2926\x1C\x1CPASCO\x1CWA\x1C99302\x1CHASTINGS\x1CDOC\x1C\x1C\x1C\x1C20130122\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2WA04041
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: HASTINGS
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: DOC
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO BOX 2926
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: PASCO
+  - name: CANDIDATE STATE
+    number: '12'
+    value: WA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '99302'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: WA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '04'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00286856
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: FRIENDS OF DOC HASTINGS
+  - name: PCC STREET 1
+    number: '21'
+    value: PO BOX 2926
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: PASCO
+  - name: PCC STATE
+    number: '24'
+    value: WA
+  - name: PCC ZIP
+    number: '25'
+    value: '99302'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00258525
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: HASTINGS FOR CONGRESS CAMPAIGN COMMITTEE
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO BOX 2926
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: PASCO
+  - name: AUTH STATE
+    number: '31'
+    value: WA
+  - name: AUTH ZIP
+    number: '32'
+    value: '99302'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: HASTINGS
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: DOC
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130122
+
+'
+sourceurl: !!python/unicode 20130122
+type: chunk

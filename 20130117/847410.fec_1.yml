@@ -1,0 +1,129 @@
+countrows: 2
+filename: 847410.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH0WI06061\x1CPetri\x1CThomas\x1C\x1C\x1C\x1C\x1CN5329  Deneveu Lane\x1C\x1CFond
+    Du Lac\x1CWI\x1C549379669\x1CREP\x1CH\x1CWI\x1C06\x1C2014\x1CC00107003\x1CCitizens
+    for Tom Petri\x1CPO Box 270\x1C\x1CFond Du Lac\x1CWI\x1C549360270\x1CC00496844\x1CPetri-Ribble
+    Invitational\x1C7315 Wisconsin Avenue\x1CSuite 310\x1CBethesda\x1CMD\x1C208143202\x1CPetri\x1CThomas\x1C\x1C\x1C\x1C20130116\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0WI06061
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Petri
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Thomas
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: N5329  Deneveu Lane
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Fond Du Lac
+  - name: CANDIDATE STATE
+    number: '12'
+    value: WI
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '549379669'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: WI
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '06'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00107003
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Citizens for Tom Petri
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 270
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Fond Du Lac
+  - name: PCC STATE
+    number: '24'
+    value: WI
+  - name: PCC ZIP
+    number: '25'
+    value: '549360270'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00496844
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Petri-Ribble Invitational
+  - name: AUTH STREET 1
+    number: '28'
+    value: 7315 Wisconsin Avenue
+  - name: AUTH STREET 2
+    number: '29'
+    value: Suite 310
+  - name: AUTH CITY
+    number: '30'
+    value: Bethesda
+  - name: AUTH STATE
+    number: '31'
+    value: MD
+  - name: AUTH ZIP
+    number: '32'
+    value: '208143202'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Petri
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Thomas
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130116
+
+'
+sourceurl: !!python/unicode 20130117
+type: chunk

@@ -1,0 +1,205 @@
+countrows: 3
+filename: 847745.fec
+header: {}
+rows:
+- input: "SD10\x1CC00501643\x1C002\x1CORG\x1C\"OGLETREE, DEAKINS, NASH, SMOAK & STEWART,
+    PC\"\x1C\x1C\x1C\x1C\x1C\x1C\"PO BOX 89\"\x1C\x1C\"COLUMBIA\"\x1CSC\x1C29202\x1C\"LEGAL
+    SERVICES\"\x1C948.60\x1C0.00\x1C948.60\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00501643
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '002'
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: OGLETREE, DEAKINS, NASH, SMOAK & STEWART, PC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO BOX 89
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: COLUMBIA
+  - name: CREDITOR STATE
+    number: '14'
+    value: SC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '29202'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: LEGAL SERVICES
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '948.60'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '948.60'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "SD10\x1CC00501643\x1C003\x1CORG\x1C\"PUBLIC OPINION STRATEGIES\"\x1C\x1C\x1C\x1C\x1C\x1C\"2214
+    NORTH FAYETTE STREET\"\x1C\x1C\"ALEXANDRIA\"\x1CVA\x1C22314\x1C\"SURVEY\"\x1C5500.00\x1C0.00\x1C5500.00\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00501643
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '003'
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: PUBLIC OPINION STRATEGIES
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2214 NORTH FAYETTE STREET
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: ALEXANDRIA
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '22314'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: SURVEY
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '5500.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '5500.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "SD10\x1CC00501643\x1C004\x1CORG\x1C\"RISING TIDE MEDIA GROUP, LLC\"\x1C\x1C\x1C\x1C\x1C\x1C\"226
+    SOUTH FAYETTE\"\x1C\x1C\"ALEXANDRIA\"\x1CVA\x1C22314\x1C\"MEDIA\"\x1C16600.00\x1C0.00\x1C16600.00\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00501643
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '004'
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: RISING TIDE MEDIA GROUP, LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 226 SOUTH FAYETTE
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: ALEXANDRIA
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '22314'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: MEDIA
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '16600.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '16600.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+sourceurl: !!python/unicode 20130118
+type: chunk

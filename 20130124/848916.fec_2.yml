@@ -1,0 +1,3226 @@
+countrows: 71
+filename: 848916.fec
+header: {}
+rows:
+- input: "SB17\x1CC00461061\x1CEXPB16593\x1C\x1C\x1CIND\x1C\x1CSulier\x1CJoshua J.\x1C\x1C\x1C\x1C1711
+    P Street #209\x1C\x1CSacramento\x1CCA\x1C95811\x1CG2012\x1C\x1C20121002\x1C226.36\x1C\x1CPrinter
+    Repair\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB16593
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Sulier
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Joshua J.
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '1711 P Street #209'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Sacramento
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '95811'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121002'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '226.36'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Printer Repair
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB17\x1CC00461061\x1CEDTB111EXPB16593\x1CEXPB16593\x1CSB17\x1CORG\x1CSierra
+    A1 Fax & Copier\x1C\x1C\x1C\x1C\x1C\x1C8329 Elgin Court\x1C\x1CCitrus Heights\x1CCA\x1C95610\x1CG2012\x1C\x1C20121002\x1C226.36\x1C\x1CPrinter
+    Repair\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CSulier, Joshua J.\x1C1711
+    P Street #209\x1C\x1CSacramento\x1CCA\x1C95811\x1CX\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EDTB111EXPB16593
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: EXPB16593
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: SB17
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Sierra A1 Fax & Copier
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 8329 Elgin Court
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Citrus Heights
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '95610'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121002'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '226.36'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Printer Repair
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: Sulier, Joshua J.
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: '1711 P Street #209'
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: Sacramento
+  - name: CONDUIT STATE
+    number: '40'
+    value: CA
+  - name: CONDUIT ZIP
+    number: '41'
+    value: '95811'
+  - name: MEMO CODE
+    number: '42'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB17\x1CC00461061\x1CEXPB16933\x1C\x1C\x1CIND\x1C\x1CSulier\x1CJoshua J.\x1C\x1C\x1C\x1C1711
+    P Street #209\x1C\x1CSacramento\x1CCA\x1C95811\x1CG2012\x1C\x1C20121015\x1C1833.94\x1C\x1CSalary\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB16933
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Sulier
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Joshua J.
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '1711 P Street #209'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Sacramento
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '95811'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121015'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1833.94'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Salary
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB17\x1CC00461061\x1CEXPB16350\x1C\x1C\x1CIND\x1C\x1CTeixeira\x1CAllison\x1C\x1C\x1C\x1C47
+    Stagecoach Lane\x1C\x1CSomerset\x1CMA\x1C02726\x1CG2012\x1C\x1C20121001\x1C1675.53\x1C\x1CSalary\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB16350
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Teixeira
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Allison
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 47 Stagecoach Lane
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Somerset
+  - name: PAYEE STATE
+    number: '16'
+    value: MA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '02726'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121001'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1675.53'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Salary
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB17\x1CC00461061\x1CEXPB16934\x1C\x1C\x1CIND\x1C\x1CTeixeira\x1CAllison\x1C\x1C\x1C\x1C47
+    Stagecoach Lane\x1C\x1CSomerset\x1CMA\x1C02726\x1CG2012\x1C\x1C20121015\x1C1375.73\x1C\x1CSalary\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB16934
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Teixeira
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Allison
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 47 Stagecoach Lane
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Somerset
+  - name: PAYEE STATE
+    number: '16'
+    value: MA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '02726'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121015'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1375.73'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Salary
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB17\x1CC00461061\x1CEXPB16465\x1C\x1C\x1CORG\x1CUS Postmaster\x1C\x1C\x1C\x1C\x1C\x1C9105
+    Bruceville Rd., 1A\x1C\x1CElk Grove\x1CCA\x1C95758\x1CG2012\x1C\x1C20121002\x1C1242.00\x1C\x1CPostage\x1C003\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB16465
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: US Postmaster
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 9105 Bruceville Rd., 1A
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Elk Grove
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '95758'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121002'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1242.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Postage
+  - name: CATEGORY CODE
+    number: '24'
+    value: '003'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB17\x1CC00461061\x1CEXPB16351\x1C\x1C\x1CIND\x1C\x1CWolf\x1CJoshua A.\x1C\x1C\x1C\x1C929-20th
+    Street, Apt. 32\x1C\x1CSacramento\x1CCA\x1C95814\x1CG2012\x1C\x1C20121001\x1C2862.46\x1C\x1CSalary\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB16351
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Wolf
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Joshua A.
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 929-20th Street, Apt. 32
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Sacramento
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '95814'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121001'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '2862.46'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Salary
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB17\x1CC00461061\x1CEXPB16935\x1C\x1C\x1CIND\x1C\x1CWolf\x1CJoshua A.\x1C\x1C\x1C\x1C929-20th
+    Street, Apt. 32\x1C\x1CSacramento\x1CCA\x1C95814\x1CG2012\x1C\x1C20121015\x1C2725.00\x1C\x1CSalary\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB16935
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Wolf
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Joshua A.
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 929-20th Street, Apt. 32
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Sacramento
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '95814'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121015'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '2725.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Salary
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB20A\x1CC00461061\x1CEXPB16828\x1C\x1C\x1CIND\x1C\x1CMakadia\x1CDinesh\x1C\x1C\x1C\x1C11058
+    Limonite Ave\x1C\x1CMira Loma\x1CCA\x1C91752\x1CG2012\x1C\x1C20121010\x1C750.00\x1C\x1CRefund
+    of Contribution\x1C010\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB20A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB16828
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Makadia
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Dinesh
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 11058 Limonite Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Mira Loma
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '91752'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121010'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '750.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Refund of Contribution
+  - name: CATEGORY CODE
+    number: '24'
+    value: '010'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB21\x1CC00461061\x1CEXPB16429\x1C\x1C\x1CPTY\x1CDemocratic Congressional
+    Campaign Committee\x1C\x1C\x1C\x1C\x1C\x1C430 South Capitol Street, SE\x1C\x1CWashington\x1CDC\x1C20003\x1CG2012\x1C\x1C20121002\x1C63500.00\x1C\x1CContribution\x1C011\x1CC00000935\x1CDemocratic
+    Congressional Campaign Committee\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB16429
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: PTY
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Democratic Congressional Campaign Committee
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 430 South Capitol Street, SE
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20003'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121002'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '63500.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Contribution
+  - name: CATEGORY CODE
+    number: '24'
+    value: '011'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: C00000935
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: Democratic Congressional Campaign Committee
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SC/10\x1CC00461061\x1CPAYC2699\x1C13B\x1CCAN\x1C\x1CBera\x1CAmerish B.\x1C\x1C\x1C\x1C6107
+    Pirate Point Ct.\x1C\x1CElk Grove\x1CCA\x1C95758\x1CP2010\x1C\x1C30000.00\x1C0.00\x1C30000.00\x1C20100518\x1C12/31/2013\x1C0.00\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYC2699
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Bera
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Amerish B.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 6107 Pirate Point Ct.
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Elk Grove
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95758'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '30000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '30000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20100518'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2013
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.00'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00461061\x1CPAYC6299\x1C13B\x1CCAN\x1C\x1CBera\x1CAmerish B.\x1C\x1C\x1C\x1C6107
+    Pirate Point Ct.\x1C\x1CElk Grove\x1CCA\x1C95758\x1CG2010\x1C\x1C200000.00\x1C0.00\x1C200000.00\x1C20101006\x1C12/31/2013\x1C0.00\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYC6299
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Bera
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Amerish B.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 6107 Pirate Point Ct.
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Elk Grove
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95758'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '200000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '200000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20101006'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2013
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.00'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00461061\x1CPAYC7220\x1C13B\x1CCAN\x1C\x1CBera\x1CAmerish B.\x1C\x1C\x1C\x1C6107
+    Pirate Point Ct.\x1C\x1CElk Grove\x1CCA\x1C95758\x1CG2010\x1C\x1C20000.00\x1C0.00\x1C20000.00\x1C20101020\x1C12/31/2013\x1C0.00\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYC7220
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Bera
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Amerish B.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 6107 Pirate Point Ct.
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Elk Grove
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95758'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '20000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '20000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20101020'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2013
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.00'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SD10\x1CC00461061\x1CPAYD16430\x1CORG\x1CRiver City Business Services\x1C\x1C\x1C\x1C\x1C\x1C5429
+    Madison Avenue\x1C\x1CSacramento\x1CCA\x1C95841\x1CBookkeeping, Postage, Copies
+    and Software Fee\x1C3954.11\x1C0.00\x1C3954.11\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD16430
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: River City Business Services
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 5429 Madison Avenue
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Sacramento
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '95841'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Bookkeeping, Postage, Copies and Software Fee
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '3954.11'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '3954.11'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "SD10\x1CC00461061\x1CPAYD16502\x1CORG\x1CSocialxDesign, Inc.\x1C\x1C\x1C\x1C\x1C\x1C111
+    W. Evelyn Avenue, Ste. 210\x1C\x1CSunnyvale\x1CCA\x1C94086\x1CCampaign Communications
+    Services\x1C2500.00\x1C0.00\x1C2500.00\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD16502
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: SocialxDesign, Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 111 W. Evelyn Avenue, Ste. 210
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Sunnyvale
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94086'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Campaign Communications Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '2500.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '2500.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA16967\x1CINCA16967\x1CSA11C\x1CFederally Permissible
+    Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA16967
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA16967
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11C
+  - name: TEXT4000
+    number: '6'
+    value: 'Federally Permissible Funds
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA16849IDTA1389\x1CINCA16849IDTA1389\x1CSA11C\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA16849IDTA1389
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA16849IDTA1389
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11C
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1389\x1CIDTA1389\x1CSA11C\x1CEarmarked through
+    Democratic Congressional Campaign Committee\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1389
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1389
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11C
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through Democratic Congressional Campaign Committee
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA16781IDTA1388\x1CINCA16781IDTA1388\x1CSA11C\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA16781IDTA1388
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA16781IDTA1388
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11C
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1388\x1CIDTA1388\x1CSA11C\x1CEarmarked through
+    New Democrat Coalition PAC\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1388
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1388
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11C
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through New Democrat Coalition PAC
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17251IDTA1438\x1CINCA17251IDTA1438\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17251IDTA1438
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17251IDTA1438
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1438\x1CIDTA1438\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1438
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1438
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17126IDTA1414\x1CINCA17126IDTA1414\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17126IDTA1414
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17126IDTA1414
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1414\x1CIDTA1414\x1CSA11AI\x1CEarmarked through
+    JStreet PAC\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1414
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1414
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through JStreet PAC
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA16925IDTA1402\x1CINCA16925IDTA1402\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA16925IDTA1402
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA16925IDTA1402
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1402\x1CIDTA1402\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1402
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1402
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA16996IDTA1411\x1CINCA16996IDTA1411\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not effected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA16996IDTA1411
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA16996IDTA1411
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not effected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1411\x1CIDTA1411\x1CSA11AI\x1CEarmarked through
+    League of Conservation Voters Action Fund\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1411
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1411
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through League of Conservation Voters Action Fund
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17251IDTA1463\x1CINCA17251IDTA1463\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17251IDTA1463
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17251IDTA1463
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1463\x1CIDTA1463\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1463
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1463
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17347IDTA1469\x1CINCA17347IDTA1469\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17347IDTA1469
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17347IDTA1469
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1469\x1CIDTA1469\x1CSA11AI\x1CEarmarked through
+    Council for a Livable World Candidate Fund\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1469
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1469
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through Council for a Livable World Candidate Fund
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17130\x1CINCA17130\x1CSA11AI\x1CFederally Permissible
+    Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17130
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17130
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Federally Permissible Funds
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17251IDTA1437\x1CINCA17251IDTA1437\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17251IDTA1437
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17251IDTA1437
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1437\x1CIDTA1437\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1437
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1437
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17251IDTA1455\x1CINCA17251IDTA1455\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17251IDTA1455
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17251IDTA1455
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1455\x1CIDTA1455\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1455
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1455
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17141IDTA1420\x1CINCA17141IDTA1420\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17141IDTA1420
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17141IDTA1420
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1420\x1CIDTA1420\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1420
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1420
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17251IDTA1439\x1CINCA17251IDTA1439\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17251IDTA1439
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17251IDTA1439
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1439\x1CIDTA1439\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1439
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1439
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17251IDTA1453\x1CINCA17251IDTA1453\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17251IDTA1453
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17251IDTA1453
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1453\x1CIDTA1453\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1453
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1453
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17126IDTA1413\x1CINCA17126IDTA1413\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17126IDTA1413
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17126IDTA1413
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1413\x1CIDTA1413\x1CSA11AI\x1CEarmarked through
+    JStreet PAC\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1413
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1413
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through JStreet PAC
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17141IDTA1419\x1CINCA17141IDTA1419\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17141IDTA1419
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17141IDTA1419
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1419\x1CIDTA1419\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1419
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1419
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17251IDTA1436\x1CINCA17251IDTA1436\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17251IDTA1436
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17251IDTA1436
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1436\x1CIDTA1436\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1436
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1436
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17251IDTA1435\x1CINCA17251IDTA1435\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17251IDTA1435
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17251IDTA1435
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1435\x1CIDTA1435\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1435
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1435
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA16945IDTA1409\x1CINCA16945IDTA1409\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA16945IDTA1409
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA16945IDTA1409
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1409\x1CIDTA1409\x1CSA11AI\x1CEarmarked through
+    Democratic Congressional Campaign Committee\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1409
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1409
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through Democratic Congressional Campaign Committee
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17141IDTA1416\x1CINCA17141IDTA1416\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17141IDTA1416
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17141IDTA1416
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1416\x1CIDTA1416\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1416
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1416
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17141IDTA1417\x1CINCA17141IDTA1417\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17141IDTA1417
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17141IDTA1417
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1417\x1CIDTA1417\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1417
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1417
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17251IDTA1434\x1CINCA17251IDTA1434\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17251IDTA1434
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17251IDTA1434
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1434\x1CIDTA1434\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1434
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1434
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17251IDTA1440\x1CINCA17251IDTA1440\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17251IDTA1440
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17251IDTA1440
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1440\x1CIDTA1440\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1440
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1440
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17141IDTA1418\x1CINCA17141IDTA1418\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17141IDTA1418
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17141IDTA1418
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1418\x1CIDTA1418\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1418
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1418
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA17249IDTA1431\x1CINCA17249IDTA1431\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA17249IDTA1431
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA17249IDTA1431
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1431\x1CIDTA1431\x1CSA11AI\x1CEarmarked through
+    League of Conservation Voters Action Fund\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1431
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1431
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through League of Conservation Voters Action Fund
+
+'
+- input: "TEXT\x1CC00461061\x1CTINCA16925IDTA1403\x1CINCA16925IDTA1403\x1CSA11AI\x1CTotal
+    earmarked through conduit PAC limit not affected\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TINCA16925IDTA1403
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: INCA16925IDTA1403
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Total earmarked through conduit PAC limit not affected
+
+'
+- input: "TEXT\x1CC00461061\x1CTIDTA1403\x1CIDTA1403\x1CSA11AI\x1CEarmarked through
+    ActBlue\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TIDTA1403
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: IDTA1403
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA11AI
+  - name: TEXT4000
+    number: '6'
+    value: 'Earmarked through ActBlue
+
+'
+- input: "TEXT\x1CC00461061\x1CTPAYC7220\x1CPAYC7220\x1CSC/10\x1CLoan-Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC7220
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC7220
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan-Personal Funds
+
+'
+- input: "TEXT\x1CC00461061\x1CTPAYC6299\x1CPAYC6299\x1CSC/10\x1CPersonal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC6299
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC6299
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Personal Funds
+
+'
+- input: "TEXT\x1CC00461061\x1CTPAYC2699\x1CPAYC2699\x1CSC/10\x1CPersonal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC2699
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC2699
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Personal Funds
+
+'
+- input: "TEXT\x1CC00461061\x1CTEXT-F3A\x1C\x1CF3A\x1CAmend Schedule A per FEC letter
+    dated 11/29/2012\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00461061
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-F3A
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3A
+  - name: TEXT4000
+    number: '6'
+    value: 'Amend Schedule A per FEC letter dated 11/29/2012
+
+'
+sourceurl: !!python/unicode 20130124
+type: chunk

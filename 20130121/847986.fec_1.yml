@@ -1,0 +1,194 @@
+countrows: 4
+filename: 847986.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH2NC11080\x1CMeadows\x1CMark\x1CR\x1C\x1C\x1C\x1CP.O. Box 811\x1C\x1CHighlands\x1CNC\x1C28741\x1CREP\x1CH\x1CNC\x1C11\x1C2012\x1CC00503094\x1CMeadows
+    for Congress\x1CP.O. Box 811\x1C\x1CHighlands\x1CNC\x1C28741\x1CC00513929\x1CTAKE
+    BACK NORTH CAROLINA\x1C2470 DANIELLS BRIDGE RD STE 121\x1C\x1CATHENS\x1CGA\x1C30606\x1CMeadows\x1CMark\x1CR\x1C\x1C\x1C20130112\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2NC11080
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Meadows
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Mark
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: R
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: P.O. Box 811
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Highlands
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NC
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '28741'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NC
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '11'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2012'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00503094
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Meadows for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: P.O. Box 811
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Highlands
+  - name: PCC STATE
+    number: '24'
+    value: NC
+  - name: PCC ZIP
+    number: '25'
+    value: '28741'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00513929
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: TAKE BACK NORTH CAROLINA
+  - name: AUTH STREET 1
+    number: '28'
+    value: 2470 DANIELLS BRIDGE RD STE 121
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ATHENS
+  - name: AUTH STATE
+    number: '31'
+    value: GA
+  - name: AUTH ZIP
+    number: '32'
+    value: '30606'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Meadows
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Mark
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: R
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130112
+
+'
+- input: "F2S\x1CH2NC11080\x1CC00525360\x1CYOUNG GUNS 2012 ROUND 3\x1C228 S WASHINGTON
+    ST STE 115\x1C\x1CALEXANDRIA\x1CVA\x1C22314\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2NC11080
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00525360
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: YOUNG GUNS 2012 ROUND 3
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S WASHINGTON ST STE 115
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: ALEXANDRIA
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '22314
+
+'
+- input: "F2S\x1CH2NC11080\x1CC00540260\x1CNC 4 The Future (Joint Fundraising Representative)\x1C228
+    S. Washington Street, Ste 115\x1C\x1CAlexandria\x1CVA\x1C22314\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2NC11080
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00540260
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: NC 4 The Future (Joint Fundraising Representative)
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S. Washington Street, Ste 115
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '22314
+
+'
+sourceurl: !!python/unicode 20130121
+type: chunk

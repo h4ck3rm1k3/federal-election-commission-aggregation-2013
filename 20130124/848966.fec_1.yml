@@ -1,0 +1,2503 @@
+countrows: 39
+filename: 848966.fec
+header: {}
+rows:
+- 2
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F7N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: ORGANIZATION NAME
+    number: '3'
+    value: SIERRA CLUB
+  - name: ORGANIZATION STREET 1
+    number: '4'
+    value: 85 SECOND STREET
+  - name: ORGANIZATION STREET 2
+    number: '5'
+    value: ''
+  - name: ORGANIZATION CITY
+    number: '6'
+    value: SAN FRANCISCO
+  - name: ORGANIZATION STATE
+    number: '7'
+    value: CA
+  - name: ORGANIZATION ZIP
+    number: '8'
+    value: '94105'
+  - name: ORGANIZATION TYPE
+    number: '9'
+    value: M
+  - name: REPORT CODE
+    number: '10'
+    value: YE
+  - name: DATE OF ELECTION
+    number: '11'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '12'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '13'
+    value: '20121018'
+  - name: COVERAGE THROUGH DATE
+    number: '14'
+    value: '20121231'
+  - name: TOTAL COSTS
+    number: '15'
+    value: '51947.25'
+  - name: PERSON DESIGNATED TO SIGN LAST NAME
+    number: '16'
+    value: Sheehan
+  - name: PERSON DESIGNATED TO SIGN FIRST NAME
+    number: '17'
+    value: Gayle
+  - name: PERSON DESIGNATED TO SIGN MIDDLE NAME
+    number: '18'
+    value: ''
+  - name: PERSON DESIGNATED TO SIGN PREFIX
+    number: '19'
+    value: ''
+  - name: PERSON DESIGNATED TO SIGN SUFFIX
+    number: '20'
+    value: ''
+  - name: PERSON DESIGNATED TO SIGN TITLE
+    number: '21'
+    value: Compliance Director
+  - name: DATE SIGNED
+    number: '22'
+    value: '20130124'
+  - value: '
+
+'
+  expected_count: 22
+  input: "F7N\x1CC70001318\x1CSIERRA CLUB\x1C85 SECOND STREET\x1C\x1CSAN FRANCISCO\x1CCA\x1C94105\x1CM\x1CYE\x1C\x1C\x1C20121018\x1C20121231\x1C51947.25\x1CSheehan\x1CGayle\x1C\x1C\x1C\x1CCompliance
+    Director\x1C20130124\x1C\n"
+  input_count: 23
+  record: fec.version.v8_0.F7
+  result: []
+- input: "F76\x1CC70001318\x1CF76.4278\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C1677.06\x1CG2012\x1C\x1CS\x1CS2WI00219\x1CBALDWIN\x1CTAMMY\x1C\x1C\x1C\x1CS\x1CWI\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4278
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1677.06'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S2WI00219
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: BALDWIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: TAMMY
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: WI
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4279\x1CO\x1CStaff Time\x1CM\x1C20121115\x1C55.90\x1CG2012\x1C\x1CS\x1CS2WI00219\x1CBALDWIN\x1CTAMMY\x1C\x1C\x1C\x1CS\x1CWI\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4279
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121115'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '55.90'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S2WI00219
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: BALDWIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: TAMMY
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: WI
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4301\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C1581.00\x1CG2012\x1C\x1CS\x1CH0CA03078\x1CBERA\x1CAMERISH\x1C\x1C\x1C\x1CH\x1CCA\x1C07\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4301
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1581.00'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H0CA03078
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: BERA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: AMERISH
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: CA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '07
+
+'
+- input: "F76\x1CC70001318\x1CF76.4302\x1CO\x1CStaff Time\x1CM\x1C20121115\x1C372.70\x1CG2012\x1C\x1CS\x1CH0CA03078\x1CBERA\x1CAMERISH\x1C\x1C\x1C\x1CH\x1CCA\x1C07\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4302
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121115'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '372.70'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H0CA03078
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: BERA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: AMERISH
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: CA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '07
+
+'
+- input: "F76\x1CC70001318\x1CF76.4274\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C1206.12\x1CG2012\x1C\x1CS\x1CS6OH00163\x1CBROWN\x1CSHERROD\x1C\x1C\x1C\x1CS\x1COH\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4274
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1206.12'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S6OH00163
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: BROWN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: SHERROD
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4234\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C2929.37\x1CG2012\x1C\x1CS\x1CS2AZ00232\x1CCARMONA\x1CRICHARD\x1C\x1C\x1C\x1CS\x1CAZ\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4234
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '2929.37'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S2AZ00232
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: CARMONA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: RICHARD
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: AZ
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4275\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C1577.19\x1CG2012\x1C\x1CS\x1CS6PA00217\x1CCASEY\x1CROBERT
+    P JR\x1C\x1C\x1C\x1CS\x1CPA\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4275
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1577.19'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S6PA00217
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: CASEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: ROBERT P JR
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: PA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4294\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C1887.52\x1CG2012\x1C\x1CS\x1CH0WA08046\x1CDELBENE\x1CSUZAN
+    K\x1C\x1C\x1C\x1CH\x1CWA\x1C01\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4294
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1887.52'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H0WA08046
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: DELBENE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: SUZAN K
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: WA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '01
+
+'
+- input: "F76\x1CC70001318\x1CF76.4295\x1CO\x1CStaff Time\x1CM\x1C20121115\x1C428.97\x1CG2012\x1C\x1CS\x1CH0WA08046\x1CDELBENE\x1CSUZAN
+    K\x1C\x1C\x1C\x1CH\x1CWA\x1C01\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4295
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121115'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '428.97'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H0WA08046
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: DELBENE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: SUZAN K
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: WA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '01
+
+'
+- input: "F76\x1CC70001318\x1CF76.4314\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C1218.39\x1CG2012\x1C\x1CS\x1CH2FL13188\x1CFITZGERALD\x1CKEITH\x1C\x1C\x1C\x1CH\x1CFL\x1C16\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4314
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1218.39'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H2FL13188
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: FITZGERALD
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: KEITH
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: FL
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '16
+
+'
+- input: "F76\x1CC70001318\x1CF76.4282\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C4673.63\x1CG2012\x1C\x1CS\x1CH2FL14053\x1CFRANKEL\x1CLOIS
+    J\x1C\x1C\x1C\x1CH\x1CFL\x1C22\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4282
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '4673.63'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H2FL14053
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: FRANKEL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: LOIS J
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: FL
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '22
+
+'
+- input: "F76\x1CC70001318\x1CF76.4289\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C2213.07\x1CG2012\x1C\x1CS\x1CH8NM01257\x1CGRISHAM\x1CMICHELLE\x1C\x1C\x1C\x1CH\x1CNM\x1C01\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4289
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '2213.07'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H8NM01257
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: GRISHAM
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: MICHELLE
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: NM
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '01
+
+'
+- input: "F76\x1CC70001318\x1CF76.4273\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C1453.02\x1CG2012\x1C\x1CS\x1CH8NM01224\x1CHEINRICH\x1CMARTIN\x1C\x1C\x1C\x1CH\x1CNM\x1C01\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4273
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1453.02'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H8NM01224
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: HEINRICH
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: MARTIN
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: NM
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '01
+
+'
+- input: "F76\x1CC70001318\x1CF76.4331\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C1948.76\x1CG2012\x1C\x1CS\x1CH2VA02049\x1CHIRSCHBIEL\x1CPAUL
+    ODELL JR\x1C\x1C\x1C\x1CH\x1CVA\x1C02\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4331
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1948.76'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H2VA02049
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: HIRSCHBIEL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: PAUL ODELL JR
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '02
+
+'
+- input: "F76\x1CC70001318\x1CF76.4332\x1CO\x1CStaff Time\x1CM\x1C20121115\x1C1189.53\x1CG2012\x1C\x1CS\x1CH2VA02049\x1CHIRSCHBIEL\x1CPAUL
+    ODELL JR\x1C\x1C\x1C\x1CH\x1CVA\x1C02\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4332
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121115'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1189.53'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H2VA02049
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: HIRSCHBIEL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: PAUL ODELL JR
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '02
+
+'
+- input: "F76\x1CC70001318\x1CF76.4276\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C2248.06\x1CG2012\x1C\x1CS\x1CS2VA00142\x1CKAINE\x1CTIMOTHY
+    MICHAEL\x1C\x1C\x1C\x1CS\x1CVA\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4276
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '2248.06'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S2VA00142
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: KAINE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: TIMOTHY MICHAEL
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4277\x1CO\x1CStaff Time\x1CM\x1C20121115\x1C488.98\x1CG2012\x1C\x1CS\x1CS2VA00142\x1CKAINE\x1CTIMOTHY
+    MICHAEL\x1C\x1C\x1C\x1CS\x1CVA\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4277
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121115'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '488.98'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S2VA00142
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: KAINE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: TIMOTHY MICHAEL
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4291\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C3516.43\x1CG2012\x1C\x1CS\x1CH2NY22147\x1CLAMB\x1CDAN\x1C\x1C\x1C\x1CH\x1CNY\x1C22\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4291
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '3516.43'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H2NY22147
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: LAMB
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: DAN
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '22
+
+'
+- input: "F76\x1CC70001318\x1CF76.4320\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C2151.40\x1CG2012\x1C\x1CS\x1CH6NY25125\x1CMAFFEI\x1CDANIEL
+    BENJAMIN MR.\x1C\x1C\x1C\x1CH\x1CNY\x1C24\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4320
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '2151.40'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H6NY25125
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: MAFFEI
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: DANIEL BENJAMIN MR.
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '24
+
+'
+- input: "F76\x1CC70001318\x1CF76.4323\x1CO\x1CStaff Time\x1CM\x1C20121115\x1C85.41\x1CG2012\x1C\x1CS\x1CH6NY25125\x1CMAFFEI\x1CDANIEL
+    BENJAMIN MR.\x1C\x1C\x1C\x1CH\x1CNY\x1C24\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4323
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121115'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '85.41'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H6NY25125
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: MAFFEI
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: DANIEL BENJAMIN MR.
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '24
+
+'
+- input: "F76\x1CC70001318\x1CF76.4304\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C1586.06\x1CG2012\x1C\x1CS\x1CH2CO06123\x1CMIKLOSI\x1CJOE\x1C\x1C\x1C\x1CH\x1CCO\x1C06\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4304
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1586.06'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H2CO06123
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: MIKLOSI
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: JOE
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: CO
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '06
+
+'
+- input: "F76\x1CC70001318\x1CF76.4305\x1CO\x1CStaff Time\x1CM\x1C20121115\x1C531.91\x1CG2012\x1C\x1CS\x1CH2CO06123\x1CMIKLOSI\x1CJOE\x1C\x1C\x1C\x1CH\x1CCO\x1C06\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4305
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121115'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '531.91'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H2CO06123
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: MIKLOSI
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: JOE
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: CO
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '06
+
+'
+- input: "F76\x1CC70001318\x1CF76.4236\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C1672.53\x1CG2012\x1C\x1CS\x1CS2CT00132\x1CMURPHY\x1CCHRISTOPHER
+    S\x1C\x1C\x1C\x1CS\x1CCT\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4236
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1672.53'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S2CT00132
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: MURPHY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: CHRISTOPHER S
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: CT
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4230\x1CDM\x1C\x1CM\x1C20121115\x1C292.40\x1CG2012\x1C\x1CS\x1CS2CT00132\x1CMURPHY\x1CCHRISTOPHER
+    S\x1C\x1C\x1C\x1CS\x1CCT\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4230
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: DM
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: ''
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121115'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '292.40'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S2CT00132
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: MURPHY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: CHRISTOPHER S
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: CT
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4231\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C671.44\x1CG2012\x1C\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4231
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '671.44'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: BARACK
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4229\x1CDM\x1C\x1CM\x1C20121115\x1C317.40\x1CG2012\x1C\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4229
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: DM
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: ''
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121115'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '317.40'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: BARACK
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4232\x1CO\x1CStaff Time\x1CM\x1C20121115\x1C480.46\x1CG2012\x1C\x1CS\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4232
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121115'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '480.46'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: BARACK
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4376\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C905.51\x1CG2012\x1C\x1CS\x1CH2NV00035\x1COCEGUERA\x1CJOHN\x1C\x1C\x1C\x1CH\x1CNV\x1C03\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4376
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '905.51'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H2NV00035
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: OCEGUERA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: JOHN
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: NV
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '03
+
+'
+- input: "F76\x1CC70001318\x1CF76.4303\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C1225.85\x1CG2012\x1C\x1CS\x1CH2CO03138\x1CPACE\x1CSALVATORE
+    II\x1C\x1C\x1C\x1CH\x1CCO\x1C03\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4303
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1225.85'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H2CO03138
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: PACE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: SALVATORE II
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: CO
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '03
+
+'
+- input: "F76\x1CC70001318\x1CF76.4377\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C595.82\x1CG2012\x1C\x1CS\x1CH2NC11114\x1CROGERS\x1CHAYDEN\x1C\x1C\x1C\x1CH\x1CNC\x1C11\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4377
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '595.82'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H2NC11114
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: ROGERS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: HAYDEN
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: NC
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '11
+
+'
+- input: "F76\x1CC70001318\x1CF76.4288\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C2450.24\x1CG2012\x1C\x1CS\x1CH6NH01230\x1CSHEA-PORTER\x1CCAROL\x1C\x1C\x1C\x1CH\x1CNH\x1C01\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4288
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '2450.24'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H6NH01230
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: SHEA-PORTER
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: CAROL
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: NH
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '01
+
+'
+- input: "F76\x1CC70001318\x1CF76.4269\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C2628.05\x1CG2012\x1C\x1CS\x1CS8MI00281\x1CSTABENOW\x1CDEBBIE\x1C\x1C\x1C\x1CS\x1CMI\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4269
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '2628.05'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S8MI00281
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: STABENOW
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: DEBBIE
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: MI
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4270\x1CO\x1CStaff Time\x1CM\x1C20121115\x1C288.24\x1CG2012\x1C\x1CS\x1CS8MI00281\x1CSTABENOW\x1CDEBBIE\x1C\x1C\x1C\x1CS\x1CMI\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4270
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121115'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '288.24'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S8MI00281
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: STABENOW
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: DEBBIE
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: MI
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4228\x1CDM\x1C\x1CM\x1C20121031\x1C651.82\x1CG2012\x1C\x1CS\x1CH4MA06033\x1CTIERNEY\x1CJOHN
+    F\x1C\x1C\x1C\x1CH\x1CMA\x1C06\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4228
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: DM
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: ''
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '651.82'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H4MA06033
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: TIERNEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: JOHN F
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '06
+
+'
+- input: "F76\x1CC70001318\x1CF76.4284\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C3130.90\x1CG2012\x1C\x1CS\x1CH4MA06033\x1CTIERNEY\x1CJOHN
+    F\x1C\x1C\x1C\x1CH\x1CMA\x1C06\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4284
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '3130.90'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: H4MA06033
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: TIERNEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: JOHN F
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '06
+
+'
+- input: "F76\x1CC70001318\x1CF76.4267\x1CO\x1CStaff Time\x1CM\x1C20121031\x1C1478.98\x1CG2012\x1C\x1CS\x1CS2MA00170\x1CWARREN\x1CELIZABETH\x1C\x1C\x1C\x1CS\x1CMA\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4267
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121031'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '1478.98'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S2MA00170
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: WARREN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: ELIZABETH
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+- input: "F76\x1CC70001318\x1CF76.4268\x1CO\x1CStaff Time\x1CM\x1C20121115\x1C137.13\x1CG2012\x1C\x1CS\x1CS2MA00170\x1CWARREN\x1CELIZABETH\x1C\x1C\x1C\x1CS\x1CMA\x1C00\n"
+  record: fec.version.v8_0.F76
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F76
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C70001318
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F76.4268
+  - name: COMMUNICATION TYPE
+    number: '4'
+    value: O
+  - name: COMMUNICATION TYPE - OTHER DESCRIPTION
+    number: '5'
+    value: Staff Time
+  - name: COMMUNICATION CLASS
+    number: '6'
+    value: M
+  - name: COMMUNICATION DATE
+    number: '7'
+    value: '20121115'
+  - name: COMMUNICATION COST (per candidate)
+    number: '8'
+    value: '137.13'
+  - name: ELECTION CODE
+    number: '9'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '10'
+    value: ''
+  - name: SUPPORT/OPPOSE
+    number: '11'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '12'
+    value: S2MA00170
+  - name: S/O CANDIDATE LAST NAME
+    number: '13'
+    value: WARREN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '14'
+    value: ELIZABETH
+  - name: S/O CANDIDATE MIDDLE NAME
+    number: '15'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '16'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '17'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '18'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '19'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '20'
+    value: '00
+
+'
+sourceurl: !!python/unicode 20130124
+type: chunk

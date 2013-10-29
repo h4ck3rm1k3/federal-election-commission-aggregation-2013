@@ -1,0 +1,5963 @@
+countrows: 77
+filename: 849320.fec
+header: {}
+rows:
+- 2
+- input: "F3T\x1CC00510081\x1CSHEFFIELD, MARIA\x1C\x1CPO BOX 1977\x1C\x1CDUBLIN\x1CGA\x1C31040\x1CGA\x1C12\x1CTER\x1C\x1C\x1C\x1C20121001\x1C20121231\x1CWilliamson\x1CJeffrey\x1C\x1C\x1C\x1C20130125\x1C0.00\x1C0.00\x1C0.00\x1C125.00\x1C0.00\x1C125.00\x1C0.00\x1C0.00\x1C-67109.18\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C125.00\x1C0.00\x1C6762.18\x1C0.00\x1C6762.18\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C6887.18\x1C6887.18\x1C0.00\x1C6887.18\x1C6887.18\x1C0.00\x1C23218.76\x1C0.00\x1C23218.76\x1C61206.46\x1C0.00\x1C61206.46\x1C16358.00\x1C5860.76\x1C22218.76\x1C0.00\x1C1000.00\x1C0.00\x1C23218.76\x1C0.00\x1C105249.88\x1C0.00\x1C105249.88\x1C0.00\x1C0.00\x1C128468.64\x1C61206.46\x1C0.00\x1C60500.00\x1C0.00\x1C60500.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C121706.46\n"
+  record: fec.version.v8_0.F3
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3T
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: COMMITTEE NAME
+    number: '3'
+    value: SHEFFIELD, MARIA
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: PO BOX 1977
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: DUBLIN
+  - name: STATE
+    number: '8'
+    value: GA
+  - name: ZIP
+    number: '9'
+    value: '31040'
+  - name: ELECTION STATE
+    number: '10'
+    value: GA
+  - name: ELECTION DISTRICT
+    number: '11'
+    value: '12'
+  - name: REPORT CODE
+    number: '12'
+    value: TER
+  - name: ELECTION CODE
+    number: '13'
+    value: ''
+  - name: DATE OF ELECTION
+    number: '14'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '15'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '16'
+    value: '20121001'
+  - name: COVERAGE THROUGH DATE
+    number: '17'
+    value: '20121231'
+  - name: TREASURER LAST NAME
+    number: '18'
+    value: Williamson
+  - name: TREASURER FIRST NAME
+    number: '19'
+    value: Jeffrey
+  - name: TREASURER MIDDLE NAME
+    number: '20'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '21'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20130125'
+  - name: Total Contributions (NO Loans)
+    number: 24-(6a)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 25-(6b)
+    value: '0.00'
+  - name: Net Contributions
+    number: 26-(6c)
+    value: '0.00'
+  - name: Total Operating Expenditures
+    number: 27-(7a)
+    value: '125.00'
+  - name: Total Offset to Operating Expenditures
+    number: 28-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 29-(7c)
+    value: '125.00'
+  - name: CASH ON HAND AT CLOSE ...
+    number: 30-8.
+    value: '0.00'
+  - name: DEBTS TO ( Totals from SCH C and/or D)
+    number: 31-9.
+    value: '0.00'
+  - name: DEBTS BY (Totals from SCH C and/or D)
+    number: 32-10.
+    value: '-67109.18'
+  - name: Individuals Itemized
+    number: 33-11(a i.)
+    value: '0.00'
+  - name: Individuals Unitemized
+    number: 34-11(a.ii)
+    value: '0.00'
+  - name: Individual Contribution Total
+    number: 35-11(a.iii)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 36-11(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 37-11(c)
+    value: '0.00'
+  - name: The Candidate
+    number: 38-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 39-11(e)
+    value: '0.00'
+  - name: Transfers From Other Authorized Committees
+    number: 40-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 41-13(a)
+    value: '0.00'
+  - name: All Other Loans
+    number: 42-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 43-13(c)
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 44-14.
+    value: '0.00'
+  - name: Other Receipts
+    number: 45-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 46-16.
+    value: '0.00'
+  - name: Operating Expenditures
+    number: 47-17.
+    value: '125.00'
+  - name: Transfers to Other Authorized Committees
+    number: 48-18.
+    value: '0.00'
+  - name: Of Loans made or guar. by the Cand.
+    number: 49-19(a)
+    value: '6762.18'
+  - name: Loan Repayments, All Other Loans
+    number: 50-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 51-19(c)
+    value: '6762.18'
+  - name: Refund/Individuals Other than Political Committees
+    number: 52-20(a)
+    value: '0.00'
+  - name: Refund/Political Party Committees
+    number: 53-20(b)
+    value: '0.00'
+  - name: Refund/Other Political Committees
+    number: 54-20(c)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 55-20(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 56-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 57-22.
+    value: '6887.18'
+  - name: Cash Beginning Reporting Period
+    number: 58-23.
+    value: '6887.18'
+  - name: Total Receipts this Period
+    number: 59-24.
+    value: '0.00'
+  - name: Subtotals
+    number: 60-25.
+    value: '6887.18'
+  - name: Total Disbursements this Period
+    number: 61-26.
+    value: '6887.18'
+  - name: Cash on hand at Close Period
+    number: 62-27.
+    value: '0.00'
+  - name: Total Contributions (No Loans)
+    number: 63-(6a)
+    value: '23218.76'
+  - name: Total Contribution Refunds
+    number: 64-(6b)
+    value: '0.00'
+  - name: Net Contributions
+    number: 65-(6c)
+    value: '23218.76'
+  - name: Total Operating Expenditures
+    number: 66-(7a)
+    value: '61206.46'
+  - name: Total Offsets to Operating Expenditures
+    number: 67-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 68-(7c)
+    value: '61206.46'
+  - name: Individuals Itemized
+    number: 69-11(a i.)
+    value: '16358.00'
+  - name: Individuals Unitemized
+    number: 70-11(a.ii)
+    value: '5860.76'
+  - name: Individuals Total
+    number: 71-11(a.iii)
+    value: '22218.76'
+  - name: Political Party Committees
+    number: 72-11(b)
+    value: '0.00'
+  - name: All Other Political Committees (PACS)
+    number: 73-11(c)
+    value: '1000.00'
+  - name: The Candidate
+    number: 74-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 75-11(e)
+    value: '23218.76'
+  - name: Transfers From Other AUTH Committees
+    number: 76-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 77-13(a)
+    value: '105249.88'
+  - name: All Other Loans
+    number: 78-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 79-13(c)
+    value: '105249.88'
+  - name: Offsets to Operating Expenditures
+    number: 80-14.
+    value: '0.00'
+  - name: Other Receipts
+    number: 81-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 82-16.
+    value: '128468.64'
+  - name: Operating Expenditures
+    number: 83-17
+    value: '61206.46'
+  - name: Transfers To Other AUTH Committees
+    number: 84-18.
+    value: '0.00'
+  - name: Loan Repayment By Candidate
+    number: 85-19(a)
+    value: '60500.00'
+  - name: Loan Repayments, ALL Other Loans
+    number: 86-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 87-19(c)
+    value: '60500.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 88-20(a)
+    value: '0.00'
+  - name: Refund, Political Party Committees
+    number: 89-20(b)
+    value: '0.00'
+  - name: Refund, Other Political Committees
+    number: 90-20(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 91-20(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 92-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 93-22.
+    value: '121706.46
+
+'
+- input: "F3S\x1CC00510081\x1C20121106\x1C20121107\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C6762.18\x1C0.00\x1C6762.18\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C6762.18\n"
+  record: fec.version.v8_0.F3S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: Date - General Election
+    number: '3'
+    value: '20121106'
+  - name: Date - Day after General Election
+    number: '4'
+    value: '20121107'
+  - name: Total Contributions (No Loans)
+    number: 5-(6a)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 6-(6b)
+    value: '0.00'
+  - name: Net Contributions
+    number: 7-(6c)
+    value: '0.00'
+  - name: Total Operating Expenditures
+    number: 8-(7a)
+    value: '0.00'
+  - name: Total Offsets to Operating Expenditures
+    number: 9-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 10-(7c)
+    value: '0.00'
+  - name: Individuals Itemized
+    number: 11-11(a i.)
+    value: '0.00'
+  - name: Individuals Unitemized
+    number: 12-11(a.ii)
+    value: '0.00'
+  - name: Individuals Total
+    number: 13-11(a.iii)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 14-11(b)
+    value: '0.00'
+  - name: All Other Political Committees (PACS)
+    number: 15-11(c)
+    value: '0.00'
+  - name: The Candidate
+    number: 16-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 17-11(e)
+    value: '0.00'
+  - name: Transfers From Other AUTH Committees
+    number: 18-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 19-13(a)
+    value: '0.00'
+  - name: All Other Loans
+    number: 20-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 21-13(c)
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 22-14.
+    value: '0.00'
+  - name: Other Receipts
+    number: 23-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 24-16.
+    value: '0.00'
+  - name: Operating Expenditures
+    number: 25-17
+    value: '0.00'
+  - name: Transfers To Other AUTH Committees
+    number: 26-18.
+    value: '0.00'
+  - name: Loan Repayment By Candidate
+    number: 27-19(a)
+    value: '6762.18'
+  - name: Loan Repayments, ALL Other Loans
+    number: 28-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 29-19(c)
+    value: '6762.18'
+  - name: Refund/Individuals Other than Political Committees
+    number: 30-20(a)
+    value: '0.00'
+  - name: Refund, Political Party Committees
+    number: 31-20(b)
+    value: '0.00'
+  - name: Refund, Other Political Committees
+    number: 32-20(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 33-20(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 34-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 35-22.
+    value: '6762.18
+
+'
+- input: "SB17\x1CC00510081\x1CSB17.4762\x1C\x1C\x1CORG\x1CFEC\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 979058\x1C\x1CSt. Louis\x1CMO\x1C63197\x1CP2012\x1C\x1C20121019\x1C125.00\x1C\x1CExpenditure\x1C001\x1CC00510081\x1CSHEFFIELD,
+    MARIA\x1C\x1C\x1C\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.4762
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: FEC
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. Box 979058
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: St. Louis
+  - name: PAYEE STATE
+    number: '16'
+    value: MO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '63197'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121019'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '125.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Expenditure
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: C00510081
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: SHEFFIELD, MARIA
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: GA
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: '12'
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB19A\x1CC00510081\x1CSB19A.4818\x1C\x1C\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C20121231\x1C6762.18\x1C\x1CLoan
+    Repayment\x1C009\x1CC00510081\x1CSHEFFIELD, MARIA\x1C\x1C\x1C\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB19A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB19A.4818
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CAN
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: SHEFFIELD
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: MARIA
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1264 Heritage Lakes Dr SW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Mableton
+  - name: PAYEE STATE
+    number: '16'
+    value: GA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121231'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '6762.18'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Loan Repayment
+  - name: CATEGORY CODE
+    number: '24'
+    value: 009
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: C00510081
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: SHEFFIELD, MARIA
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: GA
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: '12'
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSB19A.4818.TEXT\x1CSB19A.4818\x1CSB19A\x1CFinal repayment
+    of loans made.  All other loans made by the candidate to her campaign are forgiven.
+    \ No additional money is owed to any sources, the campaign balance is $0.00 and
+    the campaign is being terminated as of 12/31/12.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB19A.4818.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SB19A.4818
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB19A
+  - name: TEXT4000
+    number: '6'
+    value: 'Final repayment of loans made.  All other loans made by the candidate
+      to her campaign are forgiven.  No additional money is owed to any sources, the
+      campaign balance is $0.00 and the campaign is being terminated as of 12/31/12.
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4209\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C850.00\x1C0.00\x1C0.00\x1C20120101\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4209
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '850.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120101'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4209.TEXT\x1CSC/10.4209\x1CSC/10\x1C(Current
+    loan amount of 850.00 from a balance of 850.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4209.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4209
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 850.00 from a balance of 850.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4210\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C261.00\x1C0.00\x1C0.00\x1C20120103\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4210
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '261.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120103'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4210.TEXT\x1CSC/10.4210\x1CSC/10\x1C(Current
+    loan amount of 261.00 from a balance of 261.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4210.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4210
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 261.00 from a balance of 261.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4211\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C80.00\x1C0.00\x1C0.00\x1C20120105\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4211
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '80.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120105'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4211.TEXT\x1CSC/10.4211\x1CSC/10\x1C(Current
+    loan amount of 80.00 from a balance of 80.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4211.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4211
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 80.00 from a balance of 80.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4212\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C1592.93\x1C0.00\x1C0.00\x1C20120110\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4212
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '1592.93'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120110'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4212.TEXT\x1CSC/10.4212\x1CSC/10\x1C(Current
+    loan amount of 1592.93 from a balance of 1592.93 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4212.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4212
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 1592.93 from a balance of 1592.93 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4213\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C50.00\x1C0.00\x1C0.00\x1C20120113\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4213
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '50.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120113'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4213.TEXT\x1CSC/10.4213\x1CSC/10\x1C(Current
+    loan amount of 50.00 from a balance of 50.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4213.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4213
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 50.00 from a balance of 50.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4214\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C386.03\x1C0.00\x1C0.00\x1C20120115\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4214
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '386.03'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120115'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4214.TEXT\x1CSC/10.4214\x1CSC/10\x1C(Current
+    loan amount of 386.03 from a balance of 386.03 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4214.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4214
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 386.03 from a balance of 386.03 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4215\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C15.00\x1C1500.00\x1C-1485.00\x1C20120115\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4215
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '15.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '1500.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '-1485.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120115'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4216\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C88.00\x1C59000.00\x1C-58912.00\x1C20120115\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4216
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '88.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '59000.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '-58912.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120115'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4217\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C61.00\x1C0.00\x1C0.00\x1C20120115\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4217
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '61.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120115'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4217.TEXT\x1CSC/10.4217\x1CSC/10\x1C(Current
+    loan amount of 61.00 from a balance of 61.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4217.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4217
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 61.00 from a balance of 61.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4218\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C250.00\x1C0.00\x1C0.00\x1C20120115\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4218
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '250.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120115'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4218.TEXT\x1CSC/10.4218\x1CSC/10\x1C(Current
+    loan amount of 250.00 from a balance of 250.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4218.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4218
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 250.00 from a balance of 250.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4219\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C132.00\x1C0.00\x1C0.00\x1C20120115\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4219
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '132.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120115'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4219.TEXT\x1CSC/10.4219\x1CSC/10\x1C(Current
+    loan amount of 132.00 from a balance of 132.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4219.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4219
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 132.00 from a balance of 132.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4220\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C510.34\x1C0.00\x1C0.00\x1C20120115\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4220
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '510.34'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120115'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4220.TEXT\x1CSC/10.4220\x1CSC/10\x1C(Current
+    loan amount of 510.34 from a balance of 510.34 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4220.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4220
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 510.34 from a balance of 510.34 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4221\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C70.00\x1C0.00\x1C0.00\x1C20120123\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4221
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '70.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120123'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4221.TEXT\x1CSC/10.4221\x1CSC/10\x1C(Current
+    loan amount of 70.00 from a balance of 70.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4221.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4221
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 70.00 from a balance of 70.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4222\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C50.00\x1C0.00\x1C0.00\x1C20120131\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4222
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '50.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120131'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4222.TEXT\x1CSC/10.4222\x1CSC/10\x1C(Current
+    loan amount of 50.00 from a balance of 50.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4222.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4222
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 50.00 from a balance of 50.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4223\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C150.00\x1C0.00\x1C0.00\x1C20120201\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4223
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '150.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120201'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4223.TEXT\x1CSC/10.4223\x1CSC/10\x1C(Current
+    loan amount of 150.00 from a balance of 150.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4223.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4223
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 150.00 from a balance of 150.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4224\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C66.96\x1C0.00\x1C0.00\x1C20120202\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4224
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '66.96'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120202'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4224.TEXT\x1CSC/10.4224\x1CSC/10\x1C(Current
+    loan amount of 66.96 from a balance of 66.96 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4224.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4224
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 66.96 from a balance of 66.96 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4225\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C80.00\x1C0.00\x1C0.00\x1C20120208\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4225
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '80.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120208'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4225.TEXT\x1CSC/10.4225\x1CSC/10\x1C(Current
+    loan amount of 80.00 from a balance of 80.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4225.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4225
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 80.00 from a balance of 80.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4226\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C124.12\x1C0.00\x1C0.00\x1C20120208\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4226
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '124.12'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120208'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4226.TEXT\x1CSC/10.4226\x1CSC/10\x1C(Current
+    loan amount of 124.12 from a balance of 124.12 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4226.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4226
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 124.12 from a balance of 124.12 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4227\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C858.08\x1C0.00\x1C0.00\x1C20120213\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4227
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '858.08'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120213'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4227.TEXT\x1CSC/10.4227\x1CSC/10\x1C(Current
+    loan amount of 858.08 from a balance of 858.08 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4227.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4227
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 858.08 from a balance of 858.08 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4228\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C225.00\x1C0.00\x1C0.00\x1C20120213\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4228
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '225.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120213'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4228.TEXT\x1CSC/10.4228\x1CSC/10\x1C(Current
+    loan amount of 225.00 from a balance of 225.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4228.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4228
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 225.00 from a balance of 225.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4229\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C10.00\x1C0.00\x1C0.00\x1C20120215\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4229
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '10.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120215'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4229.TEXT\x1CSC/10.4229\x1CSC/10\x1C(Current
+    loan amount of 10.00 from a balance of 10.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4229.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4229
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 10.00 from a balance of 10.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4230\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C15.00\x1C0.00\x1C0.00\x1C20120215\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4230
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '15.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120215'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4230.TEXT\x1CSC/10.4230\x1CSC/10\x1C(Current
+    loan amount of 15.00 from a balance of 15.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4230.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4230
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 15.00 from a balance of 15.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4231\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C22.00\x1C0.00\x1C0.00\x1C20120215\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4231
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '22.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120215'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4231.TEXT\x1CSC/10.4231\x1CSC/10\x1C(Current
+    loan amount of 22.00 from a balance of 22.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4231.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4231
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 22.00 from a balance of 22.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4233\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C70.00\x1C0.00\x1C0.00\x1C20120217\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4233
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '70.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120217'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4233.TEXT\x1CSC/10.4233\x1CSC/10\x1C(Current
+    loan amount of 70.00 from a balance of 70.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4233.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4233
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 70.00 from a balance of 70.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4234\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C500.00\x1C0.00\x1C0.00\x1C20120220\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4234
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '500.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120220'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4234.TEXT\x1CSC/10.4234\x1CSC/10\x1C(Current
+    loan amount of 500.00 from a balance of 500.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4234.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4234
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 500.00 from a balance of 500.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4232\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C18.00\x1C0.00\x1C0.00\x1C20120223\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4232
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '18.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120223'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4232.TEXT\x1CSC/10.4232\x1CSC/10\x1C(Current
+    loan amount of 18.00 from a balance of 18.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4232.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4232
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 18.00 from a balance of 18.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4235\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C150.00\x1C0.00\x1C0.00\x1C20120224\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4235
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '150.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120224'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4235.TEXT\x1CSC/10.4235\x1CSC/10\x1C(Current
+    loan amount of 150.00 from a balance of 150.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4235.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4235
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 150.00 from a balance of 150.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4236\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C50.00\x1C6762.18\x1C-6712.18\x1C20120229\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4236
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '50.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '6762.18'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '-6712.18'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120229'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4237\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C2392.21\x1C0.00\x1C0.00\x1C20120305\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4237
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '2392.21'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120305'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4237.TEXT\x1CSC/10.4237\x1CSC/10\x1C(Current
+    loan amount of 2392.21 from a balance of 2392.21 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4237.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4237
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 2392.21 from a balance of 2392.21 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4238\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C62.93\x1C0.00\x1C0.00\x1C20120306\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4238
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '62.93'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120306'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4238.TEXT\x1CSC/10.4238\x1CSC/10\x1C(Current
+    loan amount of 62.93 from a balance of 62.93 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4238.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4238
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 62.93 from a balance of 62.93 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4239\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C55.08\x1C0.00\x1C0.00\x1C20120307\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4239
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '55.08'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120307'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4239.TEXT\x1CSC/10.4239\x1CSC/10\x1C(Current
+    loan amount of 55.08 from a balance of 55.08 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4239.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4239
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 55.08 from a balance of 55.08 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4240\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C450.00\x1C0.00\x1C0.00\x1C20120309\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4240
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '450.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120309'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4240.TEXT\x1CSC/10.4240\x1CSC/10\x1C(Current
+    loan amount of 450.00 from a balance of 450.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4240.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4240
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 450.00 from a balance of 450.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4241\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C90000.00\x1C0.00\x1C0.00\x1C20120330\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4241
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '90000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120330'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4241.TEXT\x1CSC/10.4241\x1CSC/10\x1C(Current
+    loan amount of 90000.00 from a balance of 90000.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4241.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4241
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 90000.00 from a balance of 90000.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4242\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C504.20\x1C0.00\x1C0.00\x1C20120331\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4242
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '504.20'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120331'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4242.TEXT\x1CSC/10.4242\x1CSC/10\x1C(Current
+    loan amount of 504.20 from a balance of 504.20 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4242.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4242
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 504.20 from a balance of 504.20 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4243\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C50.00\x1C0.00\x1C0.00\x1C20120331\x1C31-Dec-12\x1C0.0000\x1CN\x1CN\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4243
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '50.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120331'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 31-Dec-12
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4243.TEXT\x1CSC/10.4243\x1CSC/10\x1C(Current
+    loan amount of 50.00 from a balance of 50.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4243.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4243
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 50.00 from a balance of 50.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4604\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C2500.00\x1C0.00\x1C0.00\x1C20120515\x1C12/31/2012\x1C0.0000\x1CN\x1CY\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4604
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '2500.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120515'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4604.TEXT\x1CSC/10.4604\x1CSC/10\x1C(Current
+    loan amount of 2500.00 from a balance of 2500.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4604.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4604
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 2500.00 from a balance of 2500.00 has been forgiven)
+
+'
+- input: "SC/10\x1CC00510081\x1CSC/10.4605\x1C13A\x1CCAN\x1C\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1C1264
+    Heritage Lakes Dr SW\x1C\x1CMableton\x1CGA\x1C30126\x1CP2012\x1C\x1C2500.00\x1C0.00\x1C0.00\x1C20120522\x1C12/31/2012\x1C0.0000\x1CN\x1CY\x1C\x1CH2GA12147\x1CSHEFFIELD\x1CMARIA\x1C\x1C\x1C\x1CH\x1CGA\x1C12\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4605
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHEFFIELD
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: MARIA
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1264 Heritage Lakes Dr SW
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Mableton
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30126'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '2500.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '0.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120522'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2GA12147
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHEFFIELD
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: MARIA
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '12'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "TEXT\x1CC00510081\x1CSC/10.4605.TEXT\x1CSC/10.4605\x1CSC/10\x1C(Current
+    loan amount of 2500.00 from a balance of 2500.00 has been forgiven)\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510081
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4605.TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4605
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: '(Current loan amount of 2500.00 from a balance of 2500.00 has been forgiven)
+
+'
+sourceurl: !!python/unicode 20130125
+type: chunk

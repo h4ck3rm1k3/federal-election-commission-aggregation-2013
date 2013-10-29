@@ -1,0 +1,258 @@
+countrows: 6
+filename: 847699.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH8CO02137\x1CPolis\x1CJared\x1C\x1C\x1C\x1C\x1CP.O. Box 4659\x1C\x1CBoulder\x1CCO\x1C80306\x1CDEM\x1CH\x1CCO\x1C02\x1C2014\x1CC00435370\x1CFriends
+    of Jared Polis Committee\x1CP.O. Box 4572\x1C\x1CBoulder\x1CCO\x1C80306\x1CC00487561\x1CColorado
+    Democratic Congressional Committee\x1CPO Box 1174\x1C\x1CSpringfield\x1CVA\x1C22151\x1CPolis\x1CJared\x1C\x1C\x1C\x1C20130104\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8CO02137
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Polis
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Jared
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: P.O. Box 4659
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Boulder
+  - name: CANDIDATE STATE
+    number: '12'
+    value: CO
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '80306'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: CO
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '02'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00435370
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Friends of Jared Polis Committee
+  - name: PCC STREET 1
+    number: '21'
+    value: P.O. Box 4572
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Boulder
+  - name: PCC STATE
+    number: '24'
+    value: CO
+  - name: PCC ZIP
+    number: '25'
+    value: '80306'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00487561
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Colorado Democratic Congressional Committee
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO Box 1174
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Springfield
+  - name: AUTH STATE
+    number: '31'
+    value: VA
+  - name: AUTH ZIP
+    number: '32'
+    value: '22151'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Polis
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Jared
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130104
+
+'
+- input: "F2S\x1CH8CO02137\x1CC00471706\x1CFund for Equality\x1CPO Box 1174\x1C\x1CSpringfield\x1CVA\x1C22151\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8CO02137
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00471706
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Fund for Equality
+  - name: AUTH STREET 1
+    number: '5'
+    value: PO Box 1174
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Springfield
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '22151
+
+'
+- input: "f2s\x1CH8CO02137\x1Cc00501825\x1CJared Polis Victory Fund 2012\x1CPO Box
+    1174\x1C\x1CSpringfield\x1CVA\x1C22151\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: f2s
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8CO02137
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: c00501825
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Jared Polis Victory Fund 2012
+  - name: AUTH STREET 1
+    number: '5'
+    value: PO Box 1174
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Springfield
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '22151
+
+'
+- input: "f2s\x1CH8CO02137\x1CC00493122\x1CJared Polis Majority Fund 2012\x1CPO Box
+    1174\x1C\x1CSpringfield\x1CVA\x1C22151\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: f2s
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8CO02137
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00493122
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Jared Polis Majority Fund 2012
+  - name: AUTH STREET 1
+    number: '5'
+    value: PO Box 1174
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Springfield
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '22151
+
+'
+- input: "f2s\x1CH8CO02137\x1CC00512749\x1CRed to Blue Majority Fund\x1CPO Box 1174\x1C\x1CSpringfield\x1CVA\x1C22151\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: f2s
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8CO02137
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00512749
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Red to Blue Majority Fund
+  - name: AUTH STREET 1
+    number: '5'
+    value: PO Box 1174
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Springfield
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '22151
+
+'
+sourceurl: !!python/unicode 20130118
+type: chunk

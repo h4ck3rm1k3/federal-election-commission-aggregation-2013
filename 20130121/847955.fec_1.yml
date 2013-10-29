@@ -1,0 +1,128 @@
+countrows: 2
+filename: 847955.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH0SC04257\x1CGOWDY\x1CTREY\x1C\x1C\x1C\x1C\x1CPO BOX 3324\x1C\x1CSPARTANBURG\x1CSC\x1C29304\x1CREP\x1CH\x1CSC\x1C04\x1C2014\x1CC00462523\x1CTREY
+    GOWDY FOR CONGRESS\x1CPO BOX 3324\x1C\x1CSPARTANBURG\x1CSC\x1C29304\x1CC00499871\x1CSOUTH
+    CAROLINA YOUNG GUNS VICTORY FUND DUNCAN GOWDY MULVANEY SCOTT\x1C25 EAST MAIN STREET\x1C\x1CRICHMOND\x1CVA\x1C23219\x1CGOWDY\x1CTREY\x1C\x1C\x1C\x1C20130121\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0SC04257
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: GOWDY
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: TREY
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO BOX 3324
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: SPARTANBURG
+  - name: CANDIDATE STATE
+    number: '12'
+    value: SC
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '29304'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: SC
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '04'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00462523
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: TREY GOWDY FOR CONGRESS
+  - name: PCC STREET 1
+    number: '21'
+    value: PO BOX 3324
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: SPARTANBURG
+  - name: PCC STATE
+    number: '24'
+    value: SC
+  - name: PCC ZIP
+    number: '25'
+    value: '29304'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00499871
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: SOUTH CAROLINA YOUNG GUNS VICTORY FUND DUNCAN GOWDY MULVANEY SCOTT
+  - name: AUTH STREET 1
+    number: '28'
+    value: 25 EAST MAIN STREET
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: RICHMOND
+  - name: AUTH STATE
+    number: '31'
+    value: VA
+  - name: AUTH ZIP
+    number: '32'
+    value: '23219'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: GOWDY
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: TREY
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130121
+
+'
+sourceurl: !!python/unicode 20130121
+type: chunk
