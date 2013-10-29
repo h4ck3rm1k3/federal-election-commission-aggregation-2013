@@ -1,0 +1,151 @@
+countrows: 3
+filename: 863006.fec
+header: {}
+rows:
+- 2
+- input: "F6N\x1CC00540641\x1C\x1CCommittee to Elect Curtis Bostic\x1C834 Wapoo Road\x1C\x1CCharleston\x1CSC\x1C29407\x1CH4SC00018\x1CBostic\x1CCurtis\x1CElliott\x1C\x1C\x1CH\x1CSC\x1C01\x1CSauer\x1CPeter\x1CAlan\x1C\x1C\x1C20130325\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00540641
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Committee to Elect Curtis Bostic
+  - name: STREET 1
+    number: '5'
+    value: 834 Wapoo Road
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Charleston
+  - name: STATE
+    number: '8'
+    value: SC
+  - name: ZIP
+    number: '9'
+    value: '29407'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H4SC00018
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: Bostic
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: Curtis
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: Elliott
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: SC
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '01'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Sauer
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Peter
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: Alan
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130325
+
+'
+- input: "F65\x1CC00540641\x1CF6.5427\x1CIND\x1C\x1CMorris\x1CUrquit\x1C\x1C\x1C\x1C1700
+    Ashley River Road\x1C\x1CCharleston\x1CSC\x1C29407\x1C\x1C20130325\x1C1000.00\x1CUrquit
+    Morris Agency\x1CInsurance Salesman\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00540641
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.5427
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Morris
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Urquit
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 1700 Ashley River Road
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: SC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '29407'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130325'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Urquit Morris Agency
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Insurance Salesman
+
+'
+sourceurl: !!python/unicode 20130325
+type: chunk

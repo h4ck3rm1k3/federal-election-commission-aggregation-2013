@@ -1,0 +1,918 @@
+countrows: 10
+filename: 864796.fec
+header: {}
+rows:
+- 2
+- input: "F3N\x1CC00470393\x1CCates for Congress\x1C\x1C10 Greywood Ln\x1C\x1CCartersville\x1CGA\x1C30120\x1CGA\x1C09\x1CQ1\x1C\x1C\x1C\x1C20130101\x1C20130331\x1COvercash\x1CWilliam\x1CG\x1C\x1C\x1C20130410\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C1447.95\x1C0.00\x1C250835.84\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C1447.95\x1C0.00\x1C1447.95\x1C0.00\x1C1447.95\x1C232632.73\x1C2200.00\x1C230432.73\x1C478770.82\x1C585.67\x1C478185.15\x1C191981.60\x1C12042.54\x1C204024.14\x1C0.00\x1C19500.00\x1C9108.59\x1C232632.73\x1C0.00\x1C252000.00\x1C0.00\x1C252000.00\x1C585.67\x1C0.00\x1C485218.40\x1C478770.82\x1C0.00\x1C2000.00\x1C0.00\x1C2000.00\x1C1600.00\x1C0.00\x1C600.00\x1C2200.00\x1C1803.00\x1C484773.82\n"
+  record: fec.version.v8_0.F3
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00470393
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Cates for Congress
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 10 Greywood Ln
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Cartersville
+  - name: STATE
+    number: '8'
+    value: GA
+  - name: ZIP
+    number: '9'
+    value: '30120'
+  - name: ELECTION STATE
+    number: '10'
+    value: GA
+  - name: ELECTION DISTRICT
+    number: '11'
+    value: 09
+  - name: REPORT CODE
+    number: '12'
+    value: Q1
+  - name: ELECTION CODE
+    number: '13'
+    value: ''
+  - name: DATE OF ELECTION
+    number: '14'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '15'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '16'
+    value: '20130101'
+  - name: COVERAGE THROUGH DATE
+    number: '17'
+    value: '20130331'
+  - name: TREASURER LAST NAME
+    number: '18'
+    value: Overcash
+  - name: TREASURER FIRST NAME
+    number: '19'
+    value: William
+  - name: TREASURER MIDDLE NAME
+    number: '20'
+    value: G
+  - name: TREASURER PREFIX
+    number: '21'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20130410'
+  - name: Total Contributions (NO Loans)
+    number: 24-(6a)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 25-(6b)
+    value: '0.00'
+  - name: Net Contributions
+    number: 26-(6c)
+    value: '0.00'
+  - name: Total Operating Expenditures
+    number: 27-(7a)
+    value: '0.00'
+  - name: Total Offset to Operating Expenditures
+    number: 28-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 29-(7c)
+    value: '0.00'
+  - name: CASH ON HAND AT CLOSE ...
+    number: 30-8.
+    value: '1447.95'
+  - name: DEBTS TO ( Totals from SCH C and/or D)
+    number: 31-9.
+    value: '0.00'
+  - name: DEBTS BY (Totals from SCH C and/or D)
+    number: 32-10.
+    value: '250835.84'
+  - name: Individuals Itemized
+    number: 33-11(a i.)
+    value: '0.00'
+  - name: Individuals Unitemized
+    number: 34-11(a.ii)
+    value: '0.00'
+  - name: Individual Contribution Total
+    number: 35-11(a.iii)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 36-11(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 37-11(c)
+    value: '0.00'
+  - name: The Candidate
+    number: 38-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 39-11(e)
+    value: '0.00'
+  - name: Transfers From Other Authorized Committees
+    number: 40-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 41-13(a)
+    value: '0.00'
+  - name: All Other Loans
+    number: 42-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 43-13(c)
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 44-14.
+    value: '0.00'
+  - name: Other Receipts
+    number: 45-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 46-16.
+    value: '0.00'
+  - name: Operating Expenditures
+    number: 47-17.
+    value: '0.00'
+  - name: Transfers to Other Authorized Committees
+    number: 48-18.
+    value: '0.00'
+  - name: Of Loans made or guar. by the Cand.
+    number: 49-19(a)
+    value: '0.00'
+  - name: Loan Repayments, All Other Loans
+    number: 50-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 51-19(c)
+    value: '0.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 52-20(a)
+    value: '0.00'
+  - name: Refund/Political Party Committees
+    number: 53-20(b)
+    value: '0.00'
+  - name: Refund/Other Political Committees
+    number: 54-20(c)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 55-20(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 56-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 57-22.
+    value: '0.00'
+  - name: Cash Beginning Reporting Period
+    number: 58-23.
+    value: '1447.95'
+  - name: Total Receipts this Period
+    number: 59-24.
+    value: '0.00'
+  - name: Subtotals
+    number: 60-25.
+    value: '1447.95'
+  - name: Total Disbursements this Period
+    number: 61-26.
+    value: '0.00'
+  - name: Cash on hand at Close Period
+    number: 62-27.
+    value: '1447.95'
+  - name: Total Contributions (No Loans)
+    number: 63-(6a)
+    value: '232632.73'
+  - name: Total Contribution Refunds
+    number: 64-(6b)
+    value: '2200.00'
+  - name: Net Contributions
+    number: 65-(6c)
+    value: '230432.73'
+  - name: Total Operating Expenditures
+    number: 66-(7a)
+    value: '478770.82'
+  - name: Total Offsets to Operating Expenditures
+    number: 67-(7b)
+    value: '585.67'
+  - name: NET Operating Expenditures.
+    number: 68-(7c)
+    value: '478185.15'
+  - name: Individuals Itemized
+    number: 69-11(a i.)
+    value: '191981.60'
+  - name: Individuals Unitemized
+    number: 70-11(a.ii)
+    value: '12042.54'
+  - name: Individuals Total
+    number: 71-11(a.iii)
+    value: '204024.14'
+  - name: Political Party Committees
+    number: 72-11(b)
+    value: '0.00'
+  - name: All Other Political Committees (PACS)
+    number: 73-11(c)
+    value: '19500.00'
+  - name: The Candidate
+    number: 74-11(d)
+    value: '9108.59'
+  - name: Total Contributions
+    number: 75-11(e)
+    value: '232632.73'
+  - name: Transfers From Other AUTH Committees
+    number: 76-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 77-13(a)
+    value: '252000.00'
+  - name: All Other Loans
+    number: 78-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 79-13(c)
+    value: '252000.00'
+  - name: Offsets to Operating Expenditures
+    number: 80-14.
+    value: '585.67'
+  - name: Other Receipts
+    number: 81-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 82-16.
+    value: '485218.40'
+  - name: Operating Expenditures
+    number: 83-17
+    value: '478770.82'
+  - name: Transfers To Other AUTH Committees
+    number: 84-18.
+    value: '0.00'
+  - name: Loan Repayment By Candidate
+    number: 85-19(a)
+    value: '2000.00'
+  - name: Loan Repayments, ALL Other Loans
+    number: 86-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 87-19(c)
+    value: '2000.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 88-20(a)
+    value: '1600.00'
+  - name: Refund, Political Party Committees
+    number: 89-20(b)
+    value: '0.00'
+  - name: Refund, Other Political Committees
+    number: 90-20(c)
+    value: '600.00'
+  - name: Total Contributions Refunds
+    number: 91-20(d)
+    value: '2200.00'
+  - name: Other Disbursements
+    number: 92-21.
+    value: '1803.00'
+  - name: Total Disbursements
+    number: 93-22.
+    value: '484773.82
+
+'
+- input: "SC/10\x1CC00470393\x1CSC/10.4147\x1C13A\x1CCAN\x1C\x1CCates\x1CChristopher\x1CU.\x1C\x1CMD\x1C11
+    Timber Grace Court\x1C\x1CBlairsville\x1CGA\x1C30512\x1CS2010\x1CSpecial-General\x1C200000.00\x1C0.00\x1C200000.00\x1C20091230\x1C12/20/2010\x1C0.0600\x1CN\x1CY\x1C\x1CH0GA10228\x1CCates\x1CChristopher\x1CU.\x1C\x1CMD\x1CH\x1CGA\x1C09\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00470393
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4147
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Cates
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Christopher
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: U.
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: MD
+  - name: LENDER STREET 1
+    number: '12'
+    value: 11 Timber Grace Court
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Blairsville
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30512'
+  - name: ELECTION CODE
+    number: '17'
+    value: S2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: Special-General
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '200000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '200000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20091230'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/20/2010
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0600'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H0GA10228
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: Cates
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: Christopher
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: U.
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: MD
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: 09
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC2/10\x1CC00470393\x1CSC/10.4147.0.SC2\x1CSC/10.4147\x1CCates\x1CChristopher\x1CU.\x1C\x1CMD\x1C11
+    Timber Grace Court\x1C\x1CBlairsville\x1CGA\x1C30512\x1CRetired\x1CPhysician\x1C200000.00\n"
+  record: fec.version.v8_0.SC2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC2/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00470393
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4147.0.SC2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: SC/10.4147
+  - name: GUARANTOR LAST NAME
+    number: '5'
+    value: Cates
+  - name: GUARANTOR FIRST NAME
+    number: '6'
+    value: Christopher
+  - name: GUARANTOR MIDDLE NAME
+    number: '7'
+    value: U.
+  - name: GUARANTOR PREFIX
+    number: '8'
+    value: ''
+  - name: GUARANTOR SUFFIX
+    number: '9'
+    value: MD
+  - name: GUARANTOR STREET 1
+    number: '10'
+    value: 11 Timber Grace Court
+  - name: GUARANTOR STREET 2
+    number: '11'
+    value: ''
+  - name: GUARANTOR CITY
+    number: '12'
+    value: Blairsville
+  - name: GUARANTOR STATE
+    number: '13'
+    value: GA
+  - name: GUARANTOR ZIP
+    number: '14'
+    value: '30512'
+  - name: GUARANTOR EMPLOYER
+    number: '15'
+    value: Retired
+  - name: GUARANTOR OCCUPATION
+    number: '16'
+    value: Physician
+  - name: GUARANTEED AMOUNT
+    number: '17'
+    value: '200000.00
+
+'
+- input: "SC/10\x1CC00470393\x1CSC/10.5571\x1C13A\x1CCAN\x1C\x1CCates\x1CChristopher\x1CU.\x1C\x1CMD\x1C11
+    Timber Grace Court\x1C\x1CBlairsville\x1CGA\x1C30512\x1CS2010\x1CSpecial-General\x1C52000.00\x1C2000.00\x1C50000.00\x1C20100503\x1C12/20/10\x1C0.0600\x1CN\x1CY\x1C\x1CH0GA10228\x1CCates\x1CChristopher\x1CU.\x1C\x1CMD\x1CH\x1CGA\x1C09\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00470393
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.5571
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Cates
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Christopher
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: U.
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: MD
+  - name: LENDER STREET 1
+    number: '12'
+    value: 11 Timber Grace Court
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Blairsville
+  - name: LENDER STATE
+    number: '15'
+    value: GA
+  - name: LENDER ZIP
+    number: '16'
+    value: '30512'
+  - name: ELECTION CODE
+    number: '17'
+    value: S2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: Special-General
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '52000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '2000.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '50000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20100503'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/20/10
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0600'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H0GA10228
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: Cates
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: Christopher
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: U.
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: MD
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: GA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: 09
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SD10\x1CC00470393\x1CSD10.5877\x1CORG\x1CCM&Co, LLC\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 97275\x1C\x1CRaleigh\x1CNC\x1C27624\x1CAccounting Services\x1C460.42\x1C0.00\x1C0.00\x1C460.42\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00470393
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.5877
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: CM&Co, LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 97275
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Raleigh
+  - name: CREDITOR STATE
+    number: '14'
+    value: NC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '27624'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Accounting Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '460.42'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '460.42
+
+'
+- input: "SD10\x1CC00470393\x1CSD10.5879\x1CORG\x1CCM&Co, LLC\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 97275\x1C\x1CRaleigh\x1CNC\x1C27624\x1CAccounting Services\x1C106.25\x1C0.00\x1C0.00\x1C106.25\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00470393
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.5879
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: CM&Co, LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 97275
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Raleigh
+  - name: CREDITOR STATE
+    number: '14'
+    value: NC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '27624'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Accounting Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '106.25'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '106.25
+
+'
+- input: "SD10\x1CC00470393\x1CSD10.5881\x1CORG\x1CCM&Co, LLC\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 97275\x1C\x1CRaleigh\x1CNC\x1C27624\x1CAccounting Services\x1C99.17\x1C0.00\x1C0.00\x1C99.17\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00470393
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.5881
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: CM&Co, LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 97275
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Raleigh
+  - name: CREDITOR STATE
+    number: '14'
+    value: NC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '27624'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Accounting Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '99.17'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '99.17
+
+'
+- input: "SD10\x1CC00470393\x1CSD10.5882\x1CORG\x1CCM&Co, LLC\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 97275\x1C\x1CRaleigh\x1CNC\x1C27624\x1CAccounting Services\x1C85.00\x1C0.00\x1C0.00\x1C85.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00470393
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.5882
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: CM&Co, LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 97275
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Raleigh
+  - name: CREDITOR STATE
+    number: '14'
+    value: NC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '27624'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Accounting Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '85.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '85.00
+
+'
+- input: "SD10\x1CC00470393\x1CSD10.5884\x1CORG\x1CCM&Co, LLC\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 97275\x1C\x1CRaleigh\x1CNC\x1C27624\x1CAccounting Services\x1C0.00\x1C85.00\x1C0.00\x1C85.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00470393
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.5884
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: CM&Co, LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 97275
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Raleigh
+  - name: CREDITOR STATE
+    number: '14'
+    value: NC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '27624'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Accounting Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '85.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '85.00
+
+'
+sourceurl: !!python/unicode 20130410
+type: chunk

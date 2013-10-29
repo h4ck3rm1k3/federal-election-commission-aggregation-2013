@@ -1,0 +1,161 @@
+countrows: 3
+filename: 863376.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH8FL16022\x1CRooney\x1CTom\x1C\x1CMr.\x1C\x1CX\x1CPO Box 2407\x1C\x1COkeechobee\x1CFL\x1C34973\x1CREP\x1CH\x1CFL\x1C17\x1C2014\x1CC00432906\x1CTOM
+    ROONEY FOR CONGRESS\x1C1133 BAL HARBOR BLVD. 1139 #186\x1C\x1CPUNTA GORDA\x1CFL\x1C33950\x1CC00527697\x1CGrowing
+    Floridas Future Fund\x1C133 South Harbor Drive\x1C\x1CVenice\x1CFL\x1C34285\x1CRooney\x1CTom\x1C\x1CMr.\x1C\x1C20130327\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8FL16022
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Rooney
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Tom
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Mr.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: X
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO Box 2407
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Okeechobee
+  - name: CANDIDATE STATE
+    number: '12'
+    value: FL
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '34973'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: FL
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '17'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00432906
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: TOM ROONEY FOR CONGRESS
+  - name: PCC STREET 1
+    number: '21'
+    value: '1133 BAL HARBOR BLVD. 1139 #186'
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: PUNTA GORDA
+  - name: PCC STATE
+    number: '24'
+    value: FL
+  - name: PCC ZIP
+    number: '25'
+    value: '33950'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00527697
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Growing Floridas Future Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: 133 South Harbor Drive
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Venice
+  - name: AUTH STATE
+    number: '31'
+    value: FL
+  - name: AUTH ZIP
+    number: '32'
+    value: '34285'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Rooney
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Tom
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: Mr.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130327
+
+'
+- input: "F2S\x1CH8FL16022\x1CC00529024\x1CProtecting Floridas Future Fund\x1C2470
+    Daniells Bridge Rd.\x1CSte. 121\x1CAthens\x1CGA\x1C30606\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8FL16022
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00529024
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Protecting Floridas Future Fund
+  - name: AUTH STREET 1
+    number: '5'
+    value: 2470 Daniells Bridge Rd.
+  - name: AUTH STREET 2
+    number: '6'
+    value: Ste. 121
+  - name: AUTH CITY
+    number: '7'
+    value: Athens
+  - name: AUTH STATE
+    number: '8'
+    value: GA
+  - name: AUTH ZIP
+    number: '9'
+    value: '30606
+
+'
+sourceurl: !!python/unicode 20130327
+type: chunk

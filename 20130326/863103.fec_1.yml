@@ -1,0 +1,152 @@
+countrows: 3
+filename: 863103.fec
+header: {}
+rows:
+- 2
+- input: "F6N\x1CC00499244\x1C\x1CTURNER FOR NEW YORK\x1CPO BOX 140016\x1C\x1CHOWARD
+    BEACH\x1CNY\x1C11414\x1CH0NY09072\x1CTURNER\x1CROBERT L\x1C\x1C\x1C\x1CS\x1CNY\x1C\x1CTurner\x1CKevin\x1C\x1C\x1C\x1C20130326\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00499244
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: TURNER FOR NEW YORK
+  - name: STREET 1
+    number: '5'
+    value: PO BOX 140016
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: HOWARD BEACH
+  - name: STATE
+    number: '8'
+    value: NY
+  - name: ZIP
+    number: '9'
+    value: '11414'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H0NY09072
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: TURNER
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: ROBERT L
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: S
+  - name: CANDIDATE STATE
+    number: '17'
+    value: NY
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: ''
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Turner
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Kevin
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130326
+
+'
+- input: "F65\x1CC00499244\x1CF6.11527\x1CIND\x1C\x1CMezzalingua\x1CDaniel\x1C\x1C\x1C\x1C8787
+    Bay Colony Dr. Apt. 305\x1C\x1CNaples\x1CFL\x1C34108\x1C\x1C20120626\x1C2500.00\x1CSyracuse
+    University\x1CVice Chairman\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00499244
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.11527
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Mezzalingua
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Daniel
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 8787 Bay Colony Dr. Apt. 305
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Naples
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: FL
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '34108'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20120626'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2500.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Syracuse University
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Vice Chairman
+
+'
+sourceurl: !!python/unicode 20130326
+type: chunk

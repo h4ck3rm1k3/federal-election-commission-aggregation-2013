@@ -1,0 +1,129 @@
+countrows: 2
+filename: 865184.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH0KS03137\x1CYoder\x1CKevin\x1C\x1C\x1C\x1C\x1C5817 W 100th Ter\x1C\x1COverland
+    Park\x1CKS\x1C662073029\x1CREP\x1CH\x1CKS\x1C03\x1C2012\x1CC00472365\x1CYoder
+    for Congress, Inc\x1CPO BOX 26742\x1C\x1COverland Park\x1CKS\x1C66225\x1CC00524843\x1CYoder
+    Victory Fund\x1C901 N Washington St\x1CSte 700\x1CAlexandria\x1CVA\x1C22314\x1CYoder\x1CKevin\x1C\x1C\x1C\x1C20130411\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0KS03137
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Yoder
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Kevin
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 5817 W 100th Ter
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Overland Park
+  - name: CANDIDATE STATE
+    number: '12'
+    value: KS
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '662073029'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: KS
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '03'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2012'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00472365
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Yoder for Congress, Inc
+  - name: PCC STREET 1
+    number: '21'
+    value: PO BOX 26742
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Overland Park
+  - name: PCC STATE
+    number: '24'
+    value: KS
+  - name: PCC ZIP
+    number: '25'
+    value: '66225'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00524843
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Yoder Victory Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: 901 N Washington St
+  - name: AUTH STREET 2
+    number: '29'
+    value: Ste 700
+  - name: AUTH CITY
+    number: '30'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '31'
+    value: VA
+  - name: AUTH ZIP
+    number: '32'
+    value: '22314'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Yoder
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Kevin
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130411
+
+'
+sourceurl: !!python/unicode 20130412
+type: chunk

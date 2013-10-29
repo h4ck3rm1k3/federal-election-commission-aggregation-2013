@@ -1,0 +1,310 @@
+countrows: 6
+filename: 862576.fec
+header: {}
+rows:
+- 2
+- input: "F6N\x1CC00531269\x1C\x1CGussen for Congress\x1C482 CLAREMONT AVENUE\x1C\x1CTEANECK\x1CNJ\x1C07666\x1CH2NJ05287\x1CGUSSEN\x1CADAM\x1C\x1C\x1C\x1CH\x1CNJ\x1C05\x1CZwillenberg\x1CDaniel\x1CE\x1C\x1CEsq.\x1C20130321\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00531269
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Gussen for Congress
+  - name: STREET 1
+    number: '5'
+    value: 482 CLAREMONT AVENUE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: TEANECK
+  - name: STATE
+    number: '8'
+    value: NJ
+  - name: ZIP
+    number: '9'
+    value: '07666'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H2NJ05287
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: GUSSEN
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: ADAM
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: NJ
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '05'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Zwillenberg
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Daniel
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: E
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: Esq.
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130321
+
+'
+- input: "TEXT\x1CC00531269\x1C.TEXT\x1C\x1CF6N\x1CThese reports were scheduled to
+    be reported in a timely manner, in NJ we expereinced Hurricane Sandy just after
+    reciept of these funds, this made it nearly impossible to submit the filing or
+    even deposit the funds in the account.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00531269
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: .TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F6N
+  - name: TEXT4000
+    number: '6'
+    value: 'These reports were scheduled to be reported in a timely manner, in NJ
+      we expereinced Hurricane Sandy just after reciept of these funds, this made
+      it nearly impossible to submit the filing or even deposit the funds in the account.
+
+'
+- input: "F65\x1CC00531269\x1CF6.4577\x1CIND\x1C\x1CKirschenbaum\x1CChayim\x1C\x1C\x1C\x1C21
+    Regent Street\x1C\x1CBergenfield\x1CNJ\x1C07621\x1C\x1C20121022\x1C2500.00\x1CRequested\x1CRequested\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00531269
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4577
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Kirschenbaum
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Chayim
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 21 Regent Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Bergenfield
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: NJ
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '07621'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121022'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2500.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Requested
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Requested
+
+'
+- input: "F65\x1CC00531269\x1CF6.4578\x1CIND\x1C\x1CKirschenbaum\x1CKarin\x1C\x1C\x1C\x1C21
+    Regent Street\x1C\x1CBergenfield\x1CNJ\x1C07621\x1C\x1C20121022\x1C2500.00\x1CRequested\x1CRequested\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00531269
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4578
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Kirschenbaum
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Karin
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 21 Regent Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Bergenfield
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: NJ
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '07621'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121022'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2500.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Requested
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Requested
+
+'
+- input: "F65\x1CC00531269\x1CF6.4576\x1CPAC\x1CNEW MILLENNIUM PAC\x1C\x1C\x1C\x1C\x1C\x1CONE
+    GATEWAY CENTER, SUITE 520\x1C\x1CNEWARK\x1CNJ\x1C07102\x1CC00349233\x1C20121022\x1C5000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00531269
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4576
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: NEW MILLENNIUM PAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: ONE GATEWAY CENTER, SUITE 520
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: NEWARK
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: NJ
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '07102'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00349233
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121022'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '5000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130321
+type: chunk

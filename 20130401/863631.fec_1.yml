@@ -1,0 +1,153 @@
+countrows: 3
+filename: 863631.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH0FL19080\x1CDeutch\x1CTheodore\x1CEliot\x1C\x1C\x1C\x1C12373 Cascades
+    Point Dr\x1C\x1CBoca Raton\x1CFL\x1C33928\x1CDEM\x1CH\x1CFL\x1C21\x1C2014\x1CC00469163\x1CTed
+    Deutch for Congress Committee\x1C1050 17th ST NW, Ste 590\x1C\x1CWashington\x1CDC\x1C20036\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CDeutch\x1CTheodore
+    \x1CE\x1C\x1C\x1C20130401\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0FL19080
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Deutch
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Theodore
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: Eliot
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 12373 Cascades Point Dr
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Boca Raton
+  - name: CANDIDATE STATE
+    number: '12'
+    value: FL
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '33928'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: FL
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '21'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00469163
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Ted Deutch for Congress Committee
+  - name: PCC STREET 1
+    number: '21'
+    value: 1050 17th ST NW, Ste 590
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Washington
+  - name: PCC STATE
+    number: '24'
+    value: DC
+  - name: PCC ZIP
+    number: '25'
+    value: '20036'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Deutch
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: 'Theodore '
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: E
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130401
+
+'
+- input: "TEXT\x1CH0FL19080\x1CX0\x1C\x1CF2A\x1CForm 1 is amended to correct to District
+    21.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: H0FL19080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X0
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F2A
+  - name: TEXT4000
+    number: '6'
+    value: 'Form 1 is amended to correct to District 21.
+
+'
+sourceurl: !!python/unicode 20130401
+type: chunk

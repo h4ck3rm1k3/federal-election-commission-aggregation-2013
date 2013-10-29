@@ -1,0 +1,128 @@
+countrows: 2
+filename: 863635.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH2CA31125\x1CAguilar\x1CPete\x1C\x1C\x1C\x1C\x1C777 S. Figueroa Street,
+    Suite 4050\x1C\x1CLos Angeles\x1CCA\x1C90017\x1CDEM\x1CH\x1CCA\x1C31\x1C2014\x1CC00510461\x1CPete
+    Aguilar for Congress\x1C777 S. Figueroa St., Ste. 4050\x1C\x1CLos Angeles\x1CCA\x1C90017\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CAguilar\x1CPete\x1C\x1C\x1C\x1C20130401\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2CA31125
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Aguilar
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Pete
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 777 S. Figueroa Street, Suite 4050
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Los Angeles
+  - name: CANDIDATE STATE
+    number: '12'
+    value: CA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '90017'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: CA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '31'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00510461
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Pete Aguilar for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: 777 S. Figueroa St., Ste. 4050
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Los Angeles
+  - name: PCC STATE
+    number: '24'
+    value: CA
+  - name: PCC ZIP
+    number: '25'
+    value: '90017'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Aguilar
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Pete
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130401
+
+'
+sourceurl: !!python/unicode 20130401
+type: chunk

@@ -1,0 +1,152 @@
+countrows: 3
+filename: 861382.fec
+header: {}
+rows:
+- 2
+- input: "F6N\x1CC00540914\x1C\x1CJONATHAN HOFFMAN FOR CONGRESS\x1CPO BOX 12110\x1C\x1CCHARLESTON\x1CSC\x1C29422\x1CH4SC01164\x1CHOFFMAN\x1CJONATHAN\x1C\x1C\x1C\x1CH\x1CSC\x1C01\x1CWatson\x1CMatthew
+    G.\x1C\x1C\x1C\x1C20130318\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00540914
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: JONATHAN HOFFMAN FOR CONGRESS
+  - name: STREET 1
+    number: '5'
+    value: PO BOX 12110
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: CHARLESTON
+  - name: STATE
+    number: '8'
+    value: SC
+  - name: ZIP
+    number: '9'
+    value: '29422'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H4SC01164
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: HOFFMAN
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: JONATHAN
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: SC
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '01'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Watson
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Matthew G.
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130318
+
+'
+- input: "F65\x1CC00540914\x1CF6.4669\x1CIND\x1C\x1CMorris\x1CThomas C\x1C\x1C\x1CIII\x1C6920
+    Hill Forest Dr.\x1C\x1CDallas\x1CTX\x1C752302345\x1C\x1C20130316\x1C1000.00\x1CInfo
+    Requested\x1CInfo Requested\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00540914
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.4669
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Morris
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Thomas C
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: III
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 6920 Hill Forest Dr.
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Dallas
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '752302345'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130316'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Info Requested
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Info Requested
+
+'
+sourceurl: !!python/unicode 20130319
+type: chunk

@@ -1,0 +1,127 @@
+countrows: 2
+filename: 863877.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH6NE03115\x1CSmith\x1CAdrian\x1C\x1C\x1C\x1C\x1C3321 Avenue I\x1C\x1CScottsbluff\x1CNE\x1C693614586\x1CREP\x1CH\x1CNE\x1C03\x1C2014\x1CC00412890\x1CAdrian
+    Smith for Congress\x1C3321 Avenue I\x1CSuite 6\x1CScottsbluff\x1CNE\x1C693614587\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CSmith\x1CAdrian\x1C\x1C\x1C\x1C20130403\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6NE03115
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Smith
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Adrian
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 3321 Avenue I
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Scottsbluff
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NE
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '693614586'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NE
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '03'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00412890
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Adrian Smith for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: 3321 Avenue I
+  - name: PCC STREET 2
+    number: '22'
+    value: Suite 6
+  - name: PCC CITY
+    number: '23'
+    value: Scottsbluff
+  - name: PCC STATE
+    number: '24'
+    value: NE
+  - name: PCC ZIP
+    number: '25'
+    value: '693614587'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Smith
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Adrian
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130403
+
+'
+sourceurl: !!python/unicode 20130403
+type: chunk

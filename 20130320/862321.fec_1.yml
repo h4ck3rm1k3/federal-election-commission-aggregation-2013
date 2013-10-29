@@ -1,0 +1,162 @@
+countrows: 3
+filename: 862321.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH6OR02116\x1CWalden\x1CGregory\x1CP\x1CMr.\x1C\x1C\x1C1504 Sherman
+    Avenue\x1C\x1CHood River\x1COR\x1C970311456\x1CREP\x1CH\x1COR\x1C02\x1C2014\x1CC00333427\x1CWalden
+    for Congress\x1CPO Box 1091\x1C\x1CHood River\x1COR\x1C970310037\x1CC00527549\x1CWire
+    To Wire Committee\x1C320 1st Street SE\x1C\x1CWashington\x1CDC\x1C200031838\x1CWalden\x1CGregory\x1CP\x1CMr.\x1C\x1C20130320\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6OR02116
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Walden
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Gregory
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: P
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Mr.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 1504 Sherman Avenue
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Hood River
+  - name: CANDIDATE STATE
+    number: '12'
+    value: OR
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '970311456'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: OR
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '02'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00333427
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Walden for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 1091
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Hood River
+  - name: PCC STATE
+    number: '24'
+    value: OR
+  - name: PCC ZIP
+    number: '25'
+    value: '970310037'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00527549
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Wire To Wire Committee
+  - name: AUTH STREET 1
+    number: '28'
+    value: 320 1st Street SE
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Washington
+  - name: AUTH STATE
+    number: '31'
+    value: DC
+  - name: AUTH ZIP
+    number: '32'
+    value: '200031838'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Walden
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Gregory
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: P
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: Mr.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130320
+
+'
+- input: "F2S\x1CH6OR02116\x1CC00542787\x1CWalden Victory Fund\x1C228 S Washington
+    Street\x1CSuite 115\x1CAlexandria\x1CVA\x1C223145404\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6OR02116
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00542787
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Walden Victory Fund
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S Washington Street
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '223145404
+
+'
+sourceurl: !!python/unicode 20130320
+type: chunk

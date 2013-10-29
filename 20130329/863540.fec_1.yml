@@ -1,0 +1,365 @@
+countrows: 6
+filename: 863540.fec
+header: {}
+rows:
+- 2
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F9A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C30002042
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: SPECIAL OPERATIONS OPSEC EDUCATION FUND INC
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: ''
+  - name: STREET 1
+    number: '11'
+    value: 901 KING STREET
+  - name: STREET 2
+    number: '12'
+    value: SUITE 400
+  - name: CITY
+    number: '13'
+    value: ALEXANDRIA
+  - name: STATE
+    number: '14'
+    value: VA
+  - name: ZIP
+    number: '15'
+    value: '22314'
+  - name: INDIVIDUAL EMPLOYER
+    number: '16'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '17'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '18'
+    value: '20121023'
+  - name: COVERAGE THROUGH DATE
+    number: '19'
+    value: '20121024'
+  - name: DATE OF PUBLIC DISTRIBUTION
+    number: '20'
+    value: '20121024'
+  - name: COMMUNICATION TITLE
+    number: '21'
+    value: Bump in the Road - OH
+  - name: FILER CODE
+    number: '22'
+    value: OTH
+  - name: FILER CODE DESCRIPTION
+    number: '23'
+    value: ''
+  - name: SEGREGATED BANK ACCOUNT
+    number: '24'
+    value: N
+  - name: CUSTODIAN LAST NAME
+    number: '25'
+    value: Marston
+  - name: CUSTODIAN FIRST NAME
+    number: '26'
+    value: Chris
+  - name: CUSTODIAN MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: CUSTODIAN PREFIX
+    number: '28'
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: '29'
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: '30'
+    value: PO Box 26141
+  - name: CUSTODIAN STREET 2
+    number: '31'
+    value: ''
+  - name: CUSTODIAN CITY
+    number: '32'
+    value: Alexandria
+  - name: CUSTODIAN STATE
+    number: '33'
+    value: VA
+  - name: CUSTODIAN ZIP
+    number: '34'
+    value: '22313'
+  - name: CUSTODIAN EMPLOYER
+    number: '35'
+    value: ''
+  - name: CUSTODIAN OCCUPATION
+    number: '36'
+    value: ''
+  - name: TOTAL DONATIONS THIS STATEMENT
+    number: 37-9.
+    value: '0.00'
+  - name: TOTAL DISB./OBLIG. THIS STATEMENT
+    number: 38-10.
+    value: '110000.00'
+  - name: PERSON COMPLETING LAST NAME
+    number: '39'
+    value: Marston
+  - name: PERSON COMPLETING FIRST NAME
+    number: '40'
+    value: Chris
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '41'
+    value: ''
+  - name: PERSON COMPLETING PREFIX
+    number: '42'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '43'
+    value: ''
+  - name: DATE SIGNED
+    number: '44'
+    value: '20130329'
+  - value: '
+
+'
+  expected_count: 44
+  input: "F9A\x1CC30002042\x1CORG\x1CSPECIAL OPERATIONS OPSEC EDUCATION FUND INC\x1C\x1C\x1C\x1C\x1C\x1C\x1C901
+    KING STREET\x1CSUITE 400\x1CALEXANDRIA\x1CVA\x1C22314\x1C\x1C\x1C20121023\x1C20121024\x1C20121024\x1CBump
+    in the Road - OH\x1COTH\x1C\x1CN\x1CMarston\x1CChris\x1C\x1C\x1C\x1CPO Box 26141\x1C\x1CAlexandria\x1CVA\x1C22313\x1C\x1C\x1C0.00\x1C110000.00\x1CMarston\x1CChris\x1C\x1C\x1C\x1C20130329\x1C\n"
+  input_count: 45
+  record: fec.version.v8_0.F9
+  result: []
+- input: "TEXT\x1CC30002042\x1C.TEXT\x1C\x1CF9A\x1CThis amendment responds to an RFAI
+    dated 3/20/2013. The RFAI raised one issue. The Committee has amended the report
+    to include the appropriate information on Line 11. The Committee has also checked
+    box (e) on line 6. It is a non-profit corporation.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C30002042
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: .TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F9A
+  - name: TEXT4000
+    number: '6'
+    value: 'This amendment responds to an RFAI dated 3/20/2013. The RFAI raised one
+      issue. The Committee has amended the report to include the appropriate information
+      on Line 11. The Committee has also checked box (e) on line 6. It is a non-profit
+      corporation.
+
+'
+- input: "F91\x1CC30002042\x1CF91.4098\x1CTaylor\x1CScott\x1C\x1C\x1C\x1C1206 Laskin
+    Rd\x1CSte 201\x1CVirginia Beach\x1CVA\x1C23451\x1CAssurance International\x1CConsulting\n"
+  record: fec.version.v8_0.F91
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F91
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C30002042
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F91.4098
+  - name: CONTROLLER LAST NAME (Share/Exer Control)
+    number: '4'
+    value: Taylor
+  - name: CONTROLLER FIRST NAME
+    number: '5'
+    value: Scott
+  - name: CONTROLLER MIDDLE NAME
+    number: '6'
+    value: ''
+  - name: CONTROLLER PREFIX
+    number: '7'
+    value: ''
+  - name: CONTROLLER SUFFIX
+    number: '8'
+    value: ''
+  - name: CONTROLLER STREET 1
+    number: '9'
+    value: 1206 Laskin Rd
+  - name: CONTROLLER STREET 2
+    number: '10'
+    value: Ste 201
+  - name: CONTROLLER CITY
+    number: '11'
+    value: Virginia Beach
+  - name: CONTROLLER STATE
+    number: '12'
+    value: VA
+  - name: CONTROLLER ZIP
+    number: '13'
+    value: '23451'
+  - name: CONTROLLER EMPLOYER
+    number: '14'
+    value: Assurance International
+  - name: CONTROLLER OCCUPATION
+    number: '15'
+    value: 'Consulting
+
+'
+- input: "F93\x1CC30002042\x1CF93.4108\x1C\x1C\x1CORG\x1CGreener and Hook\x1C\x1C\x1C\x1C\x1C\x1C2101
+    Wilson Blvd\x1CSte 402\x1CArlington\x1CVA\x1C22201\x1CG2012\x1C\x1C20121023\x1C110000.00\x1CBump
+    in the Road - OH media buy\x1C\x1C\x1C20121024\n"
+  record: fec.version.v8_0.F93
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F93
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C30002042
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F93.4108
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Greener and Hook
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2101 Wilson Blvd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Ste 402
+  - name: PAYEE CITY
+    number: '15'
+    value: Arlington
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22201'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121023'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '110000.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '22'
+    value: Bump in the Road - OH media buy
+  - name: PAYEE EMPLOYER
+    number: '23'
+    value: ''
+  - name: PAYEE OCCUPATION
+    number: '24'
+    value: ''
+  - name: COMMUNICATION DATE
+    number: '25'
+    value: '20121024
+
+'
+- input: "F94\x1CC30002042\x1CF94.4099F93.4108\x1CF93.4108\x1CF93\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C00\x1CG2012\x1C\n"
+  record: fec.version.v8_0.F94
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F94
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C30002042
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F94.4099F93.4108
+  - name: BACK REFERENCE TRAN ID
+    number: '4'
+    value: F93.4108
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: F93
+  - name: CANDIDATE ID NUMBER
+    number: '6'
+    value: P80003338
+  - name: CANDIDATE LAST NAME
+    number: '7'
+    value: OBAMA
+  - name: CANDIDATE FIRST NAME
+    number: '8'
+    value: BARACK
+  - name: CANDIDATE MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '10'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '11'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '12'
+    value: P
+  - name: CANDIDATE STATE
+    number: '13'
+    value: ''
+  - name: CANDIDATE DIST
+    number: '14'
+    value: '00'
+  - name: ELECTION CODE
+    number: '15'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '16'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130329
+type: chunk

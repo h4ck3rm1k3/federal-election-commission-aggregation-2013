@@ -1,0 +1,6170 @@
+countrows: 88
+filename: 863459.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DFC2998A4374B4E86BCA
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: The Printer Works
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 3481 Arden Rd
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Hayward
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '945453905'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Printer
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '819.44'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '819.44'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDFC2998A4374B4E86BCA\x1CORG\x1CThe Printer Works\x1C\x1C\x1C\x1C\x1C\x1C3481
+    Arden Rd\x1C\x1CHayward\x1CCA\x1C945453905\x1CPrinter\x1C819.44\x1C0.00\x1C0.00\x1C819.44\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DE674F26EC06645DDB95
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Hinckley Springs
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 660579
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Dallas
+  - name: CREDITOR STATE
+    number: '14'
+    value: TX
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '752660579'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Water Cooler Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '306.68'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '306.68'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDE674F26EC06645DDB95\x1CORG\x1CHinckley Springs\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 660579\x1C\x1CDallas\x1CTX\x1C752660579\x1CWater Cooler Services\x1C306.68\x1C0.00\x1C0.00\x1C306.68\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DF8A44964B3424CC3B77
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Deaf Services Unlimited
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: Suite 170 50309
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Des Moines
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '503090000'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Interpreting Service
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '130.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '130.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDF8A44964B3424CC3B77\x1CORG\x1CDeaf Services Unlimited\x1C\x1C\x1C\x1C\x1C\x1CSuite
+    170 50309\x1C\x1CDes Moines\x1CIA\x1C503090000\x1CInterpreting Service\x1C130.00\x1C0.00\x1C0.00\x1C130.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D7952AAF64B9C4F0997B
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Des Moines Theatrical Shop
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 145 5th St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: West Des Moines
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '502654717'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Costume Rental
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '106.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '106.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD7952AAF64B9C4F0997B\x1CORG\x1CDes Moines Theatrical
+    Shop\x1C\x1C\x1C\x1C\x1C\x1C145 5th St\x1C\x1CWest Des Moines\x1CIA\x1C502654717\x1CCostume
+    Rental\x1C106.00\x1C0.00\x1C0.00\x1C106.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D46BD2137637F4679A43
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: UPS
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 7247
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Philadelphia
+  - name: CREDITOR STATE
+    number: '14'
+    value: PA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '191700001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Shippng
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '126.91'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '126.91'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD46BD2137637F4679A43\x1CORG\x1CUPS\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 7247\x1C\x1CPhiladelphia\x1CPA\x1C191700001\x1CShippng\x1C126.91\x1C0.00\x1C0.00\x1C126.91\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DAEB900B19D5343069F1
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Simard Printing
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 300 Salem St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Woburn
+  - name: CREDITOR STATE
+    number: '14'
+    value: MA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: 018012071
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Printing Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '433.13'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '433.13'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDAEB900B19D5343069F1\x1CORG\x1CSimard Printing\x1C\x1C\x1C\x1C\x1C\x1C300
+    Salem St\x1C\x1CWoburn\x1CMA\x1C018012071\x1CPrinting Services\x1C433.13\x1C0.00\x1C0.00\x1C433.13\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DEAECB41D358C496EAEB
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Cox Communications
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 6059
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Cypress
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '906300059'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Internet Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '138.02'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '138.02'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDEAECB41D358C496EAEB\x1CORG\x1CCox Communications\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 6059\x1C\x1CCypress\x1CCA\x1C906300059\x1CInternet Services\x1C138.02\x1C0.00\x1C0.00\x1C138.02\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D91E4CB1724CB455C94A
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: MidAmerican Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 8020
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Davenport
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '528088020'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '416.01'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '416.01'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD91E4CB1724CB455C94A\x1CORG\x1CMidAmerican Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8020\x1C\x1CDavenport\x1CIA\x1C528088020\x1CUtilities\x1C416.01\x1C0.00\x1C0.00\x1C416.01\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DEC21CC9229D5404F97B
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: MidAmerican Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 8020
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Davenport
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '528088020'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '1115.75'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1115.75'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDEC21CC9229D5404F97B\x1CORG\x1CMidAmerican Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8020\x1C\x1CDavenport\x1CIA\x1C528088020\x1CUtilities\x1C1115.75\x1C0.00\x1C0.00\x1C1115.75\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DFC448EB6B1054323A65
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: MidAmerican Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 8020
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Davenport
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '528088020'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '659.58'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '659.58'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDFC448EB6B1054323A65\x1CORG\x1CMidAmerican Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8020\x1C\x1CDavenport\x1CIA\x1C528088020\x1CUtilities\x1C659.58\x1C0.00\x1C0.00\x1C659.58\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D275E706E6F7F4C6C938
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: MidAmerican Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 8020
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Davenport
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '528088020'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '72.04'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '72.04'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD275E706E6F7F4C6C938\x1CORG\x1CMidAmerican Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8020\x1C\x1CDavenport\x1CIA\x1C528088020\x1CUtilities\x1C72.04\x1C0.00\x1C0.00\x1C72.04\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DF30D747F375F47E5882
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: MidAmerican Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 8020
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Davenport
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '528088020'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '123.36'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '123.36'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDF30D747F375F47E5882\x1CORG\x1CMidAmerican Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8020\x1C\x1CDavenport\x1CIA\x1C528088020\x1CUtilities\x1C123.36\x1C0.00\x1C0.00\x1C123.36\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DAB442CA849544E83A13
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: MidAmerican Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 8020
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Davenport
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '528088020'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '196.90'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '196.90'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDAB442CA849544E83A13\x1CORG\x1CMidAmerican Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8020\x1C\x1CDavenport\x1CIA\x1C528088020\x1CUtilities\x1C196.90\x1C0.00\x1C0.00\x1C196.90\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DB92957A464EF4AC685D
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: MidAmerican Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 8020
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Davenport
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '528088020'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '1406.57'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1406.57'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDB92957A464EF4AC685D\x1CORG\x1CMidAmerican Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8020\x1C\x1CDavenport\x1CIA\x1C528088020\x1CUtilities\x1C1406.57\x1C0.00\x1C0.00\x1C1406.57\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D7B3E6DAFE5CE4AFB9B8
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: MidAmerican Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 8020
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Davenport
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '528088020'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '65.24'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '65.24'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD7B3E6DAFE5CE4AFB9B8\x1CORG\x1CMidAmerican Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8020\x1C\x1CDavenport\x1CIA\x1C528088020\x1CUtilities\x1C65.24\x1C0.00\x1C0.00\x1C65.24\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DE2E3D979014F4B2194A
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Verham News
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 706
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: White Riv Jct
+  - name: CREDITOR STATE
+    number: '14'
+    value: VT
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '050010706'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Rent
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '910.28'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '910.28'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDE2E3D979014F4B2194A\x1CORG\x1CVerham News\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 706\x1C\x1CWhite Riv Jct\x1CVT\x1C050010706\x1CRent\x1C910.28\x1C0.00\x1C0.00\x1C910.28\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D163D453900874450889
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Bi-State Cartridge Service, Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1325 15th St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moline
+  - name: CREDITOR STATE
+    number: '14'
+    value: IL
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '612654059'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Office Supplies
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '130.54'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '130.54'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD163D453900874450889\x1CORG\x1CBi-State Cartridge Service,
+    Inc.\x1C\x1C\x1C\x1C\x1C\x1C1325 15th St\x1C\x1CMoline\x1CIL\x1C612654059\x1COffice
+    Supplies\x1C130.54\x1C0.00\x1C0.00\x1C130.54\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D80871DA60A7642ADAA1
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: U.S. Express Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 3240 Hubbard Rd
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Landover
+  - name: CREDITOR STATE
+    number: '14'
+    value: MD
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '207852005'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Courier Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '160.24'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '160.24'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD80871DA60A7642ADAA1\x1CORG\x1CU.S. Express Inc.\x1C\x1C\x1C\x1C\x1C\x1C3240
+    Hubbard Rd\x1C\x1CLandover\x1CMD\x1C207852005\x1CCourier Services\x1C160.24\x1C0.00\x1C0.00\x1C160.24\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D8B59DA12044449C0AE9
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Old Town Family Restaurant
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2107 Camanche Ave
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Clinton
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '527326036'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Food & Beverage
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '130.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '130.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD8B59DA12044449C0AE9\x1CORG\x1COld Town Family Restaurant\x1C\x1C\x1C\x1C\x1C\x1C2107
+    Camanche Ave\x1C\x1CClinton\x1CIA\x1C527326036\x1CFood & Beverage\x1C130.00\x1C0.00\x1C0.00\x1C130.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D9F4487EF4F6F4DB6923
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: VFW Post 775
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 702 W Main St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Ottumwa
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '525012226'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Space Rental
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '150.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '150.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD9F4487EF4F6F4DB6923\x1CORG\x1CVFW Post 775\x1C\x1C\x1C\x1C\x1C\x1C702
+    W Main St\x1C\x1COttumwa\x1CIA\x1C525012226\x1CSpace Rental\x1C150.00\x1C0.00\x1C0.00\x1C150.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DD45DB76A7149485EADE
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: AT&T
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 8110
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Aurora
+  - name: CREDITOR STATE
+    number: '14'
+    value: IL
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '605078110'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Telephone
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '304.30'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '304.30'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDD45DB76A7149485EADE\x1CORG\x1CAT&T\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8110\x1C\x1CAurora\x1CIL\x1C605078110\x1CTelephone\x1C304.30\x1C0.00\x1C0.00\x1C304.30\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DFE38B3A3574543178FC
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: AT&T
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 8110
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Aurora
+  - name: CREDITOR STATE
+    number: '14'
+    value: IL
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '605078110'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Telephone
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '1861.62'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1861.62'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDFE38B3A3574543178FC\x1CORG\x1CAT&T\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8110\x1C\x1CAurora\x1CIL\x1C605078110\x1CTelephone\x1C1861.62\x1C0.00\x1C0.00\x1C1861.62\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D5E78BD6138D849C8A7B
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: COVAD
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 39000
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Dept
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '941390001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Internet Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '1535.76'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1535.76'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD5E78BD6138D849C8A7B\x1CORG\x1CCOVAD\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 39000\x1CDept\x1CSan Francisco\x1CCA\x1C941390001\x1CInternet Services\x1C1535.76\x1C0.00\x1C0.00\x1C1535.76\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D7FB209F7C488450BA73
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: COVAD
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 39000
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Dept
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '941390001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Internet Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '1056.76'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1056.76'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD7FB209F7C488450BA73\x1CORG\x1CCOVAD\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 39000\x1CDept\x1CSan Francisco\x1CCA\x1C941390001\x1CInternet Services\x1C1056.76\x1C0.00\x1C0.00\x1C1056.76\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D9C275736AC4E46B69DC
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Home Front Communications
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1121 14th St NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '200055641'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Video
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '6000.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '6000.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD9C275736AC4E46B69DC\x1CORG\x1CHome Front Communications\x1C\x1C\x1C\x1C\x1C\x1C1121
+    14th St NW\x1C\x1CWashington\x1CDC\x1C200055641\x1CVideo\x1C6000.00\x1C0.00\x1C0.00\x1C6000.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D0781506CE4AC48A0805
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Jocelyn Augustino Photogrpaher
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 3416 Gunston Rd
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Alexandria
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '223022134'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Photographer
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '69.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '69.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD0781506CE4AC48A0805\x1CORG\x1CJocelyn Augustino Photogrpaher\x1C\x1C\x1C\x1C\x1C\x1C3416
+    Gunston Rd\x1C\x1CAlexandria\x1CVA\x1C223022134\x1CPhotographer\x1C69.00\x1C0.00\x1C0.00\x1C69.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1475748209CF4A0092F
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Des Moines Water Works
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2201 George Flagg Pkwy
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Des Moines
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '503211174'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '117.91'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '117.91'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD1475748209CF4A0092F\x1CORG\x1CDes Moines Water Works\x1C\x1C\x1C\x1C\x1C\x1C2201
+    George Flagg Pkwy\x1C\x1CDes Moines\x1CIA\x1C503211174\x1CUtilities\x1C117.91\x1C0.00\x1C0.00\x1C117.91\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DECE5259C4BB240ADBB7
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: VanDusseldorp
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: Jim
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2406 15th Ave N
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Clear Lake
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '504282037'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Bus Servicing
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '92.50'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '92.50'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDECE5259C4BB240ADBB7\x1CIND\x1C\x1CVanDusseldorp\x1CJim\x1C\x1C\x1C\x1C2406
+    15th Ave N\x1C\x1CClear Lake\x1CIA\x1C504282037\x1CBus Servicing\x1C92.50\x1C0.00\x1C0.00\x1C92.50\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DE9F171102B294984BCD
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Kilkenney's
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 300 W 3rd St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Davenport
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '528011208'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Food & Beverage
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '220.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '220.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDE9F171102B294984BCD\x1CORG\x1CKilkenney's\x1C\x1C\x1C\x1C\x1C\x1C300
+    W 3rd St\x1C\x1CDavenport\x1CIA\x1C528011208\x1CFood & Beverage\x1C220.00\x1C0.00\x1C0.00\x1C220.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DFAE4308D10124EEDAE3
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Koch Brothers
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 1755
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Des Moines
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '503061755'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Copier
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '126.82'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '126.82'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDFAE4308D10124EEDAE3\x1CORG\x1CKoch Brothers\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 1755\x1C\x1CDes Moines\x1CIA\x1C503061755\x1CCopier\x1C126.82\x1C0.00\x1C0.00\x1C126.82\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D3C51D93654FD40B59BB
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Koch Brothers
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 1755
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Des Moines
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '503061755'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Copier
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '211.99'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '211.99'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD3C51D93654FD40B59BB\x1CORG\x1CKoch Brothers\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 1755\x1C\x1CDes Moines\x1CIA\x1C503061755\x1CCopier\x1C211.99\x1C0.00\x1C0.00\x1C211.99\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D3A3A16E658A34B44B21
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Comcast
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 1577
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Newark
+  - name: CREDITOR STATE
+    number: '14'
+    value: NJ
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '071011577'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Cable & Internet
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '351.30'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '351.30'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD3A3A16E658A34B44B21\x1CORG\x1CComcast\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 1577\x1C\x1CNewark\x1CNJ\x1C071011577\x1CCable & Internet\x1C351.30\x1C0.00\x1C0.00\x1C351.30\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DD0258CA80C884AB6960
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Keyspan
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 52 2nd Ave
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Waltham
+  - name: CREDITOR STATE
+    number: '14'
+    value: MA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '024511127'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '239.04'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '239.04'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDD0258CA80C884AB6960\x1CORG\x1CKeyspan\x1C\x1C\x1C\x1C\x1C\x1C52
+    2nd Ave\x1C\x1CWaltham\x1CMA\x1C024511127\x1CUtilities\x1C239.04\x1C0.00\x1C0.00\x1C239.04\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DDFA00C779CF445C8AA6
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Keyspan
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 52 2nd Ave
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Waltham
+  - name: CREDITOR STATE
+    number: '14'
+    value: MA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '024511127'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '1481.16'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1481.16'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDDFA00C779CF445C8AA6\x1CORG\x1CKeyspan\x1C\x1C\x1C\x1C\x1C\x1C52
+    2nd Ave\x1C\x1CWaltham\x1CMA\x1C024511127\x1CUtilities\x1C1481.16\x1C0.00\x1C0.00\x1C1481.16\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D4310E2A2AC3D49AFB1C
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: MoreSound Company
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 102 North St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Jaffrey
+  - name: CREDITOR STATE
+    number: '14'
+    value: NH
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '034525301'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Sound Equipment
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '400.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '400.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD4310E2A2AC3D49AFB1C\x1CORG\x1CMoreSound Company\x1C\x1C\x1C\x1C\x1C\x1C102
+    North St\x1C\x1CJaffrey\x1CNH\x1C034525301\x1CSound Equipment\x1C400.00\x1C0.00\x1C0.00\x1C400.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1327435AF7974016BBD
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Comcast
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 3005
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Southeastern
+  - name: CREDITOR STATE
+    number: '14'
+    value: PA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '193983005'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Cable Service
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '197.56'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '197.56'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD1327435AF7974016BBD\x1CORG\x1CComcast\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 3005\x1C\x1CSoutheastern\x1CPA\x1C193983005\x1CCable Service\x1C197.56\x1C0.00\x1C0.00\x1C197.56\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D303F42DD72104352BB3
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ExxonMobil
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 688938
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Des Moines
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '503688938'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Gasoline
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '241.86'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '241.86'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD303F42DD72104352BB3\x1CORG\x1CExxonMobil\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 688938\x1C\x1CDes Moines\x1CIA\x1C503688938\x1CGasoline\x1C241.86\x1C0.00\x1C0.00\x1C241.86\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D2591D51138CC454BA3F
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ExxonMobil
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 688938
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Des Moines
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '503688938'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Gasoline
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '429.36'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '429.36'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD2591D51138CC454BA3F\x1CORG\x1CExxonMobil\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 688938\x1C\x1CDes Moines\x1CIA\x1C503688938\x1CGasoline\x1C429.36\x1C0.00\x1C0.00\x1C429.36\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D8E19BDBD0BE84CDFB6C
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Geoff Luxenberg
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 249 New State Rd
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Apt A
+  - name: CREDITOR CITY
+    number: '13'
+    value: Manchester
+  - name: CREDITOR STATE
+    number: '14'
+    value: CT
+  - name: CREDITOR ZIP
+    number: '15'
+    value: 060427959
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Reimbursement for gas & signatures
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '107.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '107.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD8E19BDBD0BE84CDFB6C\x1CORG\x1CGeoff Luxenberg\x1C\x1C\x1C\x1C\x1C\x1C249
+    New State Rd\x1CApt A\x1CManchester\x1CCT\x1C060427959\x1CReimbursement for gas
+    & signatures\x1C107.00\x1C0.00\x1C0.00\x1C107.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D2FBA9339003447ADB22
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: NexGen
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 10500 Hickman Rd
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Ste J
+  - name: CREDITOR CITY
+    number: '13'
+    value: Clive
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '503253706'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '224.86'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '224.86'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD2FBA9339003447ADB22\x1CORG\x1CNexGen\x1C\x1C\x1C\x1C\x1C\x1C10500
+    Hickman Rd\x1CSte J\x1CClive\x1CIA\x1C503253706\x1CUtilities\x1C224.86\x1C0.00\x1C0.00\x1C224.86\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D5CA66406DA5143F7848
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: WHO Newsradio 1040
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2141 Grand Ave
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Des Moines
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '503125303'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Recording Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '400.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '400.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD5CA66406DA5143F7848\x1CORG\x1CWHO Newsradio 1040\x1C\x1C\x1C\x1C\x1C\x1C2141
+    Grand Ave\x1C\x1CDes Moines\x1CIA\x1C503125303\x1CRecording Services\x1C400.00\x1C0.00\x1C0.00\x1C400.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D4DB84BA83BD34248B12
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Alliant Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 3066
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Cedar Rapids
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '524063066'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '540.80'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '540.80'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD4DB84BA83BD34248B12\x1CORG\x1CAlliant Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 3066\x1C\x1CCedar Rapids\x1CIA\x1C524063066\x1CUtilities\x1C540.80\x1C0.00\x1C0.00\x1C540.80\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D21C371285AF1401F9CB
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Alliant Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 3066
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Cedar Rapids
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '524063066'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '852.59'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '852.59'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD21C371285AF1401F9CB\x1CORG\x1CAlliant Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 3066\x1C\x1CCedar Rapids\x1CIA\x1C524063066\x1CUtilities\x1C852.59\x1C0.00\x1C0.00\x1C852.59\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D637921B16CAA45B19B6
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Alliant Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 3066
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Cedar Rapids
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '524063066'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '254.12'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '254.12'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD637921B16CAA45B19B6\x1CORG\x1CAlliant Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 3066\x1C\x1CCedar Rapids\x1CIA\x1C524063066\x1CUtilities\x1C254.12\x1C0.00\x1C0.00\x1C254.12\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DF36117C0589D4D9C911
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Alliant Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 3066
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Cedar Rapids
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '524063066'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '50.75'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '50.75'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDF36117C0589D4D9C911\x1CORG\x1CAlliant Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 3066\x1C\x1CCedar Rapids\x1CIA\x1C524063066\x1CUtilities\x1C50.75\x1C0.00\x1C0.00\x1C50.75\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D5B3618F71E3745EC9DD
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Alliant Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 3066
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Cedar Rapids
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '524063066'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '401.72'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '401.72'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD5B3618F71E3745EC9DD\x1CORG\x1CAlliant Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 3066\x1C\x1CCedar Rapids\x1CIA\x1C524063066\x1CUtilities\x1C401.72\x1C0.00\x1C0.00\x1C401.72\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DE6029EBE091B415FB6D
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Alliant Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 3066
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Cedar Rapids
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '524063066'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '239.60'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '239.60'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDE6029EBE091B415FB6D\x1CORG\x1CAlliant Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 3066\x1C\x1CCedar Rapids\x1CIA\x1C524063066\x1CUtilities\x1C239.60\x1C0.00\x1C0.00\x1C239.60\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DBA39930B48064589AB5
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Alliant Energy
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 3066
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Cedar Rapids
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '524063066'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '263.55'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '263.55'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDBA39930B48064589AB5\x1CORG\x1CAlliant Energy\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 3066\x1C\x1CCedar Rapids\x1CIA\x1C524063066\x1CUtilities\x1C263.55\x1C0.00\x1C0.00\x1C263.55\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DF03B1B1603F54C5183C
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Free Media, Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 777 W End Ave
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: '# 5C'
+  - name: CREDITOR CITY
+    number: '13'
+    value: New York
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '100255551'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Reimbursement for Travel Expenses
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '635.01'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '635.01'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDF03B1B1603F54C5183C\x1CORG\x1CFree Media, Inc.\x1C\x1C\x1C\x1C\x1C\x1C777
+    W End Ave\x1C# 5C\x1CNew York\x1CNY\x1C100255551\x1CReimbursement for Travel Expenses\x1C635.01\x1C0.00\x1C0.00\x1C635.01\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D142C4EE26CC3459DA22
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Free Media, Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 777 W End Ave
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: '# 5C'
+  - name: CREDITOR CITY
+    number: '13'
+    value: New York
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '100255551'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Reimbursement for Phone Expenses
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '150.09'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '150.09'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD142C4EE26CC3459DA22\x1CORG\x1CFree Media, Inc.\x1C\x1C\x1C\x1C\x1C\x1C777
+    W End Ave\x1C# 5C\x1CNew York\x1CNY\x1C100255551\x1CReimbursement for Phone Expenses\x1C150.09\x1C0.00\x1C0.00\x1C150.09\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1D76CBB4EBC7498F81D
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: The Telegraph
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 1008
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Nashua
+  - name: CREDITOR STATE
+    number: '14'
+    value: NH
+  - name: CREDITOR ZIP
+    number: '15'
+    value: 030611008
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Subscription
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '20.81'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '20.81'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD1D76CBB4EBC7498F81D\x1CORG\x1CThe Telegraph\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 1008\x1C\x1CNashua\x1CNH\x1C030611008\x1CSubscription\x1C20.81\x1C0.00\x1C0.00\x1C20.81\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DF8C3EA191F814F5C94C
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Interstate Power and Light Co.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 5007
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Dubuque
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '520045007'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '250.36'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '250.36'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDF8C3EA191F814F5C94C\x1CORG\x1CInterstate Power and
+    Light Co.\x1C\x1C\x1C\x1C\x1C\x1CPO Box 5007\x1C\x1CDubuque\x1CIA\x1C520045007\x1CUtilities\x1C250.36\x1C0.00\x1C0.00\x1C250.36\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D9457B91CEE0540E8A08
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Cedar Rapids Municipal Utilities
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 3255
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Cedar Rapids
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '524063255'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '165.81'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '165.81'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD9457B91CEE0540E8A08\x1CORG\x1CCedar Rapids Municipal
+    Utilities\x1C\x1C\x1C\x1C\x1C\x1CPO Box 3255\x1C\x1CCedar Rapids\x1CIA\x1C524063255\x1CUtilities\x1C165.81\x1C0.00\x1C0.00\x1C165.81\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D2FDEA7A6FB3F461FA7F
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Newman and Leventhal Caterers, Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 45 W 81st St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: New York
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '100246025'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Caterer
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '2136.07'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '2136.07'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD2FDEA7A6FB3F461FA7F\x1CORG\x1CNewman and Leventhal
+    Caterers, Inc.\x1C\x1C\x1C\x1C\x1C\x1C45 W 81st St\x1C\x1CNew York\x1CNY\x1C100246025\x1CCaterer\x1C2136.07\x1C0.00\x1C0.00\x1C2136.07\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DBF0B293CD60A40ED8E0
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Embarq
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 660068
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Dallas
+  - name: CREDITOR STATE
+    number: '14'
+    value: TX
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '752660068'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Telephone
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '1064.16'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1064.16'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDBF0B293CD60A40ED8E0\x1CORG\x1CEmbarq\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 660068\x1C\x1CDallas\x1CTX\x1C752660068\x1CTelephone\x1C1064.16\x1C0.00\x1C0.00\x1C1064.16\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DF4A4422265684FB29B9
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Embarq
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 660068
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Dallas
+  - name: CREDITOR STATE
+    number: '14'
+    value: TX
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '752660068'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Telephone
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '378.82'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '378.82'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDF4A4422265684FB29B9\x1CORG\x1CEmbarq\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 660068\x1C\x1CDallas\x1CTX\x1C752660068\x1CTelephone\x1C378.82\x1C0.00\x1C0.00\x1C378.82\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DE815690D20EF4A6EB02
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Washington Promotions & Printing
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 5125 MacArthur Blvd NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Ste 14
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '200163300'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Printing
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '5547.90'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '5547.90'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDE815690D20EF4A6EB02\x1CORG\x1CWashington Promotions
+    & Printing\x1C\x1C\x1C\x1C\x1C\x1C5125 MacArthur Blvd NW\x1CSte 14\x1CWashington\x1CDC\x1C200163300\x1CPrinting\x1C5547.90\x1C0.00\x1C0.00\x1C5547.90\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D9CE80039AE0F470B870
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Big Ten Rentals, Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1820 Boyrum St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Iowa City
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '522404555'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Bases
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '34.82'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '34.82'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD9CE80039AE0F470B870\x1CORG\x1CBig Ten Rentals, Inc.\x1C\x1C\x1C\x1C\x1C\x1C1820
+    Boyrum St\x1C\x1CIowa City\x1CIA\x1C522404555\x1CBases\x1C34.82\x1C0.00\x1C0.00\x1C34.82\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DF269F8B8076845BAB94
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Frontline Productions
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 125 Hemlock Dr
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Deep River
+  - name: CREDITOR STATE
+    number: '14'
+    value: CT
+  - name: CREDITOR ZIP
+    number: '15'
+    value: 064171648
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Lighting & Video
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '885.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '885.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDF269F8B8076845BAB94\x1CORG\x1CFrontline Productions\x1C\x1C\x1C\x1C\x1C\x1C125
+    Hemlock Dr\x1C\x1CDeep River\x1CCT\x1C064171648\x1CLighting & Video\x1C885.00\x1C0.00\x1C0.00\x1C885.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DDE7D15C566704EE4997
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Mason City Public Utilities
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 10 1st St NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Mason City
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '504013224'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '123.36'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '123.36'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDDE7D15C566704EE4997\x1CORG\x1CMason City Public Utilities\x1C\x1C\x1C\x1C\x1C\x1C10
+    1st St NW\x1C\x1CMason City\x1CIA\x1C504013224\x1CUtilities\x1C123.36\x1C0.00\x1C0.00\x1C123.36\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D13EE948ED74B4BE0B66
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Waste Management
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 756
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Des Moines
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '503030756'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '266.02'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '266.02'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD13EE948ED74B4BE0B66\x1CORG\x1CWaste Management\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 756\x1C\x1CDes Moines\x1CIA\x1C503030756\x1CUtilities\x1C266.02\x1C0.00\x1C0.00\x1C266.02\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DDB39DC1EDB03445B8B5
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Storefront Political Media
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 250 Sutter St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Ste 650
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '941084416'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Photographer
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '537.08'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '537.08'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDDB39DC1EDB03445B8B5\x1CORG\x1CStorefront Political
+    Media\x1C\x1C\x1C\x1C\x1C\x1C250 Sutter St\x1CSte 650\x1CSan Francisco\x1CCA\x1C941084416\x1CPhotographer\x1C537.08\x1C0.00\x1C0.00\x1C537.08\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DBAEE80A9C8F14CBF964
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Mediacom
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 5744
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Carol Stream
+  - name: CREDITOR STATE
+    number: '14'
+    value: IL
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '601975744'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Cable
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '19.14'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '19.14'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDBAEE80A9C8F14CBF964\x1CORG\x1CMediacom\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 5744\x1C\x1CCarol Stream\x1CIL\x1C601975744\x1CCable\x1C19.14\x1C0.00\x1C0.00\x1C19.14\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D34D4235A01F441BAA58
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Mediacom
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 5744
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Carol Stream
+  - name: CREDITOR STATE
+    number: '14'
+    value: IL
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '601975744'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Cable
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '92.37'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '92.37'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD34D4235A01F441BAA58\x1CORG\x1CMediacom\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 5744\x1C\x1CCarol Stream\x1CIL\x1C601975744\x1CCable\x1C92.37\x1C0.00\x1C0.00\x1C92.37\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D42D026888D4F47D198F
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Heartland Flagpoles and Flags
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 3719 SW 9th St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Des Moines
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '503153064'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Flags
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '436.60'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '436.60'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD42D026888D4F47D198F\x1CORG\x1CHeartland Flagpoles
+    and Flags\x1C\x1C\x1C\x1C\x1C\x1C3719 SW 9th St\x1C\x1CDes Moines\x1CIA\x1C503153064\x1CFlags\x1C436.60\x1C0.00\x1C0.00\x1C436.60\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D93A99FFBC04A4242996
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: UPS
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 7247
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Philadelphia
+  - name: CREDITOR STATE
+    number: '14'
+    value: PA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '191700001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Shipping
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '434.09'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '434.09'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD93A99FFBC04A4242996\x1CORG\x1CUPS\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 7247\x1C\x1CPhiladelphia\x1CPA\x1C191700001\x1CShipping\x1C434.09\x1C0.00\x1C0.00\x1C434.09\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D6EB2D896D8C64BA8AA9
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: UPS
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 7247
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Philadelphia
+  - name: CREDITOR STATE
+    number: '14'
+    value: PA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '191700001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Shipping
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '60.76'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '60.76'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD6EB2D896D8C64BA8AA9\x1CORG\x1CUPS\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 7247\x1C\x1CPhiladelphia\x1CPA\x1C191700001\x1CShipping\x1C60.76\x1C0.00\x1C0.00\x1C60.76\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DC7364FE5C9E54CCCA73
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: UPS
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 7247
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Philadelphia
+  - name: CREDITOR STATE
+    number: '14'
+    value: PA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '191700001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Shipping
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '427.18'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '427.18'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDC7364FE5C9E54CCCA73\x1CORG\x1CUPS\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 7247\x1C\x1CPhiladelphia\x1CPA\x1C191700001\x1CShipping\x1C427.18\x1C0.00\x1C0.00\x1C427.18\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D14B3EB6706674783815
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Unitil
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 2013
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Concord
+  - name: CREDITOR STATE
+    number: '14'
+    value: NH
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '033022013'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '115.06'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '115.06'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD14B3EB6706674783815\x1CORG\x1CUnitil\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 2013\x1C\x1CConcord\x1CNH\x1C033022013\x1CUtilities\x1C115.06\x1C0.00\x1C0.00\x1C115.06\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DF72BE3ADBBB14CB9BC7
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Northern Business Machines
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 24 Terry Ave
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Burlington
+  - name: CREDITOR STATE
+    number: '14'
+    value: MA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: 018032516
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Rental
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '698.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '698.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDF72BE3ADBBB14CB9BC7\x1CORG\x1CNorthern Business Machines\x1C\x1C\x1C\x1C\x1C\x1C24
+    Terry Ave\x1C\x1CBurlington\x1CMA\x1C018032516\x1CRental\x1C698.00\x1C0.00\x1C0.00\x1C698.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D232577C9B94046BB9A9
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Grand Colony
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2824 Grand Ave
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Apt 218
+  - name: CREDITOR CITY
+    number: '13'
+    value: Des Moines
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '503124269'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Lodging
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '153.50'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '153.50'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD232577C9B94046BB9A9\x1CORG\x1CGrand Colony\x1C\x1C\x1C\x1C\x1C\x1C2824
+    Grand Ave\x1CApt 218\x1CDes Moines\x1CIA\x1C503124269\x1CLodging\x1C153.50\x1C0.00\x1C0.00\x1C153.50\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D51DCEF2884624EE6A6A
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: AT&T
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 8110
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Aurora
+  - name: CREDITOR STATE
+    number: '14'
+    value: IL
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '605078110'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Telephone
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '111.80'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '111.80'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD51DCEF2884624EE6A6A\x1CORG\x1CAT&T\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8110\x1C\x1CAurora\x1CIL\x1C605078110\x1CTelephone\x1C111.80\x1C0.00\x1C0.00\x1C111.80\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D8747457AA9894F1CB0C
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: PMI
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1725 Desales St NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '200364422'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Parking
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '465.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '465.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD8747457AA9894F1CB0C\x1CORG\x1CPMI\x1C\x1C\x1C\x1C\x1C\x1C1725
+    Desales St NW\x1C\x1CWashington\x1CDC\x1C200364422\x1CParking\x1C465.00\x1C0.00\x1C0.00\x1C465.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DBA9563936FE04325AD0
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: UPS
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 7247
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Philadelphia
+  - name: CREDITOR STATE
+    number: '14'
+    value: PA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '191700001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Shipping
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '59.43'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '59.43'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDBA9563936FE04325AD0\x1CORG\x1CUPS\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 7247\x1C\x1CPhiladelphia\x1CPA\x1C191700001\x1CShipping\x1C59.43\x1C0.00\x1C0.00\x1C59.43\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D27B30042D3C24348857
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Northland Trumbull, LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: C/O Northland Investment Cor
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Box 845604
+  - name: CREDITOR CITY
+    number: '13'
+    value: Boston
+  - name: CREDITOR STATE
+    number: '14'
+    value: MA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: 022840000
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Rent
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '3850.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '3850.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD27B30042D3C24348857\x1CORG\x1CNorthland Trumbull,
+    LLC\x1C\x1C\x1C\x1C\x1C\x1CC/O Northland Investment Cor\x1CBox 845604\x1CBoston\x1CMA\x1C022840000\x1CRent\x1C3850.00\x1C0.00\x1C0.00\x1C3850.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DE8437A16695047AC84E
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: IAFF FIREPAC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: Attn David B Billy 1750 New  Ave
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: '20006'
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '200060000'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Rental & Bus Wrap
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '32233.24'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '32233.24'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDE8437A16695047AC84E\x1CORG\x1CIAFF FIREPAC\x1C\x1C\x1C\x1C\x1C\x1CAttn
+    David B Billy 1750 New  Ave\x1C20006\x1CWashington\x1CDC\x1C200060000\x1CRental
+    & Bus Wrap\x1C32233.24\x1C0.00\x1C0.00\x1C32233.24\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DF06ED48AFB25453C90A
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: The Kirkwood
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 400 Walnut St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Des Moines
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '503092217'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Rent
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '757.17'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '757.17'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDF06ED48AFB25453C90A\x1CORG\x1CThe Kirkwood\x1C\x1C\x1C\x1C\x1C\x1C400
+    Walnut St\x1C\x1CDes Moines\x1CIA\x1C503092217\x1CRent\x1C757.17\x1C0.00\x1C0.00\x1C757.17\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D42C8F3A7325E4A5A80E
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: UPS
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 7247
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Philadelphia
+  - name: CREDITOR STATE
+    number: '14'
+    value: PA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '191700001'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Courier Service
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '86.50'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '86.50'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD42C8F3A7325E4A5A80E\x1CORG\x1CUPS\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 7247\x1C\x1CPhiladelphia\x1CPA\x1C191700001\x1CCourier Service\x1C86.50\x1C0.00\x1C0.00\x1C86.50\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D0E366AACBEEB484CB02
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Cedar Rapids Municipal Utilities
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 3255
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Cedar Rapids
+  - name: CREDITOR STATE
+    number: '14'
+    value: IA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '524063255'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utilities
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '57.90'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '57.90'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD0E366AACBEEB484CB02\x1CORG\x1CCedar Rapids Municipal
+    Utilities\x1C\x1C\x1C\x1C\x1C\x1CPO Box 3255\x1C\x1CCedar Rapids\x1CIA\x1C524063255\x1CUtilities\x1C57.90\x1C0.00\x1C0.00\x1C57.90\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D76E8E67033CC4385B66
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Perkins Coie
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1201 3rd Ave
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Dept 40
+  - name: CREDITOR CITY
+    number: '13'
+    value: Seattle
+  - name: CREDITOR STATE
+    number: '14'
+    value: WA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '981013029'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Legal Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '10000.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '10000.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD76E8E67033CC4385B66\x1CORG\x1CPerkins Coie\x1C\x1C\x1C\x1C\x1C\x1C1201
+    3rd Ave\x1CDept 40\x1CSeattle\x1CWA\x1C981013029\x1CLegal Services\x1C10000.00\x1C0.00\x1C0.00\x1C10000.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D62DA2D977A734EC594A
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Northland Trumbull, LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: C/O Northland Investment Cor
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Box 845604
+  - name: CREDITOR CITY
+    number: '13'
+    value: Boston
+  - name: CREDITOR STATE
+    number: '14'
+    value: MA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: 022840000
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Rent
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '3850.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '3850.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD62DA2D977A734EC594A\x1CORG\x1CNorthland Trumbull,
+    LLC\x1C\x1C\x1C\x1C\x1C\x1CC/O Northland Investment Cor\x1CBox 845604\x1CBoston\x1CMA\x1C022840000\x1CRent\x1C3850.00\x1C0.00\x1C0.00\x1C3850.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DD365AF099EC8458EBE5
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: AT&T
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 8110
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Aurora
+  - name: CREDITOR STATE
+    number: '14'
+    value: IL
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '605078110'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Telephone
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '312.07'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '312.07'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDD365AF099EC8458EBE5\x1CORG\x1CAT&T\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 8110\x1C\x1CAurora\x1CIL\x1C605078110\x1CTelephone\x1C312.07\x1C0.00\x1C0.00\x1C312.07\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DA4696BC628A349F7971
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Northland Trumbull, LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: C/O Northland Investment Cor
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Box 845604
+  - name: CREDITOR CITY
+    number: '13'
+    value: Boston
+  - name: CREDITOR STATE
+    number: '14'
+    value: MA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: 022840000
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Rent
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '3850.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '3850.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDA4696BC628A349F7971\x1CORG\x1CNorthland Trumbull,
+    LLC\x1C\x1C\x1C\x1C\x1C\x1CC/O Northland Investment Cor\x1CBox 845604\x1CBoston\x1CMA\x1C022840000\x1CRent\x1C3850.00\x1C0.00\x1C0.00\x1C3850.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DC06AE5CA3EED49569AE
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Voxel.net inc
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 29 Broadway
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Fl 30
+  - name: CREDITOR CITY
+    number: '13'
+    value: New York
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '100063216'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Web Hosting
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '2459.50'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '2459.50'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDC06AE5CA3EED49569AE\x1CORG\x1CVoxel.net inc\x1C\x1C\x1C\x1C\x1C\x1C29
+    Broadway\x1CFl 30\x1CNew York\x1CNY\x1C100063216\x1CWeb Hosting\x1C2459.50\x1C0.00\x1C0.00\x1C2459.50\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DA09D2641F3154B62833
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Wired for Change, Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1700 Connecticut Ave NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Ste 403
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '200091169'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Internet Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '4000.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '4000.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDA09D2641F3154B62833\x1CORG\x1CWired for Change, Inc.\x1C\x1C\x1C\x1C\x1C\x1C1700
+    Connecticut Ave NW\x1CSte 403\x1CWashington\x1CDC\x1C200091169\x1CInternet Services\x1C4000.00\x1C0.00\x1C0.00\x1C4000.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: DF06FD864428E4C118ED
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Voxel.net inc
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 29 Broadway
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Fl 30
+  - name: CREDITOR CITY
+    number: '13'
+    value: New York
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '100063216'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Web Hosting
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '4919.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '4919.00'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CDF06FD864428E4C118ED\x1CORG\x1CVoxel.net inc\x1C\x1C\x1C\x1C\x1C\x1C29
+    Broadway\x1CFl 30\x1CNew York\x1CNY\x1C100063216\x1CWeb Hosting\x1C4919.00\x1C0.00\x1C0.00\x1C4919.00\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D1F57A4B00A37493E946
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: USRental.com
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 970 Summer St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Stamford
+  - name: CREDITOR STATE
+    number: '14'
+    value: CT
+  - name: CREDITOR ZIP
+    number: '15'
+    value: 069055542
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Payment for computers
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '4658.70'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '4658.70'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD1F57A4B00A37493E946\x1CORG\x1CUSRental.com\x1C\x1C\x1C\x1C\x1C\x1C970
+    Summer St\x1C\x1CStamford\x1CCT\x1C069055542\x1CPayment for computers\x1C4658.70\x1C0.00\x1C0.00\x1C4658.70\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SD12
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00431379
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D137E7211B1E44139A9C
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Perkins Coie
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1201 3rd Ave
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Dept 40
+  - name: CREDITOR CITY
+    number: '13'
+    value: Seattle
+  - name: CREDITOR STATE
+    number: '14'
+    value: WA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '981013029'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Legal Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '10017.02'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '10017.02'
+  - value: '
+
+'
+  expected_count: 20
+  input: "SD12\x1CC00431379\x1CD137E7211B1E44139A9C\x1CORG\x1CPerkins Coie\x1C\x1C\x1C\x1C\x1C\x1C1201
+    3rd Ave\x1CDept 40\x1CSeattle\x1CWA\x1C981013029\x1CLegal Services\x1C0.00\x1C10017.02\x1C0.00\x1C10017.02\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.SD
+  result: []
+sourceurl: !!python/unicode 20130328
+type: chunk

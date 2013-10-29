@@ -1,0 +1,161 @@
+countrows: 3
+filename: 864681.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH0ID01253\x1CLabrador\x1CRaul\x1C\x1C\x1C\x1C\x1C1846 W Rush Road\x1C\x1CEagle\x1CID\x1C836163636\x1CREP\x1CH\x1CID\x1C01\x1C2014\x1CC00470948\x1CRaul
+    Labrador for Idaho\x1CPO Box 1616\x1C\x1CBoise\x1CID\x1C837011616\x1CC00494252\x1CSimpson-Labrador
+    Victory Fund\x1CPO Box 1671\x1C\x1CBoise\x1CID\x1C837011671\x1CLabrador\x1CRaul\x1C\x1C\x1C\x1C20130410\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0ID01253
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Labrador
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Raul
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 1846 W Rush Road
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Eagle
+  - name: CANDIDATE STATE
+    number: '12'
+    value: ID
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '836163636'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: ID
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '01'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00470948
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Raul Labrador for Idaho
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 1616
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Boise
+  - name: PCC STATE
+    number: '24'
+    value: ID
+  - name: PCC ZIP
+    number: '25'
+    value: '837011616'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00494252
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Simpson-Labrador Victory Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO Box 1671
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Boise
+  - name: AUTH STATE
+    number: '31'
+    value: ID
+  - name: AUTH ZIP
+    number: '32'
+    value: '837011671'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Labrador
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Raul
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130410
+
+'
+- input: "F2S\x1CH0ID01253\x1CC00543348\x1CAmash-Labrador JFC\x1CPO Box 230197\x1C\x1CGrand
+    Rapids\x1CMI\x1C495230197\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0ID01253
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00543348
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Amash-Labrador JFC
+  - name: AUTH STREET 1
+    number: '5'
+    value: PO Box 230197
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Grand Rapids
+  - name: AUTH STATE
+    number: '8'
+    value: MI
+  - name: AUTH ZIP
+    number: '9'
+    value: '495230197
+
+'
+sourceurl: !!python/unicode 20130410
+type: chunk

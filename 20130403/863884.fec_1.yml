@@ -1,0 +1,3297 @@
+countrows: 31
+filename: 863884.fec
+header: {}
+rows:
+- 2
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F5A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: ENTITY TYPE
+    number: '3'
+    value: ''
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: PEOPLE FOR THE AMERICAN WAY
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: X
+  - name: STREET 1
+    number: '11'
+    value: 1101 15th Street, NW
+  - name: STREET 2
+    number: '12'
+    value: Suite 600
+  - name: CITY
+    number: '13'
+    value: WASHINGTON
+  - name: STATE
+    number: '14'
+    value: DC
+  - name: ZIP
+    number: '15'
+    value: '20005'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: N
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: ''
+  - name: REPORT CODE
+    number: '19'
+    value: ''
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: '24'
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: '20121031'
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: '20121031'
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '186981.25'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: Liu
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: Deborah
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: ''
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130403'
+  - value: '
+
+'
+  expected_count: 30
+  input: "F5A\x1CC90012071\x1C\x1CPEOPLE FOR THE AMERICAN WAY\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\"1101
+    15th Street, NW\"\x1CSuite 600\x1CWASHINGTON\x1CDC\x1C20005\x1CN\x1C\x1C\x1C\x1C24\x1C20121031\x1C20121031\x1C.00\x1C186981.25\x1CLiu\x1CDeborah\x1C\x1C\x1C\x1C20130403\x1C\n"
+  input_count: 31
+  record: fec.version.v8_0.F5
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000001
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Telemundo Washington/WZDC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 2775 S. Quincy Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Arlington
+  - name: PAYEE STATE
+    number: '14'
+    value: VA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '22206'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '10285.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1433859.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino television ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: DC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000001\x1CORG\x1CTelemundo Washington/WZDC\x1C\x1C\x1C\x1C\x1C\x1C2775
+    S. Quincy Street\x1C\x1CArlington\x1CVA\x1C22206\x1CG2012\x1C\x1C20121031\x1C10285.00\x1C1433859.84\x1CLatino
+    television ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CDC\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000002
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Entravision Communications/WMDO/WFDC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 2425 Olympic Blvd.,
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 6000w
+  - name: PAYEE CITY
+    number: '13'
+    value: Santa Monica
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '90404'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '43668.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1477528.59'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino television ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: DC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000002\x1CORG\x1CEntravision Communications/WMDO/WFDC\x1C\x1C\x1C\x1C\x1C\x1C\"2425
+    Olympic Blvd.,\"\x1CSuite 6000w\x1CSanta Monica\x1CCA\x1C90404\x1CG2012\x1C\x1C20121031\x1C43668.75\x1C1477528.59\x1CLatino
+    television ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CDC\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000003
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Univision Communications/WQHS/Univision
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: Glen Pointe Cntre
+  - name: PAYEE STREET 2
+    number: '12'
+    value: 500 Frank W. Burr Blvd., Suite 19
+  - name: PAYEE CITY
+    number: '13'
+    value: Teaneck
+  - name: PAYEE STATE
+    number: '14'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '15'
+    value: '07666'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '10450.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1487979.34'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino television ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '11'
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000003\x1CORG\x1CUnivision Communications/WQHS/Univision\x1C\x1C\x1C\x1C\x1C\x1CGlen
+    Pointe Cntre\x1C\"500 Frank W. Burr Blvd., Suite 19\"\x1CTeaneck\x1CNJ\x1C07666\x1CG2012\x1C\x1C20121031\x1C10450.75\x1C1487979.34\x1CLatino
+    television ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1COH\x1C11\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000004
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WYTU/Telemundo
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 806 S. 60th Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: ''
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '6974.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1494953.59'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino television ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: WI
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000004\x1CORG\x1CWYTU/Telemundo\x1C\x1C\x1C\x1C\x1C\x1C806
+    S. 60th Street\x1C\x1CMilwaukee\x1CWI\x1C\x1CG2012\x1C\x1C20121031\x1C6974.25\x1C1494953.59\x1CLatino
+    television ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CWI\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000005
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WZTD/Telemundo Richmond
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 23 Sesame Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Richmond
+  - name: PAYEE STATE
+    number: '14'
+    value: VA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '23235'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '4156.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1499110.09'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino television ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: ''
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000005\x1CORG\x1CWZTD/Telemundo Richmond\x1C\x1C\x1C\x1C\x1C\x1C23
+    Sesame Street\x1C\x1CRichmond\x1CVA\x1C23235\x1CG2012\x1C\x1C20121031\x1C4156.50\x1C1499110.09\x1CLatino
+    television ads\x1C004\x1C\x1C\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000006
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Telemundo Columbus/WDEM-TV
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: P.O. Box 1497
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Westerville
+  - name: PAYEE STATE
+    number: '14'
+    value: OH
+  - name: PAYEE ZIP
+    number: '15'
+    value: '43086'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '5112.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1504222.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino television ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000006\x1CORG\x1CTelemundo Columbus/WDEM-TV\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 1497\x1C\x1CWesterville\x1COH\x1C43086\x1CG2012\x1C\x1C20121031\x1C5112.75\x1C1504222.84\x1CLatino
+    television ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1COH\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000007
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: KBLR Telemundo
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 450 Fremont Street
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Sutie 310
+  - name: PAYEE CITY
+    number: '13'
+    value: Las Vegas
+  - name: PAYEE STATE
+    number: '14'
+    value: NV
+  - name: PAYEE ZIP
+    number: '15'
+    value: '89101'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '4250.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1508472.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino television ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NV
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000007\x1CORG\x1CKBLR Telemundo\x1C\x1C\x1C\x1C\x1C\x1C450
+    Fremont Street\x1CSutie 310\x1CLas Vegas\x1CNV\x1C89101\x1CG2012\x1C\x1C20121031\x1C4250.00\x1C1508472.84\x1CLatino
+    television ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CNV\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000008
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Entravision Communications/KINC/Univision
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 2425 Olympic Blvd.
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 6000w
+  - name: PAYEE CITY
+    number: '13'
+    value: Santa Monica
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '90404'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '23409.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1531881.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino television ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NV
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000008\x1CORG\x1CEntravision Communications/KINC/Univision\x1C\x1C\x1C\x1C\x1C\x1C2425
+    Olympic Blvd.\x1CSuite 6000w\x1CSanta Monica\x1CCA\x1C90404\x1CG2012\x1C\x1C20121031\x1C23409.00\x1C1531881.84\x1CLatino
+    television ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CNV\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000009
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: KRRN/Entravision
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 2425 Olympic Blvd.
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 6000w
+  - name: PAYEE CITY
+    number: '13'
+    value: Santa Monica
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '90404'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '697.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1532578.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NV
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000009\x1CORG\x1CKRRN/Entravision\x1C\x1C\x1C\x1C\x1C\x1C2425
+    Olympic Blvd.\x1CSuite 6000w\x1CSanta Monica\x1CCA\x1C90404\x1CG2012\x1C\x1C20121031\x1C697.00\x1C1532578.84\x1CLatino
+    radio ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CNV\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000010
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: KQRT/Entravision
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 2425 Olympic Blvd.
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 6000w
+  - name: PAYEE CITY
+    number: '13'
+    value: Santa Monica
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '90404'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '867.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1533445.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NV
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000010\x1CORG\x1CKQRT/Entravision\x1C\x1C\x1C\x1C\x1C\x1C2425
+    Olympic Blvd.\x1CSuite 6000w\x1CSanta Monica\x1CCA\x1C90404\x1CG2012\x1C\x1C20121031\x1C867.00\x1C1533445.84\x1CLatino
+    radio ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CNV\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000011
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: KISF/Univision Radio
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 6767 W. Tropicana Ave.
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 102
+  - name: PAYEE CITY
+    number: '13'
+    value: Las Vegas
+  - name: PAYEE STATE
+    number: '14'
+    value: NV
+  - name: PAYEE ZIP
+    number: '15'
+    value: '89103'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1504.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1534950.34'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ad
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NV
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000011\x1CORG\x1CKISF/Univision Radio\x1C\x1C\x1C\x1C\x1C\x1C6767
+    W. Tropicana Ave.\x1CSuite 102\x1CLas Vegas\x1CNV\x1C89103\x1CG2012\x1C\x1C20121031\x1C1504.50\x1C1534950.34\x1CLatino
+    radio ad\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CNV\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000012
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: KRGT/Univision Radio
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 6767 Tropicana Ave.
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 102
+  - name: PAYEE CITY
+    number: '13'
+    value: Las Vegas
+  - name: PAYEE STATE
+    number: '14'
+    value: NV
+  - name: PAYEE ZIP
+    number: '15'
+    value: '89103'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '765.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1535715.34'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NV
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000012\x1CORG\x1CKRGT/Univision Radio\x1C\x1C\x1C\x1C\x1C\x1C6767
+    Tropicana Ave.\x1CSuite 102\x1CLas Vegas\x1CNV\x1C89103\x1CG2012\x1C\x1C20121031\x1C765.00\x1C1535715.34\x1CLatino
+    radio ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CNV\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000013
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: KWID/Lotus Communications
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 3301 Barham Blvd.
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Los Angeles
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '90068'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '4335.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1540050.34'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ad
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NV
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000013\x1CORG\x1CKWID/Lotus Communications\x1C\x1C\x1C\x1C\x1C\x1C3301
+    Barham Blvd.\x1C\x1CLos Angeles\x1CCA\x1C90068\x1CG2012\x1C\x1C20121031\x1C4335.00\x1C1540050.34\x1CLatino
+    radio ad\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CNV\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000014
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WJTI-AM
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 611 West National
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 201
+  - name: PAYEE CITY
+    number: '13'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '14'
+    value: WI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '53204'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '544.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1540594.34'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: latino radio ad
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: WI
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000014\x1CORG\x1CWJTI-AM\x1C\x1C\x1C\x1C\x1C\x1C611
+    West National\x1CSuite 201\x1CMilwaukee\x1CWI\x1C53204\x1CG2012\x1C\x1C20121031\x1C544.00\x1C1540594.34\x1Clatino
+    radio ad\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CWI\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000015
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WDDW-FM Milwaukee/Adelante Media Group
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 500 Media Place
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Sacramento
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: ''
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '10174.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1550678.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ad
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: WI
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000015\x1CORG\x1CWDDW-FM Milwaukee/Adelante Media
+    Group\x1C\x1C\x1C\x1C\x1C\x1C500 Media Place\x1C\x1CSacramento\x1CCA\x1C\x1CG2012\x1C\x1C20121031\x1C10174.50\x1C1550678.84\x1CLatino
+    radio ad\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CWI\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000016
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WBTK/Mount Richmond
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 2809 Emerywood Palce
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 540
+  - name: PAYEE CITY
+    number: '13'
+    value: Henrico
+  - name: PAYEE STATE
+    number: '14'
+    value: VA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '23294'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1530.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1552298.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000016\x1CORG\x1CWBTK/Mount Richmond\x1C\x1C\x1C\x1C\x1C\x1C2809
+    Emerywood Palce\x1CSuite 540\x1CHenrico\x1CVA\x1C23294\x1CG2012\x1C\x1C20121031\x1C1530.00\x1C1552298.84\x1CLatino
+    radio ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CVA\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000017
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WVNA/Davidson Media Group
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: P.O. Box 2368
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Davidson
+  - name: PAYEE STATE
+    number: '14'
+    value: NC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '28036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1530.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1553828.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ad
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: ''
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000017\x1CORG\x1CWVNA/Davidson Media Group\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 2368\x1C\x1CDavidson\x1CNC\x1C28036\x1CG2012\x1C\x1C20121031\x1C1530.00\x1C1553828.84\x1CLatino
+    radio ad\x1C004\x1C\x1C\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CVA\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000018
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WDLR-AM/ICS Holdings
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 5031 Latrobe Dr.
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Windemere
+  - name: PAYEE STATE
+    number: '14'
+    value: FL
+  - name: PAYEE ZIP
+    number: '15'
+    value: ''
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1530.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1555358.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ad
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000018\x1CORG\x1CWDLR-AM/ICS Holdings\x1C\x1C\x1C\x1C\x1C\x1C5031
+    Latrobe Dr.\x1C\x1CWindemere\x1CFL\x1C\x1CG2012\x1C\x1C20121031\x1C1530.00\x1C1555358.84\x1CLatino
+    radio ad\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1COH\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000019
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: 4412 Carver Woods
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: Suite 200
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Cincinnati
+  - name: PAYEE STATE
+    number: '14'
+    value: OH
+  - name: PAYEE ZIP
+    number: '15'
+    value: '45242'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1530.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1556888.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ad
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: ''
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000019\x1CORG\x1C4412 Carver Woods\x1C\x1C\x1C\x1C\x1C\x1CSuite
+    200\x1C\x1CCincinnati\x1COH\x1C45242\x1CG2012\x1C\x1C20121031\x1C1530.00\x1C1556888.84\x1CLatino
+    radio ad\x1C004\x1C\x1C\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1COH\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000020
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WILC-AM/ZGS
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 13499 Baltimore AVe.
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Laurel
+  - name: PAYEE STATE
+    number: '14'
+    value: MD
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20707'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1615.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1558503.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ad
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: DC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000020\x1CORG\x1CWILC-AM/ZGS\x1C\x1C\x1C\x1C\x1C\x1C13499
+    Baltimore AVe.\x1C\x1CLaurel\x1CMD\x1C20707\x1CG2012\x1C\x1C20121031\x1C1615.00\x1C1558503.84\x1CLatino
+    radio ad\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CDC\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000021
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WACA-AM/AC ACQU
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 11141 Georgia Ave
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 310
+  - name: PAYEE CITY
+    number: '13'
+    value: Wheaton
+  - name: PAYEE STATE
+    number: '14'
+    value: MD
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20904'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1615.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1560118.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ad
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: DC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000021\x1CORG\x1CWACA-AM/AC ACQU\x1C\x1C\x1C\x1C\x1C\x1C11141
+    Georgia Ave\x1CSuite 310\x1CWheaton\x1CMD\x1C20904\x1CG2012\x1C\x1C20121031\x1C1615.00\x1C1560118.84\x1CLatino
+    radio ad\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CDC\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000022
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WDCN-FM/Media One
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 8121 Georgia Ave.
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 900
+  - name: PAYEE CITY
+    number: '13'
+    value: Silver Spring
+  - name: PAYEE STATE
+    number: '14'
+    value: MD
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20910'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '2295.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1562413.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ad
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: DC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000022\x1CORG\x1CWDCN-FM/Media One\x1C\x1C\x1C\x1C\x1C\x1C8121
+    Georgia Ave.\x1CSuite 900\x1CSilver Spring\x1CMD\x1C20910\x1CG2012\x1C\x1C20121031\x1C2295.00\x1C1562413.84\x1CLatino
+    radio ad\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CDC\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000023
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WLZL-FM/CBS
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 2000 M Street, NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 400
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '7395.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1569808.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: DC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000023\x1CORG\x1CWLZL-FM/CBS\x1C\x1C\x1C\x1C\x1C\x1C\"2000
+    M Street, NW\"\x1CSuite 400\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121031\x1C7395.00\x1C1569808.84\x1CLatino
+    radio ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CDC\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000024
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: National Cable Communications
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: P.O. box 3350
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Boston
+  - name: PAYEE STATE
+    number: '14'
+    value: MA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '02241'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '766.70'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1570575.54'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000024\x1CORG\x1CNational Cable Communications\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    box 3350\x1C\x1CBoston\x1CMA\x1C02241\x1CG2012\x1C\x1C20121031\x1C766.70\x1C1570575.54\x1CLatino
+    radio ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CVA\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000025
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: National Cable Communications
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: P.O. Box 3350
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Boston
+  - name: PAYEE STATE
+    number: '14'
+    value: MA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '02241'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '14745.80'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1585321.34'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Latino radio ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: DC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000025\x1CORG\x1CNational Cable Communications\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 3350\x1C\x1CBoston\x1CMA\x1C02241\x1CG2012\x1C\x1C20121031\x1C14745.80\x1C1585321.34\x1CLatino
+    radio ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CDC\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000026
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Chambers Lopez Strategies
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: P.O. Box 5539
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Arlington
+  - name: PAYEE STATE
+    number: '14'
+    value: VA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '22205'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '20931.90'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1606253.24'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Media buy fees
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000026\x1CORG\x1CChambers Lopez Strategies\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 5539\x1C\x1CArlington\x1CVA\x1C22205\x1CG2012\x1C\x1C20121031\x1C20931.90\x1C1606253.24\x1CMedia
+    buy fees\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CVA\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000027
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Facebook
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1601 Willow Road
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Menlo Park
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '94025'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '260.58'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1606513.82'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Internet ads on Romney Court
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000027\x1CORG\x1CFacebook\x1C\x1C\x1C\x1C\x1C\x1C1601
+    Willow Road\x1C\x1CMenlo Park\x1CCA\x1C94025\x1CG2012\x1C\x1C20121031\x1C260.58\x1C1606513.82\x1CInternet
+    ads on Romney Court\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1COH\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000028
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Google
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1600 Amphitheatre Pkwy
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Mountain View
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '94043'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '2610.94'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1609124.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Internet ads on Romney Court
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000028\x1CORG\x1CGoogle\x1C\x1C\x1C\x1C\x1C\x1C1600
+    Amphitheatre Pkwy\x1C\x1CMountain View\x1CCA\x1C94043\x1CG2012\x1C\x1C20121031\x1C2610.94\x1C1609124.76\x1CInternet
+    ads on Romney Court\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1COH\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012071
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000029
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Resonate
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 11720 Plaza America Drive
+  - name: PAYEE STREET 2
+    number: '12'
+    value: 3rd Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Reston
+  - name: PAYEE STATE
+    number: '14'
+    value: VA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20190'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1431.33'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1610556.09'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Internet ads
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Romney
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Mitt
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90012071\x1CF57.000029\x1CORG\x1CResonate\x1C\x1C\x1C\x1C\x1C\x1C11720
+    Plaza America Drive\x1C3rd Floor\x1CReston\x1CVA\x1C20190\x1CG2012\x1C\x1C20121031\x1C1431.33\x1C1610556.09\x1CInternet
+    ads\x1C004\x1C\x1CO\x1C\x1CRomney\x1CMitt\x1C\x1C\x1C\x1CP\x1CVA\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+sourceurl: !!python/unicode 20130403
+type: chunk

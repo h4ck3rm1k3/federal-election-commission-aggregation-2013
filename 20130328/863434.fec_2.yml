@@ -1,0 +1,138 @@
+countrows: 1
+filename: 863434.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SL
+  - name: FILER COMMITTEE ID
+    number: '2'
+    value: C00031088
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: dfb465dce565407a93a7
+  - name: RECORD ID NUMBER (for account name)
+    number: '4'
+    value: dfb465dcd
+  - name: ACCOUNT NAME
+    number: '5'
+    value: LEVIN
+  - name: COVERAGE FROM DATE
+    number: '6'
+    value: '20121018'
+  - name: COVERAGE THROUGH DATE
+    number: '7'
+    value: '20121126'
+  - name: Itemized Receipts From Persons
+    number: 8-1a.
+    value: '22500.00'
+  - name: Unitemized Receipts From Persons
+    number: 9-1b.
+    value: '0.00'
+  - name: Total Receipts From Persons
+    number: 10-1c.
+    value: '22500.00'
+  - name: OTHER RECEIPTS
+    number: 11-2.
+    value: '0.00'
+  - name: TOTAL RECEIPTS
+    number: 12-3.
+    value: '22500.00'
+  - name: Voter Registration DISBURSEMENTS
+    number: 13-4(a).
+    value: '0.00'
+  - name: Voter ID DISBURSEMENTS
+    number: 14-4(b).
+    value: '0.00'
+  - name: GOTV DISBURSEMENTS
+    number: 15-4(c).
+    value: '51993.99'
+  - name: Generic Campaign DISBURSEMENTS
+    number: 16-4(d).
+    value: '0.00'
+  - name: Line 4 Total
+    number: 17-4(e)
+    value: '51993.99'
+  - name: OTHER DISBURSEMENTS
+    number: 18-5.
+    value: '0.00'
+  - name: TOTAL DISBURSEMENTS
+    number: 19-6.
+    value: '51993.99'
+  - name: CASH ON HAND (Beginning)
+    number: 20-7.
+    value: '29500.00'
+  - name: RECEIPTS
+    number: 21-8.
+    value: '22500.00'
+  - name: SUBTOTAL
+    number: 22-9.
+    value: '52000.00'
+  - name: DISBURSEMENTS
+    number: 23-10.
+    value: '51993.99'
+  - name: ENDING CASH ON HAND
+    number: 24-11.
+    value: '6.01'
+  - name: Itemized Receipts From Persons
+    number: 25-1a.
+    value: '52000.00'
+  - name: Unitemized Receipts From Persons
+    number: 26-1b.
+    value: '0.00'
+  - name: Total Receipts From Persons
+    number: 27-1c.
+    value: '52000.00'
+  - name: OTHER RECEIPTS
+    number: 28-2.
+    value: '0.00'
+  - name: TOTAL RECEIPTS
+    number: 29-3.
+    value: '52000.00'
+  - name: Voter Registration DISBURSEMENTS
+    number: 30-4(a).
+    value: '0.00'
+  - name: Voter ID DISBURSEMENTS
+    number: 31-4(b).
+    value: '0.00'
+  - name: GOTV DISBURSEMENTS
+    number: 32-4(c).
+    value: '51993.99'
+  - name: Generic Campaign DISBURSEMENTS
+    number: 33-4(d).
+    value: '0.00'
+  - name: Line 4 Total
+    number: 34-4(e)
+    value: '51993.99'
+  - name: OTHER DISBURSEMENTS
+    number: 35-5.
+    value: '0.00'
+  - name: TOTAL DISBURSEMENTS
+    number: 36-6.
+    value: '51993.99'
+  - name: CASH ON HAND as of Jan 1
+    number: 37-7.
+    value: '0.00'
+  - name: RECEIPTS
+    number: 38-8.
+    value: '52000.00'
+  - name: SUBTOTAL
+    number: 39-9.
+    value: '52000.00'
+  - name: DISBURSEMENTS
+    number: 40-10.
+    value: '51993.99'
+  - name: ENDING CASH ON HAND
+    number: 41-11.
+    value: '6.01'
+  - value: '
+
+'
+  expected_count: 41
+  input: "SL\x1CC00031088\x1Cdfb465dce565407a93a7\x1Cdfb465dcd\x1CLEVIN\x1C20121018\x1C20121126\x1C22500.00\x1C0.00\x1C22500.00\x1C0.00\x1C22500.00\x1C0.00\x1C0.00\x1C51993.99\x1C0.00\x1C51993.99\x1C0.00\x1C51993.99\x1C29500.00\x1C22500.00\x1C52000.00\x1C51993.99\x1C6.01\x1C52000.00\x1C0.00\x1C52000.00\x1C0.00\x1C52000.00\x1C0.00\x1C0.00\x1C51993.99\x1C0.00\x1C51993.99\x1C0.00\x1C51993.99\x1C0.00\x1C52000.00\x1C52000.00\x1C51993.99\x1C6.01\x1C\n"
+  input_count: 42
+  record: fec.version.v8_0.SL
+  result: []
+sourceurl: !!python/unicode 20130328
+type: chunk

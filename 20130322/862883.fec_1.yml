@@ -1,0 +1,1445 @@
+countrows: 13
+filename: 862883.fec
+header: {}
+rows:
+- 2
+- input: "F24A\x1CC00520080\x1C24\x1C20120810\x1CFriends of Democracy\x1C1133 19th
+    St. NW 9th Floor\x1C\x1CWashington\x1CDC\x1C20036\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20120322\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: '20120810'
+  - name: COMMITTEE NAME
+    number: '5'
+    value: Friends of Democracy
+  - name: STREET 1
+    number: '6'
+    value: 1133 19th St. NW 9th Floor
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Washington
+  - name: STATE
+    number: '9'
+    value: DC
+  - name: ZIP
+    number: '10'
+    value: '20036'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Donnelly
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: David
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20120322
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA2YMX2\x1C\x1C\x1CORG\x1CEichenbaum and Associates\x1C\x1C\x1C\x1C\x1C\x1C219
+    N Milwaukee St\x1C\x1CMilwaukee\x1CWI\x1C532025818\x1CG2012\x1C\x1C20120810\x1C147151.00\x1C147151.00\x1CTelevision\x1C004\x1C\x1CO\x1CH6CA34112\x1CLUNGREN\x1CDANIEL
+    E.\x1C\x1C\x1C\x1CH\x1CCA\x1C07\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20120322\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA2YMX2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Eichenbaum and Associates
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 219 N Milwaukee St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '16'
+    value: WI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '532025818'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120810'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '147151.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '147151.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Television
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H6CA34112
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: LUNGREN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: DANIEL E.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: CA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '07'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20120322'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA2YMY0\x1C\x1C\x1CORG\x1CEichenbaum and Associates\x1C\x1C\x1C\x1C\x1C\x1C219
+    N Milwaukee St\x1C\x1CMilwaukee\x1CWI\x1C532025818\x1CG2012\x1C\x1C20120810\x1C183220.00\x1C183220.00\x1CTelevision\x1C004\x1C\x1CO\x1CH0NH02017\x1CBASS\x1CCHARLES
+    F.\x1C\x1C\x1C\x1CH\x1CNH\x1C02\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20120322\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA2YMY0
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Eichenbaum and Associates
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 219 N Milwaukee St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '16'
+    value: WI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '532025818'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120810'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '183220.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '183220.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Television
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H0NH02017
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: BASS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CHARLES F.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: NH
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '02'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20120322'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA2YMZ8\x1C\x1C\x1CORG\x1CEichenbaum and Associates\x1C\x1C\x1C\x1C\x1C\x1C219
+    N Milwaukee St\x1C\x1CMilwaukee\x1CWI\x1C532025818\x1CG2012\x1C\x1C20120810\x1C104136.00\x1C104136.00\x1CTelevision\x1C004\x1C\x1CO\x1CH0MN08115\x1CCRAVAACK\x1CRAYMOND
+    J MR.\x1C\x1C\x1C\x1CH\x1CMN\x1C08\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20120322\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA2YMZ8
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Eichenbaum and Associates
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 219 N Milwaukee St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '16'
+    value: WI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '532025818'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120810'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '104136.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '104136.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Television
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H0MN08115
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: CRAVAACK
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: RAYMOND J MR.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MN
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: 08
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20120322'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA2YN06\x1C\x1C\x1CORG\x1CEichenbaum and Associates\x1C\x1C\x1C\x1C\x1C\x1C219
+    N Milwaukee St\x1C\x1CMilwaukee\x1CWI\x1C532025818\x1CG2012\x1C\x1C20120810\x1C107721.00\x1C107721.00\x1CTelevision\x1C004\x1C\x1CO\x1CH0WI07051\x1CDUFFY\x1CSEAN\x1C\x1C\x1C\x1CH\x1CWI\x1C07\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20120322\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA2YN06
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Eichenbaum and Associates
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 219 N Milwaukee St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Milwaukee
+  - name: PAYEE STATE
+    number: '16'
+    value: WI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '532025818'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120810'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '107721.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '107721.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Television
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H0WI07051
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: DUFFY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: SEAN
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: WI
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '07'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20120322'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA2YK10\x1C\x1C\x1CORG\x1CMission Control, Inc.\x1C\x1C\x1C\x1C\x1C\x1C114
+    Mansfield Hollow Rd\x1C# A\x1CMansfield Center\x1CCT\x1C062501316\x1CG2012\x1C\x1C20120809\x1C7310.00\x1C21930.00\x1Cmail\x1C004\x1C\x1CO\x1CH0NY19139\x1CHAYWORTH\x1CNAN\x1C\x1C\x1C\x1CH\x1CNY\x1C18\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20120322\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA2YK10
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Mission Control, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 114 Mansfield Hollow Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: '# A'
+  - name: PAYEE CITY
+    number: '15'
+    value: Mansfield Center
+  - name: PAYEE STATE
+    number: '16'
+    value: CT
+  - name: PAYEE ZIP
+    number: '17'
+    value: '062501316'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120809'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '7310.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '21930.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: mail
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H0NY19139
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: HAYWORTH
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: NAN
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '18'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20120322'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA2YK28\x1C\x1C\x1CORG\x1CMission Control, Inc.\x1C\x1C\x1C\x1C\x1C\x1C114
+    Mansfield Hollow Rd\x1C# A\x1CMansfield Center\x1CCT\x1C062501316\x1CG2012\x1C\x1C20120809\x1C7145.00\x1C21345.00\x1Cmail\x1C004\x1C\x1CO\x1CH0OH16097\x1CRENACCI\x1CJAMES
+    B\x1C\x1C\x1C\x1CH\x1COH\x1C16\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20120322\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA2YK28
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Mission Control, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 114 Mansfield Hollow Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: '# A'
+  - name: PAYEE CITY
+    number: '15'
+    value: Mansfield Center
+  - name: PAYEE STATE
+    number: '16'
+    value: CT
+  - name: PAYEE ZIP
+    number: '17'
+    value: '062501316'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120809'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '7145.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '21345.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: mail
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H0OH16097
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: RENACCI
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: JAMES B
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '16'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20120322'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA2YK36\x1C\x1C\x1CORG\x1CMission Control, Inc.\x1C\x1C\x1C\x1C\x1C\x1C114
+    Mansfield Hollow Rd\x1C# A\x1CMansfield Center\x1CCT\x1C062501316\x1CG2012\x1C\x1C20120809\x1C7105.00\x1C21380.00\x1Cmail\x1C004\x1C\x1CO\x1CH8CO06138\x1CCOFFMAN\x1CMICHAEL\x1C\x1C\x1C\x1CH\x1CCO\x1C06\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20120322\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA2YK36
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Mission Control, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 114 Mansfield Hollow Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: '# A'
+  - name: PAYEE CITY
+    number: '15'
+    value: Mansfield Center
+  - name: PAYEE STATE
+    number: '16'
+    value: CT
+  - name: PAYEE ZIP
+    number: '17'
+    value: '062501316'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120809'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '7105.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '21380.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: mail
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H8CO06138
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: COFFMAN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: MICHAEL
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: CO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '06'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20120322'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA2YN14\x1C\x1C\x1CORG\x1CMission Control, Inc.\x1C\x1C\x1C\x1C\x1C\x1C114
+    Mansfield Hollow Rd\x1C# A\x1CMansfield Center\x1CCT\x1C062501316\x1CG2012\x1C\x1C20120810\x1C7065.00\x1C21345.00\x1Cmail\x1C004\x1C\x1CO\x1CH0OH16097\x1CRENACCI\x1CJAMES
+    B\x1C\x1C\x1C\x1CH\x1COH\x1C16\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20120322\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA2YN14
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Mission Control, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 114 Mansfield Hollow Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: '# A'
+  - name: PAYEE CITY
+    number: '15'
+    value: Mansfield Center
+  - name: PAYEE STATE
+    number: '16'
+    value: CT
+  - name: PAYEE ZIP
+    number: '17'
+    value: '062501316'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120810'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '7065.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '21345.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: mail
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H0OH16097
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: RENACCI
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: JAMES B
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '16'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20120322'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA2YN22\x1C\x1C\x1CORG\x1CMission Control, Inc.\x1C\x1C\x1C\x1C\x1C\x1C114
+    Mansfield Hollow Rd\x1C# A\x1CMansfield Center\x1CCT\x1C062501316\x1CG2012\x1C\x1C20120810\x1C7320.00\x1C21930.00\x1Cmail\x1C004\x1C\x1CO\x1CH0NY19139\x1CHAYWORTH\x1CNAN\x1C\x1C\x1C\x1CH\x1CNY\x1C18\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20120322\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA2YN22
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Mission Control, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 114 Mansfield Hollow Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: '# A'
+  - name: PAYEE CITY
+    number: '15'
+    value: Mansfield Center
+  - name: PAYEE STATE
+    number: '16'
+    value: CT
+  - name: PAYEE ZIP
+    number: '17'
+    value: '062501316'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120810'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '7320.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '21930.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: mail
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H0NY19139
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: HAYWORTH
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: NAN
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '18'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20120322'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00520080\x1CVN7BA2YN30\x1C\x1C\x1CORG\x1CMission Control, Inc.\x1C\x1C\x1C\x1C\x1C\x1C114
+    Mansfield Hollow Rd\x1C# A\x1CMansfield Center\x1CCT\x1C062501316\x1CG2012\x1C\x1C20120810\x1C7145.00\x1C21380.00\x1Cmail\x1C004\x1C\x1CO\x1CH8CO06138\x1CCOFFMAN\x1CMICHAEL\x1C\x1C\x1C\x1CH\x1CCO\x1C06\x1CDonnelly\x1CDavid\x1C\x1C\x1C\x1C20120322\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: VN7BA2YN30
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Mission Control, Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 114 Mansfield Hollow Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: '# A'
+  - name: PAYEE CITY
+    number: '15'
+    value: Mansfield Center
+  - name: PAYEE STATE
+    number: '16'
+    value: CT
+  - name: PAYEE ZIP
+    number: '17'
+    value: '062501316'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120810'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '7145.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '21380.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: mail
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H8CO06138
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: COFFMAN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: MICHAEL
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: CO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '06'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Donnelly
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: David
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20120322'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "TEXT\x1CC00520080\x1CX721\x1C\x1CF24A\x1CThe report originally filed for
+    August 10, 2012 had 3 expenditures dated August 9, 2012 which duplicated those
+    reported on our August 9, 2012 24 hr notice.  The amended filing is intended to
+    REPLACE BOTH of those filings.  See form 99 for futher explanation.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00520080
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X721
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F24A
+  - name: TEXT4000
+    number: '6'
+    value: 'The report originally filed for August 10, 2012 had 3 expenditures dated
+      August 9, 2012 which duplicated those reported on our August 9, 2012 24 hr notice.  The
+      amended filing is intended to REPLACE BOTH of those filings.  See form 99 for
+      futher explanation.
+
+'
+sourceurl: !!python/unicode 20130322
+type: chunk
