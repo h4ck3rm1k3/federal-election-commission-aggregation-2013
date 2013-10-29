@@ -1,0 +1,128 @@
+countrows: 2
+filename: 871077.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH8CA20059\x1CNUNES\x1CDEVIN G\x1C\x1C\x1C\x1C\x1CP.O. Box 6545\x1C\x1CVisalia\x1CCA\x1C93290\x1CREP\x1CH\x1CCA\x1C22\x1C2014\x1CC00370056\x1CDEVIN
+    NUNES CAMPAIGN COMMITTEE\x1CPO BOX 6545\x1C\x1CVISALIA\x1CCA\x1C932906545\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CNUNES\x1CDEVIN
+    G\x1C\x1C\x1C\x1C20130516\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8CA20059
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: NUNES
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: DEVIN G
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: P.O. Box 6545
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Visalia
+  - name: CANDIDATE STATE
+    number: '12'
+    value: CA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '93290'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: CA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '22'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00370056
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: DEVIN NUNES CAMPAIGN COMMITTEE
+  - name: PCC STREET 1
+    number: '21'
+    value: PO BOX 6545
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: VISALIA
+  - name: PCC STATE
+    number: '24'
+    value: CA
+  - name: PCC ZIP
+    number: '25'
+    value: '932906545'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: NUNES
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: DEVIN G
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130516
+
+'
+sourceurl: !!python/unicode 20130516
+type: chunk

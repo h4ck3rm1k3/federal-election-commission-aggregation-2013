@@ -1,0 +1,1012 @@
+countrows: 9
+filename: 871435.fec
+header: {}
+rows:
+- 2
+- input: "F24N\x1CC00348540\x1C48\x1C\x1C1199 SERVICE EMPLOYEES INT'L UNION FEDERAL
+    POLITICAL ACTION FUND\x1C330 WEST 42ND STREET, 7TH FLOOR\x1C\x1CNEW YORK\x1CNY\x1C10036\x1CFINNEGAN\x1CKEVIN\x1C\x1C\x1C\x1C20130517\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348540
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '48'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '5'
+    value: 1199 SERVICE EMPLOYEES INT'L UNION FEDERAL POLITICAL ACTION FUND
+  - name: STREET 1
+    number: '6'
+    value: 330 WEST 42ND STREET, 7TH FLOOR
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: NEW YORK
+  - name: STATE
+    number: '9'
+    value: NY
+  - name: ZIP
+    number: '10'
+    value: '10036'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: FINNEGAN
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: KEVIN
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130517
+
+'
+- input: "SE\x1CC00348540\x1CSE.12204\x1C\x1C\x1CORG\x1CENTERPRISE RENT-A-CAR\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    BOX 840173\x1C\x1CKANSAS CITY\x1CMO\x1C641840173\x1CS2013\x1CSpecial-General\x1C20130517\x1C3138.94\x1C6544.89\x1CRENTAL
+    VEHICLE\x1C\x1CC00348540\x1CS\x1C\x1CMARKEY\x1CED\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CFINNEGAN\x1CKEVIN\x1C\x1C\x1C\x1C20130517\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348540
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.12204
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ENTERPRISE RENT-A-CAR
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. BOX 840173
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: KANSAS CITY
+  - name: PAYEE STATE
+    number: '16'
+    value: MO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '641840173'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130517'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '3138.94'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '6544.89'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: RENTAL VEHICLE
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00348540
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MARKEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: ED
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: FINNEGAN
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: KEVIN
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130517'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00348540\x1CSE.12212\x1C\x1C\x1CORG\x1CENTERPRISE RENT-A-CAR\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    BOX 840173\x1C\x1CKANSAS CITY\x1CMO\x1C641840173\x1CS2013\x1CSpecial-General\x1C20130517\x1C3587.36\x1C10932.32\x1CRENTAL
+    VEHICLE\x1C\x1CC00348540\x1CS\x1C\x1CMARKEY\x1CED\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CFINNEGAN\x1CKEVIN\x1C\x1C\x1C\x1C20130517\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348540
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.12212
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ENTERPRISE RENT-A-CAR
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P.O. BOX 840173
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: KANSAS CITY
+  - name: PAYEE STATE
+    number: '16'
+    value: MO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '641840173'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130517'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '3587.36'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '10932.32'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: RENTAL VEHICLE
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00348540
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MARKEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: ED
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: FINNEGAN
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: KEVIN
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130517'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00348540\x1CSE.12206\x1C\x1C\x1CORG\x1CSEIU COMMUNICATIONS CENTER
+    LLC.\x1C\x1C\x1C\x1C\x1C\x1C330 WEST 42ND STREET\x1C\x1CNEW YORK\x1CNY\x1C10036\x1CS2013\x1CSpecial-General\x1C20130430\x1C1206.92\x1C2605.88\x1CPHONE
+    BANKING\x1C\x1CC00348540\x1CS\x1C\x1CMARKEY\x1CED\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CFINNEGAN\x1CKEVIN\x1C\x1C\x1C\x1C20130517\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348540
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.12206
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: SEIU COMMUNICATIONS CENTER LLC.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 330 WEST 42ND STREET
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: NEW YORK
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '10036'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130430'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1206.92'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '2605.88'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: PHONE BANKING
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00348540
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MARKEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: ED
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: FINNEGAN
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: KEVIN
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130517'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00348540\x1CSE.12208\x1C\x1C\x1CORG\x1CSTANDARD MODERN COMPANY\x1C\x1C\x1C\x1C\x1C\x1C47
+    PLEASANT STREET\x1C\x1CBROCKTON\x1CMA\x1C02301\x1CS2013\x1CSpecial-General\x1C20130426\x1C598.89\x1C1398.96\x1CDOORHANGERS\x1C\x1CC00348540\x1CS\x1C\x1CMARKEY\x1CED\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CFINNEGAN\x1CKEVIN\x1C\x1C\x1C\x1C20130517\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348540
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.12208
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: STANDARD MODERN COMPANY
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 47 PLEASANT STREET
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: BROCKTON
+  - name: PAYEE STATE
+    number: '16'
+    value: MA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '02301'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130426'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '598.89'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '1398.96'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: DOORHANGERS
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00348540
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MARKEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: ED
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: FINNEGAN
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: KEVIN
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130517'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00348540\x1CSE.12200\x1C\x1C\x1CORG\x1CSVM, LP\x1C\x1C\x1C\x1C\x1C\x1C185
+    N. FRANKLIN ST REET\x1C\x1CCHICAGO\x1CIL\x1C60606\x1CS2013\x1CSpecial-General\x1C20130423\x1C800.07\x1C800.07\x1CGAS
+    CARDS\x1C\x1CC00348540\x1CS\x1C\x1CMARKEY\x1CED\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CFINNEGAN\x1CKEVIN\x1C\x1C\x1C\x1C20130517\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348540
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.12200
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: SVM, LP
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 185 N. FRANKLIN ST REET
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: CHICAGO
+  - name: PAYEE STATE
+    number: '16'
+    value: IL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '60606'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130423'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '800.07'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '800.07'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: GAS CARDS
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00348540
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MARKEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: ED
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: FINNEGAN
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: KEVIN
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130517'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00348540\x1CSE.12202\x1C\x1C\x1CORG\x1CSVM, LP\x1C\x1C\x1C\x1C\x1C\x1C185
+    N. FRANKLIN ST REET\x1C\x1CCHICAGO\x1CIL\x1C60606\x1CS2013\x1CSpecial-General\x1C20130508\x1C800.07\x1C3405.95\x1CGAS
+    CARDS\x1C\x1CC00348540\x1CS\x1C\x1CMARKEY\x1CED\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CFINNEGAN\x1CKEVIN\x1C\x1C\x1C\x1C20130517\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348540
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.12202
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: SVM, LP
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 185 N. FRANKLIN ST REET
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: CHICAGO
+  - name: PAYEE STATE
+    number: '16'
+    value: IL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '60606'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130508'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '800.07'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '3405.95'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: GAS CARDS
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00348540
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MARKEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: ED
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: FINNEGAN
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: KEVIN
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130517'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00348540\x1CSE.12210\x1C\x1C\x1CORG\x1CSVM, LP\x1C\x1C\x1C\x1C\x1C\x1C185
+    N. FRANKLIN ST REET\x1C\x1CCHICAGO\x1CIL\x1C60606\x1CS2013\x1CSpecial-General\x1C20130517\x1C800.07\x1C7344.96\x1CGAS
+    CARDS\x1C\x1CC00348540\x1CS\x1C\x1CMARKEY\x1CED\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CFINNEGAN\x1CKEVIN\x1C\x1C\x1C\x1C20130517\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00348540
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.12210
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: SVM, LP
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 185 N. FRANKLIN ST REET
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: CHICAGO
+  - name: PAYEE STATE
+    number: '16'
+    value: IL
+  - name: PAYEE ZIP
+    number: '17'
+    value: '60606'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130517'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '800.07'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '7344.96'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: GAS CARDS
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00348540
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MARKEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: ED
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: FINNEGAN
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: KEVIN
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130517'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130517
+type: chunk

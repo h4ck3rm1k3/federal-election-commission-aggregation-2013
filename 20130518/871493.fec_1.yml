@@ -1,0 +1,341 @@
+countrows: 4
+filename: 871493.fec
+header: {}
+rows:
+- 2
+- input: "F24N\x1CC00509893\x1C24\x1C\x1CNational Right to Life Victory Fund\x1C512
+    10th Street, NW\x1C\x1CWashington\x1CDC\x1C20004    \x1CLandrum\x1CJoseph\x1C\x1C\x1C\x1C20130518\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00509893
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '5'
+    value: National Right to Life Victory Fund
+  - name: STREET 1
+    number: '6'
+    value: 512 10th Street, NW
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Washington
+  - name: STATE
+    number: '9'
+    value: DC
+  - name: ZIP
+    number: '10'
+    value: '20004    '
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Landrum
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Joseph
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130518
+
+'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00509893
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: E07484BCB45D241F6B5B
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Strategic Fundraising
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 7591 9th St N
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Saint Paul
+  - name: PAYEE STATE
+    number: '16'
+    value: MN
+  - name: PAYEE ZIP
+    number: '17'
+    value: '551286626'
+  - name: ELECTION CODE
+    number: '18'
+    value: O2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General2013
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130516'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '643.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '643.50'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Fundraising Phone Calls (Est.)
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H4MO08162
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Smith
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Jason
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: 08
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Landrum
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Joseph
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130518'
+  - name: MEMO CODE
+    number: '42'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - value: '
+
+'
+  expected_count: 43
+  input: "SE\x1CC00509893\x1CE07484BCB45D241F6B5B\x1C\x1C\x1CORG\x1CStrategic Fundraising\x1C\x1C\x1C\x1C\x1C\x1C7591
+    9th St N\x1C\x1CSaint Paul\x1CMN\x1C551286626\x1CO2013\x1CSpecial General2013\x1C20130516\x1C643.50\x1C643.50\x1CFundraising
+    Phone Calls (Est.)\x1C\x1C\x1CS\x1CH4MO08162\x1CSmith\x1CJason\x1C\x1C\x1C\x1CH\x1CMO\x1C08\x1CLandrum\x1CJoseph\x1C\x1C\x1C\x1C20130518\x1CX\x1C\x1C\n"
+  input_count: 44
+  record: fec.version.v8_0.SE
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00509893
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: E5E358A80533D4D4EA45
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Strategic Fundraising
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 7591 9th St N
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Saint Paul
+  - name: PAYEE STATE
+    number: '16'
+    value: MN
+  - name: PAYEE ZIP
+    number: '17'
+    value: '551286626'
+  - name: ELECTION CODE
+    number: '18'
+    value: O2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special General2013
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130517'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1370.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '2013.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Fundraising Phone Calls (Est.)
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H4MO08162
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Smith
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Jason
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: 08
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Landrum
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Joseph
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130518'
+  - name: MEMO CODE
+    number: '42'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - value: '
+
+'
+  expected_count: 43
+  input: "SE\x1CC00509893\x1CE5E358A80533D4D4EA45\x1C\x1C\x1CORG\x1CStrategic Fundraising\x1C\x1C\x1C\x1C\x1C\x1C7591
+    9th St N\x1C\x1CSaint Paul\x1CMN\x1C551286626\x1CO2013\x1CSpecial General2013\x1C20130517\x1C1370.25\x1C2013.75\x1CFundraising
+    Phone Calls (Est.)\x1C\x1C\x1CS\x1CH4MO08162\x1CSmith\x1CJason\x1C\x1C\x1C\x1CH\x1CMO\x1C08\x1CLandrum\x1CJoseph\x1C\x1C\x1C\x1C20130518\x1CX\x1C\x1C\n"
+  input_count: 44
+  record: fec.version.v8_0.SE
+  result: []
+sourceurl: !!python/unicode 20130518
+type: chunk

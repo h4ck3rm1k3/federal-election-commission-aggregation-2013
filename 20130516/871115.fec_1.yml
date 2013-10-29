@@ -1,0 +1,293 @@
+countrows: 7
+filename: 871115.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH0NY29054\x1CReed\x1CThomas\x1CW\x1C\x1CII\x1CX\x1C221 Washington
+    Street\x1C\x1CCorning\x1CNY\x1C148302442\x1CREP\x1CH\x1CNY\x1C23\x1C2014\x1CC00464032\x1CTom
+    Reed for Congress\x1CPO Box 391\x1C\x1CGeneva\x1CNY\x1C144560391\x1CC00517896\x1CReed
+    Black Victory Fund\x1C228 S Washington Street\x1CSuite 115\x1CAlexandria\x1CVA\x1C223145404\x1CReed\x1CThomas\x1CW\x1C\x1CII\x1C20130516\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0NY29054
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Reed
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Thomas
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: W
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: II
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: X
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 221 Washington Street
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Corning
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NY
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '148302442'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NY
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '23'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00464032
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Tom Reed for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 391
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Geneva
+  - name: PCC STATE
+    number: '24'
+    value: NY
+  - name: PCC ZIP
+    number: '25'
+    value: '144560391'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00517896
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Reed Black Victory Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: 228 S Washington Street
+  - name: AUTH STREET 2
+    number: '29'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '30'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '31'
+    value: VA
+  - name: AUTH ZIP
+    number: '32'
+    value: '223145404'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Reed
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Thomas
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: W
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: II
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130516
+
+'
+- input: "F2S\x1CH0NY29054\x1CC00484741\x1CUS House Victory Committee\x1C228 S Washington
+    Street\x1CSuite 115\x1CAlexandria\x1CVA\x1C223145404\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0NY29054
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00484741
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: US House Victory Committee
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S Washington Street
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '223145404
+
+'
+- input: "F2S\x1CH0NY29054\x1CC00487637\x1CNew York House Victory Fund\x1C228 S Washington
+    Street\x1CSuite 115\x1CAlexandria\x1CVA\x1C223145404\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0NY29054
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00487637
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: New York House Victory Fund
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S Washington Street
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '223145404
+
+'
+- input: "F2S\x1CH0NY29054\x1CC00491332\x1CAmerica's New Majority\x1C228 S Washington
+    Street\x1CSuite 115\x1CAlexandria\x1CVA\x1C223145404\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0NY29054
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00491332
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: America's New Majority
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S Washington Street
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '223145404
+
+'
+- input: "F2S\x1CH0NY29054\x1CC00503326\x1CNew York Congressional Victory Committee
+    2011\x1C228 S Washington Street\x1CSuite 115\x1CAlexandria\x1CVA\x1C223145404\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0NY29054
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00503326
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: New York Congressional Victory Committee 2011
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S Washington Street
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '223145404
+
+'
+- input: "F2S\x1CH0NY29054\x1CC00523985\x1CFreshman Hold'Em PAC\x1CPO Box 75021\x1C\x1CWashington\x1CDC\x1C200130021\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0NY29054
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00523985
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Freshman Hold'Em PAC
+  - name: AUTH STREET 1
+    number: '5'
+    value: PO Box 75021
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Washington
+  - name: AUTH STATE
+    number: '8'
+    value: DC
+  - name: AUTH ZIP
+    number: '9'
+    value: '200130021
+
+'
+sourceurl: !!python/unicode 20130516
+type: chunk

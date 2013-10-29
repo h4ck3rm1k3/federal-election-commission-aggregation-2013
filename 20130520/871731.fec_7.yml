@@ -1,0 +1,693 @@
+countrows: 7
+filename: 871731.fec
+header: {}
+rows:
+- input: "H4\x1CC00155952\x1CD481865\x1CD481861\x1CH4\x1CORG\x1CTarget\x1C\x1C\x1C\x1C\x1C\x1C3100
+    14th St NW\x1CSte 201\x1CWashington\x1CDC\x1C200102478\x1CAdministrative\x1C20121008\x1C197.81\x1C71.21\x1C126.60\x1C1653704.50\x1COffice
+    Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00155952
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D481865
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D481861
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Target
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 3100 14th St NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Ste 201
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '200102478'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121008'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '197.81'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '71.21'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '126.60'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '1653704.50'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00155952\x1CD481862\x1CD481861\x1CH4\x1CORG\x1CTarget\x1C\x1C\x1C\x1C\x1C\x1C5401
+    W Broad St\x1C\x1CRichmond\x1CVA\x1C232302629\x1CAdministrative\x1C20121008\x1C53.52\x1C19.27\x1C34.25\x1C1653704.50\x1COffice
+    Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00155952
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D481862
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D481861
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Target
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 5401 W Broad St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Richmond
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '232302629'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121008'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '53.52'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '19.27'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '34.25'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '1653704.50'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00155952\x1CD481871\x1C\x1C\x1CORG\x1CAmerican Express\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 650448\x1C\x1CDallas\x1CTX\x1C752650448\x1CAdministrative\x1C20121008\x1C1017.93\x1C366.45\x1C651.48\x1C1653704.50\x1CCredit
+    Card Payment\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00155952
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D481871
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: American Express
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 650448
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '752650448'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121008'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '1017.93'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '366.45'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '651.48'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '1653704.50'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Credit Card Payment
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00155952\x1CD481873\x1CD481871\x1CH4\x1CORG\x1CLowe's\x1C\x1C\x1C\x1C\x1C\x1C9701
+    Roosevelt Blvd\x1C\x1CPhiladelphia\x1CPA\x1C191141010\x1CAdministrative\x1C20121008\x1C185.40\x1C66.74\x1C118.66\x1C1653704.50\x1COffice
+    Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00155952
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D481873
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D481871
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Lowe's
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 9701 Roosevelt Blvd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Philadelphia
+  - name: PAYEE STATE
+    number: '16'
+    value: PA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '191141010'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121008'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '185.40'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '66.74'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '118.66'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '1653704.50'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00155952\x1CD481874\x1CD481871\x1CH4\x1CORG\x1CLowe's\x1C\x1C\x1C\x1C\x1C\x1C727
+    State Rt 440\x1C\x1CJersey City\x1CNJ\x1C073041000\x1CAdministrative\x1C20121008\x1C556.19\x1C200.23\x1C355.96\x1C1653704.50\x1COffice
+    Supplies\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00155952
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D481874
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D481871
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Lowe's
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 727 State Rt 440
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Jersey City
+  - name: PAYEE STATE
+    number: '16'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '073041000'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121008'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '556.19'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '200.23'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '355.96'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '1653704.50'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Office Supplies
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "H4\x1CC00155952\x1CD481875\x1CD481871\x1CH4\x1CORG\x1CNewegg.com\x1C\x1C\x1C\x1C\x1C\x1C9997
+    Rose Hills Rd\x1C\x1CWhittier\x1CCA\x1C906011701\x1CAdministrative\x1C20121008\x1C276.34\x1C99.48\x1C176.86\x1C1653704.50\x1CComputer
+    Equipment\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\n"
+  record: fec.version.v8_0.SH4
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00155952
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D481875
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D481871
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newegg.com
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 9997 Rose Hills Rd
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Whittier
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '906011701'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Administrative
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121008'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '276.34'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '99.48'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '176.86'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '1653704.50'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Computer Equipment
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: '
+
+'
+- input: "TEXT\x1CC00155952\x1CX0\x1C\x1CF3XA\x1CMay 20, 2013    Brian Jones  Senior
+    Campaign Finance Analyst  Reports Analysis Division  Federal Election Commission
+    \ 999 E Street, NW  Washington, DC 20463    ID:  C00155952  REFERENCE:  Amended
+    12 Day Pre-General Report 10/01/2012-10/17/2013, Received 1/31/2013    Dear Mr.
+    Jones:    In regards to your letter dated April 26, 2013, please note that the
+    excessive contributions identified in your letter have been refunded.  The checks
+    for the refunds were sent out and will be reported on May 8, 2013.      The Committee
+    sought and obtained current and valid U.S. Passports from the donors with foreign
+    addresses identified in your letter, 11 C.F.R. 110.20(a)(7).    Payments for Per
+    Diem-Travel/Meals were made as part of a committee technology per diem policy
+    and were not petty cash payments.       Please note that all payments for exempt
+    activities complied with Commission regulations.  Each activity was undertaken
+    by volunteers and the committee did not use any funds received by the committee
+    from a national committee nor were any funds earmarked for any exempt activities.
+    \   Please call Katie Buchanan at (202) 423-4742 if you have any further questions
+    regarding these matters.    Sincerely,  Barbara Klear  \n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00155952
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X0
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3XA
+  - name: TEXT4000
+    number: '6'
+    value: "May 20, 2013    Brian Jones  Senior Campaign Finance Analyst  Reports
+      Analysis Division  Federal Election Commission  999 E Street, NW  Washington,
+      DC 20463    ID:  C00155952  REFERENCE:  Amended 12 Day Pre-General Report 10/01/2012-10/17/2013,
+      Received 1/31/2013    Dear Mr. Jones:    In regards to your letter dated April
+      26, 2013, please note that the excessive contributions identified in your letter
+      have been refunded.  The checks for the refunds were sent out and will be reported
+      on May 8, 2013.      The Committee sought and obtained current and valid U.S.
+      Passports from the donors with foreign addresses identified in your letter,
+      11 C.F.R. 110.20(a)(7).    Payments for Per Diem-Travel/Meals were made as part
+      of a committee technology per diem policy and were not petty cash payments.
+      \      Please note that all payments for exempt activities complied with Commission
+      regulations.  Each activity was undertaken by volunteers and the committee did
+      not use any funds received by the committee from a national committee nor were
+      any funds earmarked for any exempt activities.    Please call Katie Buchanan
+      at (202) 423-4742 if you have any further questions regarding these matters.
+      \   Sincerely,  Barbara Klear  \n"
+sourceurl: !!python/unicode 20130520
+type: chunk

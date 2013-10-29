@@ -1,0 +1,767 @@
+countrows: 8
+filename: 871163.fec
+header: {}
+rows:
+- 2
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F5A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013285
+  - name: ENTITY TYPE
+    number: '3'
+    value: ''
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: AMERICANS FOR PROSPERITY
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: ''
+  - name: STREET 1
+    number: '11'
+    value: 2111 WILSON BLVD SUITE 350
+  - name: STREET 2
+    number: '12'
+    value: ''
+  - name: CITY
+    number: '13'
+    value: ARLINGTON
+  - name: STATE
+    number: '14'
+    value: VA
+  - name: ZIP
+    number: '15'
+    value: '22201'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: N
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: ''
+  - name: REPORT CODE
+    number: '19'
+    value: ''
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: '24'
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: '20120827'
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: '20120904'
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '2491434.42'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: Crank
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: Jeffrey
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: G.
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: ''
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130516'
+  - value: '
+
+'
+  expected_count: 30
+  input: "F5A\x1CC90013285\x1C\x1CAMERICANS FOR PROSPERITY\x1C\x1C\x1C\x1C\x1C\x1C\x1C2111
+    WILSON BLVD SUITE 350\x1C\x1CARLINGTON\x1CVA\x1C22201\x1CN\x1C\x1C\x1C\x1C24\x1C20120827\x1C20120904\x1C.00\x1C2491434.42\x1CCrank\x1CJeffrey\x1CG.\x1C\x1C\x1C20130516\x1C\n"
+  input_count: 31
+  record: fec.version.v8_0.F5
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013285
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000001
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: AOL Advertising, Inc.
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 770 Broadway
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: New York
+  - name: PAYEE STATE
+    number: '14'
+    value: NY
+  - name: PAYEE ZIP
+    number: '15'
+    value: '10003'
+  - name: ELECTION CODE
+    number: '16'
+    value: C2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: Convention
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20120827'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '241500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '20485484.09'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Advertising-placement of web ads (New Ideas & Tick Tock)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90013285\x1CF57.000001\x1CORG\x1C\"AOL Advertising, Inc.\"\x1C\x1C\x1C\x1C\x1C\x1C770
+    Broadway\x1C\x1CNew York\x1CNY\x1C10003\x1CC2012\x1CConvention\x1C20120827\x1C241500.00\x1C20485484.09\x1CAdvertising-placement
+    of web ads (New Ideas & Tick Tock)\x1C004\x1C\x1CO\x1CP80003338\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013285
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000002
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Pandora Media, Inc.
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 25601 Network Place
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Chicago
+  - name: PAYEE STATE
+    number: '14'
+    value: IL
+  - name: PAYEE ZIP
+    number: '15'
+    value: '60673'
+  - name: ELECTION CODE
+    number: '16'
+    value: C2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: Convention
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20120827'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '171950.15'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '20657434.24'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Advertising-placement of web radio ad (Change)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90013285\x1CF57.000002\x1CORG\x1C\"Pandora Media, Inc.\"\x1C\x1C\x1C\x1C\x1C\x1C25601
+    Network Place\x1C\x1CChicago\x1CIL\x1C60673\x1CC2012\x1CConvention\x1C20120827\x1C171950.15\x1C20657434.24\x1CAdvertising-placement
+    of web radio ad (Change)\x1C004\x1C\x1CO\x1CP80003338\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013285
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000003
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Adtegrity.com Inc.
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 38 Commerce Ave., SW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 200
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: C2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: Convention
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20120827'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '136111.11'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '20793545.35'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Advertising-placement of web ads (New Ideas & Tick Tock)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90013285\x1CF57.000003\x1CORG\x1CAdtegrity.com Inc.\x1C\x1C\x1C\x1C\x1C\x1C\"38
+    Commerce Ave., SW\"\x1CSuite 200\x1CGrand Rapids\x1CMI\x1C49503\x1CC2012\x1CConvention\x1C20120827\x1C136111.11\x1C20793545.35\x1CAdvertising-placement
+    of web ads (New Ideas & Tick Tock)\x1C004\x1C\x1CO\x1CP80003338\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013285
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000004
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Target Enterprises, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 15260 Ventura Blvd.
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 1240
+  - name: PAYEE CITY
+    number: '13'
+    value: Sherman Oaks
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '91403'
+  - name: ELECTION CODE
+    number: '16'
+    value: C2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: Convention
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20120828'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '50500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '20844045.35'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Advertising-placement of web ads (New Ideas & Tick Tock)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90013285\x1CF57.000004\x1CORG\x1C\"Target Enterprises, LLC\"\x1C\x1C\x1C\x1C\x1C\x1C15260
+    Ventura Blvd.\x1CSuite 1240\x1CSherman Oaks\x1CCA\x1C91403\x1CC2012\x1CConvention\x1C20120828\x1C50500.00\x1C20844045.35\x1CAdvertising-placement
+    of web ads (New Ideas & Tick Tock)\x1C004\x1C\x1CO\x1CP80003338\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013285
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000005
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Google Inc.
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1600 Amphitheatre Parkway
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Mountain View
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '94043'
+  - name: ELECTION CODE
+    number: '16'
+    value: C2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: Convention
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20120828'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '190000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '21034045.35'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Advertising-placement of web ads (New Ideas & Tick Tock)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90013285\x1CF57.000005\x1CORG\x1CGoogle Inc.\x1C\x1C\x1C\x1C\x1C\x1C1600
+    Amphitheatre Parkway\x1C\x1CMountain View\x1CCA\x1C94043\x1CC2012\x1CConvention\x1C20120828\x1C190000.00\x1C21034045.35\x1CAdvertising-placement
+    of web ads (New Ideas & Tick Tock)\x1C004\x1C\x1CO\x1CP80003338\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013285
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000006
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Mentzer Media
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 600 Fairmount Ave.
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 306
+  - name: PAYEE CITY
+    number: '13'
+    value: Towson
+  - name: PAYEE STATE
+    number: '14'
+    value: MD
+  - name: PAYEE ZIP
+    number: '15'
+    value: '21286'
+  - name: ELECTION CODE
+    number: '16'
+    value: C2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: Convention
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20120828'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1701373.16'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '22735418.51'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Advertising-TV placement (New Ideas)
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90013285\x1CF57.000006\x1CORG\x1CMentzer Media\x1C\x1C\x1C\x1C\x1C\x1C600
+    Fairmount Ave.\x1CSuite 306\x1CTowson\x1CMD\x1C21286\x1CC2012\x1CConvention\x1C20120828\x1C1701373.16\x1C22735418.51\x1CAdvertising-TV
+    placement (New Ideas)\x1C004\x1C\x1CO\x1CP80003338\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+sourceurl: !!python/unicode 20130516
+type: chunk
