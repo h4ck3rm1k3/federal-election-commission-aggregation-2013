@@ -1,0 +1,2206 @@
+countrows: 20
+filename: 853781.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: HDD2CA792D3A244C1BD3
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: H84463C0E826E4C9A9C6
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: SurveyMonkey
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 285 Hamilton Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: 5th Floor
+  - name: PAYEE CITY
+    number: '15'
+    value: Palo Alto
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '943012580'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ADMIN
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121217'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '24.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '8.64'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '15.36'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '24.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Subscription - Card Service Center
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CHDD2CA792D3A244C1BD3\x1CH84463C0E826E4C9A9C6\x1CH4\x1CORG\x1CSurveyMonkey\x1C\x1C\x1C\x1C\x1C\x1C285
+    Hamilton Ave\x1C5th Floor\x1CPalo Alto\x1CCA\x1C943012580\x1CADMIN\x1C20121217\x1C24.00\x1C8.64\x1C15.36\x1C24.00\x1CParty
+    Subscription - Card Service Center\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: HF08A549576B547538C2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: EverBank Commerical Finance
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 'Dept #1608'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Denver
+  - name: PAYEE STATE
+    number: '16'
+    value: CO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '802910001'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121218'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '573.72'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '206.54'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '367.18'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '1999446.71'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Equipment Lease Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CHF08A549576B547538C2\x1C\x1C\x1CORG\x1CEverBank Commerical
+    Finance\x1C\x1C\x1C\x1C\x1C\x1CDept #1608\x1C\x1CDenver\x1CCO\x1C802910001\x1CAdmin\x1C20121218\x1C573.72\x1C206.54\x1C367.18\x1C1999446.71\x1CParty
+    Equipment Lease Expense\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: HAEE1E3ABC793456E86F
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Wilson Perkins Allen
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1319 Classen Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Oklahoma City
+  - name: PAYEE STATE
+    number: '16'
+    value: OK
+  - name: PAYEE ZIP
+    number: '17'
+    value: '731032412'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121218'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '10000.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '3600.00'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '6400.00'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '1999446.71'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Research Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CHAEE1E3ABC793456E86F\x1C\x1C\x1CORG\x1CWilson Perkins
+    Allen\x1C\x1C\x1C\x1C\x1C\x1C1319 Classen Drive\x1C\x1COklahoma City\x1COK\x1C731032412\x1CAdmin\x1C20121218\x1C10000.00\x1C3600.00\x1C6400.00\x1C1999446.71\x1CParty
+    Research Expense\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: HA166B88DF9204D38954
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Daniel
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Cassidy
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '11316 Jollyville Rd #115'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Austin
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '787594057'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '1425.31'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '513.11'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '912.20'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Employee Payroll Expense <25% Fed
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CHA166B88DF9204D38954\x1C\x1C\x1CIND\x1C\x1CDaniel\x1CCassidy\x1C\x1C\x1C\x1C11316
+    Jollyville Rd #115\x1C\x1CAustin\x1CTX\x1C787594057\x1CAdmin\x1C20121231\x1C1425.31\x1C513.11\x1C912.20\x1C2024162.70\x1CParty
+    Employee Payroll Expense <25% Fed\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: H5FBDA21CF9874C4DA45
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Mason
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Keri
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 101 Colorado, 3021
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Austin
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '787014103'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '2259.69'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '813.49'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '1446.20'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Employee Payroll Expense <25% Fed
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CH5FBDA21CF9874C4DA45\x1C\x1C\x1CIND\x1C\x1CMason\x1CKeri\x1C\x1C\x1C\x1C101
+    Colorado, 3021\x1C\x1CAustin\x1CTX\x1C787014103\x1CAdmin\x1C20121231\x1C2259.69\x1C813.49\x1C1446.20\x1C2024162.70\x1CParty
+    Employee Payroll Expense <25% Fed\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: H6D294B3AF71B4A2EBAF
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Jackson
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: John
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '6500 Champion Grandview Way #28008'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Austin
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '787508408'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '2000.73'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '720.26'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '1280.47'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Employee Payroll Expense <25% Fed
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CH6D294B3AF71B4A2EBAF\x1C\x1C\x1CIND\x1C\x1CJackson\x1CJohn\x1C\x1C\x1C\x1C6500
+    Champion Grandview Way #28008\x1C\x1CAustin\x1CTX\x1C787508408\x1CAdmin\x1C20121231\x1C2000.73\x1C720.26\x1C1280.47\x1C2024162.70\x1CParty
+    Employee Payroll Expense <25% Fed\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: HB69808856AAD431DBC1
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Carona
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Nicholas
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: J
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 11634 Argonne Forest Trl Apt A
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Austin
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '787592207'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '1014.12'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '365.08'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '649.04'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Employee Payroll Expense <25% Fed
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CHB69808856AAD431DBC1\x1C\x1C\x1CIND\x1C\x1CCarona\x1CNicholas\x1CJ\x1C\x1C\x1C11634
+    Argonne Forest Trl Apt A\x1C\x1CAustin\x1CTX\x1C787592207\x1CAdmin\x1C20121231\x1C1014.12\x1C365.08\x1C649.04\x1C2024162.70\x1CParty
+    Employee Payroll Expense <25% Fed\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: H0AB3319AA7E74582866
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Yeldell
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Spencer
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '625 E Stassney Ln Apt #6203'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Austin
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '787454280'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '1566.87'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '564.07'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '1002.80'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Employee Payroll Expense <25% Fed
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CH0AB3319AA7E74582866\x1C\x1C\x1CIND\x1C\x1CYeldell\x1CSpencer\x1C\x1C\x1C\x1C625
+    E Stassney Ln Apt #6203\x1C\x1CAustin\x1CTX\x1C787454280\x1CAdmin\x1C20121231\x1C1566.87\x1C564.07\x1C1002.80\x1C2024162.70\x1CParty
+    Employee Payroll Expense <25% Fed\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: HDC615A718A624044B20
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Stoner
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Jennifer
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 15001 Lantern Dr
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Pflugerville
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '786604942'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '2309.48'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '831.41'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '1478.07'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Employee Payroll Expense <25% Fed
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CHDC615A718A624044B20\x1C\x1C\x1CIND\x1C\x1CStoner\x1CJennifer\x1C\x1C\x1C\x1C15001
+    Lantern Dr\x1C\x1CPflugerville\x1CTX\x1C786604942\x1CAdmin\x1C20121231\x1C2309.48\x1C831.41\x1C1478.07\x1C2024162.70\x1CParty
+    Employee Payroll Expense <25% Fed\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: H467F86CA4A694593AE6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Wilson
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Rachel
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: K.
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 209 Mountain Home
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Cibolo
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '781083479'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '1047.18'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '376.98'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '670.20'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Employee Payroll Expense <25% Fed
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CH467F86CA4A694593AE6\x1C\x1C\x1CIND\x1C\x1CWilson\x1CRachel\x1CK.\x1C\x1C\x1C209
+    Mountain Home\x1C\x1CCibolo\x1CTX\x1C781083479\x1CAdmin\x1C20121231\x1C1047.18\x1C376.98\x1C670.20\x1C2024162.70\x1CParty
+    Employee Payroll Expense <25% Fed\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: HB2265C0F0FDE43F3900
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Leonard
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Christopher
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: Mr.
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 9602 Holly Springs
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Austin
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '787485828'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '156.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '56.16'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '99.84'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Website Consulting Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CHB2265C0F0FDE43F3900\x1C\x1C\x1CIND\x1C\x1CLeonard\x1CChristopher\x1C\x1CMr.\x1C\x1C9602
+    Holly Springs\x1C\x1CAustin\x1CTX\x1C787485828\x1CAdmin\x1C20121231\x1C156.00\x1C56.16\x1C99.84\x1C2024162.70\x1CParty
+    Website Consulting Expense\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: HC7A3B80CD2AE4B41A34
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Pacek
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Lauren
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 116 Golden Bear Dr.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Austin
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '787381720'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '848.81'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '305.57'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '543.24'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Employee Payroll Expense <25% Fed
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CHC7A3B80CD2AE4B41A34\x1C\x1C\x1CIND\x1C\x1CPacek\x1CLauren\x1C\x1C\x1C\x1C116
+    Golden Bear Dr.\x1C\x1CAustin\x1CTX\x1C787381720\x1CAdmin\x1C20121231\x1C848.81\x1C305.57\x1C543.24\x1C2024162.70\x1CParty
+    Employee Payroll Expense <25% Fed\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: HB45C5404580848E7AA9
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Cubriel
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Beth
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 5942 Kevin Kelly
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Austin
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '787277012'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '2987.18'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '1075.38'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '1911.80'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Employee Payroll Expense <25% Fed
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CHB45C5404580848E7AA9\x1C\x1C\x1CIND\x1C\x1CCubriel\x1CBeth\x1C\x1C\x1C\x1C5942
+    Kevin Kelly\x1C\x1CAustin\x1CTX\x1C787277012\x1CAdmin\x1C20121231\x1C2987.18\x1C1075.38\x1C1911.80\x1C2024162.70\x1CParty
+    Employee Payroll Expense <25% Fed\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: HB2119729D98F45CD904
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: McCord
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: John
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 216 Cloudview Dr
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Austin
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '787455615'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '2094.37'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '753.97'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '1340.40'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Employee Payroll Expense <25% Fed
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CHB2119729D98F45CD904\x1C\x1C\x1CIND\x1C\x1CMcCord\x1CJohn\x1C\x1C\x1C\x1C216
+    Cloudview Dr\x1C\x1CAustin\x1CTX\x1C787455615\x1CAdmin\x1C20121231\x1C2094.37\x1C753.97\x1C1340.40\x1C2024162.70\x1CParty
+    Employee Payroll Expense <25% Fed\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: HB1E27B6E09EC410BAD0
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Zapata
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: David
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 5402 Kenton Falls
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Antonio
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '782401575'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '1070.93'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '385.53'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '685.40'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Employee Payroll Expense <25% Fed
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CHB1E27B6E09EC410BAD0\x1C\x1C\x1CIND\x1C\x1CZapata\x1CDavid\x1C\x1C\x1C\x1C5402
+    Kenton Falls\x1C\x1CSan Antonio\x1CTX\x1C782401575\x1CAdmin\x1C20121231\x1C1070.93\x1C385.53\x1C685.40\x1C2024162.70\x1CParty
+    Employee Payroll Expense <25% Fed\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: HD69855819B5B49C6B7F
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Ozarka Natural Spring Water Co.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P. O. Box 856680
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Louisville
+  - name: PAYEE STATE
+    number: '16'
+    value: KY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '402856680'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '8.65'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '3.11'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '5.54'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Office Expense - Water
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CHD69855819B5B49C6B7F\x1C\x1C\x1CORG\x1COzarka Natural
+    Spring Water Co.\x1C\x1C\x1C\x1C\x1C\x1CP. O. Box 856680\x1C\x1CLouisville\x1CKY\x1C402856680\x1CAdmin\x1C20121231\x1C8.65\x1C3.11\x1C5.54\x1C2024162.70\x1CParty
+    Office Expense - Water\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: H92B16AF77EE94201A99
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: OneTouchPoint - Ginny's
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: P:O Box 143924
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Austin
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '787143924'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '238.51'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '85.86'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '152.65'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Printing Expense
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CH92B16AF77EE94201A99\x1C\x1C\x1CORG\x1COneTouchPoint
+    - Ginny's\x1C\x1C\x1C\x1C\x1C\x1CP:O Box 143924\x1C\x1CAustin\x1CTX\x1C787143924\x1CAdmin\x1C20121231\x1C238.51\x1C85.86\x1C152.65\x1C2024162.70\x1CParty
+    Printing Expense\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: H39C46963C531494BBBF
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Internal Revenue Service
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: United States Treasury
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '5664.16'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '2039.10'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '3625.06'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Payroll Taxes <25% Fed
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CH39C46963C531494BBBF\x1C\x1C\x1CORG\x1CInternal Revenue
+    Service\x1C\x1C\x1C\x1C\x1C\x1CUnited States Treasury\x1C\x1CWashington\x1CDC\x1C20001\x1CAdmin\x1C20121231\x1C5664.16\x1C2039.10\x1C3625.06\x1C2024162.70\x1CParty
+    Payroll Taxes <25% Fed\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: H96A816D1ED6E4745AC7
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Card Service Center
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 569100
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '753569100'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: Admin
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '24.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '8.64'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '15.36'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '2024162.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: 'See Disbursement Detail Below:'
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CH96A816D1ED6E4745AC7\x1C\x1C\x1CORG\x1CCard Service Center\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 569100\x1C\x1CDallas\x1CTX\x1C753569100\x1CAdmin\x1C20121231\x1C24.00\x1C8.64\x1C15.36\x1C2024162.70\x1CSee
+    Disbursement Detail Below:\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: H4
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00143743
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: H30B733A18CBF4B87B15
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: H96A816D1ED6E4745AC7
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: H4
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: SurveyMonkey
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 285 Hamilton Ave
+  - name: PAYEE STREET 2
+    number: '14'
+    value: 5th Floor
+  - name: PAYEE CITY
+    number: '15'
+    value: Palo Alto
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '943012580'
+  - name: ACCOUNT/EVENT IDENTIFIER
+    number: '18'
+    value: ADMIN
+  - name: EXPENDITURE DATE
+    number: '19'
+    value: '20121231'
+  - name: TOTAL FED-NONFED AMOUNT
+    number: '20'
+    value: '24.00'
+  - name: FEDERAL SHARE
+    number: '21'
+    value: '8.64'
+  - name: NONFEDERAL SHARE
+    number: '22'
+    value: '15.36'
+  - name: ACTIVITY/EVENT TOTAL YTD
+    number: '23'
+    value: '24.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '24'
+    value: Party Subscription - Card Service Center
+  - name: CATEGORY CODE
+    number: '25'
+    value: ''
+  - name: Activity is Administrative - Only
+    number: 26-
+    value: X
+  - name: Activity is Direct Fundraising
+    number: 27-
+    value: ''
+  - name: Activity is an Exempt Activity
+    number: 28-
+    value: ''
+  - name: Activity is Generic Voter Drive - Only
+    number: 29-
+    value: ''
+  - name: Activity is Direct Candidate Support
+    number: 30-
+    value: ''
+  - name: Activity is Party Public Communications Made by PAC
+    number: 31-
+    value: ''
+  - name: MEMO CODE
+    number: '32'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "H4\x1CC00143743\x1CH30B733A18CBF4B87B15\x1CH96A816D1ED6E4745AC7\x1CH4\x1CORG\x1CSurveyMonkey\x1C\x1C\x1C\x1C\x1C\x1C285
+    Hamilton Ave\x1C5th Floor\x1CPalo Alto\x1CCA\x1C943012580\x1CADMIN\x1C20121231\x1C24.00\x1C8.64\x1C15.36\x1C24.00\x1CParty
+    Subscription - Card Service Center\x1C\x1CX\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.SH4
+  result: []
+sourceurl: !!python/unicode 20130201
+type: chunk

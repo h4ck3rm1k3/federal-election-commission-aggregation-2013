@@ -1,0 +1,217 @@
+countrows: 3
+filename: 853151.fec
+header: {}
+rows:
+- 2
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F5N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90014549
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: UNITE HERE Local 1 Political Action Committee
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: ''
+  - name: STREET 1
+    number: '11'
+    value: 44 WEst Van Buren Street 4th Floor
+  - name: STREET 2
+    number: '12'
+    value: ''
+  - name: CITY
+    number: '13'
+    value: Chicago
+  - name: STATE
+    number: '14'
+    value: IL
+  - name: ZIP
+    number: '15'
+    value: '60605'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: N
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: ''
+  - name: REPORT CODE
+    number: '19'
+    value: YE
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: '20121001'
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: '20121231'
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '7295.00'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: Karen
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: Kent
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: ''
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130131'
+  - value: '
+
+'
+  expected_count: 30
+  input: "F5N\x1CC90014549\x1CORG\x1CUNITE HERE Local 1 Political Action Committee\x1C\x1C\x1C\x1C\x1C\x1C\x1C44
+    WEst Van Buren Street 4th Floor\x1C\x1CChicago\x1CIL\x1C60605\x1CN\x1C\x1C\x1CYE\x1C\x1C20121001\x1C20121231\x1C.00\x1C7295.00\x1CKaren\x1CKent\x1C\x1C\x1C\x1C20130131\x1C\n"
+  input_count: 31
+  record: fec.version.v8_0.F5
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90014549
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000001
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: One Tree Forest Films
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 333 N. Oakley Avenue Unit 206
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Chicago
+  - name: PAYEE STATE
+    number: '14'
+    value: IL
+  - name: PAYEE ZIP
+    number: '15'
+    value: '60605'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121010'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '7295.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '7295.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Production of ad
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: Obama
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: Barack
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90014549\x1CF57.000001\x1CORG\x1COne Tree Forest Films\x1C\x1C\x1C\x1C\x1C\x1C333
+    N. Oakley Avenue Unit 206\x1C\x1CChicago\x1CIL\x1C60605\x1CG2012\x1C\x1C20121010\x1C7295.00\x1C7295.00\x1CProduction
+    of ad\x1C004\x1C\x1CS\x1CP80003338\x1CObama\x1CBarack\x1C\x1C\x1C\x1CP\x1CIL\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+sourceurl: !!python/unicode 20130131
+type: chunk

@@ -1,0 +1,4583 @@
+countrows: 36
+filename: 850235.fec
+header: {}
+rows:
+- 2
+- input: "F24A\x1CC00489625\x1C24\x1C20130128\x1CFaith Family Freedom Fund\x1C801
+    G Street, NW\x1C\x1CWashington\x1CDC\x1C20001\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: '20130128'
+  - name: COMMITTEE NAME
+    number: '5'
+    value: Faith Family Freedom Fund
+  - name: STREET 1
+    number: '6'
+    value: 801 G Street, NW
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Washington
+  - name: STATE
+    number: '9'
+    value: DC
+  - name: ZIP
+    number: '10'
+    value: '20001'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Tripodi
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Paul
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130129
+
+'
+- input: "TEXT\x1CC00489625\x1C.TEXT\x1C\x1CF24A\x1CThis report has previously been
+    amended to delete the vendor Family Research Council Action and report the individual
+    vendors for this independent expenditure (bus tour).  When the report was filed,
+    it was contemplated that the expenses associated with the bus tour would be paid
+    to Family Research Council Action.  When the report was amended, good faith estimates
+    of the expenses were used.  The report includes additional vendors and provides
+    specific amounts.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: .TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F24A
+  - name: TEXT4000
+    number: '6'
+    value: 'This report has previously been amended to delete the vendor Family Research
+      Council Action and report the individual vendors for this independent expenditure
+      (bus tour).  When the report was filed, it was contemplated that the expenses
+      associated with the bus tour would be paid to Family Research Council Action.  When
+      the report was amended, good faith estimates of the expenses were used.  The
+      report includes additional vendors and provides specific amounts.
+
+'
+- input: "SE\x1CC00489625\x1CSE.9496\x1C\x1C\x1CIND\x1C\x1CBroden\x1CStephen\x1C\x1CRev.\x1C\x1C1321
+    Rowan\x1C\x1CDallas\x1CTX\x1C75223\x1CG2012\x1C\x1C20121029\x1C308.79\x1C104460.66\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9496
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Broden
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Stephen
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: Rev.
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1321 Rowan
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75223'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '308.79'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '104460.66'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9498\x1C\x1C\x1CIND\x1C\x1CBroden\x1CStephen\x1C\x1CRev.\x1C\x1C1321
+    Rowan\x1C\x1CDallas\x1CTX\x1C75223\x1CG2012\x1C\x1C20121029\x1C308.80\x1C104460.66\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CO\x1CS6MO00305\x1CMCCASKILL\x1CCLAIRE\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9498
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Broden
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Stephen
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: Rev.
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1321 Rowan
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Dallas
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75223'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '308.80'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '104460.66'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6MO00305
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MCCASKILL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CLAIRE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9535\x1C\x1C\x1CIND\x1C\x1CBurt\x1CRandy\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C2306.55\x1C107520.31\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9535
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Burt
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Randy
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '2306.55'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '107520.31'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.8529\x1C\x1C\x1CORG\x1CChampion Coach\x1C\x1C\x1C\x1C\x1C\x1C145
+    Ben Hamby Lane\x1C\x1CGreenville\x1CSC\x1C29615\x1CG2012\x1C\x1C20121029\x1C7700.00\x1C25087.00\x1CBus
+    rental\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.8529
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Champion Coach
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 145 Ben Hamby Lane
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Greenville
+  - name: PAYEE STATE
+    number: '16'
+    value: SC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '29615'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '7700.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '25087.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Bus rental
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.8531\x1C\x1C\x1CORG\x1CChampion Coach\x1C\x1C\x1C\x1C\x1C\x1C145
+    Ben Hamby Lane\x1C\x1CGreenville\x1CSC\x1C29615\x1CG2012\x1C\x1C20121029\x1C7700.00\x1C25087.00\x1CBus
+    rental\x1C002\x1CC00489625\x1CO\x1CS6MO00305\x1CMCCASKILL\x1CCLAIRE\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.8531
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Champion Coach
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 145 Ben Hamby Lane
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Greenville
+  - name: PAYEE STATE
+    number: '16'
+    value: SC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '29615'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '7700.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '25087.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Bus rental
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6MO00305
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MCCASKILL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CLAIRE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9561\x1C\x1C\x1CIND\x1C\x1CCurry\x1CChris\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C3131.60\x1C113035.70\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9561
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Curry
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Chris
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '3131.60'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '113035.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9614\x1C\x1C\x1CIND\x1C\x1CCurry\x1CChris\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C114.11\x1C113674.35\x1CBus
+    tour travel expense\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9614
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Curry
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Chris
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '114.11'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '113674.35'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Bus tour travel expense
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9484\x1C\x1C\x1CORG\x1CEngineering Supply and Imaging\x1C\x1C\x1C\x1C\x1C\x1C11281
+    James Street\x1C\x1CHolland\x1CMI\x1C49424\x1CG2012\x1C\x1C20121029\x1C50.88\x1C102587.00\x1CSupplies
+    for bus tour\x1C007\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9484
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Engineering Supply and Imaging
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 11281 James Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Holland
+  - name: PAYEE STATE
+    number: '16'
+    value: MI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '49424'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '50.88'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '102587.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Supplies for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '007'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9500\x1C\x1C\x1CORG\x1CEngineering Supply and Imaging\x1C\x1C\x1C\x1C\x1C\x1C11281
+    James Street\x1C\x1CHolland\x1CMI\x1C49424\x1CG2012\x1C\x1C20121029\x1C50.88\x1C104460.66\x1CSupplies
+    for bus tour\x1C007\x1CC00489625\x1CO\x1CS6MO00305\x1CMCCASKILL\x1CCLAIRE\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9500
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Engineering Supply and Imaging
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 11281 James Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Holland
+  - name: PAYEE STATE
+    number: '16'
+    value: MI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '49424'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '50.88'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '104460.66'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Supplies for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '007'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6MO00305
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MCCASKILL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CLAIRE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9510\x1C\x1C\x1CIND\x1C\x1CFlavin\x1CKathy\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C222.05\x1C104991.71\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9510
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Flavin
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Kathy
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '222.05'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '104991.71'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9512\x1C\x1C\x1CIND\x1C\x1CFlavin\x1CKathy\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C222.05\x1C105213.76\x1CTravel
+    expenses\x1C002\x1CC00489625\x1CO\x1CS6MO00305\x1CMCCASKILL\x1CCLAIRE\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9512
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Flavin
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Kathy
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '222.05'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '105213.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6MO00305
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MCCASKILL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CLAIRE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9530\x1C\x1C\x1CORG\x1CFris Office Outfitters\x1C\x1C\x1C\x1C\x1C\x1C109
+    River Avenue\x1C\x1CHolland\x1CMI\x1C49423\x1CG2012\x1C\x1C20121029\x1C447.49\x1C105213.76\x1CBus
+    tour supplies\x1C006\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9530
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Fris Office Outfitters
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 109 River Avenue
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Holland
+  - name: PAYEE STATE
+    number: '16'
+    value: MI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '49423'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '447.49'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '105213.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Bus tour supplies
+  - name: CATEGORY CODE
+    number: '24'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9616\x1C\x1C\x1CORG\x1CGoogle Inc.\x1C\x1C\x1C\x1C\x1C\x1C1600
+    Amphitheatre Parkway\x1C\x1CMountain View\x1CCA\x1C94043\x1CG2012\x1C\x1C20121029\x1C300.72\x1C300.72\x1COnline
+    ad\x1C004\x1CC00489625\x1CO\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9616
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Google Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1600 Amphitheatre Parkway
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Mountain View
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '94043'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '300.72'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '300.72'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Online ad
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9522\x1C\x1C\x1CORG\x1CLamplight Entertainment Inc.\x1C\x1C\x1C\x1C\x1C\x1C8722
+    Oakdale Ave.\x1C\x1CNorthridge\x1CCA\x1C91324\x1CG2012\x1C\x1C20121029\x1C1500.00\x1C105213.76\x1CSupplies
+    for bus tour\x1C006\x1CC00489625\x1CO\x1CS6MO00305\x1CMCCASKILL\x1CCLAIRE\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9522
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Lamplight Entertainment Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 8722 Oakdale Ave.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Northridge
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '91324'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '105213.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Supplies for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6MO00305
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MCCASKILL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CLAIRE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9524\x1C\x1C\x1CORG\x1CLamplight Entertainment Inc.\x1C\x1C\x1C\x1C\x1C\x1C8722
+    Oakdale Ave.\x1C\x1CNorthridge\x1CCA\x1C91324\x1CG2012\x1C\x1C20121029\x1C1500.00\x1C105213.76\x1CSupplies
+    for bus tour\x1C006\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9524
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Lamplight Entertainment Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 8722 Oakdale Ave.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Northridge
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '91324'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1500.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '105213.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Supplies for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9490\x1C\x1C\x1CIND\x1C\x1CMackay\x1CConnie\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C936.83\x1C103523.83\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9490
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Mackay
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Connie
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '936.83'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '103523.83'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9492\x1C\x1C\x1CIND\x1C\x1CMackay\x1CConnie\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C936.83\x1C104460.66\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CO\x1CS6MO00305\x1CMCCASKILL\x1CCLAIRE\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9492
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Mackay
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Connie
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '936.83'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '104460.66'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6MO00305
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MCCASKILL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CLAIRE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9506\x1C\x1C\x1CIND\x1C\x1CMackay\x1CConnie\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C154.50\x1C104615.16\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9506
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Mackay
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Connie
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '154.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '104615.16'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9508\x1C\x1C\x1CIND\x1C\x1CMackay\x1CConnie\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C154.50\x1C104769.66\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CO\x1CS6MO00305\x1CMCCASKILL\x1CCLAIRE\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9508
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Mackay
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Connie
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '154.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '104769.66'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6MO00305
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MCCASKILL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CLAIRE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9559\x1C\x1C\x1CIND\x1C\x1CMears\x1CMike\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C2383.79\x1C109904.10\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9559
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Mears
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Mike
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '2383.79'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '109904.10'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9514\x1C\x1C\x1CIND\x1C\x1CMiller\x1CDarin\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C845.69\x1C105213.76\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9514
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Miller
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Darin
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '845.69'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '105213.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9516\x1C\x1C\x1CIND\x1C\x1CMiller\x1CDarin\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C845.69\x1C105213.76\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CO\x1CS6MO00305\x1CMCCASKILL\x1CCLAIRE\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9516
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Miller
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Darin
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '845.69'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '105213.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6MO00305
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MCCASKILL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CLAIRE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9532\x1C\x1C\x1CORG\x1CNewscom Services Inc.\x1C\x1C\x1C\x1C\x1C\x1C375
+    Chipeta Way\x1CSuite B\x1CSalt Lake City\x1CUT\x1C84108\x1CG2012\x1C\x1C20121029\x1C60.00\x1C105213.76\x1CBus
+    tour supplies\x1C006\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9532
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Newscom Services Inc.
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 375 Chipeta Way
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Suite B
+  - name: PAYEE CITY
+    number: '15'
+    value: Salt Lake City
+  - name: PAYEE STATE
+    number: '16'
+    value: UT
+  - name: PAYEE ZIP
+    number: '17'
+    value: '84108'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '60.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '105213.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Bus tour supplies
+  - name: CATEGORY CODE
+    number: '24'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9502\x1C\x1C\x1CIND\x1C\x1CPotter\x1CScott\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C453.96\x1C104460.66\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9502
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Potter
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Scott
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '453.96'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '104460.66'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9504\x1C\x1C\x1CIND\x1C\x1CPotter\x1CScott\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C453.97\x1C104460.66\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CO\x1CS6MO00305\x1CMCCASKILL\x1CCLAIRE\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9504
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Potter
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Scott
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '453.97'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '104460.66'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6MO00305
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MCCASKILL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CLAIRE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9607\x1C\x1C\x1CIND\x1C\x1CPotter\x1CScott\x1C\x1C\x1C\x1C801
+    G Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CG2012\x1C\x1C20121029\x1C300.00\x1C113335.70\x1CBus
+    tour travel expense\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9607
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Potter
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Scott
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 801 G Street NW
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Washington
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '300.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '113335.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Bus tour travel expense
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9621\x1C\x1C\x1CORG\x1CPR Newswire\x1C\x1C\x1C\x1C\x1C\x1CG.P.O.
+    Box 5897\x1C\x1CNew York\x1CNY\x1C10087\x1CG2012\x1C\x1C20121029\x1C240.00\x1C114361.84\x1CBus
+    tour advertising\x1C004\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9621
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: PR Newswire
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: G.P.O. Box 5897
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: New York
+  - name: PAYEE STATE
+    number: '16'
+    value: NY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '10087'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '240.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '114361.84'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Bus tour advertising
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9518\x1C\x1C\x1CORG\x1CSkyline West Michigan\x1C\x1C\x1C\x1C\x1C\x1C4768
+    Danvers Dr. SE\x1C\x1CKentwood\x1CMI\x1C49512\x1CG2012\x1C\x1C20121029\x1C1639.30\x1C105213.76\x1CSupplies
+    for bus tour\x1C007\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9518
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Skyline West Michigan
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 4768 Danvers Dr. SE
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Kentwood
+  - name: PAYEE STATE
+    number: '16'
+    value: MI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '49512'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1639.30'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '105213.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Supplies for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '007'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9520\x1C\x1C\x1CORG\x1CSkyline West Michigan\x1C\x1C\x1C\x1C\x1C\x1C4768
+    Danvers Dr. SE\x1C\x1CKentwood\x1CMI\x1C49512\x1CG2012\x1C\x1C20121029\x1C1639.31\x1C105213.76\x1CSupplies
+    for bus tour\x1C007\x1CC00489625\x1CO\x1CS6MO00305\x1CMCCASKILL\x1CCLAIRE\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9520
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Skyline West Michigan
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 4768 Danvers Dr. SE
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Kentwood
+  - name: PAYEE STATE
+    number: '16'
+    value: MI
+  - name: PAYEE ZIP
+    number: '17'
+    value: '49512'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1639.31'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '105213.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Supplies for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '007'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6MO00305
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MCCASKILL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CLAIRE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9623\x1C\x1C\x1CORG\x1CUPS\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 533238\x1C\x1CCharlotte\x1CNC\x1C28290\x1CG2012\x1C\x1C20121029\x1C1095.05\x1C115456.89\x1CBus
+    tour supplies\x1C001\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9623
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: UPS
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 533238
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Charlotte
+  - name: PAYEE STATE
+    number: '16'
+    value: NC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '28290'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1095.05'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '115456.89'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Bus tour supplies
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9612\x1C\x1C\x1CIND\x1C\x1CWright\x1CGlyn\x1C\x1C\x1C\x1C8412
+    Blackishton Ln\x1C\x1CAlexandria\x1CVA\x1C22308\x1CG2012\x1C\x1C20121029\x1C224.54\x1C113560.24\x1CBus
+    tour travel expense\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9612
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Wright
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Glyn
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 8412 Blackishton Ln
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Alexandria
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22308'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '224.54'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '113560.24'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Bus tour travel expense
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9486\x1C\x1C\x1CIND\x1C\x1CYarborough\x1CMark\x1C\x1C\x1C\x1C417
+    Desert Garden Drive\x1C\x1CPlano\x1CTX\x1C75093\x1CG2012\x1C\x1C20121029\x1C356.18\x1C102587.00\x1CTravel
+    expenses for bus tour\x1C002\x1CC00489625\x1CS\x1CS2MO00429\x1CAKIN\x1CW TODD\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9486
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Yarborough
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Mark
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 417 Desert Garden Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Plano
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75093'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '356.18'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '102587.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: '002'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S2MO00429
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: AKIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: W TODD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00489625\x1CSE.9488\x1C\x1C\x1CIND\x1C\x1CYarborough\x1CMark\x1C\x1C\x1C\x1C417
+    Desert Garden Drive\x1C\x1CPlano\x1CTX\x1C75093\x1CG2012\x1C\x1C20121029\x1C356.19\x1C102587.00\x1CTravel
+    expenses for bus tour\x1C\x1CC00489625\x1CO\x1CS6MO00305\x1CMCCASKILL\x1CCLAIRE\x1C\x1C\x1C\x1CS\x1CMO\x1C\x1CTripodi\x1CPaul\x1C\x1C\x1C\x1C20130129\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00489625
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.9488
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Yarborough
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Mark
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 417 Desert Garden Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Plano
+  - name: PAYEE STATE
+    number: '16'
+    value: TX
+  - name: PAYEE ZIP
+    number: '17'
+    value: '75093'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '356.19'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '102587.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Travel expenses for bus tour
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00489625
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: S6MO00305
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MCCASKILL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: CLAIRE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Tripodi
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Paul
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130129'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130129
+type: chunk

@@ -1,0 +1,2170 @@
+countrows: 18
+filename: 851302.fec
+header: {}
+rows:
+- 2
+- input: "F3A\x1CC00280453\x1CJOHN SHADEGGS FRIENDS\x1C\x1CPO BOX 45444\x1C\x1CPHOENIX\x1CAZ\x1C85064\x1CAZ\x1C03\x1CQ3\x1C\x1C\x1C\x1C20110701\x1C20110930\x1CMacPherson\x1CIan\x1C\x1C\x1C\x1C20130130\x1C6000.00\x1C300.00\x1C5700.00\x1C1079.00\x1C148.73\x1C930.27\x1C6603.84\x1C0.00\x1C11648.30\x1C6000.00\x1C0.00\x1C6000.00\x1C0.00\x1C0.00\x1C0.00\x1C6000.00\x1C0.00\x1C1800.00\x1C0.00\x1C1800.00\x1C148.73\x1C0.00\x1C7948.73\x1C1079.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C300.00\x1C0.00\x1C0.00\x1C300.00\x1C0.00\x1C1379.00\x1C34.11\x1C7948.73\x1C7982.84\x1C1379.00\x1C6603.84\x1C11400.00\x1C300.00\x1C11100.00\x1C10828.19\x1C920.52\x1C9907.67\x1C11400.00\x1C0.00\x1C11400.00\x1C0.00\x1C0.00\x1C0.00\x1C11400.00\x1C0.00\x1C5704.50\x1C0.00\x1C5704.50\x1C920.52\x1C0.00\x1C18025.02\x1C10828.19\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C300.00\x1C0.00\x1C0.00\x1C300.00\x1C0.00\x1C11128.19\n"
+  record: fec.version.v8_0.F3
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: COMMITTEE NAME
+    number: '3'
+    value: JOHN SHADEGGS FRIENDS
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: PO BOX 45444
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: PHOENIX
+  - name: STATE
+    number: '8'
+    value: AZ
+  - name: ZIP
+    number: '9'
+    value: '85064'
+  - name: ELECTION STATE
+    number: '10'
+    value: AZ
+  - name: ELECTION DISTRICT
+    number: '11'
+    value: '03'
+  - name: REPORT CODE
+    number: '12'
+    value: Q3
+  - name: ELECTION CODE
+    number: '13'
+    value: ''
+  - name: DATE OF ELECTION
+    number: '14'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '15'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '16'
+    value: '20110701'
+  - name: COVERAGE THROUGH DATE
+    number: '17'
+    value: '20110930'
+  - name: TREASURER LAST NAME
+    number: '18'
+    value: MacPherson
+  - name: TREASURER FIRST NAME
+    number: '19'
+    value: Ian
+  - name: TREASURER MIDDLE NAME
+    number: '20'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '21'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20130130'
+  - name: Total Contributions (NO Loans)
+    number: 24-(6a)
+    value: '6000.00'
+  - name: Total Contribution Refunds
+    number: 25-(6b)
+    value: '300.00'
+  - name: Net Contributions
+    number: 26-(6c)
+    value: '5700.00'
+  - name: Total Operating Expenditures
+    number: 27-(7a)
+    value: '1079.00'
+  - name: Total Offset to Operating Expenditures
+    number: 28-(7b)
+    value: '148.73'
+  - name: NET Operating Expenditures.
+    number: 29-(7c)
+    value: '930.27'
+  - name: CASH ON HAND AT CLOSE ...
+    number: 30-8.
+    value: '6603.84'
+  - name: DEBTS TO ( Totals from SCH C and/or D)
+    number: 31-9.
+    value: '0.00'
+  - name: DEBTS BY (Totals from SCH C and/or D)
+    number: 32-10.
+    value: '11648.30'
+  - name: Individuals Itemized
+    number: 33-11(a i.)
+    value: '6000.00'
+  - name: Individuals Unitemized
+    number: 34-11(a.ii)
+    value: '0.00'
+  - name: Individual Contribution Total
+    number: 35-11(a.iii)
+    value: '6000.00'
+  - name: Political Party Committees
+    number: 36-11(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 37-11(c)
+    value: '0.00'
+  - name: The Candidate
+    number: 38-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 39-11(e)
+    value: '6000.00'
+  - name: Transfers From Other Authorized Committees
+    number: 40-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 41-13(a)
+    value: '1800.00'
+  - name: All Other Loans
+    number: 42-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 43-13(c)
+    value: '1800.00'
+  - name: Offsets to Operating Expenditures
+    number: 44-14.
+    value: '148.73'
+  - name: Other Receipts
+    number: 45-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 46-16.
+    value: '7948.73'
+  - name: Operating Expenditures
+    number: 47-17.
+    value: '1079.00'
+  - name: Transfers to Other Authorized Committees
+    number: 48-18.
+    value: '0.00'
+  - name: Of Loans made or guar. by the Cand.
+    number: 49-19(a)
+    value: '0.00'
+  - name: Loan Repayments, All Other Loans
+    number: 50-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 51-19(c)
+    value: '0.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 52-20(a)
+    value: '300.00'
+  - name: Refund/Political Party Committees
+    number: 53-20(b)
+    value: '0.00'
+  - name: Refund/Other Political Committees
+    number: 54-20(c)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 55-20(d)
+    value: '300.00'
+  - name: Other Disbursements
+    number: 56-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 57-22.
+    value: '1379.00'
+  - name: Cash Beginning Reporting Period
+    number: 58-23.
+    value: '34.11'
+  - name: Total Receipts this Period
+    number: 59-24.
+    value: '7948.73'
+  - name: Subtotals
+    number: 60-25.
+    value: '7982.84'
+  - name: Total Disbursements this Period
+    number: 61-26.
+    value: '1379.00'
+  - name: Cash on hand at Close Period
+    number: 62-27.
+    value: '6603.84'
+  - name: Total Contributions (No Loans)
+    number: 63-(6a)
+    value: '11400.00'
+  - name: Total Contribution Refunds
+    number: 64-(6b)
+    value: '300.00'
+  - name: Net Contributions
+    number: 65-(6c)
+    value: '11100.00'
+  - name: Total Operating Expenditures
+    number: 66-(7a)
+    value: '10828.19'
+  - name: Total Offsets to Operating Expenditures
+    number: 67-(7b)
+    value: '920.52'
+  - name: NET Operating Expenditures.
+    number: 68-(7c)
+    value: '9907.67'
+  - name: Individuals Itemized
+    number: 69-11(a i.)
+    value: '11400.00'
+  - name: Individuals Unitemized
+    number: 70-11(a.ii)
+    value: '0.00'
+  - name: Individuals Total
+    number: 71-11(a.iii)
+    value: '11400.00'
+  - name: Political Party Committees
+    number: 72-11(b)
+    value: '0.00'
+  - name: All Other Political Committees (PACS)
+    number: 73-11(c)
+    value: '0.00'
+  - name: The Candidate
+    number: 74-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 75-11(e)
+    value: '11400.00'
+  - name: Transfers From Other AUTH Committees
+    number: 76-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 77-13(a)
+    value: '5704.50'
+  - name: All Other Loans
+    number: 78-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 79-13(c)
+    value: '5704.50'
+  - name: Offsets to Operating Expenditures
+    number: 80-14.
+    value: '920.52'
+  - name: Other Receipts
+    number: 81-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 82-16.
+    value: '18025.02'
+  - name: Operating Expenditures
+    number: 83-17
+    value: '10828.19'
+  - name: Transfers To Other AUTH Committees
+    number: 84-18.
+    value: '0.00'
+  - name: Loan Repayment By Candidate
+    number: 85-19(a)
+    value: '0.00'
+  - name: Loan Repayments, ALL Other Loans
+    number: 86-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 87-19(c)
+    value: '0.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 88-20(a)
+    value: '300.00'
+  - name: Refund, Political Party Committees
+    number: 89-20(b)
+    value: '0.00'
+  - name: Refund, Other Political Committees
+    number: 90-20(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 91-20(d)
+    value: '300.00'
+  - name: Other Disbursements
+    number: 92-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 93-22.
+    value: '11128.19
+
+'
+- input: "SA11AI\x1CC00280453\x1CSA11AI.4186\x1C\x1C\x1CIND\x1C\x1CMagruder\x1CMarion
+    M.\x1C\x1C\x1C\x1C6158 N Paradise View Dr\x1C\x1CParadise Valley\x1CAZ\x1C85253\x1CP2010\x1C\x1C20110929\x1C1000.00\x1C1000.00\x1C2010
+    Debt Retirement\x1CMacDonalds of Phoenix/Mesa\x1CRestaurant Owner\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.4186
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Magruder
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Marion M.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 6158 N Paradise View Dr
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Paradise Valley
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: AZ
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '85253'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20110929'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '1000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: 2010 Debt Retirement
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: MacDonalds of Phoenix/Mesa
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Restaurant Owner
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00280453\x1CSA11AI.4190\x1C\x1C\x1CIND\x1C\x1CTrempala\x1CDohn\x1C\x1C\x1C\x1C1601
+    W Deer Valley Road\x1C\x1CPhoenix\x1CAZ\x1C85027\x1CP2010\x1C\x1C20110929\x1C2500.00\x1C2500.00\x1C2010
+    Debt Retirement\x1CKnox Company\x1CPresident\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.4190
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Trempala
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Dohn
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1601 W Deer Valley Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Phoenix
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: AZ
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '85027'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20110929'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '2500.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '2500.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: 2010 Debt Retirement
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: Knox Company
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: President
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00280453\x1CSA11AI.4192\x1C\x1C\x1CIND\x1C\x1CTrempala\x1CJoanne\x1C\x1C\x1C\x1C1601
+    W Deer Valley\x1C\x1CPhoenix\x1CAZ\x1C85027\x1CP2010\x1C\x1C20110929\x1C2500.00\x1C2500.00\x1C2010
+    Debt Retirement\x1CKnox Company\x1CCOO\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.4192
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Trempala
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Joanne
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 1601 W Deer Valley
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Phoenix
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: AZ
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '85027'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20110929'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '2500.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '2500.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: 2010 Debt Retirement
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: Knox Company
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: COO
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA13A\x1CC00280453\x1CSA13A.4200\x1C\x1C\x1CCAN\x1C\x1CSHADEGG\x1CJOHN B.\x1C\x1C\x1C\x1CP.
+    O. BOX 45444\x1C\x1CPHOENIX\x1CAZ\x1C85064\x1CP2010\x1C\x1C20110811\x1C50.00\x1C3954.50\x1CLoan
+    from Candidate from Personal Funds\x1CSelf\x1CAttorney\x1C\x1C\x1CH4AZ04016\x1CSHADEGG\x1CJOHN
+    B.\x1C\x1C\x1C\x1CH\x1CAZ\x1C03\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA13A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA13A.4200
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CAN
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: SHADEGG
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: JOHN B.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: P. O. BOX 45444
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: PHOENIX
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: AZ
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '85064'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20110811'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '50.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '3954.50'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: Loan from Candidate from Personal Funds
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: Self
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Attorney
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: H4AZ04016
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: SHADEGG
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: JOHN B.
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: AZ
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA13A\x1CC00280453\x1CSA13A.4201\x1C\x1C\x1CCAN\x1C\x1CSHADEGG\x1CJOHN B.\x1C\x1C\x1C\x1CP.
+    O. BOX 45444\x1C\x1CPHOENIX\x1CAZ\x1C85064\x1CP2010\x1C\x1C20110902\x1C1750.00\x1C5704.50\x1CLoan
+    from Candidate from Personal Funds\x1CSelf\x1CAttorney\x1C\x1C\x1CH4AZ04016\x1CSHADEGG\x1CJOHN
+    B.\x1C\x1C\x1C\x1CH\x1CAZ\x1C03\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA13A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA13A.4201
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CAN
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: SHADEGG
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: JOHN B.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: P. O. BOX 45444
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: PHOENIX
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: AZ
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '85064'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20110902'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1750.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '5704.50'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: Loan from Candidate from Personal Funds
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: Self
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Attorney
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: H4AZ04016
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: SHADEGG
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: JOHN B.
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: AZ
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: '03'
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB17\x1CC00280453\x1CSB17.4202\x1C\x1C\x1CORG\x1CBiltmore Pro Print\x1C\x1C\x1C\x1C\x1C\x1C3108
+    E Camelback Rd.\x1C\x1CPhoenix\x1CAZ\x1C85016\x1C\x1C\x1C20110902\x1C1000.00\x1C\x1CDesign
+    & Printing Services\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.4202
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Biltmore Pro Print
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 3108 E Camelback Rd.
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Phoenix
+  - name: PAYEE STATE
+    number: '16'
+    value: AZ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '85016'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20110902'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Design & Printing Services
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB17\x1CC00280453\x1CSB17.4194\x1C\x1C\x1CORG\x1CNational Bank of Arizona\x1C\x1C\x1C\x1C\x1C\x1C6225
+    N 24 St\x1C\x1CPhoenix\x1CAZ\x1C85016\x1C\x1C\x1C20110829\x1C47.00\x1C\x1CBank
+    Charge\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.4194
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: National Bank of Arizona
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 6225 N 24 St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Phoenix
+  - name: PAYEE STATE
+    number: '16'
+    value: AZ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '85016'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20110829'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '47.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Bank Charge
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB17\x1CC00280453\x1CSB17.4195\x1C\x1C\x1CORG\x1CNational Bank of Arizona\x1C\x1C\x1C\x1C\x1C\x1C6225
+    N 24 St\x1C\x1CPhoenix\x1CAZ\x1C85016\x1C\x1C\x1C20110909\x1C32.00\x1C\x1CBank
+    Charge\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.4195
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: National Bank of Arizona
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 6225 N 24 St
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Phoenix
+  - name: PAYEE STATE
+    number: '16'
+    value: AZ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '85016'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20110909'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '32.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Bank Charge
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SC/10\x1CC00280453\x1CSC/10.4129\x1C13A\x1CCAN\x1C\x1CSHADEGG\x1CJOHN B.\x1C\x1C\x1C\x1CP.
+    O. BOX 45444\x1C\x1CPHOENIX\x1CAZ\x1C85064\x1CG2008\x1C\x1C3000.00\x1C0.00\x1C3000.00\x1C20110331\x1C12/31/2013\x1C0.0000\x1CN\x1CY\x1C\x1CH4AZ04016\x1CSHADEGG\x1CJOHN
+    B.\x1C\x1C\x1C\x1CH\x1CAZ\x1C03\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4129
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHADEGG
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: JOHN B.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: P. O. BOX 45444
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: PHOENIX
+  - name: LENDER STATE
+    number: '15'
+    value: AZ
+  - name: LENDER ZIP
+    number: '16'
+    value: '85064'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '3000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '3000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20110331'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2013
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H4AZ04016
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHADEGG
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: JOHN B.
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: AZ
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '03'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00280453\x1CSC/10.4168\x1C13A\x1CCAN\x1C\x1CSHADEGG\x1CJOHN B.\x1C\x1C\x1C\x1CP.
+    O. BOX 45444\x1C\x1CPHOENIX\x1CAZ\x1C85064\x1CP2010\x1C\x1C904.50\x1C0.00\x1C904.50\x1C20110602\x1C12/31/2013\x1C0.0000\x1CN\x1CY\x1C\x1CH4AZ04016\x1CSHADEGG\x1CJOHN
+    B.\x1C\x1C\x1C\x1CH\x1CAZ\x1C03\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4168
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHADEGG
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: JOHN B.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: P. O. BOX 45444
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: PHOENIX
+  - name: LENDER STATE
+    number: '15'
+    value: AZ
+  - name: LENDER ZIP
+    number: '16'
+    value: '85064'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '904.50'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '904.50'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20110602'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2013
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H4AZ04016
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHADEGG
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: JOHN B.
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: AZ
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '03'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00280453\x1CSC/10.4200\x1C13A\x1CCAN\x1C\x1CSHADEGG\x1CJOHN B.\x1C\x1C\x1C\x1CP.
+    O. BOX 45444\x1C\x1CPHOENIX\x1CAZ\x1C85064\x1CP2010\x1C\x1C50.00\x1C0.00\x1C50.00\x1C20110811\x1C12/31/2013\x1C0.0000\x1CN\x1CY\x1C\x1CH4AZ04016\x1CSHADEGG\x1CJOHN
+    B.\x1C\x1C\x1C\x1CH\x1CAZ\x1C03\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4200
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHADEGG
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: JOHN B.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: P. O. BOX 45444
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: PHOENIX
+  - name: LENDER STATE
+    number: '15'
+    value: AZ
+  - name: LENDER ZIP
+    number: '16'
+    value: '85064'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '50.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '50.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20110811'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2013
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H4AZ04016
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHADEGG
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: JOHN B.
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: AZ
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '03'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00280453\x1CSC/10.4201\x1C13A\x1CCAN\x1C\x1CSHADEGG\x1CJOHN B.\x1C\x1C\x1C\x1CP.
+    O. BOX 45444\x1C\x1CPHOENIX\x1CAZ\x1C85064\x1CP2010\x1C\x1C1750.00\x1C0.00\x1C1750.00\x1C20110902\x1C12/31/2012\x1C0.0000\x1CN\x1CY\x1C\x1CH4AZ04016\x1CSHADEGG\x1CJOHN
+    B.\x1C\x1C\x1C\x1CH\x1CAZ\x1C03\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4201
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: SHADEGG
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: JOHN B.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: P. O. BOX 45444
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: PHOENIX
+  - name: LENDER STATE
+    number: '15'
+    value: AZ
+  - name: LENDER ZIP
+    number: '16'
+    value: '85064'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2010
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '1750.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '1750.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20110902'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H4AZ04016
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: SHADEGG
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: JOHN B.
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: AZ
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '03'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SD10\x1CC00280453\x1CSD10.4134\x1CORG\x1CBiltmore Pro Print\x1C\x1C\x1C\x1C\x1C\x1C3108
+    E Camelback Rd.\x1C\x1CPhoenix\x1CAZ\x1C85016\x1CDesign and Printing Services\x1C3248.09\x1C0.00\x1C1000.00\x1C2248.09\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.4134
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Biltmore Pro Print
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 3108 E Camelback Rd.
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Phoenix
+  - name: CREDITOR STATE
+    number: '14'
+    value: AZ
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '85016'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Design and Printing Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '3248.09'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '1000.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '2248.09
+
+'
+- input: "SD10\x1CC00280453\x1CSD10.4171\x1CORG\x1CHuckaby, Davis, Lisker\x1C\x1C\x1C\x1C\x1C\x1C228
+    S Washington Street, Suite 115\x1C\x1CAlexandria\x1CVA\x1C22314\x1CAccounting/Compliance
+    Services\x1C554.50\x1C0.00\x1C0.00\x1C554.50\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.4171
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Huckaby, Davis, Lisker
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 228 S Washington Street, Suite 115
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Alexandria
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '22314'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Accounting/Compliance Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '554.50'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '554.50
+
+'
+- input: "SD10\x1CC00280453\x1CSD10.4205\x1CORG\x1CHuckaby, Davis, Lisker\x1C\x1C\x1C\x1C\x1C\x1C228
+    S Washington Street, Suite 115\x1C\x1CAlexandria\x1CVA\x1C22314\x1CAccounting/Compliance
+    Services\x1C0.00\x1C278.25\x1C0.00\x1C278.25\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.4205
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Huckaby, Davis, Lisker
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 228 S Washington Street, Suite 115
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Alexandria
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '22314'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Accounting/Compliance Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '278.25'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '278.25
+
+'
+- input: "SD10\x1CC00280453\x1CSD10.4204\x1CORG\x1CSarvas, King & Coleman, P.C.\x1C\x1C\x1C\x1C\x1C\x1C3101
+    N Central Ave #1100\x1C\x1CPhoenix\x1CAZ\x1C850122642\x1CAccounting Services\x1C0.00\x1C2862.96\x1C0.00\x1C2862.96\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00280453
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.4204
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Sarvas, King & Coleman, P.C.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: '3101 N Central Ave #1100'
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Phoenix
+  - name: CREDITOR STATE
+    number: '14'
+    value: AZ
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '850122642'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Accounting Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '2862.96'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '2862.96
+
+'
+sourceurl: !!python/unicode 20130130
+type: chunk

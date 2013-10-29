@@ -1,0 +1,129 @@
+countrows: 2
+filename: 854674.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH8GA10049\x1CBroun\x1CPaul\x1CCollins\x1C\x1C\x1C\x1C1221 Knob Creek
+    Drive\x1C\x1CAthens\x1CGA\x1C30606   \x1CREP\x1CS\x1CGA\x1C00\x1C2014\x1CC00432955\x1CPaul
+    Broun Committee\x1CP.O. Box 6337\x1C\x1CAthens\x1CGA\x1C30604   \x1CC00485037\x1CBroun
+    Freedom Fund\x1C2470 Daniells Bridge Rd Ste 121\x1C\x1CAthens\x1CGA\x1C30606   \x1CBroun\x1CPaul\x1CCollins\x1C\x1C\x1C20130206\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8GA10049
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Broun
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Paul
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: Collins
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 1221 Knob Creek Drive
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Athens
+  - name: CANDIDATE STATE
+    number: '12'
+    value: GA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '30606   '
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: S
+  - name: CANDIDATE STATE
+    number: '16'
+    value: GA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '00'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00432955
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Paul Broun Committee
+  - name: PCC STREET 1
+    number: '21'
+    value: P.O. Box 6337
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Athens
+  - name: PCC STATE
+    number: '24'
+    value: GA
+  - name: PCC ZIP
+    number: '25'
+    value: '30604   '
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00485037
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Broun Freedom Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: 2470 Daniells Bridge Rd Ste 121
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Athens
+  - name: AUTH STATE
+    number: '31'
+    value: GA
+  - name: AUTH ZIP
+    number: '32'
+    value: '30606   '
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Broun
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Paul
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: Collins
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130206
+
+'
+sourceurl: !!python/unicode 20130206
+type: chunk

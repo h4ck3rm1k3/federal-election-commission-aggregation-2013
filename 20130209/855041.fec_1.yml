@@ -1,0 +1,129 @@
+countrows: 2
+filename: 855041.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH4TX19136\x1CConaway\x1CMichael\x1C\x1CHonorable\x1C\x1C\x1C110 W
+    Louisiana Avenue\x1CSuite 312\x1CMidland\x1CTX\x1C797013414\x1CREP\x1CH\x1CTX\x1C11\x1C2014\x1CC00383828\x1CConaway
+    for Congress\x1CPO Box 51272\x1C\x1CMidland\x1CTX\x1C797101272\x1CC00493569\x1CConaway
+    Majority Fund\x1C110 W Louisiana Avenue\x1CSuite 312\x1CMidland\x1CTX\x1C797013414\x1CConaway\x1CMichael\x1C\x1CHonorable\x1C\x1C20130209\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H4TX19136
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Conaway
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Michael
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Honorable
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 110 W Louisiana Avenue
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: Suite 312
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Midland
+  - name: CANDIDATE STATE
+    number: '12'
+    value: TX
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '797013414'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: TX
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '11'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00383828
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Conaway for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 51272
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Midland
+  - name: PCC STATE
+    number: '24'
+    value: TX
+  - name: PCC ZIP
+    number: '25'
+    value: '797101272'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00493569
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Conaway Majority Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: 110 W Louisiana Avenue
+  - name: AUTH STREET 2
+    number: '29'
+    value: Suite 312
+  - name: AUTH CITY
+    number: '30'
+    value: Midland
+  - name: AUTH STATE
+    number: '31'
+    value: TX
+  - name: AUTH ZIP
+    number: '32'
+    value: '797013414'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Conaway
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Michael
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: Honorable
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130209
+
+'
+sourceurl: !!python/unicode 20130209
+type: chunk

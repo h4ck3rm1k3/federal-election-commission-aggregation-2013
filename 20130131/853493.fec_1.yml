@@ -1,0 +1,317 @@
+countrows: 6
+filename: 853493.fec
+header: {}
+rows:
+- 2
+- input: "F6A\x1CC00394353\x1C20121028\x1CCANSECO FOR CONGRESS\x1C10004 Wurzbach Road
+    #366\x1C\x1CSan Antonio\x1CTX\x1C78230\x1CH4TX28046\x1CCANSECO\x1CFRANCISCO RAUL
+    QUICO\x1CR.\x1C\x1C\x1CH\x1CTX\x1C23\x1CBlair\x1CRandy\x1C\x1C\x1C\x1C20130131\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00394353
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: '20121028'
+  - name: COMMITTEE NAME
+    number: '4'
+    value: CANSECO FOR CONGRESS
+  - name: STREET 1
+    number: '5'
+    value: '10004 Wurzbach Road #366'
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: San Antonio
+  - name: STATE
+    number: '8'
+    value: TX
+  - name: ZIP
+    number: '9'
+    value: '78230'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H4TX28046
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: CANSECO
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: FRANCISCO RAUL QUICO
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: R.
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: TX
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '23'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Blair
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Randy
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130131
+
+'
+- input: "TEXT\x1CC00394353\x1C.TEXT\x1C\x1CF6A\x1CThe Canseco for Congress committee
+    is amending the 48-hour notice (Form 6) oriinally filed 10/28/12 to remove the
+    $1,000 contribution from American Bankers Association.  The contribution was reported
+    in error as it should have been shown as being from American Bakers Association
+    as this filing correctly reports.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00394353
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: .TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F6A
+  - name: TEXT4000
+    number: '6'
+    value: 'The Canseco for Congress committee is amending the 48-hour notice (Form
+      6) oriinally filed 10/28/12 to remove the $1,000 contribution from American
+      Bankers Association.  The contribution was reported in error as it should have
+      been shown as being from American Bakers Association as this filing correctly
+      reports.
+
+'
+- input: "F65\x1CC00394353\x1CF6.21133\x1CIND\x1C\x1CCavender\x1CJames M.\x1C\x1CMr.\x1CIII\x1CPO
+    Box 681237\x1C\x1CSan Antonio\x1CTX\x1C78268\x1C\x1C20121026\x1C1000.00\x1CCavender
+    Autoworks, Ltd\x1CPresident/Auto Dealer\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00394353
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.21133
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Cavender
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: James M.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: III
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: PO Box 681237
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: San Antonio
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: TX
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '78268'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121026'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Cavender Autoworks, Ltd
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'President/Auto Dealer
+
+'
+- input: "F65\x1CC00394353\x1CF6.22016\x1CPAC\x1CAMERICAN BAKERS ASSOCIATION AMERICAN
+    BAKERS POLITICAL ACTION COMMITTEE\x1C\x1C\x1C\x1C\x1C\x1C1300 I STREET NW SUITE
+    700 WEST\x1C.\x1CWASHINGTON\x1CDC\x1C20005\x1CC00016386\x1C20121026\x1C1000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00394353
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.22016
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: AMERICAN BAKERS ASSOCIATION AMERICAN BAKERS POLITICAL ACTION COMMITTEE
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 1300 I STREET NW SUITE 700 WEST
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: .
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: WASHINGTON
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20005'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00016386
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121026'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F65\x1CC00394353\x1CF6.21132\x1CPAC\x1CMARKETPLACE IDEAS AND CONSERVATIVE
+    KNOWLEDGE PAC-MICK PAC\x1C\x1C\x1C\x1C\x1C\x1C228 S WASHINGTON ST STE 115\x1C\x1CALEXANDRIA\x1CVA\x1C22314\x1CC00502591\x1C20121026\x1C1000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00394353
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.21132
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: MARKETPLACE IDEAS AND CONSERVATIVE KNOWLEDGE PAC-MICK PAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 228 S WASHINGTON ST STE 115
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: ALEXANDRIA
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: VA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '22314'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00502591
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121026'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130131
+type: chunk

@@ -1,0 +1,129 @@
+countrows: 2
+filename: 854450.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH2NC01081\x1CJones\x1CWalter B.\x1C\x1C\x1C\x1C\x1CPost Office Box
+    668\x1C\x1CFarmville\x1CNC\x1C27828\x1CREP\x1CH\x1CNC\x1C03\x1C2014\x1CC00305052\x1CWALTER
+    JONES COMMITTEE\x1CPO Box 3962\x1C\x1CGreenville\x1CNC\x1C27836\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CJones\x1CWalter
+    B.\x1C\x1C\x1C\x1C20130204\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2NC01081
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Jones
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Walter B.
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: Post Office Box 668
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Farmville
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NC
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '27828'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NC
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '03'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00305052
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: WALTER JONES COMMITTEE
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 3962
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Greenville
+  - name: PCC STATE
+    number: '24'
+    value: NC
+  - name: PCC ZIP
+    number: '25'
+    value: '27836'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Jones
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Walter B.
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130204
+
+'
+sourceurl: !!python/unicode 20130204
+type: chunk

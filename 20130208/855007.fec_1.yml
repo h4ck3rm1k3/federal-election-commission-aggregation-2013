@@ -1,0 +1,151 @@
+countrows: 3
+filename: 855007.fec
+header: {}
+rows:
+- 2
+- input: "F6A\x1CC00441451\x1C20121030\x1CDjou for Hawaii\x1CP.O. BOX 235280\x1C\x1CHONOLULU\x1CHI\x1C968233504\x1CH0HI01157\x1CDjou\x1CCharles\x1CK\x1C\x1C\x1CH\x1CHI\x1C01\x1CMashiba\x1CChris\x1CS\x1C\x1C\x1C20130208\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00441451
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: '20121030'
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Djou for Hawaii
+  - name: STREET 1
+    number: '5'
+    value: P.O. BOX 235280
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: HONOLULU
+  - name: STATE
+    number: '8'
+    value: HI
+  - name: ZIP
+    number: '9'
+    value: '968233504'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H0HI01157
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: Djou
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: Charles
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: K
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: HI
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '01'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Mashiba
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: Chris
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: S
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130208
+
+'
+- input: "F65\x1CC00441451\x1C0018275\x1CIND\x1C\x1CDjou\x1CEva\x1CKan\x1CMrs.\x1C\x1C1182
+    Kika Pl\x1C\x1CKailua\x1CHI\x1C96734\x1C\x1C20121030\x1C1000.00\x1CChaminade Universit\x1CComputer
+    Programmer\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00441451
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 0018275
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Djou
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Eva
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: Kan
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: Mrs.
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 1182 Kika Pl
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Kailua
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: HI
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '96734'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121030'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Chaminade Universit
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Computer Programmer
+
+'
+sourceurl: !!python/unicode 20130208
+type: chunk

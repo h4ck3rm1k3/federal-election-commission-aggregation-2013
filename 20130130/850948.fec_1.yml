@@ -1,0 +1,328 @@
+countrows: 4
+filename: 850948.fec
+header: {}
+rows:
+- 2
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F5N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010588
+  - name: ENTITY TYPE
+    number: '3'
+    value: IND
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: ''
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: WADE
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: JOHN
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: EVAN
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: II
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: ''
+  - name: STREET 1
+    number: '11'
+    value: 1225 SECOND STREET
+  - name: STREET 2
+    number: '12'
+    value: ''
+  - name: CITY
+    number: '13'
+    value: NEW ORLEANS
+  - name: STATE
+    number: '14'
+    value: LA
+  - name: ZIP
+    number: '15'
+    value: '70130'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: N
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: SELF EMPLOYED
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: AUTHOR
+  - name: REPORT CODE
+    number: '19'
+    value: YE
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: '20121003'
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: '20121231'
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '8059.71'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: WADE
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: JOHN
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: E.
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: II
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130121'
+  - value: '
+
+'
+  expected_count: 30
+  input: "F5N\x1CC90010588\x1CIND\x1C\x1CWADE\x1CJOHN\x1CEVAN\x1C\x1CII\x1C\x1C1225
+    SECOND STREET\x1C\x1CNEW ORLEANS\x1CLA\x1C70130\x1CN\x1CSELF EMPLOYED\x1CAUTHOR\x1CYE\x1C\x1C20121003\x1C20121231\x1C.00\x1C8059.71\x1CWADE\x1CJOHN\x1CE.\x1C\x1CII\x1C20130121\x1C\n"
+  input_count: 31
+  record: fec.version.v8_0.F5
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010588
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000001
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: COMPUCAST
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: SUITE 100, 6660 RIVERSIDE DRIVE
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: METAIRIE
+  - name: PAYEE STATE
+    number: '14'
+    value: LA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '70003'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121213'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1094.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1327.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: WEB SITE MAINTENANCE
+  - name: CATEGORY CODE
+    number: '22'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: ROMNEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MITT
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010588\x1CF57.000001\x1CORG\x1CCOMPUCAST\x1C\x1C\x1C\x1C\x1C\x1C\"SUITE
+    100, 6660 RIVERSIDE DRIVE\"\x1C\x1CMETAIRIE\x1CLA\x1C70003\x1CG2012\x1C\x1C20121213\x1C1094.00\x1C1327.75\x1CWEB
+    SITE MAINTENANCE\x1C\x1C\x1CS\x1CP80003353\x1CROMNEY\x1CMITT\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90010588
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.000002
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: INTERNATIONAL STRATEGY GROUP, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 444 WEST OCEAN BLVD., SUITE 1020
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: LONG BEACH
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '90802'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121231'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '6965.71'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '9690.32'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: WEBSITE BOOK REVIEWS
+  - name: CATEGORY CODE
+    number: '22'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: ROMNEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MITT
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: ''
+  - value: '
+
+'
+  expected_count: 33
+  input: "F57\x1CC90010588\x1CF57.000002\x1CORG\x1C\"INTERNATIONAL STRATEGY GROUP,
+    LLC\"\x1C\x1C\x1C\x1C\x1C\x1C\"444 WEST OCEAN BLVD., SUITE 1020\"\x1C\x1CLONG
+    BEACH\x1CCA\x1C90802\x1CG2012\x1C\x1C20121231\x1C6965.71\x1C9690.32\x1CWEBSITE
+    BOOK REVIEWS\x1C\x1C\x1CS\x1CP80003353\x1CROMNEY\x1CMITT\x1C\x1C\x1C\x1CP\x1C\x1C\x1C\n"
+  input_count: 34
+  record: fec.version.v8_0.F57
+  result: []
+sourceurl: !!python/unicode 20130130
+type: chunk

@@ -1,0 +1,632 @@
+countrows: 7
+filename: 851034.fec
+header: {}
+rows:
+- 2
+- input: "F5A\x1CC90014028\x1CORG\x1CJ Street\x1C\x1C\x1C\x1C\x1C\x1C\x1CPO Box 66073\x1C\x1CWashington\x1CDC\x1C20035\x1CY\x1C\x1C\x1C\x1C24\x1C\x1C\x1C0.00\x1C20566.19\x1CKalik\x1CDaniel\x1C\x1C\x1C\x1C20130130\n"
+  record: fec.version.v8_0.F5
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F5A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90014028
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: J Street
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: ''
+  - name: STREET 1
+    number: '11'
+    value: PO Box 66073
+  - name: STREET 2
+    number: '12'
+    value: ''
+  - name: CITY
+    number: '13'
+    value: Washington
+  - name: STATE
+    number: '14'
+    value: DC
+  - name: ZIP
+    number: '15'
+    value: '20035'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: Y
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: ''
+  - name: REPORT CODE
+    number: '19'
+    value: ''
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: '24'
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: ''
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: ''
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '0.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '20566.19'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: Kalik
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: Daniel
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: ''
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130130
+
+'
+- input: "F57\x1CC90014028\x1CF57.4156\x1CORG\x1CNextGen Persuasion LLC\x1C\x1C\x1C\x1C\x1C\x1C4411
+    39th St NW\x1C\x1CWashington\x1CDC\x1C20016\x1CG2012\x1C\x1C20121024\x1C5000.00\x1C5566.19\x1CDirect
+    Mail\x1C006\x1C\x1CO\x1CH0IL08090\x1CWALSH\x1CJOE\x1C\x1C\x1C\x1CH\x1CIL\x1C08\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90014028
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4156
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: NextGen Persuasion LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 4411 39th St NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20016'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121024'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '5000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '5566.19'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Direct Mail
+  - name: CATEGORY CODE
+    number: '22'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0IL08090
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: WALSH
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: JOE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '08
+
+'
+- input: "F57\x1CC90014028\x1CF57.4157\x1CORG\x1CNextGen Persuasion LLC\x1C\x1C\x1C\x1C\x1C\x1C4411
+    39th St NW\x1C\x1CWashington\x1CDC\x1C20016\x1CG2012\x1C\x1C20121024\x1C5000.00\x1C10566.19\x1CDirect
+    Mail\x1C006\x1C\x1CS\x1CH6IL06141\x1CDUCKWORTH\x1CL. TAMMY\x1C\x1C\x1C\x1CH\x1CIL\x1C08\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90014028
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4157
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: NextGen Persuasion LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 4411 39th St NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20016'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121024'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '5000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '10566.19'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Direct Mail
+  - name: CATEGORY CODE
+    number: '22'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H6IL06141
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: DUCKWORTH
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: L. TAMMY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '08
+
+'
+- input: "F57\x1CC90014028\x1CF57.4158\x1CORG\x1CNextGen Persuasion LLC\x1C\x1C\x1C\x1C\x1C\x1C4411
+    39th St NW\x1C\x1CWashington\x1CDC\x1C20016\x1CG2012\x1C\x1C20121024\x1C5000.00\x1C5000.00\x1CDirect
+    Mail\x1C006\x1C\x1CO\x1CH8FL22038\x1CWEST\x1CMR. ALLEN B\x1C\x1C\x1C\x1CH\x1CFL\x1C18\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90014028
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4158
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: NextGen Persuasion LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 4411 39th St NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20016'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121024'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '5000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '5000.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Direct Mail
+  - name: CATEGORY CODE
+    number: '22'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H8FL22038
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: WEST
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MR. ALLEN B
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: FL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '18
+
+'
+- input: "F57\x1CC90014028\x1CF57.4159\x1CORG\x1CNextGen Persuasion LLC\x1C\x1C\x1C\x1C\x1C\x1C4411
+    39th St NW\x1C\x1CWashington\x1CDC\x1C20016\x1CG2012\x1C\x1C20121024\x1C5000.00\x1C10000.00\x1CDirect
+    Mail\x1C006\x1C\x1CS\x1CH2FL22072\x1CMURPHY\x1CPATRICK\x1C\x1C\x1C\x1CH\x1CFL\x1C18\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90014028
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4159
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: NextGen Persuasion LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 4411 39th St NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20016'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121024'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '5000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '10000.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Direct Mail
+  - name: CATEGORY CODE
+    number: '22'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2FL22072
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: MURPHY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: PATRICK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: FL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '18
+
+'
+- input: "F57\x1CC90014028\x1CF57.4155\x1CORG\x1CRabinowitz/Dorf Communications\x1C\x1C\x1C\x1C\x1C\x1C2852
+    Connecticut Avenue NW\x1C\x1CWashington\x1CDC\x1C20008\x1CG2012\x1C\x1C20121019\x1C566.19\x1C566.19\x1CNewspaper
+    Advertisement\x1C004\x1C\x1CS\x1CH6IL06141\x1CDUCKWORTH\x1CL. TAMMY\x1C\x1C\x1C\x1CH\x1CIL\x1C08\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90014028
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4155
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Rabinowitz/Dorf Communications
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 2852 Connecticut Avenue NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20008'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121019'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '566.19'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '566.19'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Newspaper Advertisement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H6IL06141
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: DUCKWORTH
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: L. TAMMY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '08
+
+'
+sourceurl: !!python/unicode 20130130
+type: chunk

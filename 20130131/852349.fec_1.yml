@@ -1,0 +1,527 @@
+countrows: 6
+filename: 852349.fec
+header: {}
+rows:
+- 2
+- input: "F5A\x1CC90011685\x1CORG\x1CThe 60 Plus Association, Inc.\x1C\x1C\x1C\x1C\x1C\x1C\x1C515
+    King Street\x1CSuite 315\x1CAlexandria\x1CVA\x1C22314\x1CN\x1C\x1C\x1C\x1C24\x1C\x1C\x1C0.00\x1C23475.13\x1CFrederick\x1CAmy\x1C\x1C\x1C\x1C20130131\n"
+  record: fec.version.v8_0.F5
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F5A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: The 60 Plus Association, Inc.
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: ''
+  - name: STREET 1
+    number: '11'
+    value: 515 King Street
+  - name: STREET 2
+    number: '12'
+    value: Suite 315
+  - name: CITY
+    number: '13'
+    value: Alexandria
+  - name: STATE
+    number: '14'
+    value: VA
+  - name: ZIP
+    number: '15'
+    value: '22314'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: N
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: ''
+  - name: REPORT CODE
+    number: '19'
+    value: ''
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: '24'
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: ''
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: ''
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '0.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '23475.13'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: Frederick
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: Amy
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: ''
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130131
+
+'
+- input: "F57\x1CC90011685\x1CF57.4711\x1CORG\x1CAngler, LLC\x1C\x1C\x1C\x1C\x1C\x1C1100
+    G Street NW\x1CSuite 805\x1CWashington\x1CDC\x1C20005\x1CG2012\x1C\x1C20121029\x1C5231.66\x1C402081.08\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CP80003353\x1CROMNEY\x1CMITT / RYAN, PAUL D.\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4711
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Angler, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1100 G Street NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 805
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20005'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '5231.66'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '402081.08'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: ROMNEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MITT / RYAN, PAUL D.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00
+
+'
+- input: "F57\x1CC90011685\x1CF57.4712\x1CORG\x1CFacebook, Inc.\x1C\x1C\x1C\x1C\x1C\x1C1601
+    Willow Road\x1C\x1CMenlo Park\x1CCA\x1C94025\x1CG2012\x1C\x1C20121029\x1C122.79\x1C402203.87\x1CAdvertisement/Online\x1C004\x1C\x1CS\x1CP80003353\x1CROMNEY\x1CMITT
+    / RYAN, PAUL D.\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4712
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Facebook, Inc.
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1601 Willow Road
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Menlo Park
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '94025'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '122.79'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '402203.87'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Advertisement/Online
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: ROMNEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MITT / RYAN, PAUL D.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00
+
+'
+- input: "F57\x1CC90011685\x1CF57.4713\x1CORG\x1CHeadway Workforce Solutions\x1C\x1C\x1C\x1C\x1C\x1COne
+    Bank of America Plaza\x1C421 Fayetteville Street Suite 1020\x1CRaleigh\x1CNC\x1C27601\x1CG2012\x1C\x1C20121029\x1C17575.68\x1C419779.55\x1CPhone
+    Banks\x1C001\x1C\x1CS\x1CP80003353\x1CROMNEY\x1CMITT / RYAN, PAUL D.\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4713
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Headway Workforce Solutions
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: One Bank of America Plaza
+  - name: PAYEE STREET 2
+    number: '12'
+    value: 421 Fayetteville Street Suite 1020
+  - name: PAYEE CITY
+    number: '13'
+    value: Raleigh
+  - name: PAYEE STATE
+    number: '14'
+    value: NC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '27601'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '17575.68'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '419779.55'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Phone Banks
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: ROMNEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MITT / RYAN, PAUL D.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00
+
+'
+- input: "F57\x1CC90011685\x1CF57.4714\x1CORG\x1CSalem Media Reps\x1C\x1C\x1C\x1C\x1C\x1C6400
+    N. Beltline Road\x1C\x1CIrving\x1CTX\x1C75063\x1CG2012\x1C\x1C20121029\x1C545.00\x1C420324.55\x1CRadio
+    Advertisement\x1C004\x1C\x1CO\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4714
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Salem Media Reps
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 6400 N. Beltline Road
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Irving
+  - name: PAYEE STATE
+    number: '14'
+    value: TX
+  - name: PAYEE ZIP
+    number: '15'
+    value: '75063'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121029'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '545.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '420324.55'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Radio Advertisement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00
+
+'
+sourceurl: !!python/unicode 20130131
+type: chunk

@@ -1,0 +1,129 @@
+countrows: 2
+filename: 851888.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH0SC05031\x1CMULVANEY\x1CJOHN MICHAEL 'MICK'\x1C\x1C\x1C\x1C\x1C550
+    RALPH HOOD ROAD\x1C\x1CINDIAN LAND\x1CSC\x1C29707\x1CREP\x1CH\x1CSC\x1C05\x1C2014\x1CC00471292\x1CMulvaney
+    for Congress\x1CP.O. Box 1975\x1C\x1CLancaster\x1CSC\x1C29721\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CMULVANEY\x1CJOHN
+    MICHAEL 'MICK'\x1C\x1C\x1C\x1C20130131\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0SC05031
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: MULVANEY
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: JOHN MICHAEL 'MICK'
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 550 RALPH HOOD ROAD
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: INDIAN LAND
+  - name: CANDIDATE STATE
+    number: '12'
+    value: SC
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '29707'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: SC
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '05'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00471292
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Mulvaney for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: P.O. Box 1975
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Lancaster
+  - name: PCC STATE
+    number: '24'
+    value: SC
+  - name: PCC ZIP
+    number: '25'
+    value: '29721'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: MULVANEY
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: JOHN MICHAEL 'MICK'
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130131
+
+'
+sourceurl: !!python/unicode 20130131
+type: chunk

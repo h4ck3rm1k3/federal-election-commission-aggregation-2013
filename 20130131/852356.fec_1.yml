@@ -1,0 +1,7311 @@
+countrows: 70
+filename: 852356.fec
+header: {}
+rows:
+- 2
+- input: "F5A\x1CC90011685\x1CORG\x1CThe 60 Plus Association, Inc.\x1C\x1C\x1C\x1C\x1C\x1C\x1C515
+    King Street\x1CSuite 315\x1CAlexandria\x1CVA\x1C22314\x1CN\x1C\x1C\x1C\x1C24\x1C\x1C\x1C0.00\x1C61467.50\x1CFrederick\x1CAmy\x1C\x1C\x1C\x1C20130131\n"
+  record: fec.version.v8_0.F5
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F5A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: The 60 Plus Association, Inc.
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: ''
+  - name: STREET 1
+    number: '11'
+    value: 515 King Street
+  - name: STREET 2
+    number: '12'
+    value: Suite 315
+  - name: CITY
+    number: '13'
+    value: Alexandria
+  - name: STATE
+    number: '14'
+    value: VA
+  - name: ZIP
+    number: '15'
+    value: '22314'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: N
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: ''
+  - name: REPORT CODE
+    number: '19'
+    value: ''
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: '24'
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: ''
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: ''
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '0.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '61467.50'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: Frederick
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: Amy
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: ''
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130131
+
+'
+- input: "F57\x1CC90011685\x1CF57.4722\x1CORG\x1CAngler, LLC\x1C\x1C\x1C\x1C\x1C\x1C1100
+    G Street NW\x1CSuite 805\x1CWashington\x1CDC\x1C20005\x1CG2012\x1C\x1C20121104\x1C6973.14\x1C2450957.33\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CP80003353\x1CROMNEY\x1CMITT / RYAN, PAUL D.\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4722
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Angler, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1100 G Street NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 805
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20005'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '6973.14'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '2450957.33'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: ROMNEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MITT / RYAN, PAUL D.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00
+
+'
+- input: "F57\x1CC90011685\x1CF57.4723\x1CORG\x1CFacebook, Inc.\x1C\x1C\x1C\x1C\x1C\x1C1601
+    Willow Road\x1C\x1CMenlo Park\x1CCA\x1C94025\x1CG2012\x1C\x1C20121104\x1C115.64\x1C2451072.97\x1CAdvertisment/Online\x1C004\x1C\x1CS\x1CP80003353\x1CROMNEY\x1CMITT
+    / RYAN, PAUL D.\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4723
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Facebook, Inc.
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1601 Willow Road
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Menlo Park
+  - name: PAYEE STATE
+    number: '14'
+    value: CA
+  - name: PAYEE ZIP
+    number: '15'
+    value: '94025'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '115.64'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '2451072.97'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Advertisment/Online
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: ROMNEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MITT / RYAN, PAUL D.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00
+
+'
+- input: "F57\x1CC90011685\x1CF57.4724\x1CORG\x1CHeadway Workforce Solutions\x1C\x1C\x1C\x1C\x1C\x1COne
+    Bank of America Plaza\x1C421 Fayetteville Street Suite 1020\x1CRaleigh\x1CNC\x1C27601\x1CG2012\x1C\x1C20121104\x1C13957.20\x1C2465030.17\x1CPhone
+    Banks\x1C001\x1C\x1CS\x1CP80003353\x1CROMNEY\x1CMITT / RYAN, PAUL D.\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4724
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Headway Workforce Solutions
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: One Bank of America Plaza
+  - name: PAYEE STREET 2
+    number: '12'
+    value: 421 Fayetteville Street Suite 1020
+  - name: PAYEE CITY
+    number: '13'
+    value: Raleigh
+  - name: PAYEE STATE
+    number: '14'
+    value: NC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '27601'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '13957.20'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '2465030.17'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Phone Banks
+  - name: CATEGORY CODE
+    number: '22'
+    value: '001'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003353
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: ROMNEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MITT / RYAN, PAUL D.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00
+
+'
+- input: "F57\x1CC90011685\x1CF57.4725\x1CORG\x1CSalem Media Reps\x1C\x1C\x1C\x1C\x1C\x1C6400
+    N. Beltline Road\x1C\x1CIrving\x1CTX\x1C75063\x1CG2012\x1C\x1C20121104\x1C545.00\x1C2465575.17\x1CRadio
+    Advertisement\x1C004\x1C\x1CO\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C00\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4725
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Salem Media Reps
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 6400 N. Beltline Road
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Irving
+  - name: PAYEE STATE
+    number: '14'
+    value: TX
+  - name: PAYEE ZIP
+    number: '15'
+    value: '75063'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '545.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '2465575.17'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Radio Advertisement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '00
+
+'
+- input: "F57\x1CC90011685\x1CF57.4726\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C270.27\x1C170270.27\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0AZ08056\x1CPATON\x1CJONATHAN\x1C\x1C\x1C\x1CH\x1CAZ\x1C01\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4726
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '270.27'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '170270.27'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0AZ08056
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: PATON
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: JONATHAN
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: AZ
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '01
+
+'
+- input: "F57\x1CC90011685\x1CF57.4727\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1086.96\x1C1086.96\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0NY19139\x1CHAYWORTH\x1CNAN\x1C\x1C\x1C\x1CH\x1CNY\x1C18\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4727
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1086.96'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1086.96'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0NY19139
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: HAYWORTH
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: NAN
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '18
+
+'
+- input: "F57\x1CC90011685\x1CF57.4728\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1340.82\x1C1340.82\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0NY20095\x1CGIBSON\x1CCHRISTOPHER P\x1C\x1C\x1C\x1CH\x1CNY\x1C19\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4728
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1340.82'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1340.82'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0NY20095
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: GIBSON
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHRISTOPHER P
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '19
+
+'
+- input: "F57\x1CC90011685\x1CF57.4729\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1387.54\x1C1387.54\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0NY23057\x1CDOHENY\x1CMATTHEW\x1C\x1C\x1C\x1CH\x1CNY\x1C21\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4729
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1387.54'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1387.54'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0NY23057
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: DOHENY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MATTHEW
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '21
+
+'
+- input: "F57\x1CC90011685\x1CF57.4730\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1278.69\x1C328250.69\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0NY25078\x1CBUERKLE\x1CANN MARIE\x1C\x1C\x1C\x1CH\x1CNY\x1C24\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4730
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1278.69'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '328250.69'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0NY25078
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: BUERKLE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANN MARIE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '24
+
+'
+- input: "F57\x1CC90011685\x1CF57.4731\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1024.03\x1C1024.03\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2NY25074\x1CBROOKS\x1CMAGGIE\x1C\x1C\x1C\x1CH\x1CNY\x1C25\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4731
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1024.03'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1024.03'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2NY25074
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: BROOKS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MAGGIE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '25
+
+'
+- input: "F57\x1CC90011685\x1CF57.4732\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1757.91\x1C1757.91\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH8NY29032\x1CCOLLINS\x1CCHRISTOPHER CARL\x1C\x1C\x1C\x1CH\x1CNY\x1C27\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4732
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1757.91'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1757.91'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H8NY29032
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: COLLINS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHRISTOPHER CARL
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NY
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '27
+
+'
+- input: "F57\x1CC90011685\x1CF57.4734\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C376.85\x1C376.85\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2NC07096\x1CROUZER\x1CDAVID CHESTON MR.\x1C\x1C\x1C\x1CH\x1CNC\x1C07\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4734
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '376.85'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '376.85'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2NC07096
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: ROUZER
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: DAVID CHESTON MR.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '07
+
+'
+- input: "F57\x1CC90011685\x1CF57.4735\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2NC08185\x1CHUDSON\x1CRICHARD L. JR.\x1C\x1C\x1C\x1CH\x1CNC\x1C08\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4735
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2NC08185
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: HUDSON
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: RICHARD L. JR.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '08
+
+'
+- input: "F57\x1CC90011685\x1CF57.4736\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2NC09134\x1CPITTENGER\x1CROBERT M\x1C\x1C\x1C\x1CH\x1CNC\x1C09\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4736
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2NC09134
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: PITTENGER
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ROBERT M
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '09
+
+'
+- input: "F57\x1CC90011685\x1CF57.4737\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2NC11080\x1CMEADOWS\x1CMARK R\x1C\x1C\x1C\x1CH\x1CNC\x1C11\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4737
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2NC11080
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: MEADOWS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MARK R
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '11
+
+'
+- input: "F57\x1CC90011685\x1CF57.4738\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2NC13110\x1CHOLDING\x1CGEORGE E. B. MR.\x1C\x1C\x1C\x1CH\x1CNC\x1C13\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4738
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2NC13110
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: HOLDING
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: GEORGE E. B. MR.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '13
+
+'
+- input: "F57\x1CC90011685\x1CF57.4739\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1070.76\x1C1070.76\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0OH06189\x1CJOHNSON\x1CBILL\x1C\x1C\x1C\x1CH\x1COH\x1C06\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4739
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1070.76'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1070.76'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0OH06189
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: JOHNSON
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BILL
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '06
+
+'
+- input: "F57\x1CC90011685\x1CF57.4740\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0OH18077\x1CGIBBS\x1CBOB\x1C\x1C\x1C\x1CH\x1COH\x1C07\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4740
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0OH18077
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: GIBBS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BOB
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '07
+
+'
+- input: "F57\x1CC90011685\x1CF57.4741\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2OH14064\x1CJOYCE\x1CDAVID P\x1C\x1C\x1C\x1CH\x1COH\x1C14\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4741
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2OH14064
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: JOYCE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: DAVID P
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '14
+
+'
+- input: "F57\x1CC90011685\x1CF57.4742\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CP2012\x1C\x1C20121104\x1C957.67\x1C957.67\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0OH16097\x1CRENACCI\x1CJAMES B\x1C\x1C\x1C\x1CH\x1COH\x1C16\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4742
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '957.67'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '957.67'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0OH16097
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: RENACCI
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: JAMES B
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: OH
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '16
+
+'
+- input: "F57\x1CC90011685\x1CF57.4743\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2OK02083\x1CMULLIN\x1CMARKWAYNE\x1C\x1C\x1C\x1CH\x1COK\x1C02\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4743
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2OK02083
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: MULLIN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MARKWAYNE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: OK
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '02
+
+'
+- input: "F57\x1CC90011685\x1CF57.4744\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C225.12\x1C350725.12\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2AZ08102\x1CMCSALLY\x1CMARTHA E\x1C\x1C\x1C\x1CH\x1CAZ\x1C02\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4744
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '225.12'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '350725.12'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2AZ08102
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: MCSALLY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MARTHA E
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: AZ
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '02
+
+'
+- input: "F57\x1CC90011685\x1CF57.4745\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH4AZ01038\x1CSALMON\x1CMATT\x1C\x1C\x1C\x1CH\x1CAZ\x1C05\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4745
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H4AZ01038
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SALMON
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MATT
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: AZ
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '05
+
+'
+- input: "F57\x1CC90011685\x1CF57.4746\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C423.01\x1C170423.01\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0AZ03321\x1CPARKER\x1CVERNON\x1C\x1C\x1C\x1CH\x1CAZ\x1C09\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4746
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '423.01'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '170423.01'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0AZ03321
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: PARKER
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: VERNON
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: AZ
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '09
+
+'
+- input: "F57\x1CC90011685\x1CF57.4747\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH6CO03139\x1CTIPTON\x1CSCOTT R.\x1C\x1C\x1C\x1CH\x1CCO\x1C03\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4747
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H6CO03139
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: TIPTON
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: SCOTT R.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: CO
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '03
+
+'
+- input: "F57\x1CC90011685\x1CF57.4748\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C82.29\x1C82.29\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH8CO06138\x1CCOFFMAN\x1CMICHAEL\x1C\x1C\x1C\x1CH\x1CCO\x1C06\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4748
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '82.29'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '82.29'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H8CO06138
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: COFFMAN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MICHAEL
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: CO
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '06
+
+'
+- input: "F57\x1CC90011685\x1CF57.4749\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CP2012\x1C\x1C20121104\x1C99.05\x1C99.05\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2CO07121\x1CCOORS\x1CJOSEPH JR\x1C\x1C\x1C\x1CH\x1CCO\x1C07\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4749
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '99.05'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '99.05'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2CO07121
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: COORS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: JOSEPH JR
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: CO
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '07
+
+'
+- input: "F57\x1CC90011685\x1CF57.4750\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CP2012\x1C\x1C20121104\x1C1195.08\x1C1195.08\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2CT05206\x1CRORABACK\x1CANDREW\x1C\x1C\x1C\x1CH\x1CCT\x1C05\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4750
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1195.08'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1195.08'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2CT05206
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: RORABACK
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANDREW
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: CT
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '05
+
+'
+- input: "F57\x1CC90011685\x1CF57.4751\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2FL06109\x1CYOHO\x1CTHEODORE SCOTT\x1C\x1C\x1C\x1CH\x1CFL\x1C03\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4751
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2FL06109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: YOHO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: THEODORE SCOTT
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: FL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '03
+
+'
+- input: "F57\x1CC90011685\x1CF57.4753\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C718.03\x1C718.03\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0FL08208\x1CWEBSTER\x1CDANIEL\x1C\x1C\x1C\x1CH\x1CFL\x1C10\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4753
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '718.03'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '718.03'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0FL08208
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: WEBSTER
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: DANIEL
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: FL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '10
+
+'
+- input: "F57\x1CC90011685\x1CF57.4754\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C964.43\x1C964.43\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH8FL22038\x1CWEST\x1CALLEN B MR.\x1C\x1C\x1C\x1CH\x1CFL\x1C18\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4754
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '964.43'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '964.43'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H8FL22038
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: WEST
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ALLEN B MR.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: FL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '18
+
+'
+- input: "F57\x1CC90011685\x1CF57.4755\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2FL14194\x1CRADEL\x1CHENRY J. III\x1C\x1C\x1C\x1CH\x1CFL\x1C19\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4755
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2FL14194
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: RADEL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: HENRY J. III
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: FL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '19
+
+'
+- input: "F57\x1CC90011685\x1CF57.4756\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2FL22098\x1CHASNER\x1CADAM\x1C\x1C\x1C\x1CH\x1CFL\x1C22\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4756
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2FL22098
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: HASNER
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ADAM
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: FL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '22
+
+'
+- input: "F57\x1CC90011685\x1CF57.4757\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C486.61\x1C486.61\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0FL25038\x1CRIVERA\x1CDAVID\x1C\x1C\x1C\x1CH\x1CFL\x1C26\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4757
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '486.61'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '486.61'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0FL25038
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: RIVERA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: DAVID
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: FL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '26
+
+'
+- input: "F57\x1CC90011685\x1CF57.4758\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CP2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2GA09150\x1CCOLLINS\x1CDOUGLAS ALLEN\x1C\x1C\x1C\x1CH\x1CGA\x1C09\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4758
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2GA09150
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: COLLINS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: DOUGLAS ALLEN
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: GA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '09
+
+'
+- input: "F57\x1CC90011685\x1CF57.4759\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1519.63\x1C1519.63\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH4PA08074\x1CFITZPATRICK\x1CMICHAEL G.\x1C\x1C\x1C\x1CH\x1CPA\x1C08\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4759
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1519.63'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1519.63'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H4PA08074
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: FITZPATRICK
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: MICHAEL G.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: PA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '08
+
+'
+- input: "F57\x1CC90011685\x1CF57.4760\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C497.81\x1C497.81\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0FL02110\x1CSOUTHERLAND\x1CWILLIAM STEVE II\x1C\x1C\x1C\x1CH\x1CFL\x1C02\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4760
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '497.81'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '497.81'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0FL02110
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SOUTHERLAND
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: WILLIAM STEVE II
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: FL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '02
+
+'
+- input: "F57\x1CC90011685\x1CF57.4761\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1473.61\x1C1473.61\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0WI08075\x1CRIBBLE\x1CREID\x1C\x1C\x1C\x1CH\x1CWI\x1C08\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4761
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1473.61'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1473.61'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0WI08075
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: RIBBLE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: REID
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: WI
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '08
+
+'
+- input: "F57\x1CC90011685\x1CF57.4762\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1746.78\x1C1746.78\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0WI07051\x1CDUFFY\x1CSEAN\x1C\x1C\x1C\x1CH\x1CWI\x1C07\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4762
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1746.78'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1746.78'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0WI07051
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: DUFFY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: SEAN
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: WI
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '07
+
+'
+- input: "F57\x1CC90011685\x1CF57.4763\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CP2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0VA02084\x1CRIGELL\x1CEDWARD SCOTT MR.\x1C\x1C\x1C\x1CH\x1CVA\x1C02\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4763
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0VA02084
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: RIGELL
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: EDWARD SCOTT MR.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: VA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '02
+
+'
+- input: "F57\x1CC90011685\x1CF57.4764\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH6TX22143\x1CSTOCKMAN\x1CSTEVE\x1C\x1C\x1C\x1CH\x1CTX\x1C36\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4764
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H6TX22143
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: STOCKMAN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: STEVE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: TX
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '36
+
+'
+- input: "F57\x1CC90011685\x1CF57.4765\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2TX33040\x1CWILLIAMS\x1CROGER\x1C\x1C\x1C\x1CH\x1CTX\x1C25\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4765
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2TX33040
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: WILLIAMS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ROGER
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: TX
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '25
+
+'
+- input: "F57\x1CC90011685\x1CF57.4766\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C560.46\x1C560.46\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH4TX28046\x1CCANSECO\x1CQUICO R. Canseco\x1C\x1C\x1C\x1CH\x1CTX\x1C23\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4766
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '560.46'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '560.46'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H4TX28046
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: CANSECO
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: QUICO R. Canseco
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: TX
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '23
+
+'
+- input: "F57\x1CC90011685\x1CF57.4767\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2TX14149\x1CWEBER\x1CRANDY\x1C\x1C\x1C\x1CH\x1CTX\x1C14\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4767
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2TX14149
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: WEBER
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: RANDY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: TX
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '14
+
+'
+- input: "F57\x1CC90011685\x1CF57.4768\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2SC07066\x1CRICE\x1CTOM\x1C\x1C\x1C\x1CH\x1CSC\x1C07\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4768
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2SC07066
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: RICE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: TOM
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: SC
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '07
+
+'
+- input: "F57\x1CC90011685\x1CF57.4769\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C355.04\x1C355.04\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2RI01178\x1CDOHERTY\x1CBRENDAN P\x1C\x1C\x1C\x1CH\x1CRI\x1C01\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4769
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '355.04'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '355.04'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2RI01178
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: DOHERTY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BRENDAN P
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: RI
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '01
+
+'
+- input: "F57\x1CC90011685\x1CF57.4770\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1500.24\x1C1500.24\x1CTelephone
+    Voter Contact\x1C\x1C\x1CS\x1CH0PA04220\x1CROTHFUS\x1CKEITH MR.\x1C\x1C\x1C\x1CH\x1CPA\x1C12\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4770
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1500.24'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1500.24'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0PA04220
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: ROTHFUS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: KEITH MR.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: PA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '12
+
+'
+- input: "F57\x1CC90011685\x1CF57.4771\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1807.89\x1C1807.89\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0PA07082\x1CMEEHAN\x1CPATRICK L. MR. JR.\x1C\x1C\x1C\x1CH\x1CPA\x1C07\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4771
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1807.89'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1807.89'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0PA07082
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: MEEHAN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: PATRICK L. MR. JR.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: PA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '07
+
+'
+- input: "F57\x1CC90011685\x1CF57.4772\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2PA04135\x1CPERRY\x1CSCOTT\x1C\x1C\x1C\x1CH\x1CPA\x1C04\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4772
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2PA04135
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: PERRY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: SCOTT
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: PA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '04
+
+'
+- input: "F57\x1CC90011685\x1CF57.4773\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C243.78\x1C243.78\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2NV04045\x1CTARKANIAN\x1CDANNY\x1C\x1C\x1C\x1CH\x1CNV\x1C04\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4773
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '243.78'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '243.78'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2NV04045
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: TARKANIAN
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: DANNY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: NV
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '04
+
+'
+- input: "F57\x1CC90011685\x1CF57.4774\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1242.89\x1C1242.89\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0MI01088\x1CBENISHEK\x1CDANIEL J. M.D.\x1C\x1C\x1C\x1CH\x1CMI\x1C01\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4774
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1242.89'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1242.89'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0MI01088
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: BENISHEK
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: DANIEL J. M.D.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: MI
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '01
+
+'
+- input: "F57\x1CC90011685\x1CF57.4775\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C629.41\x1C629.41\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2MA00014\x1CTISEI\x1CRICHARD R.\x1C\x1C\x1C\x1CH\x1CMA\x1C06\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4775
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '629.41'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '629.41'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2MA00014
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: TISEI
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: RICHARD R.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '06
+
+'
+- input: "F57\x1CC90011685\x1CF57.4776\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2MD06054\x1CBARTLETT\x1CROSCOE G. REP.\x1C\x1C\x1C\x1CH\x1CMD\x1C06\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4776
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2MD06054
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: BARTLETT
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ROSCOE G. REP.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: MD
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '06
+
+'
+- input: "F57\x1CC90011685\x1CF57.4777\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1090.81\x1C1090.81\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0KY06104\x1CBARR\x1CGARLAND ANDY\x1C\x1C\x1C\x1CH\x1CKY\x1C06\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4777
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1090.81'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1090.81'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0KY06104
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: BARR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: GARLAND ANDY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: KY
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '06
+
+'
+- input: "F57\x1CC90011685\x1CF57.4778\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2KY04121\x1CMASSIE\x1CTHOMAS H.\x1C\x1C\x1C\x1CH\x1CKY\x1C04\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4778
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2KY04121
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: MASSIE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: THOMAS H.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: KY
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '04
+
+'
+- input: "F57\x1CC90011685\x1CF57.4779\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1062.71\x1C1062.71\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2IA05072\x1CKING\x1CSTEVE MR.\x1C\x1C\x1C\x1CH\x1CIA\x1C04\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4779
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1062.71'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1062.71'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2IA05072
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: STEVE MR.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '04
+
+'
+- input: "F57\x1CC90011685\x1CF57.4780\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C743.30\x1C743.30\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH4IA05102\x1CLATHAM\x1CTHOMAS\x1C\x1C\x1C\x1CH\x1CIA\x1C03\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4780
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '743.30'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '743.30'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H4IA05102
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: LATHAM
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: THOMAS
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '03
+
+'
+- input: "F57\x1CC90011685\x1CF57.4781\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2IA02053\x1CARCHER\x1CJOHN H JR\x1C\x1C\x1C\x1CH\x1CIA\x1C02\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4781
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2IA02053
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: ARCHER
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: JOHN H JR
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '02
+
+'
+- input: "F57\x1CC90011685\x1CF57.4782\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0IA01117\x1CLANGE\x1CBEN M\x1C\x1C\x1C\x1CH\x1CIA\x1C01\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4782
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0IA01117
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: LANGE
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BEN M
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '01
+
+'
+- input: "F57\x1CC90011685\x1CF57.4783\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C988.93\x1C988.93\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0IL17059\x1CSCHILLING\x1CROBERT T.\x1C\x1C\x1C\x1CH\x1CIL\x1C17\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4783
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '988.93'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '988.93'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0IL17059
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SCHILLING
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ROBERT T.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '17
+
+'
+- input: "F57\x1CC90011685\x1CF57.4784\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C970.45\x1C970.45\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2IL13120\x1CDAVIS\x1CRODNEY L\x1C\x1C\x1C\x1CH\x1CIL\x1C13\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4784
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '970.45'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '970.45'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2IL13120
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: DAVIS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: RODNEY L
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '13
+
+'
+- input: "F57\x1CC90011685\x1CF57.4785\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C910.95\x1C910.95\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2IL12098\x1CPLUMMER\x1CJASON\x1C\x1C\x1C\x1CH\x1CIL\x1C12\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4785
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '910.95'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '910.95'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2IL12098
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: PLUMMER
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: JASON
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '12
+
+'
+- input: "F57\x1CC90011685\x1CF57.4786\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C692.58\x1C692.58\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH8IL13069\x1CBIGGERT\x1CJUDY\x1C\x1C\x1C\x1CH\x1CIL\x1C11\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4786
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '692.58'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '692.58'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H8IL13069
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: BIGGERT
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: JUDY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '11
+
+'
+- input: "F57\x1CC90011685\x1CF57.4789\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C175.00\x1C175.00\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2FL00292\x1CDESANTIS\x1CRONALD D\x1C\x1C\x1C\x1CH\x1CFL\x1C06\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4789
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '175.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '175.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2FL00292
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: DESANTIS
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: RONALD D
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: FL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '06
+
+'
+- input: "F57\x1CC90011685\x1CF57.4790\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C508.80\x1C508.80\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH4WV03047\x1CSNUFFER\x1CRICHARD RAY MR.\x1C\x1C\x1C\x1CH\x1CWV\x1C03\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4790
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '508.80'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '508.80'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H4WV03047
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SNUFFER
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: RICHARD RAY MR.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: WV
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '03
+
+'
+- input: "F57\x1CC90011685\x1CF57.4791\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C586.57\x1C586.57\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0IL08090\x1CWALSH\x1CJOE\x1C\x1C\x1C\x1CH\x1CIL\x1C08\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4791
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '586.57'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '586.57'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0IL08090
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: WALSH
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: JOE
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '08
+
+'
+- input: "F57\x1CC90011685\x1CF57.4792\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C742.04\x1C742.04\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH0IL10302\x1CDOLD\x1CROBERT JAMES MR JR\x1C\x1C\x1C\x1CH\x1CIL\x1C10\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4792
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '742.04'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '742.04'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H0IL10302
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: DOLD
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ROBERT JAMES MR JR
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: IL
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '10
+
+'
+- input: "F57\x1CC90011685\x1CF57.4793\x1CORG\x1CVictory Phones\x1C\x1C\x1C\x1C\x1C\x1C190
+    Monroe Ave NW\x1CFifth Floor\x1CGrand Rapids\x1CMI\x1C49503\x1CG2012\x1C\x1C20121104\x1C1056.72\x1C1056.72\x1CTelephone
+    Voter Contact\x1C004\x1C\x1CS\x1CH2GA12105\x1CANDERSON\x1CLEE I\x1C\x1C\x1C\x1CH\x1CGA\x1C12\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90011685
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4793
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Victory Phones
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 190 Monroe Ave NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Fifth Floor
+  - name: PAYEE CITY
+    number: '13'
+    value: Grand Rapids
+  - name: PAYEE STATE
+    number: '14'
+    value: MI
+  - name: PAYEE ZIP
+    number: '15'
+    value: '49503'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121104'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1056.72'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1056.72'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Telephone Voter Contact
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: H2GA12105
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: ANDERSON
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: LEE I
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: GA
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '12
+
+'
+sourceurl: !!python/unicode 20130131
+type: chunk

@@ -1,0 +1,129 @@
+countrows: 2
+filename: 851455.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH4IN01012\x1CVisclosky\x1CPeter\x1CJ.\x1C\x1C\x1C\x1CPost Office
+    Box 10003\x1C\x1CMerrillville\x1CIN\x1C46411\x1CDEM\x1CH\x1CIN\x1C01\x1C2014\x1CC00166504\x1CVisclosky
+    for Congress\x1CPost Office Box 10003\x1C\x1CMerrillville\x1CIN\x1C46411\x1CC00386300\x1CCalumet
+    PAC\x1C8000 Utah Street\x1C\x1CMerrillville\x1CIN\x1C46410\x1CVisclosky\x1CPeter\x1CJ.\x1C\x1C\x1C20130130\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H4IN01012
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Visclosky
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Peter
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: J.
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: Post Office Box 10003
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Merrillville
+  - name: CANDIDATE STATE
+    number: '12'
+    value: IN
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '46411'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: IN
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '01'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00166504
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Visclosky for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: Post Office Box 10003
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Merrillville
+  - name: PCC STATE
+    number: '24'
+    value: IN
+  - name: PCC ZIP
+    number: '25'
+    value: '46411'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00386300
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Calumet PAC
+  - name: AUTH STREET 1
+    number: '28'
+    value: 8000 Utah Street
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Merrillville
+  - name: AUTH STATE
+    number: '31'
+    value: IN
+  - name: AUTH ZIP
+    number: '32'
+    value: '46410'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Visclosky
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Peter
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: J.
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130130
+
+'
+sourceurl: !!python/unicode 20130130
+type: chunk

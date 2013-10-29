@@ -1,0 +1,129 @@
+countrows: 2
+filename: 854511.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH4IA05102\x1CLatham\x1CThomas\x1C\x1C\x1C\x1C\x1CPO Box 8237\x1C\x1CDes
+    Moines\x1CIA\x1C503018237\x1CREP\x1CH\x1CIA\x1C03\x1C2014\x1CC00287045\x1CIowans
+    For Latham\x1CPO Box 8237\x1C\x1CDes Moines\x1CIA\x1C503018237\x1CC00493080\x1CIowa
+    Leadership Fund\x1CPO Box 657\x1C\x1CClarion\x1CIA\x1C505250657\x1CLatham\x1CThomas\x1C\x1C\x1C\x1C20130204\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H4IA05102
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Latham
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Thomas
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO Box 8237
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Des Moines
+  - name: CANDIDATE STATE
+    number: '12'
+    value: IA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '503018237'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: IA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '03'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00287045
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Iowans For Latham
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 8237
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Des Moines
+  - name: PCC STATE
+    number: '24'
+    value: IA
+  - name: PCC ZIP
+    number: '25'
+    value: '503018237'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00493080
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Iowa Leadership Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO Box 657
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Clarion
+  - name: AUTH STATE
+    number: '31'
+    value: IA
+  - name: AUTH ZIP
+    number: '32'
+    value: '505250657'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Latham
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Thomas
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130204
+
+'
+sourceurl: !!python/unicode 20130205
+type: chunk

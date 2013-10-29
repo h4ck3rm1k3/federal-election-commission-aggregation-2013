@@ -1,0 +1,129 @@
+countrows: 2
+filename: 854211.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH0FL12101\x1CROSS\x1CDENNIS ALAN\x1C\x1C\x1C\x1C\x1C607 LAKE MIRIAM
+    DRIVE\x1C\x1CLAKELAND\x1CFL\x1C33813\x1CREP\x1CH\x1CFL\x1C15\x1C2014\x1CC00459461\x1CFRIENDS
+    OF DENNIS ROSS\x1C133 South Harbor Drive\x1C\x1CVenice\x1CFL\x1C34285\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CROSS\x1CDENNIS
+    ALAN\x1C\x1C\x1C\x1C20130118\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0FL12101
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: ROSS
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: DENNIS ALAN
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 607 LAKE MIRIAM DRIVE
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: LAKELAND
+  - name: CANDIDATE STATE
+    number: '12'
+    value: FL
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '33813'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: FL
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '15'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00459461
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: FRIENDS OF DENNIS ROSS
+  - name: PCC STREET 1
+    number: '21'
+    value: 133 South Harbor Drive
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Venice
+  - name: PCC STATE
+    number: '24'
+    value: FL
+  - name: PCC ZIP
+    number: '25'
+    value: '34285'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: ROSS
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: DENNIS ALAN
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130118
+
+'
+sourceurl: !!python/unicode 20130201
+type: chunk

@@ -1,0 +1,5373 @@
+countrows: 54
+filename: 851244.fec
+header: {}
+rows:
+- 2
+- input: "F5N\x1CC90013590\x1CORG\x1CAmericans Elect\x1C\x1C\x1C\x1C\x1C\x1CX\x1CPO
+    Box 27875\x1C\x1CWashington\x1CDC\x1C20038\x1CN\x1C\x1C\x1CYE\x1C\x1C20120808\x1C20121231\x1C1750000.00\x1C1349297.75\x1CByrd\x1CKahlil
+    J.\x1C\x1C\x1C\x1C20130130\n"
+  record: fec.version.v8_0.F5
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F5N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: Americans Elect
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: X
+  - name: STREET 1
+    number: '11'
+    value: PO Box 27875
+  - name: STREET 2
+    number: '12'
+    value: ''
+  - name: CITY
+    number: '13'
+    value: Washington
+  - name: STATE
+    number: '14'
+    value: DC
+  - name: ZIP
+    number: '15'
+    value: '20038'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: N
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: ''
+  - name: REPORT CODE
+    number: '19'
+    value: YE
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: '20120808'
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: '20121231'
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '1750000.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '1349297.75'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: Byrd
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: Kahlil J.
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: ''
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130130
+
+'
+- input: "TEXT\x1CC90013590\x1C.TEXT\x1C\x1CF5N\x1CPlease note that two initial ad
+    production cost estimates that were initially disclosed on 10/5/2012 have been
+    updated.  Specifically, two SKDKnickerbocker expenditures for ad production on
+    10/5/2012 were updated from $19,325 to $24,575; and from $9,070 to $14,320.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: .TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F5N
+  - name: TEXT4000
+    number: '6'
+    value: 'Please note that two initial ad production cost estimates that were initially
+      disclosed on 10/5/2012 have been updated.  Specifically, two SKDKnickerbocker
+      expenditures for ad production on 10/5/2012 were updated from $19,325 to $24,575;
+      and from $9,070 to $14,320.
+
+'
+- input: "F56\x1CC90013590\x1CF56.4099\x1CIND\x1C\x1CAckerman\x1CPeter\x1C\x1C\x1C\x1CPO
+    Box 27875\x1C\x1CWashington\x1CDC\x1C20038\x1C\x1C20120808\x1C250000.00\x1CAmericans
+    Elect\x1CChairman\n"
+  record: fec.version.v8_0.F56
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F56
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F56.4099
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Ackerman
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Peter
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: PO Box 27875
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Washington
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20038'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20120808'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '250000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Americans Elect
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Chairman
+
+'
+- input: "F56\x1CC90013590\x1CF56.4133\x1CIND\x1C\x1CAckerman\x1CPeter\x1C\x1C\x1C\x1CPO
+    Box 27875\x1C\x1CWashington\x1CDC\x1C20038\x1C\x1C20120907\x1C100000.00\x1CAmericans
+    Elect\x1CChairman\n"
+  record: fec.version.v8_0.F56
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F56
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F56.4133
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Ackerman
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Peter
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: PO Box 27875
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Washington
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20038'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20120907'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '100000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Americans Elect
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Chairman
+
+'
+- input: "F56\x1CC90013590\x1CF56.4134\x1CIND\x1C\x1CAckerman\x1CPeter\x1C\x1C\x1C\x1CPO
+    Box 27875\x1C\x1CWashington\x1CDC\x1C20038\x1C\x1C20121001\x1C150000.00\x1CAmericans
+    Elect\x1CChairman\n"
+  record: fec.version.v8_0.F56
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F56
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F56.4134
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Ackerman
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Peter
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: PO Box 27875
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Washington
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20038'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121001'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '150000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Americans Elect
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Chairman
+
+'
+- input: "F56\x1CC90013590\x1CF56.4135\x1CIND\x1C\x1CBloomberg\x1CMichael R.\x1C\x1C\x1C\x1Cc/o
+    Geller & Company\x1C909 Third Ave\x1CNew York\x1CNY\x1C10022\x1C\x1C20121004\x1C500000.00\x1CCity
+    of New York\x1CMayor\n"
+  record: fec.version.v8_0.F56
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F56
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F56.4135
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Bloomberg
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Michael R.
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: c/o Geller & Company
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: 909 Third Ave
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: New York
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: NY
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '10022'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121004'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '500000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: City of New York
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Mayor
+
+'
+- input: "F56\x1CC90013590\x1CF56.4130\x1CCOM\x1CPassport Capital LLC (attributable
+    to John Burbank)\x1C\x1C\x1C\x1C\x1C\x1C30 Hotaling Pl, Suite 300\x1C\x1CSan Francisco\x1CCA\x1C94111\x1C\x1C20121001\x1C750000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F56
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F56
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F56.4130
+  - name: ENTITY TYPE
+    number: '4'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: Passport Capital LLC (attributable to John Burbank)
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 30 Hotaling Pl, Suite 300
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '94111'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121001'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '750000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4137\x1CORG\x1CDouglas E. Schoen NYC LLC\x1C\x1C\x1C\x1C\x1C\x1C1111
+    Park Ave\x1C\x1CNew York\x1CNY\x1C10128\x1CG2012\x1C\x1C20121005\x1C150000.00\x1C673895.00\x1CPolling
+    & Research\x1C005\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4137
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Douglas E. Schoen NYC LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1111 Park Ave
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: New York
+  - name: PAYEE STATE
+    number: '14'
+    value: NY
+  - name: PAYEE ZIP
+    number: '15'
+    value: '10128'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '150000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '673895.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Polling & Research
+  - name: CATEGORY CODE
+    number: '22'
+    value: '005'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4139\x1CORG\x1CDouglas E. Schoen NYC LLC\x1C\x1C\x1C\x1C\x1C\x1C1111
+    Park Ave\x1C\x1CNew York\x1CNY\x1C10128\x1CG2012\x1C\x1C20121005\x1C50000.00\x1C723895.00\x1CProduction
+    Planning/Strategy\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4139
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Douglas E. Schoen NYC LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1111 Park Ave
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: New York
+  - name: PAYEE STATE
+    number: '14'
+    value: NY
+  - name: PAYEE ZIP
+    number: '15'
+    value: '10128'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '50000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '723895.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Production Planning/Strategy
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4101\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121005\x1C24575.00\x1C24575.00\x1CAd
+    Production [Updated]\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4101
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '24575.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '24575.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Ad Production [Updated]
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4104\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121005\x1C14320.00\x1C38895.00\x1CAd
+    Production [Updated]\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4104
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '14320.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '38895.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Ad Production [Updated]
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4129\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121005\x1C72750.00\x1C523895.00\x1CMedia
+    Consulting\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4129
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '72750.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '523895.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Media Consulting
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4163\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121009\x1C26991.80\x1C750886.80\x1CDirect
+    Mail - Postage\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4163
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121009'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '26991.80'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '750886.80'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Direct Mail - Postage
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4164\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121009\x1C62703.30\x1C813590.10\x1CDirect
+    Mail\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4164
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121009'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '62703.30'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '813590.10'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Direct Mail
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4168\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121015\x1C48532.90\x1C862123.00\x1CDirect
+    Mail\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4168
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121015'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '48532.90'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '862123.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Direct Mail
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4170\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121015\x1C41162.20\x1C903285.20\x1CDirect
+    Mail - Postage\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4170
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121015'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '41162.20'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '903285.20'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Direct Mail - Postage
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4174\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121020\x1C6447.50\x1C909732.70\x1CTelevision
+    Advertising - Production\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4174
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121020'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '6447.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '909732.70'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Production
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4176\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121020\x1C6447.50\x1C916180.20\x1CTelevision
+    Advertising - Production\x1C\x1C\x1CO\x1CS2ME00133\x1CSUMMERS JR\x1CCHARLES EDWARD\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4176
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121020'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '6447.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '916180.20'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Production
+  - name: CATEGORY CODE
+    number: '22'
+    value: ''
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00133
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SUMMERS JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHARLES EDWARD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4181\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121023\x1C29021.73\x1C945201.93\x1CDirect
+    Mail\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4181
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121023'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '29021.73'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '945201.93'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Direct Mail
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4182\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121023\x1C15825.82\x1C961027.75\x1CDirect
+    Mail - Postage\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4182
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121023'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '15825.82'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '961027.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Direct Mail - Postage
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4208\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121026\x1C28128.75\x1C1307949.00\x1CMedia
+    Consulting\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4208
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '28128.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1307949.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Media Consulting
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4209\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121026\x1C28128.75\x1C1336077.75\x1CMedia
+    Consulting\x1C004\x1C\x1CO\x1CS2ME00133\x1CSUMMERS JR\x1CCHARLES EDWARD\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4209
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '28128.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1336077.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Media Consulting
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00133
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SUMMERS JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHARLES EDWARD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4233\x1CORG\x1CSKDKnickerbocker LLC\x1C\x1C\x1C\x1C\x1C\x1C1818
+    N St, NW, Suite 450\x1C\x1CWashington\x1CDC\x1C20036\x1CG2012\x1C\x1C20121031\x1C13220.00\x1C1349297.75\x1CTelevision
+    Advertising - Production\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4233
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: SKDKnickerbocker LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1818 N St, NW, Suite 450
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20036'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121031'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '13220.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1349297.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Production
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4109\x1CORG\x1CWABI\x1C\x1C\x1C\x1C\x1C\x1C35 Hildreth
+    St\x1C\x1CBangor\x1CME\x1C04401\x1CG2012\x1C\x1C20121005\x1C82849.50\x1C133308.75\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4109
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WABI
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 35 Hildreth St
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Bangor
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04401'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '82849.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '133308.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4189\x1CORG\x1CWABI\x1C\x1C\x1C\x1C\x1C\x1C35 Hildreth
+    St\x1C\x1CBangor\x1CME\x1C04401\x1CG2012\x1C\x1C20121026\x1C22100.00\x1C997271.75\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4189
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WABI
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 35 Hildreth St
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Bangor
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04401'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '22100.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '997271.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4190\x1CORG\x1CWABI\x1C\x1C\x1C\x1C\x1C\x1C35 Hildreth
+    St\x1C\x1CBangor\x1CME\x1C04401\x1CG2012\x1C\x1C20121026\x1C22100.00\x1C1019371.75\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CO\x1CS2ME00133\x1CSUMMERS JR\x1CCHARLES
+    EDWARD\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4190
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WABI
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 35 Hildreth St
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Bangor
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04401'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '22100.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1019371.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00133
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SUMMERS JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHARLES EDWARD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4125\x1CORG\x1CWAGM - CBS\x1C\x1C\x1C\x1C\x1C\x1C12
+    Brewer Rd\x1C\x1CPresque Isle\x1CME\x1C04769\x1CG2012\x1C\x1C20121005\x1C12724.50\x1C450337.50\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4125
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WAGM - CBS
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 12 Brewer Rd
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Presque Isle
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: 04769
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '12724.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '450337.50'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4204\x1CORG\x1CWAGM - CBS\x1C\x1C\x1C\x1C\x1C\x1C12
+    Brewer Rd\x1C\x1CPresque Isle\x1CME\x1C04769\x1CG2012\x1C\x1C20121026\x1C6090.25\x1C1272854.50\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4204
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WAGM - CBS
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 12 Brewer Rd
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Presque Isle
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: 04769
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '6090.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1272854.50'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4205\x1CORG\x1CWAGM - CBS\x1C\x1C\x1C\x1C\x1C\x1C12
+    Brewer Rd\x1C\x1CPresque Isle\x1CME\x1C04769\x1CG2012\x1C\x1C20121026\x1C6090.25\x1C1278944.75\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CO\x1CS2ME00133\x1CSUMMERS JR\x1CCHARLES
+    EDWARD\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4205
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WAGM - CBS
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 12 Brewer Rd
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Presque Isle
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: 04769
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '6090.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1278944.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00133
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SUMMERS JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHARLES EDWARD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4127\x1CORG\x1CWAGM - FOX\x1C\x1C\x1C\x1C\x1C\x1C12
+    Brewer Rd\x1C\x1CPresque Isle\x1CME\x1C04769\x1CG2012\x1C\x1C20121005\x1C807.50\x1C451145.00\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4127
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WAGM - FOX
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 12 Brewer Rd
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Presque Isle
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: 04769
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '807.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '451145.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4206\x1CORG\x1CWAGM - FOX\x1C\x1C\x1C\x1C\x1C\x1C12
+    Brewer Rd\x1C\x1CPresque Isle\x1CME\x1C04769\x1CG2012\x1C\x1C20121026\x1C437.75\x1C1279382.50\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4206
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WAGM - FOX
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 12 Brewer Rd
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Presque Isle
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: 04769
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '437.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1279382.50'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4207\x1CORG\x1CWAGM - FOX\x1C\x1C\x1C\x1C\x1C\x1C12
+    Brewer Rd\x1C\x1CPresque Isle\x1CME\x1C04769\x1CG2012\x1C\x1C20121026\x1C437.75\x1C1279820.25\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CO\x1CS2ME00133\x1CSUMMERS JR\x1CCHARLES
+    EDWARD\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4207
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WAGM - FOX
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 12 Brewer Rd
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Presque Isle
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: 04769
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '437.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1279820.25'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00133
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SUMMERS JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHARLES EDWARD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4123\x1CORG\x1CWCSH\x1C\x1C\x1C\x1C\x1C\x1C1 Congress
+    Sq\x1C\x1CPortland\x1CME\x1C04101\x1CG2012\x1C\x1C20121005\x1C149468.25\x1C437613.00\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4123
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WCSH
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1 Congress Sq
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Portland
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04101'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '149468.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '437613.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4202\x1CORG\x1CWCSH\x1C\x1C\x1C\x1C\x1C\x1C1 Congress
+    Sq\x1C\x1CPortland\x1CME\x1C04101\x1CG2012\x1C\x1C20121026\x1C50602.63\x1C1216161.63\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4202
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WCSH
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1 Congress Sq
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Portland
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04101'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '50602.63'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1216161.63'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4203\x1CORG\x1CWCSH\x1C\x1C\x1C\x1C\x1C\x1C1 Congress
+    Sq\x1C\x1CPortland\x1CME\x1C04101\x1CG2012\x1C\x1C20121026\x1C50602.62\x1C1266764.25\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CO\x1CS2ME00133\x1CSUMMERS JR\x1CCHARLES
+    EDWARD\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4203
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WCSH
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1 Congress Sq
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Portland
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04101'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '50602.62'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1266764.25'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00133
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SUMMERS JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHARLES EDWARD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4111\x1CORG\x1CWFVX\x1C\x1C\x1C\x1C\x1C\x1C371 Target
+    Industrial Cir\x1C\x1CBangor\x1CME\x1C04401\x1CG2012\x1C\x1C20121005\x1C1211.25\x1C134520.00\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4111
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WFVX
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 371 Target Industrial Cir
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Bangor
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04401'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1211.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '134520.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4191\x1CORG\x1CWFVX\x1C\x1C\x1C\x1C\x1C\x1C371 Target
+    Industrial Cir\x1C\x1CBangor\x1CME\x1C04401\x1CG2012\x1C\x1C20121026\x1C956.25\x1C1020328.00\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4191
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WFVX
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 371 Target Industrial Cir
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Bangor
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04401'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '956.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1020328.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4192\x1CORG\x1CWFVX\x1C\x1C\x1C\x1C\x1C\x1C371 Target
+    Industrial Cir\x1C\x1CBangor\x1CME\x1C04401\x1CG2012\x1C\x1C20121026\x1C956.25\x1C1021284.25\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CO\x1CS2ME00133\x1CSUMMERS JR\x1CCHARLES
+    EDWARD\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4192
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WFVX
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 371 Target Industrial Cir
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Bangor
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04401'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '956.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1021284.25'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00133
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SUMMERS JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHARLES EDWARD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4118\x1CORG\x1CWGME\x1C\x1C\x1C\x1C\x1C\x1C81 Northport
+    Dr\x1C\x1CPortland\x1CME\x1C04103\x1CG2012\x1C\x1C20121005\x1C49725.00\x1C273864.75\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4118
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WGME
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 81 Northport Dr
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Portland
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04103'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '49725.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '273864.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4198\x1CORG\x1CWGME\x1C\x1C\x1C\x1C\x1C\x1C81 Northport
+    Dr\x1C\x1CPortland\x1CME\x1C04103\x1CG2012\x1C\x1C20121026\x1C19114.38\x1C1134544.63\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4198
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WGME
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 81 Northport Dr
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Portland
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04103'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '19114.38'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1134544.63'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4199\x1CORG\x1CWGME\x1C\x1C\x1C\x1C\x1C\x1C81 Northport
+    Dr\x1C\x1CPortland\x1CME\x1C04103\x1CG2012\x1C\x1C20121026\x1C19114.37\x1C1153659.00\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CO\x1CS2ME00133\x1CSUMMERS JR\x1CCHARLES
+    EDWARD\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4199
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WGME
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 81 Northport Dr
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Portland
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04103'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '19114.37'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1153659.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00133
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SUMMERS JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHARLES EDWARD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4113\x1CORG\x1CWLBZ\x1C\x1C\x1C\x1C\x1C\x1C329 Mount
+    Hope Ave\x1C\x1CBangor\x1CME\x1C04401\x1CG2012\x1C\x1C20121005\x1C29618.25\x1C164138.25\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4113
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WLBZ
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 329 Mount Hope Ave
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Bangor
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04401'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '29618.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '164138.25'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4193\x1CORG\x1CWLBZ\x1C\x1C\x1C\x1C\x1C\x1C329 Mount
+    Hope Ave\x1C\x1CBangor\x1CME\x1C04401\x1CG2012\x1C\x1C20121026\x1C25495.75\x1C1046780.00\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4193
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WLBZ
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 329 Mount Hope Ave
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Bangor
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04401'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '25495.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1046780.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4194\x1CORG\x1CWLBZ\x1C\x1C\x1C\x1C\x1C\x1C329 Mount
+    Hope Ave\x1C\x1CBangor\x1CME\x1C04401\x1CG2012\x1C\x1C20121026\x1C25495.75\x1C1072275.75\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CO\x1CS2ME00133\x1CSUMMERS JR\x1CCHARLES
+    EDWARD\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4194
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WLBZ
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 329 Mount Hope Ave
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Bangor
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04401'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '25495.75'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1072275.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00133
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SUMMERS JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHARLES EDWARD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4115\x1CORG\x1CWMTW\x1C\x1C\x1C\x1C\x1C\x1C99 Danville
+    Corner Rd\x1C\x1CAuburn\x1CME\x1C04210\x1CG2012\x1C\x1C20121005\x1C60001.50\x1C224139.75\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4115
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WMTW
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 99 Danville Corner Rd
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Auburn
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04210'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '60001.50'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '224139.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4196\x1CORG\x1CWMTW\x1C\x1C\x1C\x1C\x1C\x1C99 Danville
+    Corner Rd\x1C\x1CAuburn\x1CME\x1C04210\x1CG2012\x1C\x1C20121026\x1C21577.25\x1C1093853.00\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4196
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WMTW
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 99 Danville Corner Rd
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Auburn
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04210'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '21577.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1093853.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4197\x1CORG\x1CWMTW\x1C\x1C\x1C\x1C\x1C\x1C99 Danville
+    Corner Rd\x1C\x1CAuburn\x1CME\x1C04210\x1CG2012\x1C\x1C20121026\x1C21577.25\x1C1115430.25\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CO\x1CS2ME00133\x1CSUMMERS JR\x1CCHARLES
+    EDWARD\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4197
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WMTW
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 99 Danville Corner Rd
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Auburn
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04210'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '21577.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1115430.25'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00133
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SUMMERS JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHARLES EDWARD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4121\x1CORG\x1CWPFO\x1C\x1C\x1C\x1C\x1C\x1C233 Oxford
+    St, Suite 35\x1C\x1CPortland\x1CME\x1C04101\x1CG2012\x1C\x1C20121005\x1C14280.00\x1C288144.75\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4121
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WPFO
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 233 Oxford St, Suite 35
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Portland
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04101'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '14280.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '288144.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4200\x1CORG\x1CWPFO\x1C\x1C\x1C\x1C\x1C\x1C233 Oxford
+    St, Suite 35\x1C\x1CPortland\x1CME\x1C04101\x1CG2012\x1C\x1C20121026\x1C5950.00\x1C1159609.00\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4200
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WPFO
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 233 Oxford St, Suite 35
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Portland
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04101'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '5950.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1159609.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4201\x1CORG\x1CWPFO\x1C\x1C\x1C\x1C\x1C\x1C233 Oxford
+    St, Suite 35\x1C\x1CPortland\x1CME\x1C04101\x1CG2012\x1C\x1C20121026\x1C5950.00\x1C1165559.00\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CO\x1CS2ME00133\x1CSUMMERS JR\x1CCHARLES
+    EDWARD\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4201
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WPFO
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 233 Oxford St, Suite 35
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Portland
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04101'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '5950.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '1165559.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00133
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SUMMERS JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHARLES EDWARD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4105\x1CORG\x1CWVII\x1C\x1C\x1C\x1C\x1C\x1C371 Target
+    Industrial Cir\x1C\x1CBangor\x1CME\x1C04401\x1CG2012\x1C\x1C20121005\x1C11564.25\x1C50459.25\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4105
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WVII
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 371 Target Industrial Cir
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Bangor
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04401'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121005'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '11564.25'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '50459.25'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4186\x1CORG\x1CWVII\x1C\x1C\x1C\x1C\x1C\x1C371 Target
+    Industrial Cir\x1C\x1CBangor\x1CME\x1C04401\x1CG2012\x1C\x1C20121026\x1C7072.00\x1C968099.75\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CS\x1CS2ME00109\x1CKING JR\x1CANGUS
+    STANLEY\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4186
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WVII
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 371 Target Industrial Cir
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Bangor
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04401'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '7072.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '968099.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00109
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: KING JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: ANGUS STANLEY
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90013590\x1CF57.4187\x1CORG\x1CWVII\x1C\x1C\x1C\x1C\x1C\x1C371 Target
+    Industrial Cir\x1C\x1CBangor\x1CME\x1C04401\x1CG2012\x1C\x1C20121026\x1C7072.00\x1C975171.75\x1CTelevision
+    Advertising - Media Placement\x1C004\x1C\x1CO\x1CS2ME00133\x1CSUMMERS JR\x1CCHARLES
+    EDWARD\x1C\x1C\x1C\x1CS\x1CME\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90013590
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4187
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: WVII
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 371 Target Industrial Cir
+  - name: PAYEE STREET 2
+    number: '12'
+    value: ''
+  - name: PAYEE CITY
+    number: '13'
+    value: Bangor
+  - name: PAYEE STATE
+    number: '14'
+    value: ME
+  - name: PAYEE ZIP
+    number: '15'
+    value: '04401'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121026'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '7072.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '975171.75'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Television Advertising - Media Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: S2ME00133
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: SUMMERS JR
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: CHARLES EDWARD
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ME
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130130
+type: chunk

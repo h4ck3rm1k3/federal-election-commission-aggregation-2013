@@ -1,0 +1,938 @@
+countrows: 21
+filename: 853813.fec
+header: {}
+rows:
+- input: "SD10\x1CC00503110\x1CPAYD3849\x1CORG\x1CSutton Law Firm\x1C\x1C\x1C\x1C\x1C\x1C150
+    Post Street, Ste. 405\x1C\x1CSan Francisco\x1CCA\x1C94108\x1CLegal Services\x1C3635.09\x1C0.00\x1C0.00\x1C3635.09\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD3849
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Sutton Law Firm
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 150 Post Street, Ste. 405
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94108'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Legal Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '3635.09'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '3635.09
+
+'
+- input: "SD10\x1CC00503110\x1CPAYD4614\x1CORG\x1CSutton Law Firm\x1C\x1C\x1C\x1C\x1C\x1C150
+    Post Street, Ste. 405\x1C\x1CSan Francisco\x1CCA\x1C94108\x1CRecount Litigation/Legal
+    Services\x1C0.00\x1C3796.38\x1C0.00\x1C3796.38\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD4614
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Sutton Law Firm
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 150 Post Street, Ste. 405
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94108'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Recount Litigation/Legal Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '3796.38'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '3796.38
+
+'
+- input: "SD10\x1CC00503110\x1CPAYD4615\x1CORG\x1CSutton Law Firm\x1C\x1C\x1C\x1C\x1C\x1C150
+    Post Street, Ste. 405\x1C\x1CSan Francisco\x1CCA\x1C94108\x1CLegal Services\x1C0.00\x1C359.50\x1C0.00\x1C359.50\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD4615
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Sutton Law Firm
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 150 Post Street, Ste. 405
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94108'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Legal Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '359.50'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '359.50
+
+'
+- input: "SD10\x1CC00503110\x1CPAYD4529\x1CORG\x1CThe Cambre Group\x1C\x1C\x1C\x1C\x1C\x1C1039
+    Alexandria Drive\x1C\x1CSan Diego\x1CCA\x1C92107\x1CHotel Room for Election Night/Postage/Office
+    Supplies/Refreshments for GOTV\x1C0.00\x1C1834.65\x1C0.00\x1C1834.65\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD4529
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: The Cambre Group
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1039 Alexandria Drive
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Diego
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '92107'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Hotel Room for Election Night/Postage/Office Supplies/Refreshments for
+      GOTV
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '1834.65'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1834.65
+
+'
+- input: "SD10\x1CC00503110\x1CPAYD4532\x1CORG\x1CThe Cambre Group\x1C\x1C\x1C\x1C\x1C\x1C1039
+    Alexandria Drive\x1C\x1CSan Diego\x1CCA\x1C92107\x1COffice Supplies\x1C0.00\x1C24.16\x1C0.00\x1C24.16\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD4532
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: The Cambre Group
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1039 Alexandria Drive
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Diego
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '92107'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Office Supplies
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '24.16'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '24.16
+
+'
+- input: "SD10\x1CC00503110\x1CPAYD4535\x1CORG\x1CThe Cambre Group\x1C\x1C\x1C\x1C\x1C\x1C1039
+    Alexandria Drive\x1C\x1CSan Diego\x1CCA\x1C92107\x1CRecount Litigation/Postage\x1C0.00\x1C5.90\x1C0.00\x1C5.90\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD4535
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: The Cambre Group
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1039 Alexandria Drive
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Diego
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '92107'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Recount Litigation/Postage
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '5.90'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '5.90
+
+'
+- input: "SD10\x1CC00503110\x1CPAYD4578\x1CORG\x1CVerve Wireless\x1C\x1C\x1C\x1C\x1C\x1C725
+    S. Coast Highway 101\x1C\x1CEncinitas\x1CCA\x1C92024\x1CMobile Advertising\x1C0.00\x1C1131.84\x1C0.00\x1C1131.84\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD4578
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Verve Wireless
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 725 S. Coast Highway 101
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Encinitas
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '92024'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Mobile Advertising
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '1131.84'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '1131.84
+
+'
+- input: "SD10\x1CC00503110\x1CPAYD4541\x1CIND\x1C\x1CYatteau\x1CTom\x1C\x1C\x1C\x1C2611
+    Camulos Street, #23\x1C\x1CSan Diego\x1CCA\x1C92107\x1CFood for Volunteers\x1C0.00\x1C98.26\x1C0.00\x1C98.26\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD4541
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Yatteau
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: Tom
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: '2611 Camulos Street, #23'
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Diego
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '92107'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Food for Volunteers
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '98.26'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '98.26
+
+'
+- input: "SD10\x1CC00503110\x1CPAYD4505\x1CIND\x1C\x1CZawitoski\x1CDaniel\x1C\x1C\x1C\x1C4878
+    Cape May, #7\x1C\x1CSan Diego\x1CCA\x1C92107\x1COffice Supplies/Food for GOTV\x1C0.00\x1C241.93\x1C0.00\x1C241.93\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD4505
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Zawitoski
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: Daniel
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: '4878 Cape May, #7'
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Diego
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '92107'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Office Supplies/Food for GOTV
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '241.93'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '241.93
+
+'
+- input: "SD10\x1CC00503110\x1CPAYD4544\x1CIND\x1C\x1CZawitoski\x1CDaniel\x1C\x1C\x1C\x1C4878
+    Cape May, #7\x1C\x1CSan Diego\x1CCA\x1C92107\x1CEmail Software\x1C0.00\x1C132.97\x1C0.00\x1C132.97\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD4544
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Zawitoski
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: Daniel
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: '4878 Cape May, #7'
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Diego
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '92107'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Email Software
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '132.97'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '132.97
+
+'
+- input: "TEXT\x1CC00503110\x1CTPAYA3869\x1CPAYA3869\x1CSA13A\x1CLoan Received from
+    Candidates Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYA3869
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYA3869
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SA13A
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan Received from Candidates Personal Funds
+
+'
+- input: "TEXT\x1CC00503110\x1CTEXPB4457\x1CEXPB4457\x1CSB17\x1CRecount\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXPB4457
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: EXPB4457
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB17
+  - name: TEXT4000
+    number: '6'
+    value: 'Recount
+
+'
+- input: "TEXT\x1CC00503110\x1CTEXPB4480\x1CEXPB4480\x1CSB21\x1CRecount\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXPB4480
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: EXPB4480
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB21
+  - name: TEXT4000
+    number: '6'
+    value: 'Recount
+
+'
+- input: "TEXT\x1CC00503110\x1CTPAYC3869\x1CPAYC3869\x1CSC/10\x1CLoan Received from
+    Candidates Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC3869
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC3869
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan Received from Candidates Personal Funds
+
+'
+- input: "TEXT\x1CC00503110\x1CTPAYC3267\x1CPAYC3267\x1CSC/10\x1CLoan Received from
+    Candidates Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC3267
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC3267
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan Received from Candidates Personal Funds
+
+'
+- input: "TEXT\x1CC00503110\x1CTPAYC2402\x1CPAYC2402\x1CSC/10\x1CLoan Received from
+    Candidates Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC2402
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC2402
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan Received from Candidates Personal Funds
+
+'
+- input: "TEXT\x1CC00503110\x1CTPAYC1909\x1CPAYC1909\x1CSC/10\x1CLoan Received from
+    Candidates Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC1909
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC1909
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan Received from Candidates Personal Funds
+
+'
+- input: "TEXT\x1CC00503110\x1CTPAYC1907\x1CPAYC1907\x1CSC/10\x1CLoan Received from
+    Candidates Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC1907
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC1907
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan Received from Candidates Personal Funds
+
+'
+- input: "TEXT\x1CC00503110\x1CTPAYC1905\x1CPAYC1905\x1CSC/10\x1CLoan Received from
+    Candidates Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC1905
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC1905
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan Received from Candidates Personal Funds
+
+'
+- input: "TEXT\x1CC00503110\x1CTPAYC1903\x1CPAYC1903\x1CSC/10\x1CLoan Received from
+    Candidates Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC1903
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC1903
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan Received from Candidates Personal Funds
+
+'
+- input: "TEXT\x1CC00503110\x1CTEXT-F3A\x1C\x1CF3A\x1CAmend Summary Pages to disclose
+    the original amount of personal loans from the Candidate totaled $1,500,000.00
+    in August, September, & November, 2012 and were forgiven 11/26/2012 and $1,250,000.00
+    were converted to contributions and Schedule B to correct a bank fees in the amount
+    of $3,768.16 that were reported twice in error.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00503110
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT-F3A
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3A
+  - name: TEXT4000
+    number: '6'
+    value: 'Amend Summary Pages to disclose the original amount of personal loans
+      from the Candidate totaled $1,500,000.00 in August, September, & November, 2012
+      and were forgiven 11/26/2012 and $1,250,000.00 were converted to contributions
+      and Schedule B to correct a bank fees in the amount of $3,768.16 that were reported
+      twice in error.
+
+'
+sourceurl: !!python/unicode 20130201
+type: chunk

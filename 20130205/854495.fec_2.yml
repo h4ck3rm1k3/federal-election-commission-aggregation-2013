@@ -1,0 +1,2898 @@
+countrows: 35
+filename: 854495.fec
+header: {}
+rows:
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.L557008
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Gill
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Ricky
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 2369 E Morse
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Lodi
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95240'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '1445'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '1445'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20111121'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: ''
+  - value: '
+
+'
+  expected_count: 38
+  input: "SC/10\x1CC00493403\x1CSC/10.L557008\x1C13A\x1CCAN\x1C\x1CGill\x1CRicky\x1C\x1C\x1C\x1C2369
+    E Morse\x1C\x1CLodi\x1CCA\x1C95240\x1CP2012\x1C\x1C1445\x1C0\x1C1445\x1C20111121\x1C12/31/2012\x1C0\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 39
+  record: fec.version.v8_0.SC
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.L557009
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Gill
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Ricky
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 2369 E Morse
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Lodi
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95240'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '340'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '340'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20111219'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: ''
+  - value: '
+
+'
+  expected_count: 38
+  input: "SC/10\x1CC00493403\x1CSC/10.L557009\x1C13A\x1CCAN\x1C\x1CGill\x1CRicky\x1C\x1C\x1C\x1C2369
+    E Morse\x1C\x1CLodi\x1CCA\x1C95240\x1CP2012\x1C\x1C340\x1C0\x1C340\x1C20111219\x1C12/31/2012\x1C0\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 39
+  record: fec.version.v8_0.SC
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.L557010
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Gill
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Ricky
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 2369 E Morse
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Lodi
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95240'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '8300'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '8300'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20111115'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: ''
+  - value: '
+
+'
+  expected_count: 38
+  input: "SC/10\x1CC00493403\x1CSC/10.L557010\x1C13A\x1CCAN\x1C\x1CGill\x1CRicky\x1C\x1C\x1C\x1C2369
+    E Morse\x1C\x1CLodi\x1CCA\x1C95240\x1CP2012\x1C\x1C8300\x1C0\x1C8300\x1C20111115\x1C12/31/2012\x1C0\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 39
+  record: fec.version.v8_0.SC
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.L557011
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Gill
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Ricky
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 2369 E Morse
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Lodi
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95240'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '1500'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '1500'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20111201'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: ''
+  - value: '
+
+'
+  expected_count: 38
+  input: "SC/10\x1CC00493403\x1CSC/10.L557011\x1C13A\x1CCAN\x1C\x1CGill\x1CRicky\x1C\x1C\x1C\x1C2369
+    E Morse\x1C\x1CLodi\x1CCA\x1C95240\x1CP2012\x1C\x1C1500\x1C0\x1C1500\x1C20111201\x1C12/31/2012\x1C0\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 39
+  record: fec.version.v8_0.SC
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.L557012
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Gill
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Ricky
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 2369 E Morse
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Lodi
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95240'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '260'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '260'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120221'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: ''
+  - value: '
+
+'
+  expected_count: 38
+  input: "SC/10\x1CC00493403\x1CSC/10.L557012\x1C13A\x1CCAN\x1C\x1CGill\x1CRicky\x1C\x1C\x1C\x1C2369
+    E Morse\x1C\x1CLodi\x1CCA\x1C95240\x1CP2012\x1C\x1C260\x1C0\x1C260\x1C20120221\x1C12/31/2012\x1C0\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 39
+  record: fec.version.v8_0.SC
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.L557013
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Gill
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Ricky
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 2369 E Morse
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Lodi
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95240'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '1000'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '1000'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120131'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: ''
+  - value: '
+
+'
+  expected_count: 38
+  input: "SC/10\x1CC00493403\x1CSC/10.L557013\x1C13A\x1CCAN\x1C\x1CGill\x1CRicky\x1C\x1C\x1C\x1C2369
+    E Morse\x1C\x1CLodi\x1CCA\x1C95240\x1CP2012\x1C\x1C1000\x1C0\x1C1000\x1C20120131\x1C12/31/2012\x1C0\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 39
+  record: fec.version.v8_0.SC
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.L557014
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Gill
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Ricky
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 2369 E Morse
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Lodi
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95240'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '3720.69'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '3720.69'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120111'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: ''
+  - value: '
+
+'
+  expected_count: 38
+  input: "SC/10\x1CC00493403\x1CSC/10.L557014\x1C13A\x1CCAN\x1C\x1CGill\x1CRicky\x1C\x1C\x1C\x1C2369
+    E Morse\x1C\x1CLodi\x1CCA\x1C95240\x1CP2012\x1C\x1C3720.69\x1C0\x1C3720.69\x1C20120111\x1C12/31/2012\x1C0\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 39
+  record: fec.version.v8_0.SC
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.L557048
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Gill
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Ricky
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 2369 E Morse
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Lodi
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95240'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '5000'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '5000'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120401'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: ''
+  - value: '
+
+'
+  expected_count: 38
+  input: "SC/10\x1CC00493403\x1CSC/10.L557048\x1C13A\x1CCAN\x1C\x1CGill\x1CRicky\x1C\x1C\x1C\x1C2369
+    E Morse\x1C\x1CLodi\x1CCA\x1C95240\x1CP2012\x1C\x1C5000\x1C0\x1C5000\x1C20120401\x1C12/31/2012\x1C0\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 39
+  record: fec.version.v8_0.SC
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.L557276
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Gill
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Ricky
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 2369 E Morse
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Lodi
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95240'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '70000'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '70000'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20121031'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: Personal Funds
+  - value: '
+
+'
+  expected_count: 38
+  input: "SC/10\x1CC00493403\x1CSC/10.L557276\x1C13A\x1CCAN\x1C\x1CGill\x1CRicky\x1C\x1C\x1C\x1C2369
+    E Morse\x1C\x1CLodi\x1CCA\x1C95240\x1CG2012\x1C\x1C70000\x1C0\x1C70000\x1C20121031\x1C12/31/2012\x1C0\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1CPersonal
+    Funds\x1C\n"
+  input_count: 39
+  record: fec.version.v8_0.SC
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.L557280
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Gill
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Ricky
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 2369 E Morse
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Lodi
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '95240'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '70000'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '70000'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20121102'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: Personal Funds
+  - value: '
+
+'
+  expected_count: 38
+  input: "SC/10\x1CC00493403\x1CSC/10.L557280\x1C13A\x1CCAN\x1C\x1CGill\x1CRicky\x1C\x1C\x1C\x1C2369
+    E Morse\x1C\x1CLodi\x1CCA\x1C95240\x1CG2012\x1C\x1C70000\x1C0\x1C70000\x1C20121102\x1C12/31/2012\x1C0\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1CPersonal
+    Funds\x1C\n"
+  input_count: 39
+  record: fec.version.v8_0.SC
+  result: []
+- input: "SD10\x1CC00493403\x1CSD10.E1535562\x1CORG\x1CChariot LLC\x1C\x1C\x1C\x1C\x1C\x1C342
+    Edna Street\x1C\x1CSan Francisco\x1CCA\x1C94112\x1CMedia Buy\x1C0\x1C225\x1C0\x1C225\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535562
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Chariot LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 342 Edna Street
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94112'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Media Buy
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '225'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '225
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535559\x1CORG\x1CChariot LLC\x1C\x1C\x1C\x1C\x1C\x1C342
+    Edna Street\x1C\x1CSan Francisco\x1CCA\x1C94112\x1CMedia Buy\x1C0\x1C18065.39\x1C0\x1C18065.39\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535559
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Chariot LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 342 Edna Street
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94112'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Media Buy
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '18065.39'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '18065.39
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535553\x1CORG\x1CChariot LLC\x1C\x1C\x1C\x1C\x1C\x1C342
+    Edna Street\x1C\x1CSan Francisco\x1CCA\x1C94112\x1CMailers\x1C0\x1C84699\x1C0\x1C84699\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535553
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Chariot LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 342 Edna Street
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94112'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Mailers
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '84699'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '84699
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535561\x1CORG\x1CChariot LLC\x1C\x1C\x1C\x1C\x1C\x1C342
+    Edna Street\x1C\x1CSan Francisco\x1CCA\x1C94112\x1CRobo Calls\x1C0\x1C5395.92\x1C0\x1C5395.92\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535561
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Chariot LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 342 Edna Street
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94112'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Robo Calls
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '5395.92'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '5395.92
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535560\x1CORG\x1CChariot LLC\x1C\x1C\x1C\x1C\x1C\x1C342
+    Edna Street\x1C\x1CSan Francisco\x1CCA\x1C94112\x1CMailers/Commission\x1C0\x1C43670.85\x1C0\x1C43670.85\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535560
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Chariot LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 342 Edna Street
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94112'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Mailers/Commission
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '43670.85'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '43670.85
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1515072\x1CORG\x1CFlag City RV Resort\x1C\x1C\x1C\x1C\x1C\x1C6120
+    W. Banner Lane\x1C\x1CLodi\x1CCA\x1C95242\x1COffice Rent\x1C500\x1C0\x1C0\x1C500\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1515072
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Flag City RV Resort
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 6120 W. Banner Lane
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Lodi
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '95242'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Office Rent
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '500'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '500
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1515071\x1CORG\x1CFlag City RV Resort\x1C\x1C\x1C\x1C\x1C\x1C6120
+    W. Banner Lane\x1C\x1CLodi\x1CCA\x1C95242\x1COffice Rent\x1C500\x1C0\x1C0\x1C500\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1515071
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Flag City RV Resort
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 6120 W. Banner Lane
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Lodi
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '95242'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Office Rent
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '500'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '500
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535636\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CMileage Reimbursement\x1C0\x1C67.95\x1C0\x1C67.95\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535636
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Mileage Reimbursement
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '67.95'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '67.95
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535603\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CSee memo items below\x1C0\x1C134.8\x1C0\x1C134.8\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535603
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: See memo items below
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '134.8'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '134.8
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535596\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CSee memo items below\x1C0\x1C310.05\x1C0\x1C310.05\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535596
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: See memo items below
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '310.05'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '310.05
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535595\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CMileage Reimbursement\x1C0\x1C69.9\x1C0\x1C69.9\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535595
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Mileage Reimbursement
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '69.9'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '69.9
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535587\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CSee memo items below\x1C0\x1C181.47\x1C0\x1C181.47\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535587
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: See memo items below
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '181.47'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '181.47
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535569\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CSee memo items below\x1C0\x1C192.02\x1C0\x1C192.02\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535569
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: See memo items below
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '192.02'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '192.02
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535575\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CMileage Reimbursement\x1C0\x1C69.6\x1C0\x1C69.6\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535575
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Mileage Reimbursement
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '69.6'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '69.6
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535576\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CRegional Field Director\x1C0\x1C2287\x1C0\x1C2287\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535576
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Regional Field Director
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '2287'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '2287
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535577\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CSee memo items below\x1C0\x1C93.51\x1C0\x1C93.51\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535577
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: See memo items below
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '93.51'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '93.51
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535580\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CMeal for interns\x1C0\x1C14.43\x1C0\x1C14.43\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535580
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Meal for interns
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '14.43'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '14.43
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535584\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CMileage Reimbursement\x1C0\x1C65.85\x1C0\x1C65.85\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535584
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Mileage Reimbursement
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '65.85'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '65.85
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535585\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CMileage Reimbursement\x1C0\x1C29.55\x1C0\x1C29.55\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535585
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Mileage Reimbursement
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '29.55'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '29.55
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535586\x1CIND\x1C\x1CHilk\x1CJames\x1C\x1C\x1C\x1C37
+    Sarah Ln\x1C\x1CMoraga\x1CCA\x1C94556\x1CMileage Reimbursement\x1C0\x1C63.6\x1C0\x1C63.6\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535586
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hilk
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: James
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 37 Sarah Ln
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Moraga
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94556'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Mileage Reimbursement
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '63.6'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '63.6
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535565\x1CIND\x1C\x1CHueter\x1CKristin\x1C\x1C\x1C\x1C2000
+    Powell Street Suite 1250\x1C\x1CEmeryville\x1CCA\x1C94608\x1CFundraising Consultant\x1C0\x1C10000\x1C0\x1C10000\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535565
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Hueter
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: Kristin
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2000 Powell Street Suite 1250
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Emeryville
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94608'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Fundraising Consultant
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '10000'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '10000
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535567\x1CORG\x1CPG & E\x1C\x1C\x1C\x1C\x1C\x1C77
+    Beale St.\x1C\x1CSan Francisco\x1CCA\x1C94177\x1CUtility Bill\x1C0\x1C757.68\x1C0\x1C757.68\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535567
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: PG & E
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 77 Beale St.
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Francisco
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '94177'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Utility Bill
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '757.68'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '757.68
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535563\x1CORG\x1CRandy Tunnell Photography\x1C\x1C\x1C\x1C\x1C\x1C17
+    Elk Run\x1C\x1CMonterey\x1CCA\x1C93940\x1CPhotography\x1C0\x1C850\x1C0\x1C850\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535563
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Randy Tunnell Photography
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 17 Elk Run
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Monterey
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '93940'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Photography
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '850'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '850
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535555\x1CORG\x1CThe Theodore Company LLC\x1C\x1C\x1C\x1C\x1C\x1CP.O.
+    Box 320412\x1C\x1CAlexandria\x1CVA\x1C22320\x1CFundraising Consultant/commission\x1C0\x1C2250\x1C0\x1C2250\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535555
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: The Theodore Company LLC
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: P.O. Box 320412
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Alexandria
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '22320'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Fundraising Consultant/commission
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '2250'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '2250
+
+'
+- input: "SD10\x1CC00493403\x1CSD10.E1535557\x1CORG\x1CVision One Studios\x1C\x1C\x1C\x1C\x1C\x1C2938
+    Wagner Ct.\x1C\x1CTracy\x1CCA\x1C95377\x1CPhotography\x1C0\x1C2089.94\x1C0\x1C2089.94\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00493403
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SD10.E1535557
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Vision One Studios
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2938 Wagner Ct.
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Tracy
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '95377'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Photography
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '2089.94'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '2089.94
+
+'
+sourceurl: !!python/unicode 20130205
+type: chunk

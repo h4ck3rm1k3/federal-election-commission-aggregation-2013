@@ -1,0 +1,739 @@
+countrows: 8
+filename: 852747.fec
+header: {}
+rows:
+- 2
+- input: "F5N\x1CC90012063\x1CORG\x1CRepublican Jewish Coalition\x1C\x1C\x1C\x1C\x1C\x1C\x1C50
+    F Street NW\x1C\x1CWashington\x1CDC\x1C20001\x1CN\x1C\x1C\x1CYE\x1C\x1C20121001\x1C20121231\x1C0.00\x1C2800011.85\x1CBrooks\x1CMatt\x1C\x1C\x1C\x1C20130131\n"
+  record: fec.version.v8_0.F5
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F5N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012063
+  - name: ENTITY TYPE
+    number: '3'
+    value: ORG
+  - name: ORGANIZATION NAME
+    number: '4'
+    value: Republican Jewish Coalition
+  - name: INDIVIDUAL LAST NAME
+    number: '5'
+    value: ''
+  - name: INDIVIDUAL FIRST NAME
+    number: '6'
+    value: ''
+  - name: INDIVIDUAL MIDDLE NAME
+    number: '7'
+    value: ''
+  - name: INDIVIDUAL PREFIX
+    number: '8'
+    value: ''
+  - name: INDIVIDUAL SUFFIX
+    number: '9'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '10'
+    value: ''
+  - name: STREET 1
+    number: '11'
+    value: 50 F Street NW
+  - name: STREET 2
+    number: '12'
+    value: ''
+  - name: CITY
+    number: '13'
+    value: Washington
+  - name: STATE
+    number: '14'
+    value: DC
+  - name: ZIP
+    number: '15'
+    value: '20001'
+  - name: Qualified Non-Profit Corporation
+    number: 16-
+    value: N
+  - name: INDIVIDUAL EMPLOYER
+    number: '17'
+    value: ''
+  - name: INDIVIDUAL OCCUPATION
+    number: '18'
+    value: ''
+  - name: REPORT CODE
+    number: '19'
+    value: YE
+  - name: HOUR 48HOUR CODE
+    number: 20-24
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '21'
+    value: '20121001'
+  - name: COVERAGE THROUGH DATE
+    number: '22'
+    value: '20121231'
+  - name: TOTAL CONTRIBUTION
+    number: '23'
+    value: '0.00'
+  - name: TOTAL INDEPENDENT EXPENDITURE
+    number: '24'
+    value: '2800011.85'
+  - name: PERSON COMPLETING LAST NAME
+    number: '25'
+    value: Brooks
+  - name: PERSON COMPLETING FIRST NAME
+    number: '26'
+    value: Matt
+  - name: PERSON COMPLETING MIDDLE NAME
+    number: '27'
+    value: ''
+  - name: PERSON COMPLETING PREFIX
+    number: '28'
+    value: ''
+  - name: PERSON COMPLETING SUFFIX
+    number: '29'
+    value: ''
+  - name: DATE SIGNED
+    number: '30'
+    value: '20130131
+
+'
+- input: "F57\x1CC90012063\x1CF57.4160\x1CORG\x1CAngler, LLC\x1C\x1C\x1C\x1C\x1C\x1C1100
+    G Street NW\x1CSuite 805\x1CWashington\x1CDC\x1C20005\x1CG2012\x1C\x1C20121018\x1C1113.66\x1C4570433.86\x1CPhone
+    Banks\x1C004\x1C\x1CO\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012063
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4160
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Angler, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1100 G Street NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 805
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20005'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121018'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1113.66'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '4570433.86'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Phone Banks
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90012063\x1CF57.4163\x1CORG\x1CAngler, LLC\x1C\x1C\x1C\x1C\x1C\x1C1100
+    G Street NW\x1CSuite 805\x1CWashington\x1CDC\x1C20005\x1CG2012\x1C\x1C20121019\x1C256.74\x1C4570690.60\x1CPhone
+    Banks\x1C004\x1C\x1CO\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012063
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4163
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Angler, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1100 G Street NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 805
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20005'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121019'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '256.74'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '4570690.60'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Phone Banks
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90012063\x1CF57.4166\x1CORG\x1CAngler, LLC\x1C\x1C\x1C\x1C\x1C\x1C1100
+    G Street NW\x1CSuite 805\x1CWashington\x1CDC\x1C20005\x1CG2012\x1C\x1C20121021\x1C754.94\x1C4571445.54\x1CPhone
+    Banks\x1C004\x1C\x1CO\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012063
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4166
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Angler, LLC
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 1100 G Street NW
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 805
+  - name: PAYEE CITY
+    number: '13'
+    value: Washington
+  - name: PAYEE STATE
+    number: '14'
+    value: DC
+  - name: PAYEE ZIP
+    number: '15'
+    value: '20005'
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121021'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '754.94'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '4571445.54'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Phone Banks
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90012063\x1CF57.4146\x1CORG\x1CJamestown Associates\x1C\x1C\x1C\x1C\x1C\x1C5
+    Mapleton Road\x1CSuite 300\x1CPrinceton\x1CNJ\x1C08540\x1CG2012\x1C\x1C20121001\x1C1997336.60\x1C3768770.29\x1CMedia
+    Production and Placement\x1C004\x1C\x1CO\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012063
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4146
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Jamestown Associates
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 5 Mapleton Road
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 300
+  - name: PAYEE CITY
+    number: '13'
+    value: Princeton
+  - name: PAYEE STATE
+    number: '14'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '15'
+    value: 08540
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121001'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '1997336.60'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '3768770.29'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Media Production and Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90012063\x1CF57.4151\x1CORG\x1CJamestown Associates\x1C\x1C\x1C\x1C\x1C\x1C5
+    Mapleton Road\x1CSuite 300\x1CPrinceton\x1CNJ\x1C08540\x1CG2012\x1C\x1C20121015\x1C786785.20\x1C4555555.49\x1CMedia
+    Production and Placement\x1C004\x1C\x1CO\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012063
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4151
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Jamestown Associates
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 5 Mapleton Road
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 300
+  - name: PAYEE CITY
+    number: '13'
+    value: Princeton
+  - name: PAYEE STATE
+    number: '14'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '15'
+    value: 08540
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121015'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '786785.20'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '4555555.49'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Media Production and Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+- input: "F57\x1CC90012063\x1CF57.4154\x1CORG\x1CJamestown Associates\x1C\x1C\x1C\x1C\x1C\x1C5
+    Mapleton Road\x1CSuite 300\x1CPrinceton\x1CNJ\x1C08540\x1CG2012\x1C\x1C20121016\x1C13764.71\x1C4569320.20\x1CAdvertisement
+    Creation, Production and Placement\x1C004\x1C\x1CO\x1CP80003338\x1COBAMA\x1CBARACK\x1C\x1C\x1C\x1CP\x1C\x1C\n"
+  record: fec.version.v8_0.F57
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F57
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C90012063
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F57.4154
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '5'
+    value: Jamestown Associates
+  - name: PAYEE LAST NAME
+    number: '6'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '7'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '9'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '10'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '11'
+    value: 5 Mapleton Road
+  - name: PAYEE STREET 2
+    number: '12'
+    value: Suite 300
+  - name: PAYEE CITY
+    number: '13'
+    value: Princeton
+  - name: PAYEE STATE
+    number: '14'
+    value: NJ
+  - name: PAYEE ZIP
+    number: '15'
+    value: 08540
+  - name: ELECTION CODE
+    number: '16'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '17'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '18'
+    value: '20121016'
+  - name: EXPENDITURE AMOUNT
+    number: '19'
+    value: '13764.71'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '20'
+    value: '4569320.20'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '21'
+    value: Advertisement Creation, Production and Placement
+  - name: CATEGORY CODE
+    number: '22'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '23'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '24'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '25'
+    value: P80003338
+  - name: S/O CANDIDATE LAST NAME
+    number: '26'
+    value: OBAMA
+  - name: S/O CANDIDATE FIRST NAME
+    number: '27'
+    value: BARACK
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '28'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '29'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '31'
+    value: P
+  - name: S/O CANDIDATE STATE
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE DISTRICT
+    number: '33'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130131
+type: chunk

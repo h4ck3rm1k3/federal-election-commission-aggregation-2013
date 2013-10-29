@@ -1,0 +1,873 @@
+countrows: 18
+filename: 850268.fec
+header: {}
+rows:
+- input: "SB17\x1CC00445452\x1CD387708\x1CD387502\x1CSB17\x1CORG\x1CUSPS\x1C\x1C\x1C\x1C\x1C\x1C8409
+    Lee Hwy\x1C\x1CMerrifield\x1CVA\x1C22081\x1CP2012\x1C\x1C20110909\x1C47.52\x1C\x1CPostage\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CX\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D387708
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D387502
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: SB17
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: USPS
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 8409 Lee Hwy
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Merrifield
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22081'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20110909'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '47.52'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Postage
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SD10\x1CC00445452\x1CD370021\x1CORG\x1CBonner Group\x1C\x1C\x1C\x1C\x1C\x1CPO
+    BOX 523523\x1C\x1CSpringfield\x1CVA\x1C22152\x1CFundraising Consulting Fees\x1C3835.00\x1C7500.00\x1C3835.00\x1C7500.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D370021
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Bonner Group
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO BOX 523523
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Springfield
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '22152'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Fundraising Consulting Fees
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '3835.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '7500.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '3835.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '7500.00
+
+'
+- input: "SD10\x1CC00445452\x1CD370023\x1CORG\x1CCarefirst BCBS\x1C\x1C\x1C\x1C\x1C\x1C150
+    Sawgrass Dr\x1C\x1CRochester\x1CNY\x1C14620\x1CHealth Insurance\x1C808.00\x1C808.00\x1C808.00\x1C808.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D370023
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Carefirst BCBS
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 150 Sawgrass Dr
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Rochester
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '14620'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Health Insurance
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '808.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '808.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '808.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '808.00
+
+'
+- input: "SD10\x1CC00445452\x1CD382206\x1CORG\x1CD&P Printing and Supplies\x1C\x1C\x1C\x1C\x1C\x1C5631-I
+    General Washington\x1C\x1CAlexandria\x1CVA\x1C22312\x1CPrinting\x1C2807.70\x1C0.00\x1C2807.70\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D382206
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: D&P Printing and Supplies
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 5631-I General Washington
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Alexandria
+  - name: CREDITOR STATE
+    number: '14'
+    value: VA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '22312'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Printing
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '2807.70'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '2807.70'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "SD10\x1CC00445452\x1CD370028\x1CORG\x1CNational Democratic Club\x1C\x1C\x1C\x1C\x1C\x1C30
+    Ivy St SE\x1C\x1CWashington\x1CDC\x1C20003\x1CMembership Dues\x1C308.92\x1C0.00\x1C308.92\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D370028
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: National Democratic Club
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 30 Ivy St SE
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20003'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Membership Dues
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '308.92'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '308.92'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "SD10\x1CC00445452\x1CD382208\x1CORG\x1CNGP VAN, Inc.\x1C\x1C\x1C\x1C\x1C\x1C1101
+    15th Street, NW\x1CSuite 500\x1CWashington\x1CDC\x1C20005\x1CSoftware License
+    Fees\x1C3747.00\x1C0.00\x1C3747.00\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D382208
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: NGP VAN, Inc.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1101 15th Street, NW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Suite 500
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20005'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Software License Fees
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '3747.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '3747.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "SD10\x1CC00445452\x1CD387459\x1CORG\x1CPolitical CFOs, Inc\x1C\x1C\x1C\x1C\x1C\x1C2452
+    Vale Way\x1C\x1CErie\x1CCO\x1C80516\x1CCompliance Consulting Fee\x1C0.00\x1C3000.00\x1C0.00\x1C3000.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D387459
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Political CFOs, Inc
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2452 Vale Way
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Erie
+  - name: CREDITOR STATE
+    number: '14'
+    value: CO
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '80516'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Compliance Consulting Fee
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '0.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '3000.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '3000.00
+
+'
+- input: "SD10\x1CC00445452\x1CD370200\x1CORG\x1CVerizon\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 660720\x1C\x1CDallas\x1CTX\x1C75266\x1CTelephones\x1C611.20\x1C0.00\x1C611.20\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D370200
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Verizon
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: PO Box 660720
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Dallas
+  - name: CREDITOR STATE
+    number: '14'
+    value: TX
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '75266'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Telephones
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '611.20'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '611.20'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "TEXT\x1CC00445452\x1CX1\x1CD387557\x1CSB17\x1CStale check adjustment for
+    disbursement made 7/7/2008 and reported on Q3 2008 Report. Payment was made in
+    duplicate, and check was never delivered to vendor.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X1
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D387557
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB17
+  - name: TEXT4000
+    number: '6'
+    value: 'Stale check adjustment for disbursement made 7/7/2008 and reported on
+      Q3 2008 Report. Payment was made in duplicate, and check was never delivered
+      to vendor.
+
+'
+- input: "TEXT\x1CC00445452\x1CX10\x1CD387577\x1CSB17\x1CRepresents stale check adjustment
+    for payment on 12/31/10, originally reported on YE 2010 Report. Payment was not
+    required and check was Voided.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X10
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D387577
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB17
+  - name: TEXT4000
+    number: '6'
+    value: 'Represents stale check adjustment for payment on 12/31/10, originally
+      reported on YE 2010 Report. Payment was not required and check was Voided.
+
+'
+- input: "TEXT\x1CC00445452\x1CX2\x1CD387558\x1CSB17\x1CRepresents stale check adjustment
+    for disbursement made on 10/2/2008, originally disclosed on 12G 2008 report. Check
+    was never cashed by vendor.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X2
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D387558
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB17
+  - name: TEXT4000
+    number: '6'
+    value: 'Represents stale check adjustment for disbursement made on 10/2/2008,
+      originally disclosed on 12G 2008 report. Check was never cashed by vendor.
+
+'
+- input: "TEXT\x1CC00445452\x1CX3\x1CD387559\x1CSB17\x1CRepresents stale check adjustment
+    for disbursement made on 10/2/2008 and originally disclosed on 12G 2008 Report.
+    Payment was made in duplicate and never submitted to vendor.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X3
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D387559
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB17
+  - name: TEXT4000
+    number: '6'
+    value: 'Represents stale check adjustment for disbursement made on 10/2/2008 and
+      originally disclosed on 12G 2008 Report. Payment was made in duplicate and never
+      submitted to vendor.
+
+'
+- input: "TEXT\x1CC00445452\x1CX4\x1CD387560\x1CSB17\x1CRepresents stale check adjustment
+    for disbursement made on 10/2/2008, originally disclosed on 12G 2008 Report. Check
+    was never presented to vendor.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X4
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D387560
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB17
+  - name: TEXT4000
+    number: '6'
+    value: 'Represents stale check adjustment for disbursement made on 10/2/2008,
+      originally disclosed on 12G 2008 Report. Check was never presented to vendor.
+
+'
+- input: "TEXT\x1CC00445452\x1CX5\x1CD387561\x1CSB17\x1CRepresents stale check adjustment
+    for disbursement made 10/7/2008, originally reported on 12g 2008 Report. Check
+    was mileage reimbursement never cashed by individual.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X5
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D387561
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB17
+  - name: TEXT4000
+    number: '6'
+    value: 'Represents stale check adjustment for disbursement made 10/7/2008, originally
+      reported on 12g 2008 Report. Check was mileage reimbursement never cashed by
+      individual.
+
+'
+- input: "TEXT\x1CC00445452\x1CX6\x1CD387562\x1CSB17\x1CRepresents stale check adjustment
+    for disbursement originally made 7/13/09, originally reported on Q3 2009 Report.
+    Payment was never sent to vendor.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X6
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D387562
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB17
+  - name: TEXT4000
+    number: '6'
+    value: 'Represents stale check adjustment for disbursement originally made 7/13/09,
+      originally reported on Q3 2009 Report. Payment was never sent to vendor.
+
+'
+- input: "TEXT\x1CC00445452\x1CX7\x1CD387566\x1CSB17\x1CRepresents stale check adjustment
+    for payment on 5/26/10, originally reported on Q2 2010 Report. Check was submitted
+    to vendor as deposit for helium tank rental. Upon return of tank check was destroyed
+    by vendor.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X7
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D387566
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB17
+  - name: TEXT4000
+    number: '6'
+    value: 'Represents stale check adjustment for payment on 5/26/10, originally reported
+      on Q2 2010 Report. Check was submitted to vendor as deposit for helium tank
+      rental. Upon return of tank check was destroyed by vendor.
+
+'
+- input: "TEXT\x1CC00445452\x1CX8\x1CD387569\x1CSB17\x1CRepresents stale check adjustment
+    for payment on 7/2/11, originally reported on Q3 2011 Report. Payment was issued
+    for paid intern. Individual never returned to pick up payment, so check was destroyed.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X8
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D387569
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB17
+  - name: TEXT4000
+    number: '6'
+    value: 'Represents stale check adjustment for payment on 7/2/11, originally reported
+      on Q3 2011 Report. Payment was issued for paid intern. Individual never returned
+      to pick up payment, so check was destroyed.
+
+'
+- input: "TEXT\x1CC00445452\x1CX9\x1CD387574\x1CSB17\x1CRepresents stale check adjustment
+    for payment on 9/10/10, originally reported on Q3 2010 Report. Payment was never
+    submitted to vendor.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00445452
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X9
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: D387574
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SB17
+  - name: TEXT4000
+    number: '6'
+    value: 'Represents stale check adjustment for payment on 9/10/10, originally reported
+      on Q3 2010 Report. Payment was never submitted to vendor.
+
+'
+sourceurl: !!python/unicode 20130129
+type: chunk
