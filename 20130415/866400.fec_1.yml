@@ -1,0 +1,2064 @@
+countrows: 25
+filename: 866400.fec
+header: {}
+rows:
+- 2
+- input: "F3N\x1CC00408161\x1CFriends of Juan Vargas\x1CX\x1C330 Encinitas Blvd.,
+    Suite 101\x1C\x1CEncinitas\x1CCA\x1C92024\x1CCA\x1C51\x1CQ1\x1CG2008\x1C20060606\x1CCA\x1C20130101\x1C20130331\x1CHaley\x1CNancy\x1C\x1C\x1C\x1C20130409\x1C2015.41\x1C0.00\x1C2015.41\x1C668.37\x1C0.00\x1C668.37\x1C1398.60\x1C0.00\x1C127928.49\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C2000.00\x1C0.00\x1C2000.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C15.41\x1C0.00\x1C2015.41\x1C668.37\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C668.37\x1C51.56\x1C2000.00\x1C2066.97\x1C668.37\x1C1398.60\x1C2000.00\x1C0.00\x1C200.00\x1C668.37\x1C0.00\x1C668.37\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C2000.00\x1C0.00\x1C2000.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C15.41\x1C0.00\x1C2015.41\x1C668.37\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C668.37\n"
+  record: fec.version.v8_0.F3
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Friends of Juan Vargas
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: X
+  - name: STREET 1
+    number: '5'
+    value: 330 Encinitas Blvd., Suite 101
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Encinitas
+  - name: STATE
+    number: '8'
+    value: CA
+  - name: ZIP
+    number: '9'
+    value: '92024'
+  - name: ELECTION STATE
+    number: '10'
+    value: CA
+  - name: ELECTION DISTRICT
+    number: '11'
+    value: '51'
+  - name: REPORT CODE
+    number: '12'
+    value: Q1
+  - name: ELECTION CODE
+    number: '13'
+    value: G2008
+  - name: DATE OF ELECTION
+    number: '14'
+    value: '20060606'
+  - name: STATE OF ELECTION
+    number: '15'
+    value: CA
+  - name: COVERAGE FROM DATE
+    number: '16'
+    value: '20130101'
+  - name: COVERAGE THROUGH DATE
+    number: '17'
+    value: '20130331'
+  - name: TREASURER LAST NAME
+    number: '18'
+    value: Haley
+  - name: TREASURER FIRST NAME
+    number: '19'
+    value: Nancy
+  - name: TREASURER MIDDLE NAME
+    number: '20'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '21'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20130409'
+  - name: Total Contributions (NO Loans)
+    number: 24-(6a)
+    value: '2015.41'
+  - name: Total Contribution Refunds
+    number: 25-(6b)
+    value: '0.00'
+  - name: Net Contributions
+    number: 26-(6c)
+    value: '2015.41'
+  - name: Total Operating Expenditures
+    number: 27-(7a)
+    value: '668.37'
+  - name: Total Offset to Operating Expenditures
+    number: 28-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 29-(7c)
+    value: '668.37'
+  - name: CASH ON HAND AT CLOSE ...
+    number: 30-8.
+    value: '1398.60'
+  - name: DEBTS TO ( Totals from SCH C and/or D)
+    number: 31-9.
+    value: '0.00'
+  - name: DEBTS BY (Totals from SCH C and/or D)
+    number: 32-10.
+    value: '127928.49'
+  - name: Individuals Itemized
+    number: 33-11(a i.)
+    value: '0.00'
+  - name: Individuals Unitemized
+    number: 34-11(a.ii)
+    value: '0.00'
+  - name: Individual Contribution Total
+    number: 35-11(a.iii)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 36-11(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 37-11(c)
+    value: '2000.00'
+  - name: The Candidate
+    number: 38-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 39-11(e)
+    value: '2000.00'
+  - name: Transfers From Other Authorized Committees
+    number: 40-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 41-13(a)
+    value: '0.00'
+  - name: All Other Loans
+    number: 42-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 43-13(c)
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 44-14.
+    value: '15.41'
+  - name: Other Receipts
+    number: 45-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 46-16.
+    value: '2015.41'
+  - name: Operating Expenditures
+    number: 47-17.
+    value: '668.37'
+  - name: Transfers to Other Authorized Committees
+    number: 48-18.
+    value: '0.00'
+  - name: Of Loans made or guar. by the Cand.
+    number: 49-19(a)
+    value: '0.00'
+  - name: Loan Repayments, All Other Loans
+    number: 50-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 51-19(c)
+    value: '0.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 52-20(a)
+    value: '0.00'
+  - name: Refund/Political Party Committees
+    number: 53-20(b)
+    value: '0.00'
+  - name: Refund/Other Political Committees
+    number: 54-20(c)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 55-20(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 56-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 57-22.
+    value: '668.37'
+  - name: Cash Beginning Reporting Period
+    number: 58-23.
+    value: '51.56'
+  - name: Total Receipts this Period
+    number: 59-24.
+    value: '2000.00'
+  - name: Subtotals
+    number: 60-25.
+    value: '2066.97'
+  - name: Total Disbursements this Period
+    number: 61-26.
+    value: '668.37'
+  - name: Cash on hand at Close Period
+    number: 62-27.
+    value: '1398.60'
+  - name: Total Contributions (No Loans)
+    number: 63-(6a)
+    value: '2000.00'
+  - name: Total Contribution Refunds
+    number: 64-(6b)
+    value: '0.00'
+  - name: Net Contributions
+    number: 65-(6c)
+    value: '200.00'
+  - name: Total Operating Expenditures
+    number: 66-(7a)
+    value: '668.37'
+  - name: Total Offsets to Operating Expenditures
+    number: 67-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 68-(7c)
+    value: '668.37'
+  - name: Individuals Itemized
+    number: 69-11(a i.)
+    value: '0.00'
+  - name: Individuals Unitemized
+    number: 70-11(a.ii)
+    value: '0.00'
+  - name: Individuals Total
+    number: 71-11(a.iii)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 72-11(b)
+    value: '0.00'
+  - name: All Other Political Committees (PACS)
+    number: 73-11(c)
+    value: '2000.00'
+  - name: The Candidate
+    number: 74-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 75-11(e)
+    value: '2000.00'
+  - name: Transfers From Other AUTH Committees
+    number: 76-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 77-13(a)
+    value: '0.00'
+  - name: All Other Loans
+    number: 78-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 79-13(c)
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 80-14.
+    value: '15.41'
+  - name: Other Receipts
+    number: 81-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 82-16.
+    value: '2015.41'
+  - name: Operating Expenditures
+    number: 83-17
+    value: '668.37'
+  - name: Transfers To Other AUTH Committees
+    number: 84-18.
+    value: '0.00'
+  - name: Loan Repayment By Candidate
+    number: 85-19(a)
+    value: '0.00'
+  - name: Loan Repayments, ALL Other Loans
+    number: 86-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 87-19(c)
+    value: '0.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 88-20(a)
+    value: '0.00'
+  - name: Refund, Political Party Committees
+    number: 89-20(b)
+    value: '0.00'
+  - name: Refund, Other Political Committees
+    number: 90-20(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 91-20(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 92-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 93-22.
+    value: '668.37
+
+'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11C
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID
+    number: '3'
+    value: INCA44
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: COM
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: Honeywell International PAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 101 Constitution Ave., NW, Ste. 50
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Washington
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '20001'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Primary Debt
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130219'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '2000.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '2000.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: ''
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: N/A
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: N/A
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: C00096156
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: Honeywell International PAC
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: Honeywell International PAC
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: ''
+  - value: '
+
+'
+  expected_count: 45
+  input: "SA11C\x1CC00408161\x1CINCA44\x1C\x1C\x1CCOM\x1CHoneywell International PAC\x1C\x1C\x1C\x1C\x1C\x1C101
+    Constitution Ave., NW, Ste. 50\x1C\x1CWashington\x1CDC\x1C20001\x1CP2008\x1CPrimary
+    Debt\x1C20130219\x1C2000.00\x1C2000.00\x1C\x1CN/A\x1CN/A\x1CC00096156\x1CHoneywell
+    International PAC\x1C\x1CHoneywell International PAC\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  input_count: 46
+  record: fec.version.v8_0.SA
+  result: []
+- input: "SB17\x1CC00408161\x1CEXPB47\x1C\x1C\x1CIND\x1C\x1CHerms\x1CBeth\x1C\x1C\x1C\x1C2915
+    Laurel Street\x1C\x1CSan Diego\x1CCA\x1C92104\x1CP2008\x1C\x1C20130313\x1C500.00\x1C\x1CAccounting
+    Services\x1C001\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EXPB47
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Herms
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Beth
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 2915 Laurel Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Diego
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '92104'
+  - name: ELECTION CODE
+    number: '18'
+    value: P2008
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130313'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '500.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Accounting Services
+  - name: CATEGORY CODE
+    number: '24'
+    value: '001'
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SC/10\x1CC00408161\x1CPAYC9\x1C13B\x1CCAN\x1C\x1CVargas\x1CJuan\x1C\x1C\x1C\x1C1171-24th
+    Street\x1C\x1CSan Diego\x1CCA\x1C92102\x1CG2006\x1C\x1C25000.00\x1C0.00\x1C25000.00\x1C20050628\x1C04/12/2008\x1C0.00\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYC9
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Vargas
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Juan
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1171-24th Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: San Diego
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '92102'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '25000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '25000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20050628'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 04/12/2008
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.00'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00408161\x1CPAYC11\x1C13B\x1CCAN\x1C\x1CVargas\x1CJuan\x1C\x1C\x1C\x1C1171-24th
+    Street\x1C\x1CSan Diego\x1CCA\x1C92102\x1CG2006\x1C\x1C30000.00\x1C0.00\x1C30000.00\x1C20060513\x1C04/12/2008\x1C0.00\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYC11
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Vargas
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Juan
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1171-24th Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: San Diego
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '92102'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '30000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '30000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20060513'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 04/12/2008
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.00'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00408161\x1CPAYC13\x1C13B\x1CCAN\x1C\x1CVargas\x1CJuan\x1C\x1C\x1C\x1C1171-24th
+    Street\x1C\x1CSan Diego\x1CCA\x1C92102\x1CG2006\x1C\x1C7000.00\x1C0.00\x1C7000.00\x1C20060524\x1C04/12/2008\x1C0.00\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYC13
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Vargas
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Juan
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1171-24th Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: San Diego
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '92102'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '7000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '7000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20060524'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 04/12/2008
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.00'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00408161\x1CPAYC15\x1C13B\x1CCAN\x1C\x1CVargas\x1CJuan\x1C\x1C\x1C\x1C1171-24th
+    Street\x1C\x1CSan Diego\x1CCA\x1C92102\x1CG2006\x1C\x1C280.00\x1C0.00\x1C280.00\x1C20060930\x1C04/12/2008\x1C0.00\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYC15
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Vargas
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Juan
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1171-24th Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: San Diego
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '92102'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '280.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '280.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20060930'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 04/12/2008
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.00'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00408161\x1CPAYC17\x1C13B\x1CCAN\x1C\x1CVargas\x1CJuan\x1C\x1C\x1C\x1C1171-24th
+    Street\x1C\x1CSan Diego\x1CCA\x1C92102\x1CG2006\x1C\x1C800.00\x1C0.00\x1C800.00\x1C20061031\x1C04/12/2008\x1C0.00\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYC17
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Vargas
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Juan
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1171-24th Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: San Diego
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '92102'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '800.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '800.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20061031'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 04/12/2008
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.00'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00408161\x1CPAYC19\x1C13B\x1CCAN\x1C\x1CVargas\x1CJuan\x1C\x1C\x1C\x1C1171-24th
+    Street\x1C\x1CSan Diego\x1CCA\x1C92102\x1CP2006\x1C\x1C50000.00\x1C0.00\x1C50000.00\x1C20070604\x1C06/04/2008\x1C0.00\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYC19
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Vargas
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Juan
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1171-24th Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: San Diego
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '92102'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '50000.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '50000.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20070604'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 06/04/2008
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.00'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00408161\x1CPAYC21\x1C13B\x1CCAN\x1C\x1CVargas\x1CJuan\x1C\x1C\x1C\x1C1171-24th
+    Street\x1C\x1CSan Diego\x1CCA\x1C92102\x1CP2006\x1C\x1C4300.00\x1C0.00\x1C4300.00\x1C20071001\x1C11/12/2008\x1C0.00\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYC21
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Vargas
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Juan
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1171-24th Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: San Diego
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '92102'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '4300.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '4300.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20071001'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 11/12/2008
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.00'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00408161\x1CPAYC23\x1C13B\x1CCAN\x1C\x1CVargas\x1CJuan\x1C\x1C\x1C\x1C1171-24th
+    Street\x1C\x1CSan Diego\x1CCA\x1C92102\x1CP2006\x1C\x1C1100.00\x1C0.00\x1C1100.00\x1C20080213\x1C02/13/2009\x1C0.00\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYC23
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Vargas
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Juan
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1171-24th Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: San Diego
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '92102'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '1100.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '1100.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20080213'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 02/13/2009
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.00'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00408161\x1CPAYC25\x1C13B\x1CCAN\x1C\x1CVargas\x1CJuan\x1C\x1C\x1C\x1C1171-24th
+    Street\x1C\x1CSan Diego\x1CCA\x1C92102\x1CP2006\x1C\x1C750.00\x1C0.00\x1C750.00\x1C20090128\x1C01/29/2010\x1C0.00\x1CN\x1CN\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYC25
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13B
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Vargas
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Juan
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1171-24th Street
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: San Diego
+  - name: LENDER STATE
+    number: '15'
+    value: CA
+  - name: LENDER ZIP
+    number: '16'
+    value: '92102'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2006
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '750.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '750.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20090128'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 01/29/2010
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.00'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: ''
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SD10\x1CC00408161\x1CPAYD7\x1CORG\x1CFederal Express\x1C\x1C\x1C\x1C\x1C\x1C1764
+    San Diego\x1C\x1CSan Diego\x1CCA\x1C92110\x1CShipping  -  Forgiveness of Accrued
+    Bill Owed\x1C15.41\x1C-15.41\x1C0.00\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD7
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Federal Express
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 1764 San Diego
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Diego
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '92110'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Shipping  -  Forgiveness of Accrued Bill Owed
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '15.41'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '-15.41'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "SD10\x1CC00408161\x1CPAYD26\x1CORG\x1CGrice Lund & Tarkington\x1C\x1C\x1C\x1C\x1C\x1C144
+    W D Street\x1C\x1CEncinitas\x1CCA\x1C92024\x1CAccounting Fees\x1C8698.49\x1C0.00\x1C0.00\x1C8698.49\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD26
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Grice Lund & Tarkington
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 144 W D Street
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Encinitas
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '92024'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Accounting Fees
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '8698.49'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '8698.49
+
+'
+- input: "SD10\x1CC00408161\x1CPAYD34\x1CIND\x1C\x1CHerms\x1CBeth\x1C\x1C\x1C\x1C2915
+    Laurel Street\x1C\x1CSan Diego\x1CCA\x1C92104\x1CAccounting Services\x1C500.00\x1C0.00\x1C500.00\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PAYD34
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Herms
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: Beth
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 2915 Laurel Street
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: San Diego
+  - name: CREDITOR STATE
+    number: '14'
+    value: CA
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '92104'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Accounting Services
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '500.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '500.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "TEXT\x1CC00408161\x1CTPAYC25\x1CPAYC25\x1CSC/10\x1CLoan-Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC25
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC25
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan-Personal Funds
+
+'
+- input: "TEXT\x1CC00408161\x1CTPAYC23\x1CPAYC23\x1CSC/10\x1CLoan-Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC23
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC23
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan-Personal Funds
+
+'
+- input: "TEXT\x1CC00408161\x1CTPAYC21\x1CPAYC21\x1CSC/10\x1CLoan-Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC21
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC21
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan-Personal Funds
+
+'
+- input: "TEXT\x1CC00408161\x1CTPAYC19\x1CPAYC19\x1CSC/10\x1CLoan-Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC19
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC19
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan-Personal Funds
+
+'
+- input: "TEXT\x1CC00408161\x1CTPAYC17\x1CPAYC17\x1CSC/10\x1CLoan-Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC17
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC17
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan-Personal Funds
+
+'
+- input: "TEXT\x1CC00408161\x1CTPAYC15\x1CPAYC15\x1CSC/10\x1CLoan-Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC15
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC15
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan-Personal Funds
+
+'
+- input: "TEXT\x1CC00408161\x1CTPAYC13\x1CPAYC13\x1CSC/10\x1CLoan-Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC13
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC13
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan-Personal Funds
+
+'
+- input: "TEXT\x1CC00408161\x1CTPAYC11\x1CPAYC11\x1CSC/10\x1CLoan-Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC11
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC11
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan-Personal Funds
+
+'
+- input: "TEXT\x1CC00408161\x1CTPAYC9\x1CPAYC9\x1CSC/10\x1CLoan-Personal Funds\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00408161
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TPAYC9
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: PAYC9
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: SC/10
+  - name: TEXT4000
+    number: '6'
+    value: 'Loan-Personal Funds
+
+'
+sourceurl: !!python/unicode 20130415
+type: chunk

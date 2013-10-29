@@ -1,0 +1,128 @@
+countrows: 2
+filename: 865548.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH6TX15113\x1CZamora\x1CEddie\x1C\x1C\x1C\x1C\x1C2015 Las Palmas Drive\x1C\x1CEdinburg\x1CTX\x1C78539\x1CRep\x1CH\x1CTX\x1C15\x1C2014\x1CC00427708\x1CEDDIE
+    ZAMORA FOR CONGRESS\x1C5111 NORTH 10TH STREET, #108\x1C\x1CMCALLEN\x1CTX\x1C78504\x1CC00427708\x1CEDDIE
+    ZAMORA FOR CONGRESS\x1C5111 NORTH 10TH STREET, #108\x1C\x1CMCALLEN\x1CTX\x1C78504\x1CZamora\x1CEddie\x1C\x1C\x1C\x1C20130413\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6TX15113
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Zamora
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Eddie
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 2015 Las Palmas Drive
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Edinburg
+  - name: CANDIDATE STATE
+    number: '12'
+    value: TX
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '78539'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: Rep
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: TX
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '15'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00427708
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: EDDIE ZAMORA FOR CONGRESS
+  - name: PCC STREET 1
+    number: '21'
+    value: '5111 NORTH 10TH STREET, #108'
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: MCALLEN
+  - name: PCC STATE
+    number: '24'
+    value: TX
+  - name: PCC ZIP
+    number: '25'
+    value: '78504'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00427708
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: EDDIE ZAMORA FOR CONGRESS
+  - name: AUTH STREET 1
+    number: '28'
+    value: '5111 NORTH 10TH STREET, #108'
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: MCALLEN
+  - name: AUTH STATE
+    number: '31'
+    value: TX
+  - name: AUTH ZIP
+    number: '32'
+    value: '78504'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Zamora
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Eddie
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130413
+
+'
+sourceurl: !!python/unicode 20130413
+type: chunk

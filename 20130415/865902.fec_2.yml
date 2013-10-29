@@ -1,0 +1,561 @@
+countrows: 9
+filename: 865902.fec
+header: {}
+rows:
+- input: "SD10\x1CC00417550\x1CD347571\x1CORG\x1C1030 East Genesee Street, Corp.\x1C\x1C\x1C\x1C\x1C\x1C505
+    \ East Fayette St\x1C\x1CSyracuse\x1CNY\x1C13202\x1CFacility Expense\x1C1175.00\x1C0.00\x1C1175.00\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00417550
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D347571
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: 1030 East Genesee Street, Corp.
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 505  East Fayette St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Syracuse
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '13202'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Facility Expense
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '1175.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '1175.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "SD10\x1CC00417550\x1CD347570\x1CIND\x1C\x1CBrumer\x1CMarc\x1C\x1C\x1C\x1C353
+    E 83rd St\x1CApt 19G\x1CNew York\x1CNY\x1C100284341\x1CPayroll - 2012 Debt\x1C5000.00\x1C0.00\x1C0.00\x1C5000.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00417550
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D347570
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Brumer
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: Marc
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 353 E 83rd St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Apt 19G
+  - name: CREDITOR CITY
+    number: '13'
+    value: New York
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '100284341'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Payroll - 2012 Debt
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '5000.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '5000.00
+
+'
+- input: "SD10\x1CC00417550\x1CD347583\x1CIND\x1C\x1CDurr\x1CSarah\x1CRebecca\x1C\x1C\x1C401
+    S Salina #706\x1C\x1CSyracuse\x1CNY\x1C13202\x1CPayroll - 2012 Debt\x1C5000.00\x1C0.00\x1C0.00\x1C5000.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00417550
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D347583
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Durr
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: Sarah
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: Rebecca
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: '401 S Salina #706'
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Syracuse
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '13202'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Payroll - 2012 Debt
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '5000.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '5000.00
+
+'
+- input: "SD10\x1CC00417550\x1CD347568\x1CIND\x1C\x1CSchroers\x1CClayton\x1CK\x1C\x1C\x1C401
+    N State St\x1CApt 3B\x1CSyracuse\x1CNY\x1C13203\x1CPayroll - 2012 General Debt\x1C15000.00\x1C0.00\x1C0.00\x1C15000.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00417550
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D347568
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Schroers
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: Clayton
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: K
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 401 N State St
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Apt 3B
+  - name: CREDITOR CITY
+    number: '13'
+    value: Syracuse
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '13203'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Payroll - 2012 General Debt
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '15000.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '15000.00
+
+'
+- input: "SD10\x1CC00417550\x1CD347579\x1CORG\x1CStiles Partners\x1C\x1C\x1C\x1C\x1C\x1C276
+    Riverside Dr. #6G\x1C\x1CNew York\x1CNY\x1C10025\x1CFundraising Consulting Services
+    - 2012 Debt\x1C10000.00\x1C0.00\x1C10000.00\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00417550
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D347579
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Stiles Partners
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: '276 Riverside Dr. #6G'
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: New York
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '10025'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Fundraising Consulting Services - 2012 Debt
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '10000.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '10000.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "SD10\x1CC00417550\x1CD345084\x1CORG\x1CSyracuse Police Department\x1C\x1C\x1C\x1C\x1C\x1C511
+    South State St - Rm 405\x1C\x1CSyracuse\x1CNY\x1C13202\x1CEvent Security Cost
+    - 2012 Debt\x1C2111.85\x1C0.00\x1C2111.85\x1C0.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00417550
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D345084
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: Syracuse Police Department
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 511 South State St - Rm 405
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Syracuse
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '13202'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Event Security Cost - 2012 Debt
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '2111.85'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '2111.85'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '0.00
+
+'
+- input: "SD10\x1CC00417550\x1CD347591\x1CORG\x1CThe Angerholzer Team\x1C\x1C\x1C\x1C\x1C\x1C499
+    S. Capitol Street, SW\x1CSuite 404\x1CWashington\x1CDC\x1C20003\x1CFundraising
+    Services - 2012 Debt\x1C18322.52\x1C4550.00\x1C18322.52\x1C4550.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00417550
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D347591
+  - name: ENTITY TYPE
+    number: '4'
+    value: ORG
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: The Angerholzer Team
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 499 S. Capitol Street, SW
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: Suite 404
+  - name: CREDITOR CITY
+    number: '13'
+    value: Washington
+  - name: CREDITOR STATE
+    number: '14'
+    value: DC
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '20003'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Fundraising Services - 2012 Debt
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '18322.52'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '4550.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '18322.52'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '4550.00
+
+'
+- input: "SD10\x1CC00417550\x1CD347585\x1CIND\x1C\x1CWright\x1CVictoria\x1CL.\x1C\x1C\x1C7791
+    Ravenswood Ln.\x1C\x1CManlius\x1CNY\x1C13104\x1CPayroll - 2012 Debt\x1C5000.00\x1C0.00\x1C0.00\x1C5000.00\n"
+  record: fec.version.v8_0.SD
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SD10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00417550
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: D347585
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CREDITOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CREDITOR LAST NAME
+    number: '6'
+    value: Wright
+  - name: CREDITOR FIRST NAME
+    number: '7'
+    value: Victoria
+  - name: CREDITOR MIDDLE NAME
+    number: '8'
+    value: L.
+  - name: CREDITOR PREFIX
+    number: '9'
+    value: ''
+  - name: CREDITOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CREDITOR STREET 1
+    number: '11'
+    value: 7791 Ravenswood Ln.
+  - name: CREDITOR STREET 2
+    number: '12'
+    value: ''
+  - name: CREDITOR CITY
+    number: '13'
+    value: Manlius
+  - name: CREDITOR STATE
+    number: '14'
+    value: NY
+  - name: CREDITOR ZIP
+    number: '15'
+    value: '13104'
+  - name: PURPOSE OF DEBT OR OBLIGATION
+    number: '16'
+    value: Payroll - 2012 Debt
+  - name: BEGINNING BALANCE (This Period)
+    number: '17'
+    value: '5000.00'
+  - name: INCURRED AMOUNT (This Period)
+    number: '18'
+    value: '0.00'
+  - name: PAYMENT AMOUNT (This Period)
+    number: '19'
+    value: '0.00'
+  - name: BALANCE AT CLOSE (This Period)
+    number: '20'
+    value: '5000.00
+
+'
+- input: "TEXT\x1CC00417550\x1CX0\x1C\x1CF3N\x1CCash on hand includes $36K in 2010
+    recount funds.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00417550
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X0
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3N
+  - name: TEXT4000
+    number: '6'
+    value: 'Cash on hand includes $36K in 2010 recount funds.
+
+'
+sourceurl: !!python/unicode 20130415
+type: chunk
