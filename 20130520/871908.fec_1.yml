@@ -1,0 +1,4496 @@
+countrows: 31
+filename: 871908.fec
+header: {}
+rows:
+- 2
+- input: "F3XN\x1CC00481309\x1CNETJETS INC. PAC\x1C\x1C4111 BRIDGEWAY AVENUE\x1C\x1CCOLUMBUS\x1COH\x1C43219\x1CM5\x1C\x1C\x1C\x1C20130401\x1C20130430\x1CX\x1CTanner\x1CBob\x1C\x1C\x1C\x1C20130520\x1C60217.69\x1C3258.92\x1C63476.61\x1C62.59\x1C63414.02\x1C0.00\x1C0.00\x1C2888.92\x1C370.00\x1C3258.92\x1C0.00\x1C0.00\x1C3258.92\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C3258.92\x1C3258.92\x1C0.00\x1C0.00\x1C62.59\x1C62.59\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C62.59\x1C62.59\x1C3258.92\x1C0.00\x1C3258.92\x1C62.59\x1C0.00\x1C62.59\x1C56416.46\x1C2013\x1C13245.68\x1C69662.14\x1C6248.12\x1C63414.02\x1C11720.30\x1C1525.38\x1C13245.68\x1C0.00\x1C0.00\x1C13245.68\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C13245.68\x1C13245.68\x1C0.00\x1C0.00\x1C248.12\x1C248.12\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C6000.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C6248.12\x1C6248.12\x1C13245.68\x1C0.00\x1C13245.68\x1C248.12\x1C0.00\x1C248.12\n"
+  record: fec.version.v8_0.F3X
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3XN
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: COMMITTEE NAME
+    number: '3'
+    value: NETJETS INC. PAC
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 4111 BRIDGEWAY AVENUE
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: COLUMBUS
+  - name: STATE
+    number: '8'
+    value: OH
+  - name: ZIP
+    number: '9'
+    value: '43219'
+  - name: REPORT CODE
+    number: '10'
+    value: M5
+  - name: ELECTION CODE
+    number: '11'
+    value: ''
+  - name: DATE OF ELECTION
+    number: '12'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '13'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '14'
+    value: '20130401'
+  - name: COVERAGE THROUGH DATE
+    number: '15'
+    value: '20130430'
+  - name: QUALIFIED COMMITTEE
+    number: '16'
+    value: X
+  - name: TREASURER LAST NAME
+    number: '17'
+    value: Tanner
+  - name: TREASURER FIRST NAME
+    number: '18'
+    value: Bob
+  - name: TREASURER MIDDLE NAME
+    number: '19'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '20'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '21'
+    value: ''
+  - name: DATE SIGNED
+    number: '22'
+    value: '20130520'
+  - name: Cash on Hand beginning
+    number: 23-6(b)
+    value: '60217.69'
+  - name: Total Receipts
+    number: 24-6(c)
+    value: '3258.92'
+  - name: Subtotal
+    number: 25-6(d)
+    value: '63476.61'
+  - name: Total Disbursements
+    number: 26-7.
+    value: '62.59'
+  - name: Cash on Hand at Close
+    number: 27-8.
+    value: '63414.02'
+  - name: Debts to
+    number: 28-9.
+    value: '0.00'
+  - name: Debts by
+    number: 29-10.
+    value: '0.00'
+  - name: Itemized
+    number: 30-11(a)i
+    value: '2888.92'
+  - name: Unitemized
+    number: 31-11(a)ii
+    value: '370.00'
+  - name: Total
+    number: 32-11(a)iii
+    value: '3258.92'
+  - name: Political Party Committees
+    number: 33-11(b)
+    value: '0.00'
+  - name: Other Political Committees (PACs)
+    number: 34-11(c)
+    value: '0.00'
+  - name: Total Contributions
+    number: 35-11(d)
+    value: '3258.92'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 36-12.
+    value: '0.00'
+  - name: All Loans Received
+    number: 37-13.
+    value: '0.00'
+  - name: Loan Repayments Received
+    number: 38-14.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 39-15.
+    value: '0.00'
+  - name: Refunds of Federal Contributions
+    number: 40-16.
+    value: '0.00'
+  - name: Other Federal Receipts (dividends)
+    number: 41-17.
+    value: '0.00'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 42-18(a)
+    value: '0.00'
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 43-18(b)
+    value: '0.00'
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 44-18(c)
+    value: '0.00'
+  - name: Total Receipts
+    number: 45-19.
+    value: '3258.92'
+  - name: Total Federal Receipts
+    number: 46-20.
+    value: '3258.92'
+  - name: Federal Share
+    number: 47-21(a)i
+    value: '0.00'
+  - name: Non-Federal Share
+    number: 48-21(a)ii
+    value: '0.00'
+  - name: Other Federal Operating Expenditures
+    number: 49-21(b)
+    value: '62.59'
+  - name: Total Operating Expenditures
+    number: 50-21(c)
+    value: '62.59'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 51-22.
+    value: '0.00'
+  - name: Contributions to Federal Candidates/Committees
+    number: 52-23.
+    value: '0.00'
+  - name: Independent Expenditures
+    number: 53-24.
+    value: '0.00'
+  - name: Coordinated Expend made by Party Committees
+    number: 54-25.
+    value: '0.00'
+  - name: Loan Repayments
+    number: 55-26.
+    value: '0.00'
+  - name: Loans Made
+    number: 56-27.
+    value: '0.00'
+  - name: Individuals/Persons
+    number: 57-28(a)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 58-28(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 59-28(c)
+    value: '0.00'
+  - name: Total Contributions Refunds
+    number: 60-28(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 61-29.
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 62-30(a)i
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 63-30(a)ii
+    value: '0.00'
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 64-30(b)
+    value: '0.00'
+  - name: Total Federal Election Activity
+    number: 65-30(c)
+    value: '0.00'
+  - name: Total Disbursements
+    number: 66-31.
+    value: '62.59'
+  - name: Total Federal Disbursements
+    number: 67-32.
+    value: '62.59'
+  - name: Total Contributions
+    number: 68-33.
+    value: '3258.92'
+  - name: Total Contribution Refunds
+    number: 69-34.
+    value: '0.00'
+  - name: Net Contributions
+    number: 70-35.
+    value: '3258.92'
+  - name: Total Federal Operating Expenditures
+    number: 71-36.
+    value: '62.59'
+  - name: Offsets to Operating Expenditures
+    number: 72-37.
+    value: '0.00'
+  - name: Net Operating Expenditures
+    number: 73-38.
+    value: '62.59'
+  - name: Cash on Hand Jan 1, 19
+    number: 74-6(a)
+    value: '56416.46'
+  - name: Year for Above
+    number: '75'
+    value: '2013'
+  - name: Total Receipts
+    number: 76-6(c)
+    value: '13245.68'
+  - name: Subtotal
+    number: 77-6(d)
+    value: '69662.14'
+  - name: Total disbursements
+    number: 78-7.
+    value: '6248.12'
+  - name: Cash on Hand Close
+    number: 79-8.
+    value: '63414.02'
+  - name: Itemized
+    number: 80-11(a)i
+    value: '11720.30'
+  - name: Unitemized
+    number: 81-11(a)ii
+    value: '1525.38'
+  - name: Total
+    number: 82-11(a)iii
+    value: '13245.68'
+  - name: Political Party committees
+    number: 83-11(b)
+    value: '0.00'
+  - name: Other Political Committees (PACs)
+    number: 84-11(c)
+    value: '0.00'
+  - name: Total Contributions
+    number: 85-11(d)
+    value: '13245.68'
+  - name: Transfers from Affiliated/Other Party Committees
+    number: 86-12.
+    value: '0.00'
+  - name: All Loans Received
+    number: 87-13.
+    value: '0.00'
+  - name: Loan Repayments Received
+    number: 88-14.
+    value: '0.00'
+  - name: Offsets to Operating Expenditures (refunds)
+    number: 89-15.
+    value: '0.00'
+  - name: Refunds of Federal Contributions
+    number: 90-16.
+    value: '0.00'
+  - name: Other Federal Receipts (dividends)
+    number: 91-17.
+    value: '0.00'
+  - name: Transfers from Nonfederal Account (H3)
+    number: 92-18(a)
+    value: '0.00'
+  - name: Transfers from Non-Federal (Levin - H5)
+    number: 93-18(b)
+    value: '0.00'
+  - name: Total Non-Federal Transfers (18a+18b)
+    number: 94-18(c)
+    value: '0.00'
+  - name: Total Receipts
+    number: 95-19.
+    value: '13245.68'
+  - name: Total Federal Receipts
+    number: 96-20.
+    value: '13245.68'
+  - name: Federal Share
+    number: 97-21(a)i
+    value: '0.00'
+  - name: Non-Federal Share
+    number: 98-21(a)ii
+    value: '0.00'
+  - name: Other Federal Operating Expenditures
+    number: 99-21(b)
+    value: '248.12'
+  - name: Total operating Expenditures
+    number: 100-21(c)
+    value: '248.12'
+  - name: Transfers to Affiliated/Other Party Committees
+    number: 101-22.
+    value: '0.00'
+  - name: Contributions to Federal Candidates/Committees
+    number: 102-23.
+    value: '0.00'
+  - name: Independent Expenditures
+    number: 103-24.
+    value: '0.00'
+  - name: Coordinated Expend made by Party Committees
+    number: 104-25.
+    value: '0.00'
+  - name: Loan Repayments Made
+    number: 105-26.
+    value: '0.00'
+  - name: Loans Made
+    number: 106-27.
+    value: '0.00'
+  - name: Individuals/Persons
+    number: 107-28(a)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 108-28(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 109-28(c)
+    value: '0.00'
+  - name: Total contributions Refunds
+    number: 110-28(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 111-29.
+    value: '6000.00'
+  - name: Shared Federal Activity (H6) Fed Share
+    number: 112-30(a)i
+    value: '0.00'
+  - name: Shared Federal Activity (H6) Non-Fed
+    number: 113-30(a)ii
+    value: '0.00'
+  - name: Non-Allocable 100% Fed Election Activity
+    number: 114-30(b)
+    value: '0.00'
+  - name: Total Federal Election Activity
+    number: 115-30(c)
+    value: '0.00'
+  - name: Total Disbursements
+    number: 116-31.
+    value: '6248.12'
+  - name: Total Federal Disbursements
+    number: 117-32.
+    value: '6248.12'
+  - name: Total Contributions
+    number: 118-33.
+    value: '13245.68'
+  - name: Total Contribution Refunds
+    number: 119-34.
+    value: '0.00'
+  - name: Net contributions
+    number: 120-35.
+    value: '13245.68'
+  - name: Total Federal Operating Expenditures
+    number: 121-36.
+    value: '248.12'
+  - name: Offsets to Operating Expenditures
+    number: 122-37.
+    value: '0.00'
+  - name: Net Operating Expenditures
+    number: 123-38.
+    value: '248.12
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5647\x1C\x1C\x1CIND\x1C\x1CBostick\x1CJames\x1CB.\x1C\x1C\x1C6126
+    Weathered Oak\x1C\x1CWesterville\x1COH\x1C43081\x1C\x1C\x1C20130405\x1C30.00\x1C210.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CRegional SVP Sales, Mtn Region\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5647
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Bostick
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: James
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: B.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 6126 Weathered Oak
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Westerville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43081'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '30.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '210.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Regional SVP Sales, Mtn Region
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5676\x1C\x1C\x1CIND\x1C\x1CBostick\x1CJames\x1CB.\x1C\x1C\x1C6126
+    Weathered Oak\x1C\x1CWesterville\x1COH\x1C43081\x1C\x1C\x1C20130419\x1C30.00\x1C240.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CRegional SVP Sales, Mtn Region\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5676
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Bostick
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: James
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: B.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 6126 Weathered Oak
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Westerville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43081'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '30.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '240.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Regional SVP Sales, Mtn Region
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5649\x1C\x1C\x1CIND\x1C\x1CEyer\x1CShane\x1C\x1C\x1C\x1C7214
+    Ashcombe\x1C\x1CNew Albany\x1COH\x1C43054\x1C\x1C\x1C20130405\x1C100.00\x1C700.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CPresident, NJA\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5649
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Eyer
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Shane
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7214 Ashcombe
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: New Albany
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43054'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '700.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: President, NJA
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5678\x1C\x1C\x1CIND\x1C\x1CEyer\x1CShane\x1C\x1C\x1C\x1C7214
+    Ashcombe\x1C\x1CNew Albany\x1COH\x1C43054\x1C\x1C\x1C20130419\x1C100.00\x1C800.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CPresident, NJA\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5678
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Eyer
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Shane
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7214 Ashcombe
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: New Albany
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43054'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '800.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: President, NJA
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5650\x1C\x1C\x1CIND\x1C\x1CGallagher\x1CPatrick\x1CR.\x1C\x1C\x1C2022
+    \ W. Warner Ave.\x1C\x1CChicago\x1CIL\x1C60618\x1C\x1C\x1C20130405\x1C50.00\x1C350.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CSVP Head of Sales\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5650
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Gallagher
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Patrick
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: R.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2022  W. Warner Ave.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Chicago
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '60618'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '50.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '350.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: SVP Head of Sales
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5679\x1C\x1C\x1CIND\x1C\x1CGallagher\x1CPatrick\x1CR.\x1C\x1C\x1C2022
+    \ W. Warner Ave.\x1C\x1CChicago\x1CIL\x1C60618\x1C\x1C\x1C20130419\x1C50.00\x1C400.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CSVP Head of Sales\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5679
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Gallagher
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Patrick
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: R.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 2022  W. Warner Ave.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Chicago
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: IL
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '60618'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '50.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '400.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: SVP Head of Sales
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5651\x1C\x1C\x1CIND\x1C\x1CGarvey\x1CJonina\x1CR.\x1C\x1C\x1C115
+    Walnut Woods\x1C\x1CGahanna\x1COH\x1C43230\x1C\x1C\x1C20130405\x1C100.00\x1C700.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CSenior Vice President, Taxation\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5651
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Garvey
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Jonina
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: R.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 115 Walnut Woods
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Gahanna
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43230'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '700.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Senior Vice President, Taxation
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5680\x1C\x1C\x1CIND\x1C\x1CGarvey\x1CJonina\x1CR.\x1C\x1C\x1C115
+    Walnut Woods\x1C\x1CGahanna\x1COH\x1C43230\x1C\x1C\x1C20130419\x1C100.00\x1C800.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CSenior Vice President, Taxation\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5680
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Garvey
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Jonina
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: R.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 115 Walnut Woods
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Gahanna
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43230'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '800.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Senior Vice President, Taxation
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5654\x1C\x1C\x1CIND\x1C\x1CGreen\x1CKenneth\x1CI.\x1C\x1C\x1C7749
+    Lydia Drive\x1C\x1CLewis Center\x1COH\x1C43035\x1C\x1C\x1C20130405\x1C100.00\x1C700.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CChief Information Officer\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5654
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Green
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Kenneth
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: I.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7749 Lydia Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Lewis Center
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43035'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '700.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Chief Information Officer
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5683\x1C\x1C\x1CIND\x1C\x1CGreen\x1CKenneth\x1CI.\x1C\x1C\x1C7749
+    Lydia Drive\x1C\x1CLewis Center\x1COH\x1C43035\x1C\x1C\x1C20130419\x1C100.00\x1C800.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CChief Information Officer\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5683
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Green
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Kenneth
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: I.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7749 Lydia Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Lewis Center
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43035'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '800.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Chief Information Officer
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5657\x1C\x1C\x1CIND\x1C\x1CHansell\x1CJordan\x1CB.\x1C\x1C\x1C5101
+    Bowen Road\x1C\x1CCanal Winchester\x1COH\x1C43110\x1C\x1C\x1C20130405\x1C192.00\x1C1344.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CChairman and CEO\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5657
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Hansell
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Jordan
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: B.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 5101 Bowen Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Canal Winchester
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43110'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '192.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '1344.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Chairman and CEO
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5685\x1C\x1C\x1CIND\x1C\x1CHansell\x1CJordan\x1CB.\x1C\x1C\x1C5101
+    Bowen Road\x1C\x1CCanal Winchester\x1COH\x1C43110\x1C\x1C\x1C20130419\x1C192.00\x1C1536.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CChairman and CEO\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5685
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Hansell
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Jordan
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: B.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 5101 Bowen Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Canal Winchester
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43110'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '192.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '1536.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Chairman and CEO
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5658\x1C\x1C\x1CIND\x1C\x1CHoyt\x1CThomas\x1CA.\x1C\x1C\x1C763
+    South Third Street\x1C\x1CColumbus\x1COH\x1C43215\x1C\x1C\x1C20130405\x1C100.00\x1C700.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CVP, Communications\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5658
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Hoyt
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Thomas
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: A.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 763 South Third Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Columbus
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43215'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '700.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: VP, Communications
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5687\x1C\x1C\x1CIND\x1C\x1CHoyt\x1CThomas\x1CA.\x1C\x1C\x1C763
+    South Third Street\x1C\x1CColumbus\x1COH\x1C43215\x1C\x1C\x1C20130419\x1C100.00\x1C800.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CVP, Communications\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5687
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Hoyt
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Thomas
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: A.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 763 South Third Street
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Columbus
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43215'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '800.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: VP, Communications
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5659\x1C\x1C\x1CIND\x1C\x1CJohnson\x1CAdam\x1CM.\x1C\x1C\x1C9940
+    Sage Creek Drive\x1C\x1CGalena\x1COH\x1C43021\x1C\x1C\x1C20130405\x1C192.00\x1C1344.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CPres., Sales, etc.- NetJets N. America\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5659
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Johnson
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Adam
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: M.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 9940 Sage Creek Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Galena
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43021'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '192.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '1344.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Pres., Sales, etc.- NetJets N. America
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5688\x1C\x1C\x1CIND\x1C\x1CJohnson\x1CAdam\x1CM.\x1C\x1C\x1C9940
+    Sage Creek Drive\x1C\x1CGalena\x1COH\x1C43021\x1C\x1C\x1C20130419\x1C192.00\x1C1536.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CPres., Sales, etc.- NetJets N. America\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5688
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Johnson
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Adam
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: M.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 9940 Sage Creek Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Galena
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43021'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '192.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '1536.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: Pres., Sales, etc.- NetJets N. America
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5663\x1C\x1C\x1CIND\x1C\x1CMaratto\x1CMichael\x1CP\x1C\x1C\x1C845
+    North High Street #410\x1C\x1CColumbus\x1COH\x1C43215\x1C\x1C\x1C20130405\x1C50.00\x1C350.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CVP Labor Relations\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5663
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Maratto
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Michael
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: P
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: '845 North High Street #410'
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Columbus
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43215'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '50.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '350.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: VP Labor Relations
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5692\x1C\x1C\x1CIND\x1C\x1CMaratto\x1CMichael\x1CP\x1C\x1C\x1C845
+    North High Street #410\x1C\x1CColumbus\x1COH\x1C43215\x1C\x1C\x1C20130419\x1C50.00\x1C400.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CVP Labor Relations\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5692
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Maratto
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Michael
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: P
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: '845 North High Street #410'
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Columbus
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43215'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '50.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '400.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: VP Labor Relations
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5665\x1C\x1C\x1CIND\x1C\x1CNissl\x1CColleen\x1CK.\x1C\x1C\x1C6025
+    Cranberry Court\x1C\x1CColumbus\x1COH\x1C43213\x1C\x1C\x1C20130405\x1C100.00\x1C700.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CSVP, General Counsel\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5665
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Nissl
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Colleen
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: K.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 6025 Cranberry Court
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Columbus
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43213'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '700.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: SVP, General Counsel
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5694\x1C\x1C\x1CIND\x1C\x1CNissl\x1CColleen\x1CK.\x1C\x1C\x1C6025
+    Cranberry Court\x1C\x1CColumbus\x1COH\x1C43213\x1C\x1C\x1C20130419\x1C100.00\x1C800.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CSVP, General Counsel\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5694
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Nissl
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Colleen
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: K.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 6025 Cranberry Court
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Columbus
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43213'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '800.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: SVP, General Counsel
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5666\x1C\x1C\x1CIND\x1C\x1CNoe\x1CWilliam\x1CE.\x1C\x1C\x1C7829
+    Lambton Park Rd.\x1C\x1CNew Albany\x1COH\x1C43054\x1C\x1C\x1C20130405\x1C192.00\x1C1344.00\x1Cpayroll
+    deduction\x1CNetJets, Inc.\x1CPresident & COO, NetJets North America\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5666
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Noe
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: William
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: E.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7829 Lambton Park Rd.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: New Albany
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43054'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '192.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '1344.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets, Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: President & COO, NetJets North America
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5695\x1C\x1C\x1CIND\x1C\x1CNoe\x1CWilliam\x1CE.\x1C\x1C\x1C7829
+    Lambton Park Rd.\x1C\x1CNew Albany\x1COH\x1C43054\x1C\x1C\x1C20130419\x1C192.00\x1C1536.00\x1Cpayroll
+    deduction\x1CNetJets, Inc.\x1CPresident & COO, NetJets North America\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5695
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Noe
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: William
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: E.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7829 Lambton Park Rd.
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: New Albany
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43054'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '192.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '1536.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets, Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: President & COO, NetJets North America
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5668\x1C\x1C\x1CIND\x1C\x1CSmith\x1CBrent\x1CC.\x1C\x1C\x1C151
+    Brennan Drive\x1C\x1CGranville\x1COH\x1C43023\x1C\x1C\x1C20130405\x1C38.46\x1C269.22\x1Cpayroll
+    deduction\x1CNetJets, Inc.\x1CSVP, Finance & CFO\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5668
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Smith
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Brent
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: C.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 151 Brennan Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Granville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43023'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '38.46'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '269.22'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets, Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: SVP, Finance & CFO
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5697\x1C\x1C\x1CIND\x1C\x1CSmith\x1CBrent\x1CC.\x1C\x1C\x1C151
+    Brennan Drive\x1C\x1CGranville\x1COH\x1C43023\x1C\x1C\x1C20130419\x1C38.46\x1C307.68\x1Cpayroll
+    deduction\x1CNetJets, Inc.\x1CSVP, Finance & CFO\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5697
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Smith
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Brent
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: C.
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 151 Brennan Drive
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Granville
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43023'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '38.46'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '307.68'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets, Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: SVP, Finance & CFO
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5671\x1C\x1C\x1CIND\x1C\x1CTanner\x1CRobert\x1C\x1C\x1C\x1C7836
+    Cook Road\x1C\x1CPowell\x1COH\x1C43065\x1C\x1C\x1C20130405\x1C100.00\x1C700.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CVP, Government Affairs\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5671
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Tanner
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Robert
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7836 Cook Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Powell
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43065'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '700.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: VP, Government Affairs
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5699\x1C\x1C\x1CIND\x1C\x1CTanner\x1CRobert\x1C\x1C\x1C\x1C7836
+    Cook Road\x1C\x1CPowell\x1COH\x1C43065\x1C\x1C\x1C20130419\x1C100.00\x1C800.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CVP, Government Affairs\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5699
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Tanner
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Robert
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 7836 Cook Road
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: Powell
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43065'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '800.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: VP, Government Affairs
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5672\x1C\x1C\x1CIND\x1C\x1CWeeber\x1CSteven\x1CT\x1C\x1C\x1C4979
+    Hearthstone Pk Dr\x1C\x1CNew Albany\x1COH\x1C43054\x1C\x1C\x1C20130405\x1C100.00\x1C700.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CVP Operational Quality and Standards\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5672
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Weeber
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Steven
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: T
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 4979 Hearthstone Pk Dr
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: New Albany
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43054'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130405'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '700.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: VP Operational Quality and Standards
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SA11AI\x1CC00481309\x1CSA11AI.5700\x1C\x1C\x1CIND\x1C\x1CWeeber\x1CSteven\x1CT\x1C\x1C\x1C4979
+    Hearthstone Pk Dr\x1C\x1CNew Albany\x1COH\x1C43054\x1C\x1C\x1C20130419\x1C100.00\x1C800.00\x1Cpayroll
+    deduction\x1CNetJets Inc.\x1CVP Operational Quality and Standards\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SA
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SA11AI
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID
+    number: '3'
+    value: SA11AI.5700
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '8'
+    value: Weeber
+  - name: CONTRIBUTOR FIRST NAME
+    number: '9'
+    value: Steven
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '10'
+    value: T
+  - name: CONTRIBUTOR PREFIX
+    number: '11'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '13'
+    value: 4979 Hearthstone Pk Dr
+  - name: CONTRIBUTOR STREET 2
+    number: '14'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '15'
+    value: New Albany
+  - name: CONTRIBUTOR STATE
+    number: '16'
+    value: OH
+  - name: CONTRIBUTOR ZIP
+    number: '17'
+    value: '43054'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '20'
+    value: '20130419'
+  - name: CONTRIBUTION AMOUNT (F3L Bundled)
+    number: '21'
+    value: '100.00'
+  - name: CONTRIBUTION AGGREGATE F3L Semi-annual Bundled
+    number: '22'
+    value: '800.00'
+  - name: CONTRIBUTION PURPOSE DESCRIP
+    number: '23'
+    value: payroll deduction
+  - name: CONTRIBUTOR EMPLOYER
+    number: '24'
+    value: NetJets Inc.
+  - name: CONTRIBUTOR OCCUPATION
+    number: '25'
+    value: VP Operational Quality and Standards
+  - name: DONOR COMMITTEE FEC ID
+    number: '26'
+    value: ''
+  - name: DONOR COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: DONOR CANDIDATE FEC ID
+    number: '28'
+    value: ''
+  - name: DONOR CANDIDATE LAST NAME
+    number: '29'
+    value: ''
+  - name: DONOR CANDIDATE FIRST NAME
+    number: '30'
+    value: ''
+  - name: DONOR CANDIDATE MIDDLE NAME
+    number: '31'
+    value: ''
+  - name: DONOR CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: DONOR CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: DONOR CANDIDATE OFFICE
+    number: '34'
+    value: ''
+  - name: DONOR CANDIDATE STATE
+    number: '35'
+    value: ''
+  - name: DONOR CANDIDATE DISTRICT
+    number: '36'
+    value: ''
+  - name: CONDUIT NAME
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET1
+    number: '38'
+    value: ''
+  - name: CONDUIT STREET2
+    number: '39'
+    value: ''
+  - name: CONDUIT CITY
+    number: '40'
+    value: ''
+  - name: CONDUIT STATE
+    number: '41'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '42'
+    value: ''
+  - name: MEMO CODE
+    number: '43'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '44'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '45'
+    value: '
+
+'
+- input: "SB21B\x1CC00481309\x1CSB21B.5644\x1C\x1C\x1CORG\x1CFifth Third Bank\x1C\x1C\x1C\x1C\x1C\x1C21
+    East State Street\x1C\x1CColumbus\x1COH\x1C43215\x1C\x1C\x1C20130410\x1C62.59\x1C\x1CBanking
+    Fee\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB21B
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00481309
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB21B.5644
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Fifth Third Bank
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 21 East State Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Columbus
+  - name: PAYEE STATE
+    number: '16'
+    value: OH
+  - name: PAYEE ZIP
+    number: '17'
+    value: '43215'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130410'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '62.59'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Banking Fee
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130520
+type: chunk

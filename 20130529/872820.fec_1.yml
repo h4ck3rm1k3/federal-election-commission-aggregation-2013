@@ -1,0 +1,638 @@
+countrows: 11
+filename: 872820.fec
+header: {}
+rows:
+- 2
+- input: "F6A\x1CC00498337\x1C20121021\x1CJoe Miklosi for Congress\x1C2205 South Holly
+    Street\x1CUnit 8\x1CDenver\x1CCO\x1C80222\x1CH2CO06123\x1CMiklosi\x1CJoe\x1C\x1CMr\x1C\x1CH\x1CCO\x1C06\x1CMiklosi\x1CJoe
+    \x1C\x1CMr.\x1C\x1C20130529\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: '20121021'
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Joe Miklosi for Congress
+  - name: STREET 1
+    number: '5'
+    value: 2205 South Holly Street
+  - name: STREET 2
+    number: '6'
+    value: Unit 8
+  - name: CITY
+    number: '7'
+    value: Denver
+  - name: STATE
+    number: '8'
+    value: CO
+  - name: ZIP
+    number: '9'
+    value: '80222'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H2CO06123
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: Miklosi
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: Joe
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: Mr
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: CO
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '06'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Miklosi
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: 'Joe '
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: Mr.
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130529
+
+'
+- input: "F65\x1CC00498337\x1CC6691380\x1CIND\x1C\x1CBeserra\x1CLeo\x1CL\x1CMr.\x1C\x1C6760
+    Dorado Pl\x1C\x1CEnglewood\x1CCO\x1C801111766\x1C\x1C20121019\x1C1000.00\x1CRetired\x1CRetired\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C6691380
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Beserra
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Leo
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: L
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: Mr.
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 6760 Dorado Pl
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Englewood
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CO
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '801111766'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121019'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Retired
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Retired
+
+'
+- input: "F65\x1CC00498337\x1CC6697417\x1CPAC\x1CBoilermakers-Blacksmiths Legislative
+    Education-Action Program\x1C\x1C\x1C\x1C\x1C\x1C753 State Ave Ste 565\x1C\x1CKansas
+    City\x1CKS\x1C66101\x1CC00005157\x1C20121019\x1C2000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C6697417
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: Boilermakers-Blacksmiths Legislative Education-Action Program
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 753 State Ave Ste 565
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Kansas City
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: KS
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '66101'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00005157
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121019'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F65\x1CC00498337\x1CC6691411\x1CIND\x1C\x1CLewis\x1CAdam\x1C\x1C\x1C\x1C517
+    North St\x1C\x1CAspen\x1CCO\x1C81611\x1C\x1C20121019\x1C1500.00\x1CSelf\x1CSelf\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C6691411
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Lewis
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Adam
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 517 North St
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Aspen
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CO
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '81611'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121019'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1500.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Self
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Self
+
+'
+- input: "F65\x1CC00498337\x1CC6699835\x1CPAC\x1CNEW YORK JOBS PAC\x1C\x1C\x1C\x1C\x1C\x1CPO
+    BOX 763\x1C\x1CDEER PARK\x1CNY\x1C11729\x1CC00413716\x1C20121019\x1C2000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C6699835
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: NEW YORK JOBS PAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: PO BOX 763
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: DEER PARK
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: NY
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '11729'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00413716
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121019'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F65\x1CC00498337\x1CC6708191\x1CPAC\x1CONE VOICE\x1C\x1C\x1C\x1C\x1C\x1C1050
+    17TH ST NW\x1CSTE 590\x1CWASHINGTON\x1CDC\x1C20036\x1CC00403071\x1C20121019\x1C1000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C6708191
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ONE VOICE
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 1050 17TH ST NW
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: STE 590
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: WASHINGTON
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20036'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00403071
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121019'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F65\x1CC00498337\x1CC6691365\x1CIND\x1C\x1CResnick\x1CPeter\x1C\x1C\x1C\x1C6487
+    Cherry Ct\x1C\x1CNiwot\x1CCO\x1C805037153\x1C\x1C20121019\x1C750.00\x1CHatch Ventures\x1CNext
+    Generation Venture Incubation\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C6691365
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Resnick
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Peter
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 6487 Cherry Ct
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Niwot
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CO
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '805037153'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121019'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '750.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Hatch Ventures
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Next Generation Venture Incubation
+
+'
+- input: "F65\x1CC00498337\x1CC6691366\x1CIND\x1C\x1CResnick\x1CPeter\x1C\x1C\x1C\x1C6487
+    Cherry Ct\x1C\x1CNiwot\x1CCO\x1C805037153\x1C\x1C20121019\x1C750.00\x1CHatch Ventures\x1CNext
+    Generation Venture Incubation\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C6691366
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Resnick
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Peter
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 6487 Cherry Ct
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Niwot
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CO
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '805037153'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121019'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '750.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Hatch Ventures
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Next Generation Venture Incubation
+
+'
+- input: "F65\x1CC00498337\x1CC6697411\x1CIND\x1C\x1CSilverman\x1CGilbert\x1C\x1C\x1C\x1C32100
+    Telegraph Rd, Ste 220\x1C\x1CBingham Farms\x1CMI\x1C48025\x1C\x1C20121018\x1C1000.00\x1CRetired\x1CRetired\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C6697411
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Silverman
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Gilbert
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 32100 Telegraph Rd, Ste 220
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Bingham Farms
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: MI
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '48025'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121018'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Retired
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'Retired
+
+'
+- input: "TEXT\x1CC00498337\x1CX0\x1C\x1CF6A\x1CTermination report. \n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X0
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F6A
+  - name: TEXT4000
+    number: '6'
+    value: "Termination report. \n"
+sourceurl: !!python/unicode 20130529
+type: chunk

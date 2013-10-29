@@ -1,0 +1,951 @@
+countrows: 12
+filename: 872159.fec
+header: {}
+rows:
+- input: "\"SB28A\"\x1C\"C00003418\"\x1C\"2012M08L28ARI00011\"\x1C\"\"\x1C\"\"\x1C\"IND\"\x1C\"\"\x1C\"CLARK\"\x1C\"DANIEL\"\x1C\"F\"\x1C\"MR\"\x1C\"\"\x1C\"310
+    JAMES RD\"\x1C\"\"\x1C\"LEWISBURG\"\x1C\"PA\"\x1C\"17837\"\x1C\"\"\x1C\"\"\x1C\"20120724\"\x1C1000.00\x1C\"
+    \"\x1C\"REFUND\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"
+    \"\x1C\"\"\x1C\"\"\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00003418
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 2012M08L28ARI00011
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: CLARK
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: DANIEL
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: F
+  - name: PAYEE PREFIX
+    number: '11'
+    value: MR
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 310 JAMES RD
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: LEWISBURG
+  - name: PAYEE STATE
+    number: '16'
+    value: PA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '17837'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120724'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1000.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ' '
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: REFUND
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ' '
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "\"SB28A\"\x1C\"C00003418\"\x1C\"2012M08L28ARI00012\"\x1C\"\"\x1C\"\"\x1C\"IND\"\x1C\"\"\x1C\"JONES\"\x1C\"THOMAS\"\x1C\"A\"\x1C\"MR\"\x1C\"\"\x1C\"649
+    PALACE PARKWAY\"\x1C\"\"\x1C\"SPRING CREEK\"\x1C\"NV\"\x1C\"89815\"\x1C\"\"\x1C\"\"\x1C\"20120724\"\x1C50.00\x1C\"
+    \"\x1C\"REFUND\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"
+    \"\x1C\"\"\x1C\"\"\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00003418
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 2012M08L28ARI00012
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: JONES
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: THOMAS
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: A
+  - name: PAYEE PREFIX
+    number: '11'
+    value: MR
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 649 PALACE PARKWAY
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: SPRING CREEK
+  - name: PAYEE STATE
+    number: '16'
+    value: NV
+  - name: PAYEE ZIP
+    number: '17'
+    value: '89815'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120724'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '50.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ' '
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: REFUND
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ' '
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "\"SB28A\"\x1C\"C00003418\"\x1C\"2012M08L28ARI00013\"\x1C\"\"\x1C\"\"\x1C\"IND\"\x1C\"\"\x1C\"MIDDLEBROOK\"\x1C\"BETH\"\x1C\"\"\x1C\"MRS\"\x1C\"\"\x1C\"4242
+    N 15TH DR\"\x1C\"\"\x1C\"PHOENIX\"\x1C\"AZ\"\x1C\"85015\"\x1C\"\"\x1C\"\"\x1C\"20120726\"\x1C40.00\x1C\"
+    \"\x1C\"REFUND\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"
+    \"\x1C\"\"\x1C\"\"\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00003418
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 2012M08L28ARI00013
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: MIDDLEBROOK
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: BETH
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: MRS
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 4242 N 15TH DR
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: PHOENIX
+  - name: PAYEE STATE
+    number: '16'
+    value: AZ
+  - name: PAYEE ZIP
+    number: '17'
+    value: '85015'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120726'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '40.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ' '
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: REFUND
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ' '
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "\"SB28A\"\x1C\"C00003418\"\x1C\"2012M08L28ARI00014\"\x1C\"\"\x1C\"\"\x1C\"IND\"\x1C\"\"\x1C\"PARKER\"\x1C\"PATRICK\"\x1C\"L\"\x1C\"MR\"\x1C\"\"\x1C\"963
+    LAKEWAY CT\"\x1C\"\"\x1C\"UNION\"\x1C\"KY\"\x1C\"41091\"\x1C\"\"\x1C\"\"\x1C\"20120726\"\x1C25.00\x1C\"
+    \"\x1C\"REFUND\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"
+    \"\x1C\"\"\x1C\"\"\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB28A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00003418
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 2012M08L28ARI00014
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: PARKER
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: PATRICK
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: L
+  - name: PAYEE PREFIX
+    number: '11'
+    value: MR
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 963 LAKEWAY CT
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: UNION
+  - name: PAYEE STATE
+    number: '16'
+    value: KY
+  - name: PAYEE ZIP
+    number: '17'
+    value: '41091'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120726'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '25.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ' '
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: REFUND
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ' '
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "\"SB29\"\x1C\"C00003418\"\x1C\"2012M08L290D00001\"\x1C\"\"\x1C\"\"\x1C\"ORG\"\x1C\"REPUBLICAN
+    NATIONAL COMMITTEE\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"OPERATING ACCOUNT\"\x1C\"310
+    1ST ST SE\"\x1C\"WASHINGTON\"\x1C\"DC\"\x1C\"20003\"\x1C\"\"\x1C\"\"\x1C\"20120731\"\x1C58587.55\x1C\"
+    \"\x1C\"RECOUNT LEGAL AND COMPLIANCE SERVICES\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"\"\x1C\"X\"\x1C\"TRANSFER
+    OF LEGAL ANC COMPLIANCE EXPENSES REIMBURSEMENT\"\x1C\"\"\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB29
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00003418
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: 2012M08L290D00001
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: REPUBLICAN NATIONAL COMMITTEE
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: OPERATING ACCOUNT
+  - name: PAYEE STREET 2
+    number: '14'
+    value: 310 1ST ST SE
+  - name: PAYEE CITY
+    number: '15'
+    value: WASHINGTON
+  - name: PAYEE STATE
+    number: '16'
+    value: DC
+  - name: PAYEE ZIP
+    number: '17'
+    value: '20003'
+  - name: ELECTION CODE
+    number: '18'
+    value: ''
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20120731'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '58587.55'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ' '
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: RECOUNT LEGAL AND COMPLIANCE SERVICES
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: ''
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: ''
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: ''
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: X
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: TRANSFER OF LEGAL ANC COMPLIANCE EXPENSES REIMBURSEMENT
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "\"TEXT\"\x1C\"C00003418\"\x1C\"TEXT0001\"\x1C\"\"\x1C\"F3XA\"\x1C\"Regarding
+    negative receipts listed on line 11(a)(i) with the description of 'ACH Return',
+    these are interbank clearing of electronic payments processed by the Automated
+    Clearing House (ACH) network of participating banks and the Federal Reserve.  These
+    are returns of contributions by individuals which have been deducted from our
+    credit card merchant account or bank account by the credit card company or bank.\"\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00003418
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT0001
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3XA
+  - name: TEXT4000
+    number: '6'
+    value: 'Regarding negative receipts listed on line 11(a)(i) with the description
+      of ''ACH Return'', these are interbank clearing of electronic payments processed
+      by the Automated Clearing House (ACH) network of participating banks and the
+      Federal Reserve.  These are returns of contributions by individuals which have
+      been deducted from our credit card merchant account or bank account by the credit
+      card company or bank.
+
+'
+- input: "\"TEXT\"\x1C\"C00003418\"\x1C\"TEXT0008\"\x1C\"\"\x1C\"F3XA\"\x1C\"Regarding
+    Best Effort Memos that indicate Occupation as 'Not Specified', these records are
+    amended because we received a response to our request for completed donor information
+    that did not include occupation information.\"\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00003418
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT0008
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3XA
+  - name: TEXT4000
+    number: '6'
+    value: 'Regarding Best Effort Memos that indicate Occupation as ''Not Specified'',
+      these records are amended because we received a response to our request for
+      completed donor information that did not include occupation information.
+
+'
+- input: "\"TEXT\"\x1C\"C00003418\"\x1C\"TEXT0002\"\x1C\"\"\x1C\"F3XA\"\x1C\"Concerning
+    any donors shown for whom Occupation or Employer are not listed, the Republican
+    National Committee has requested this information in the initial contribution
+    solicitation and has made a second request in a separate mailing enclosing a self-addressed
+    postage-paid envelope in compliance with the FEC's Best Efforts regulation 11cfr
+    104.7(b).  The Republican National Committee will amend the report if any of the
+    requested information is received.\"\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00003418
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT0002
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3XA
+  - name: TEXT4000
+    number: '6'
+    value: 'Concerning any donors shown for whom Occupation or Employer are not listed,
+      the Republican National Committee has requested this information in the initial
+      contribution solicitation and has made a second request in a separate mailing
+      enclosing a self-addressed postage-paid envelope in compliance with the FEC''s
+      Best Efforts regulation 11cfr 104.7(b).  The Republican National Committee will
+      amend the report if any of the requested information is received.
+
+'
+- input: "\"TEXT\"\x1C\"C00003418\"\x1C\"TEXT0003\"\x1C\"\"\x1C\"F3XA\"\x1C\"Regarding
+    'Asset Sales' reported on Schedule A supporting Line 15 of our report, occasionally
+    the RNC has used office equipment that we need to dispose of.  This equipment
+    may be sold in bulk to a commercial liquidation business or piece by piece to
+    individuals.  When this is done, these items are reported as 'asset sale' and
+    the price charged is such that they in no way constitute a political contribution.
+    \ The used assets liquidated by sale to individuals or businesses are reported
+    as 'Asset Sale' and are priced at fair market value.  These items sold by the
+    RNC are not unique to our business, they are common items found in most business,
+    such as computers and cell phones.  As such, the market price for these items
+    are determined by referring to internet auction sites or checking replacement
+    values from retail sources.\"\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00003418
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT0003
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3XA
+  - name: TEXT4000
+    number: '6'
+    value: 'Regarding ''Asset Sales'' reported on Schedule A supporting Line 15 of
+      our report, occasionally the RNC has used office equipment that we need to dispose
+      of.  This equipment may be sold in bulk to a commercial liquidation business
+      or piece by piece to individuals.  When this is done, these items are reported
+      as ''asset sale'' and the price charged is such that they in no way constitute
+      a political contribution.  The used assets liquidated by sale to individuals
+      or businesses are reported as ''Asset Sale'' and are priced at fair market value.  These
+      items sold by the RNC are not unique to our business, they are common items
+      found in most business, such as computers and cell phones.  As such, the market
+      price for these items are determined by referring to internet auction sites
+      or checking replacement values from retail sources.
+
+'
+- input: "\"TEXT\"\x1C\"C00003418\"\x1C\"TEXT0004\"\x1C\"\"\x1C\"F3XA\"\x1C\"With
+    regard to the usual and normal charge for fees received from a federal candidate
+    on Schedule A supporting Line 15, the RNC charges fair market value for services
+    it provides.  Prices are intended to recover the cost for providing the service.
+    \ The services reported on this schedule for which the RNC received payment were
+    not services of a nature which is unique to the RNC.  Services of this type are
+    common in the business community and as such, the RNC compares and sets the price
+    charged to prices available from other commercial sources.\"\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00003418
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT0004
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3XA
+  - name: TEXT4000
+    number: '6'
+    value: 'With regard to the usual and normal charge for fees received from a federal
+      candidate on Schedule A supporting Line 15, the RNC charges fair market value
+      for services it provides.  Prices are intended to recover the cost for providing
+      the service.  The services reported on this schedule for which the RNC received
+      payment were not services of a nature which is unique to the RNC.  Services
+      of this type are common in the business community and as such, the RNC compares
+      and sets the price charged to prices available from other commercial sources.
+
+'
+- input: "\"TEXT\"\x1C\"C00003418\"\x1C\"TEXT0005\"\x1C\"\"\x1C\"F3XA\"\x1C\"All expenditures
+    listed for Advertising, Cable Services, Catering/Food & Beverage, Data Services,
+    Mail Production, Media Services, Phone Services, Photography Services, Printing
+    Services, Promotional Materials, Research Services, Revenue Processing Services,
+    Satellite Services, Survey Research, Telemarketing and Venue Rental are RNC operating
+    costs.  None of these expenditures are Candidate-specific.  Further, no media-related
+    expenditures listed on Line 21 are intended for or directed by a specific candidate;
+    they are either generic overhead costs or RNC fundraising costs.\"\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00003418
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT0005
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3XA
+  - name: TEXT4000
+    number: '6'
+    value: 'All expenditures listed for Advertising, Cable Services, Catering/Food
+      & Beverage, Data Services, Mail Production, Media Services, Phone Services,
+      Photography Services, Printing Services, Promotional Materials, Research Services,
+      Revenue Processing Services, Satellite Services, Survey Research, Telemarketing
+      and Venue Rental are RNC operating costs.  None of these expenditures are Candidate-specific.  Further,
+      no media-related expenditures listed on Line 21 are intended for or directed
+      by a specific candidate; they are either generic overhead costs or RNC fundraising
+      costs.
+
+'
+- input: "\"TEXT\"\x1C\"C00003418\"\x1C\"TEXT0006\"\x1C\"\"\x1C\"F3XA\"\x1C\"Payments
+    to another political committee disclosed on Schedule B supporting Line 21(b) are
+    not contributions.  They are payments for goods and services received at usual
+    and normal rates.  With regard to the usual and normal rates, we are assured the
+    fee is a commercially reasonable rate because we regularly obtain similar products
+    from a variety of sources both political and commercial.\"\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00003418
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: TEXT0006
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F3XA
+  - name: TEXT4000
+    number: '6'
+    value: 'Payments to another political committee disclosed on Schedule B supporting
+      Line 21(b) are not contributions.  They are payments for goods and services
+      received at usual and normal rates.  With regard to the usual and normal rates,
+      we are assured the fee is a commercially reasonable rate because we regularly
+      obtain similar products from a variety of sources both political and commercial.
+
+'
+sourceurl: !!python/unicode 20130521
+type: chunk

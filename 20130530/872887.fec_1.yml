@@ -1,0 +1,195 @@
+countrows: 4
+filename: 872887.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH4MI07103\x1CWalberg\x1CTimothy\x1CL\x1CHon.\x1C\x1C\x1C6769 Teachout
+    Road\x1C\x1CTipton\x1CMI\x1C492879807\x1CREP\x1CH\x1CMI\x1C07\x1C2014\x1CC00390724\x1CWalberg
+    for Congress\x1CPO Box 1362\x1C\x1CJackson\x1CMI\x1C492041362\x1CC00514042\x1CSecurity
+    For America Fund VIII\x1C4703 Woodway Lane NW\x1C\x1CWashington\x1CDC\x1C200163240\x1CWalberg\x1CTimothy\x1CL\x1CHon.\x1C\x1C20130530\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H4MI07103
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Walberg
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Timothy
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: L
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Hon.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 6769 Teachout Road
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Tipton
+  - name: CANDIDATE STATE
+    number: '12'
+    value: MI
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '492879807'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: MI
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '07'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00390724
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Walberg for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 1362
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Jackson
+  - name: PCC STATE
+    number: '24'
+    value: MI
+  - name: PCC ZIP
+    number: '25'
+    value: '492041362'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00514042
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Security For America Fund VIII
+  - name: AUTH STREET 1
+    number: '28'
+    value: 4703 Woodway Lane NW
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Washington
+  - name: AUTH STATE
+    number: '31'
+    value: DC
+  - name: AUTH ZIP
+    number: '32'
+    value: '200163240'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Walberg
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Timothy
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: L
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: Hon.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130530
+
+'
+- input: "F2S\x1CH4MI07103\x1CC00493577\x1CGreat Eight Committee\x1C228 S Washington
+    Street\x1CSuite 115\x1CAlexandria\x1CVA\x1C223145404\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H4MI07103
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00493577
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Great Eight Committee
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S Washington Street
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '223145404
+
+'
+- input: "F2S\x1CH4MI07103\x1CC00531574\x1CMichigan Young Guns Victory Fund\x1C25
+    E Main Street\x1C\x1CRichmond\x1CVA\x1C232192109\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H4MI07103
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00531574
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Michigan Young Guns Victory Fund
+  - name: AUTH STREET 1
+    number: '5'
+    value: 25 E Main Street
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Richmond
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '232192109
+
+'
+sourceurl: !!python/unicode 20130530
+type: chunk

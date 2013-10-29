@@ -1,0 +1,153 @@
+countrows: 3
+filename: 872707.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH2MI05119\x1CKildee\x1CDaniel\x1CT.\x1C\x1C\x1C\x1C6450 Flagstone
+    Ct.\x1C\x1CFlushing\x1CMI\x1C48433\x1CDEM\x1CH\x1CMI\x1C05\x1C2014\x1CC00499947\x1CFriends
+    of Dan Kildee\x1CP.O. Box 248\x1C\x1CFlint\x1CMI\x1C48501\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CKildee\x1CDaniel\x1CT.
+    \x1C\x1C\x1C20130529\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2MI05119
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Kildee
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Daniel
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: T.
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 6450 Flagstone Ct.
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Flushing
+  - name: CANDIDATE STATE
+    number: '12'
+    value: MI
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '48433'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: MI
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '05'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00499947
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Friends of Dan Kildee
+  - name: PCC STREET 1
+    number: '21'
+    value: P.O. Box 248
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Flint
+  - name: PCC STATE
+    number: '24'
+    value: MI
+  - name: PCC ZIP
+    number: '25'
+    value: '48501'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Kildee
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Daniel
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: 'T. '
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130529
+
+'
+- input: "TEXT\x1CH2MI05119\x1CX0\x1C\x1CF2N\x1CAs requested in letter dated May 28,
+    2013\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: H2MI05119
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X0
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F2N
+  - name: TEXT4000
+    number: '6'
+    value: 'As requested in letter dated May 28, 2013
+
+'
+sourceurl: !!python/unicode 20130529
+type: chunk

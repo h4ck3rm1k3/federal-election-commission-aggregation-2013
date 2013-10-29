@@ -1,0 +1,296 @@
+countrows: 5
+filename: 872977.fec
+header: {}
+rows:
+- 2
+- input: "F6N\x1CC00541862\x1C\x1CJason Smith for Congress\x1CPO Box 1324\x1C\x1CCape
+    Girardeau\x1CMO\x1C637021324\x1CH4MO08162\x1CSmith\x1CJason\x1CT\x1C\x1C\x1CH\x1CMO\x1C08\x1Ccrader\x1Cdavid\x1C\x1C\x1C\x1C20130601\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541862
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Jason Smith for Congress
+  - name: STREET 1
+    number: '5'
+    value: PO Box 1324
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Cape Girardeau
+  - name: STATE
+    number: '8'
+    value: MO
+  - name: ZIP
+    number: '9'
+    value: '637021324'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H4MO08162
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: Smith
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: Jason
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: T
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: MO
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: 08
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: crader
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: david
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130601
+
+'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541862
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '34928000'
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Choate
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Beth
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 15695 S. Hwy 77
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: MO
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '638348169'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130601'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: self
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: Farmer
+  - value: '
+
+'
+  expected_count: 20
+  input: "F65\x1CC00541862\x1C34928000\x1CIND\x1C\x1CChoate\x1CBeth\x1C\x1C\x1C\x1C15695
+    S. Hwy 77\x1C\x1CCharleston\x1CMO\x1C638348169\x1C\x1C20130601\x1C1000\x1Cself\x1CFarmer\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.F65
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541862
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '34929000'
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: DeLine
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Donny
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 1928 W 220th Road
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: MO
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '638349208'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130601'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: DeLine Farms
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: Farmer/Business Owner
+  - value: '
+
+'
+  expected_count: 20
+  input: "F65\x1CC00541862\x1C34929000\x1CIND\x1C\x1CDeLine\x1CDonny\x1C\x1C\x1C\x1C1928
+    W 220th Road\x1C\x1CCharleston\x1CMO\x1C638349208\x1C\x1C20130601\x1C1000\x1CDeLine
+    Farms\x1CFarmer/Business Owner\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.F65
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00541862
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: '34927000'
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: Stallings
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: Mark
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 313 E Commercial Street
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: Charleston
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: MO
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '638341703'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20130601'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: Self
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: Farmer
+  - value: '
+
+'
+  expected_count: 20
+  input: "F65\x1CC00541862\x1C34927000\x1CIND\x1C\x1CStallings\x1CMark\x1C\x1C\x1C\x1C313
+    E Commercial Street\x1C\x1CCharleston\x1CMO\x1C638341703\x1C\x1C20130601\x1C1000\x1CSelf\x1CFarmer\x1C\n"
+  input_count: 21
+  record: fec.version.v8_0.F65
+  result: []
+sourceurl: !!python/unicode 20130601
+type: chunk

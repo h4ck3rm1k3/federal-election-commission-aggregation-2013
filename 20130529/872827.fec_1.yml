@@ -1,0 +1,333 @@
+countrows: 4
+filename: 872827.fec
+header: {}
+rows:
+- 2
+- input: "F24N\x1CC00089839\x1C24\x1C\x1CMISSOURI FARM BUREAU FARM PAC, SOUTHEAST
+    DISTRICT\x1C178 David\x1C\x1CJackson\x1CMO\x1C63755\x1CSteffens\x1CDale\x1C\x1C\x1C\x1C20130529\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00089839
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '5'
+    value: MISSOURI FARM BUREAU FARM PAC, SOUTHEAST DISTRICT
+  - name: STREET 1
+    number: '6'
+    value: 178 David
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Jackson
+  - name: STATE
+    number: '9'
+    value: MO
+  - name: ZIP
+    number: '10'
+    value: '63755'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Steffens
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Dale
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130529
+
+'
+- input: "SE\x1CC00089839\x1CSE.4908\x1C\x1C\x1CORG\x1CMississippi River Radio LLC\x1C\x1C\x1C\x1C\x1C\x1C324
+    Broadway\x1C\x1CCape Girardeau\x1CMO\x1C63701\x1CS2013\x1CSpecial-General\x1C20130529\x1C1797.00\x1C2967.00\x1CRadio
+    advertising\x1C004\x1CC00089839\x1CS\x1C\x1CSmith\x1CJason\x1C\x1C\x1C\x1CH\x1CMO\x1C08\x1CSteffens\x1CDale\x1C\x1C\x1C\x1C20130529\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00089839
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4908
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Mississippi River Radio LLC
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 324 Broadway
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Cape Girardeau
+  - name: PAYEE STATE
+    number: '16'
+    value: MO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '63701'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130529'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1797.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '2967.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Radio advertising
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00089839
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Smith
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Jason
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: 08
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Steffens
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Dale
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130529'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00089839\x1CSE.4909\x1C\x1C\x1CORG\x1CPollack Broadcasting Company\x1C\x1C\x1C\x1C\x1C\x1CPO
+    Box 509\x1C\x1CKennett\x1CMO\x1C63857\x1CS2013\x1CSpecial-General\x1C20130529\x1C1170.00\x1C1170.00\x1CRadio
+    advertising\x1C004\x1CC00089839\x1CS\x1C\x1CSmith\x1CJason\x1C\x1C\x1C\x1CH\x1CMO\x1C08\x1CSteffens\x1CDale\x1C\x1C\x1C\x1C20130529\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00089839
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4909
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Pollack Broadcasting Company
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: PO Box 509
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Kennett
+  - name: PAYEE STATE
+    number: '16'
+    value: MO
+  - name: PAYEE ZIP
+    number: '17'
+    value: '63857'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130529'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '1170.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '1170.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Radio advertising
+  - name: CATEGORY CODE
+    number: '24'
+    value: '004'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00089839
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Smith
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Jason
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MO
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: 08
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Steffens
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Dale
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130529'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130529
+type: chunk

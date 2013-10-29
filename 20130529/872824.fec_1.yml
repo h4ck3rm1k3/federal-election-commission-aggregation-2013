@@ -1,0 +1,305 @@
+countrows: 6
+filename: 872824.fec
+header: {}
+rows:
+- 2
+- input: "F6A\x1CC00498337\x1C20121022\x1CJoe Miklosi for Congress\x1C2205 South Holly
+    Street\x1CUnit 8\x1CDenver\x1CCO\x1C80222\x1CH2CO06123\x1CMiklosi\x1CJoe\x1C\x1CMr\x1C\x1CH\x1CCO\x1C06\x1CMiklosi\x1CJoe
+    \x1C\x1CMr.\x1C\x1C20130529\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: '20121022'
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Joe Miklosi for Congress
+  - name: STREET 1
+    number: '5'
+    value: 2205 South Holly Street
+  - name: STREET 2
+    number: '6'
+    value: Unit 8
+  - name: CITY
+    number: '7'
+    value: Denver
+  - name: STATE
+    number: '8'
+    value: CO
+  - name: ZIP
+    number: '9'
+    value: '80222'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H2CO06123
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: Miklosi
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: Joe
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: Mr
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: CO
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '06'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: Miklosi
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: 'Joe '
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: Mr.
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130529
+
+'
+- input: "F65\x1CC00498337\x1CC6697419\x1CPAC\x1CMoveon.Org Bundling Account\x1C\x1C\x1C\x1C\x1C\x1CPO
+    BOX 9218\x1C\x1CBERKELEY\x1CCA\x1C94709\x1CC00341396\x1C20121022\x1C3500.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C6697419
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: Moveon.Org Bundling Account
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: PO BOX 9218
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: BERKELEY
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '94709'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00341396
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121022'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '3500.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F65\x1CC00498337\x1CC6691420\x1CPAC\x1CNational Air Traffic Controllers
+    Association PAC\x1C\x1C\x1C\x1C\x1C\x1C1325 MASSACHUSETTS AVE., NW\x1C\x1CWASHINGTON\x1CDC\x1C20005\x1CC00238725\x1C20121021\x1C2500.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C6691420
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: National Air Traffic Controllers Association PAC
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 1325 MASSACHUSETTS AVE., NW
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: WASHINGTON
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20005'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00238725
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121021'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2500.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "F65\x1CC00498337\x1CC6708198\x1CPAC\x1COUTDOOR INDUSTRY ASSOCIATION\x1C\x1C\x1C\x1C\x1C\x1C4909
+    PEARL EAST CIRCLE\x1CSUITE 300\x1CBOULDER\x1CCO\x1C80301\x1CC00445593\x1C20121022\x1C2000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: C6708198
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: OUTDOOR INDUSTRY ASSOCIATION
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 4909 PEARL EAST CIRCLE
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: SUITE 300
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: BOULDER
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: CO
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '80301'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C00445593
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121022'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+- input: "TEXT\x1CC00498337\x1CX0\x1C\x1CF6A\x1CTermination report. \n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00498337
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X0
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F6A
+  - name: TEXT4000
+    number: '6'
+    value: "Termination report. \n"
+sourceurl: !!python/unicode 20130529
+type: chunk
