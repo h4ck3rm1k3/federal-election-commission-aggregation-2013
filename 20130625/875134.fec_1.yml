@@ -1,0 +1,774 @@
+countrows: 6
+filename: 875134.fec
+header: {}
+rows:
+- 2
+- input: "F1A\x1CC00042622\x1C\x1C\"Massachusetts Republican Party\"\x1C\x1C\"85 Merrimac
+    St.\"\x1C\"Suite 400\"\x1C\"Boston\"\x1CMA\x1C02114\x1C\x1Cmassgop@redcurve.com\x1C\x1Cwww.massgop.com\x1C20130625\x1C\"Andersen\"\x1C\"Brent\"\x1C\x1C\x1C\x1C20130625\x1CD\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CREP\x1CSTA\x1C\x1C\x1C\x1C\x1CC00518282\x1C\"Romney
+    Victory Inc\"\x1C\x1C\x1C\x1C\x1C\x1C\x1C\"585 Commercial St\"\x1C\x1C\"Boston\"\x1CMA\x1C02109\x1CJFR\x1CCrate\x1CBradley\x1CT\x1C\x1C\x1C\"138
+    Conant Street\"\x1C\x1C\"Beverly\"\x1CMA\x1C01915\x1CCompliance Consultan\x1C6172314350\x1C\"Anderson\"\x1C\"Brent\"\x1C\x1C\x1C\x1C\"11
+    Linda Avenue\"\x1C\x1C\"Auburn\"\x1CMA\x1C01501\x1CTreasurer\x1C6175235005\x1CSolutions\x1CRed
+    Curve\x1C\x1C\x1C\x1C\"138 Conant St\"\x1C\x1C\"Beverly\"\x1CMA\x1C01915\x1CCompliance\x1C6172314350\x1C\"Bank
+    of America\"\x1C\"615 Concord Avenue\"\x1C\x1C\"Cambridge\"\x1CMA\x1C02138\x1C\"Chain
+    Bridge Bank\"\x1C\"1445-A Laughlin Ave\"\x1C\x1C\"McLean\"\x1CVA\x1C22101\n"
+  record: fec.version.v8_0.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00042622
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Massachusetts Republican Party
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 85 Merrimac St.
+  - name: STREET 2
+    number: '7'
+    value: Suite 400
+  - name: CITY
+    number: '8'
+    value: Boston
+  - name: STATE
+    number: '9'
+    value: MA
+  - name: ZIP
+    number: '10'
+    value: '02114'
+  - name: CHANGE OF COMMITTEE EMAIL
+    number: '11'
+    value: ''
+  - name: COMMITTEE EMAIL
+    number: '12'
+    value: massgop@redcurve.com
+  - name: CHANGE OF COMMITTEE WEB URL
+    number: '13'
+    value: ''
+  - name: COMMITTEE WEB URL
+    number: '14'
+    value: www.massgop.com
+  - name: EFFECTIVE DATE
+    number: '15'
+    value: '20130625'
+  - name: SIGNATURE LAST NAME
+    number: '16'
+    value: Andersen
+  - name: SIGNATURE FIRST NAME
+    number: '17'
+    value: Brent
+  - name: SIGNATURE MIDDLE NAME
+    number: '18'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '19'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '20'
+    value: ''
+  - name: DATE SIGNED
+    number: '21'
+    value: '20130625'
+  - name: COMMITTEE TYPE
+    number: 22-5.
+    value: D
+  - name: CANDIDATE ID NUMBER
+    number: 23-5.
+    value: ''
+  - name: CANDIDATE LAST NAME
+    number: 24-5.
+    value: ''
+  - name: CANDIDATE FIRST NAME
+    number: 25-5.
+    value: ''
+  - name: CANDIDATE MIDDLE NAME
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 29-5.
+    value: ''
+  - name: CANDIDATE STATE
+    number: 30-5.
+    value: ''
+  - name: CANDIDATE DISTRICT
+    number: 31-5.
+    value: ''
+  - name: PARTY CODE
+    number: 32-5.
+    value: REP
+  - name: PARTY TYPE
+    number: 33-5.
+    value: STA
+  - name: ORGANIZATION TYPE
+    number: 34-5 (e).
+    value: ''
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 35-5 (e).
+    value: ''
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 36-5 (f).
+    value: ''
+  - name: LEADERSHIP PAC
+    number: 37-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 38-6.
+    value: C00518282
+  - name: AFFILIATED Committee NAME
+    number: 39-6.
+    value: Romney Victory Inc
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 40-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 41-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 42-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 43-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 44-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 45-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 46-6.
+    value: 585 Commercial St
+  - name: AFFILIATED STREET 2
+    number: 47-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 48-6.
+    value: Boston
+  - name: AFFILIATED STATE
+    number: 49-6.
+    value: MA
+  - name: AFFILIATED ZIP
+    number: 50-6.
+    value: 02109
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 51-6.
+    value: JFR
+  - name: CUSTODIAN LAST NAME
+    number: 52-7.
+    value: Crate
+  - name: CUSTODIAN FIRST NAME
+    number: 53-7.
+    value: Bradley
+  - name: CUSTODIAN MIDDLE NAME
+    number: 54-7.
+    value: T
+  - name: CUSTODIAN PREFIX
+    number: 55-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 56-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 57-7.
+    value: 138 Conant Street
+  - name: CUSTODIAN STREET 2
+    number: 58-7.
+    value: ''
+  - name: CUSTODIAN CITY
+    number: 59-7.
+    value: Beverly
+  - name: CUSTODIAN STATE
+    number: 60-7.
+    value: MA
+  - name: CUSTODIAN ZIP
+    number: 61-7.
+    value: 01915
+  - name: CUSTODIAN TITLE
+    number: 62-7.
+    value: Compliance Consultan
+  - name: CUSTODIAN TELEPHONE
+    number: 63-7.
+    value: '6172314350'
+  - name: TREASURER LAST NAME
+    number: 64-8.
+    value: Anderson
+  - name: TREASURER FIRST NAME
+    number: 65-8.
+    value: Brent
+  - name: TREASURER MIDDLE NAME
+    number: 66-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 67-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 68-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 69-8.
+    value: 11 Linda Avenue
+  - name: TREASURER STREET 2
+    number: 70-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 71-8.
+    value: Auburn
+  - name: TREASURER STATE
+    number: 72-8.
+    value: MA
+  - name: TREASURER ZIP
+    number: 73-8.
+    value: '01501'
+  - name: TREASURER TITLE
+    number: 74-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 75-8.
+    value: '6175235005'
+  - name: AGENT LAST NAME
+    number: 76-8.
+    value: Solutions
+  - name: AGENT FIRST NAME
+    number: 77-8.
+    value: Red Curve
+  - name: AGENT MIDDLE NAME
+    number: 78-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 79-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 80-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 81-8.
+    value: 138 Conant St
+  - name: AGENT STREET 2
+    number: 82-8.
+    value: ''
+  - name: AGENT CITY
+    number: 83-8.
+    value: Beverly
+  - name: AGENT STATE
+    number: 84-8.
+    value: MA
+  - name: AGENT ZIP
+    number: 85-8.
+    value: 01915
+  - name: AGENT TITLE
+    number: 86-8.
+    value: Compliance
+  - name: AGENT TELEPHONE
+    number: 87-8.
+    value: '6172314350'
+  - name: BANK NAME
+    number: 88-9. a)
+    value: Bank of America
+  - name: BANK STREET 1
+    number: 89-9. a)
+    value: 615 Concord Avenue
+  - name: BANK STREET 2
+    number: 90-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 91-9. a)
+    value: Cambridge
+  - name: BANK STATE
+    number: 92-9. a)
+    value: MA
+  - name: BANK ZIP
+    number: 93-9. a)
+    value: 02138
+  - name: BANK NAME
+    number: 94-9. b)
+    value: Chain Bridge Bank
+  - name: BANK STREET 1
+    number: 95-9. b)
+    value: 1445-A Laughlin Ave
+  - name: BANK STREET 2
+    number: 96-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 97-9. b)
+    value: McLean
+  - name: BANK STATE
+    number: 98-9. b)
+    value: VA
+  - name: BANK ZIP
+    number: 99-9. b)
+    value: '22101
+
+'
+- input: "F1S\x1CC00042622\x1C\x1C\x1CC00494294\x1C\"Scott Brown Victory Committee\"\x1C\x1C\x1C\x1C\x1C\x1C\x1C\"228
+    S Washington St\"\x1C\"Suite 115\"\x1C\"Alexandria\"\x1CVA\x1C22314\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\"Lynn
+    Community Credit Union\"\x1C\"One Andrew Street\"\x1C\x1C\"Lynn\"\x1CMA\x1C01901\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00042622
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00494294
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: Scott Brown Victory Committee
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 228 S Washington St
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: Suite 115
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Alexandria
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: VA
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: '22314'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: Lynn Community Credit Union
+  - name: BANK STREET 1
+    number: 32-9.
+    value: One Andrew Street
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: Lynn
+  - name: BANK STATE
+    number: 35-9.
+    value: MA
+  - name: BANK ZIP
+    number: 36-9.
+    value: '01901
+
+'
+- input: "F1S\x1CC00042622\x1C\x1C\x1CC00521708\x1C\"Target State Victory Fund\"\x1C\x1C\x1C\x1C\x1C\x1C\x1C\"1609
+    Shoal Creek Blvd\"\x1C\"STE 203\"\x1C\"Austin\"\x1CTX\x1C78711\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\"BB&T\"\x1C\"1909
+    K St. NW\"\x1C\x1C\"Washington\"\x1CDC\x1C20006\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00042622
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00521708
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: Target State Victory Fund
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 1609 Shoal Creek Blvd
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: STE 203
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Austin
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: TX
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: '78711'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: BB&T
+  - name: BANK STREET 1
+    number: 32-9.
+    value: 1909 K St. NW
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: Washington
+  - name: BANK STATE
+    number: 35-9.
+    value: DC
+  - name: BANK ZIP
+    number: 36-9.
+    value: '20006
+
+'
+- input: "F1S\x1CC00042622\x1C\x1C\x1CC00532853\x1C\"Brown Victory Committee 2012\"\x1C\x1C\x1C\x1C\x1C\x1C\x1C\"138
+    Conant St\"\x1C\x1C\"Beverly\"\x1CMA\x1C01915\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00042622
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00532853
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: Brown Victory Committee 2012
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 138 Conant St
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Beverly
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: MA
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: 01915
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 32-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: ''
+  - name: BANK STATE
+    number: 35-9.
+    value: ''
+  - name: BANK ZIP
+    number: 36-9.
+    value: '
+
+'
+- input: "F1S\x1CC00042622\x1C\x1C\x1CC00544536\x1C\"GOMEZ VICTORY 2013\"\x1C\x1C\x1C\x1C\x1C\x1C\x1C\"C/O
+    RED CURVE SOLUTIONS\"\x1C\"138 CONANT STREET, FIRST FLOOR\"\x1C\"BEVERLY\"\x1CMA\x1C01915\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00042622
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: ''
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00544536
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: GOMEZ VICTORY 2013
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: C/O RED CURVE SOLUTIONS
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: 138 CONANT STREET, FIRST FLOOR
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: BEVERLY
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: MA
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: 01915
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 32-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: ''
+  - name: BANK STATE
+    number: 35-9.
+    value: ''
+  - name: BANK ZIP
+    number: 36-9.
+    value: '
+
+'
+sourceurl: !!python/unicode 20130625
+type: chunk

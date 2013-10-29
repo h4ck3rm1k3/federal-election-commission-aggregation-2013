@@ -1,0 +1,197 @@
+countrows: 3
+filename: 875028.fec
+header: {}
+rows:
+- 2
+- input: "F24N\x1CC00135368\x1C24\x1C\x1CSIERRA CLUB POLITICAL COMMITTEE\x1C85 SECOND
+    STREET 2ND FLR.\x1C\x1CSAN FRANCISCO\x1CCA\x1C94105\x1CSease\x1CDebbie\x1C\x1C\x1C\x1C20130621\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00135368
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '24'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '5'
+    value: SIERRA CLUB POLITICAL COMMITTEE
+  - name: STREET 1
+    number: '6'
+    value: 85 SECOND STREET 2ND FLR.
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: SAN FRANCISCO
+  - name: STATE
+    number: '9'
+    value: CA
+  - name: ZIP
+    number: '10'
+    value: '94105'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Sease
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Debbie
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130621
+
+'
+- input: "SE\x1CC00135368\x1CSE.4301\x1C\x1C\x1CORG\x1CStones' Phones\x1C\x1C\x1C\x1C\x1C\x1C41-750
+    Rancho Las Palmas Drive\x1CSuite E-3\x1CRancho Mirage\x1CCA\x1C92270\x1CS2013\x1CSpecial-General\x1C20130621\x1C2459.10\x1C40616.50\x1CGOTV
+    Phone Calls\x1C006\x1CC00135368\x1CS\x1CH6MA07101\x1CMARKEY\x1CEDWARD JOHN MR.\x1C\x1C\x1C\x1CS\x1CMA\x1C00\x1CSease\x1CDebbie\x1C\x1C\x1C\x1C20130621\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00135368
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SE.4301
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Stones' Phones
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 41-750 Rancho Las Palmas Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: Suite E-3
+  - name: PAYEE CITY
+    number: '15'
+    value: Rancho Mirage
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '92270'
+  - name: ELECTION CODE
+    number: '18'
+    value: S2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: Special-General
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130621'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '2459.10'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '40616.50'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: GOTV Phone Calls
+  - name: CATEGORY CODE
+    number: '24'
+    value: '006'
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: C00135368
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: S
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: H6MA07101
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: MARKEY
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: EDWARD JOHN MR.
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: '00'
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Sease
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Debbie
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130621'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130621
+type: chunk

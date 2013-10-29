@@ -1,0 +1,605 @@
+countrows: 6
+filename: 875111.fec
+header: {}
+rows:
+- 2
+- input: "F24A\x1CC00542779\x1C48\x1C20130530\x1CNextGen Committee\x1C555 Capitol
+    Mall, Suite 1425\x1C\x1CSacramento\x1CCA\x1C95814\x1CAdams\x1CThomas\x1C\x1C\x1C\x1C20130624\n"
+  record: fec.version.v8_0.F24
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F24A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00542779
+  - name: REPORT TYPE (24/48 Hour)
+    number: '3'
+    value: '48'
+  - name: ORIGINAL AMENDMENT DATE
+    number: '4'
+    value: '20130530'
+  - name: COMMITTEE NAME
+    number: '5'
+    value: NextGen Committee
+  - name: STREET 1
+    number: '6'
+    value: 555 Capitol Mall, Suite 1425
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Sacramento
+  - name: STATE
+    number: '9'
+    value: CA
+  - name: ZIP
+    number: '10'
+    value: '95814'
+  - name: TREASURER LAST NAME
+    number: '11'
+    value: Adams
+  - name: TREASURER FIRST NAME
+    number: '12'
+    value: Thomas
+  - name: TREASURER MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '14'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '15'
+    value: ''
+  - name: DATE SIGNED
+    number: '16'
+    value: '20130624
+
+'
+- input: "SE\x1CC00542779\x1CEDT.E.9\x1C\x1C\x1CORG\x1CPortal A Limited\x1C\x1C\x1C\x1C\x1C\x1C520
+    Waller Street\x1C\x1CSan Francisco\x1CCA\x1C94117\x1CR2013\x1C2013 Runoff\x1C20130528\x1C33000.00\x1C66560.00\x1CVideo
+    Production\x1C24A\x1C\x1CO\x1C\x1CGomez\x1CGabriel\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CAdams\x1CThomas\x1C\x1C\x1C\x1C20130624\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00542779
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: EDT.E.9
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Portal A Limited
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 520 Waller Street
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Francisco
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '94117'
+  - name: ELECTION CODE
+    number: '18'
+    value: R2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: 2013 Runoff
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130528'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '33000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '66560.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Video Production
+  - name: CATEGORY CODE
+    number: '24'
+    value: 24A
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Gomez
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Gabriel
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Adams
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Thomas
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130624'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00542779\x1CPDT.E.15\x1C\x1C\x1CORG\x1CSocial Stream Media\x1C\x1C\x1C\x1C\x1C\x1C268
+    Bush Street, #3335\x1C\x1CSan Francisco\x1CCA\x1C94104\x1CR2013\x1C2013 Runoff\x1C20130528\x1C25000.00\x1C66560.00\x1CFacebook
+    Ads\x1C24A\x1C\x1CO\x1C\x1CGomez\x1CGabriel\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CAdams\x1CThomas\x1C\x1C\x1C\x1C20130624\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00542779
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PDT.E.15
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Social Stream Media
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: '268 Bush Street, #3335'
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: San Francisco
+  - name: PAYEE STATE
+    number: '16'
+    value: CA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '94104'
+  - name: ELECTION CODE
+    number: '18'
+    value: R2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: 2013 Runoff
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130528'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '25000.00'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '66560.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Facebook Ads
+  - name: CATEGORY CODE
+    number: '24'
+    value: 24A
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Gomez
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Gabriel
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Adams
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Thomas
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130624'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00542779\x1CPDT.E.66\x1C\x1C\x1CORG\x1CTigercomm\x1C\x1C\x1C\x1C\x1C\x1C1901
+    N. Fort Myer Drive, Suite 850\x1C\x1CArlington\x1CVA\x1C22209\x1CR2013\x1C2013
+    Runoff\x1C20130523\x1C7608.90\x1C66560.00\x1CConsulting for Press Announcement\x1C24A\x1C\x1CO\x1C\x1CGomez\x1CGabriel\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CAdams\x1CThomas\x1C\x1C\x1C\x1C20130624\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00542779
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PDT.E.66
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Tigercomm
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1901 N. Fort Myer Drive, Suite 850
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Arlington
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22209'
+  - name: ELECTION CODE
+    number: '18'
+    value: R2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: 2013 Runoff
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130523'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '7608.90'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '66560.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Consulting for Press Announcement
+  - name: CATEGORY CODE
+    number: '24'
+    value: 24A
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Gomez
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Gabriel
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Adams
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Thomas
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130624'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+- input: "SE\x1CC00542779\x1CPDT.E.67\x1C\x1C\x1CORG\x1CTigercomm\x1C\x1C\x1C\x1C\x1C\x1C1901
+    N. Fort Myer Drive, Suite 850\x1C\x1CArlington\x1CVA\x1C22209\x1CR2013\x1C2013
+    Runoff\x1C20130523\x1C951.10\x1C66560.00\x1CConsulting for Press Announcement\x1C24A\x1C\x1CO\x1C\x1CMarkey\x1CEdward\x1C\x1C\x1C\x1CS\x1CMA\x1C\x1CAdams\x1CThomas\x1C\x1C\x1C\x1C20130624\x1C\x1C\n"
+  record: fec.version.v8_0.SE
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SE
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00542779
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: PDT.E.67
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: ORG
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: Tigercomm
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: ''
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: ''
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1901 N. Fort Myer Drive, Suite 850
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Arlington
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '22209'
+  - name: ELECTION CODE
+    number: '18'
+    value: R2013
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: 2013 Runoff
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130523'
+  - name: EXPENDITURE AMOUNT
+    number: '21'
+    value: '951.10'
+  - name: CALENDAR Y-T-D (per election/office)
+    number: '22'
+    value: '66560.00'
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Consulting for Press Announcement
+  - name: CATEGORY CODE
+    number: '24'
+    value: 24A
+  - name: PAYEE Committee FEC ID NUMBER
+    number: '25'
+    value: ''
+  - name: SUPPORT/OPPOSE CODE
+    number: '26'
+    value: O
+  - name: S/O CANDIDATE ID NUMBER
+    number: '27'
+    value: ''
+  - name: S/O CANDIDATE LAST NAME
+    number: '28'
+    value: Markey
+  - name: S/O CANDIDATE FIRST NAME
+    number: '29'
+    value: Edward
+  - name: S/O CANDINATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: S/O CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: S/O CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: S/O CANDIDATE OFFICE
+    number: '33'
+    value: S
+  - name: S/O CANDIDATE STATE
+    number: '34'
+    value: MA
+  - name: S/O CANDIDATE DISTRICT
+    number: '35'
+    value: ''
+  - name: COMPLETING LAST NAME
+    number: '36'
+    value: Adams
+  - name: COMPLETING FIRST NAME
+    number: '37'
+    value: Thomas
+  - name: COMPLETING MIDDLE NAME
+    number: '38'
+    value: ''
+  - name: COMPLETING PREFIX
+    number: '39'
+    value: ''
+  - name: COMPLETING SUFFIX
+    number: '40'
+    value: ''
+  - name: DATE SIGNED
+    number: '41'
+    value: '20130624'
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130625
+type: chunk

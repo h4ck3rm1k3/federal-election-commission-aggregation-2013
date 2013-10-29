@@ -1,0 +1,195 @@
+countrows: 4
+filename: 875342.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH2NC08185\x1CHudson\x1CRichard\x1CL.\x1C\x1CJr.\x1C\x1CPO Box 5053\x1C\x1CConcord\x1CNC\x1C280271500\x1CREP\x1CH\x1CNC\x1C08\x1C2014\x1CC00504522\x1CHudson
+    for Congress\x1CPO Box 5053\x1C\x1CConcord\x1CNC\x1C280271500\x1CC00540260\x1CNC
+    4 The Future (Joint Fundraising Representative)\x1C222 S Washington Street\x1CSuite
+    115\x1CAlexandria\x1CVA\x1C223143626\x1CHudson\x1CRichard\x1CL.\x1C\x1CJr.\x1C20130630\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2NC08185
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Hudson
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Richard
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: L.
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: Jr.
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO Box 5053
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Concord
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NC
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '280271500'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NC
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: 08
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00504522
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Hudson for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 5053
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Concord
+  - name: PCC STATE
+    number: '24'
+    value: NC
+  - name: PCC ZIP
+    number: '25'
+    value: '280271500'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00540260
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: NC 4 The Future (Joint Fundraising Representative)
+  - name: AUTH STREET 1
+    number: '28'
+    value: 222 S Washington Street
+  - name: AUTH STREET 2
+    number: '29'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '30'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '31'
+    value: VA
+  - name: AUTH ZIP
+    number: '32'
+    value: '223143626'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Hudson
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Richard
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: L.
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: Jr.
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130630
+
+'
+- input: "F2S\x1CH2NC08185\x1CC00493783\x1CFreshman Agricultural Republican Members
+    Trust Aka FARM Trust\x1CPO Box 30844\x1C\x1CBethesda\x1CMD\x1C208240844\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2NC08185
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00493783
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Freshman Agricultural Republican Members Trust Aka FARM Trust
+  - name: AUTH STREET 1
+    number: '5'
+    value: PO Box 30844
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Bethesda
+  - name: AUTH STATE
+    number: '8'
+    value: MD
+  - name: AUTH ZIP
+    number: '9'
+    value: '208240844
+
+'
+- input: "F2S\x1CH2NC08185\x1CC00544916\x1CEconomic Solutions Victory Fund\x1C2470
+    Daniels Bridge Road\x1CSuite 121\x1CAthens\x1CGA\x1C306066191\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2NC08185
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00544916
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Economic Solutions Victory Fund
+  - name: AUTH STREET 1
+    number: '5'
+    value: 2470 Daniels Bridge Road
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 121
+  - name: AUTH CITY
+    number: '7'
+    value: Athens
+  - name: AUTH STATE
+    number: '8'
+    value: GA
+  - name: AUTH ZIP
+    number: '9'
+    value: '306066191
+
+'
+sourceurl: !!python/unicode 20130630
+type: chunk

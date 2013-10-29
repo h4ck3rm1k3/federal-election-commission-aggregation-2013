@@ -1,0 +1,195 @@
+countrows: 4
+filename: 875997.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH0KY06104\x1CBarr\x1CGarland Andy\x1C\x1C\x1C\x1C\x1CPO Box 2059\x1C\x1CLexington\x1CKY\x1C405880588\x1CREP\x1CH\x1CKY\x1C06\x1C2014\x1CC00467571\x1CAndy
+    Barr for Congress Inc.\x1CPO Box 2059\x1C\x1CLexington\x1CKY\x1C405880588\x1CC00544916\x1CEconomic
+    Solutions Victory Fund\x1C2470  Daniels Bridge Road\x1CSuite 121\x1CAthens\x1CGA\x1C306066191\x1CBarr\x1CGarland
+    Andy\x1C\x1C\x1C\x1C20130706\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0KY06104
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Barr
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Garland Andy
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO Box 2059
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Lexington
+  - name: CANDIDATE STATE
+    number: '12'
+    value: KY
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '405880588'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: KY
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '06'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00467571
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Andy Barr for Congress Inc.
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 2059
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Lexington
+  - name: PCC STATE
+    number: '24'
+    value: KY
+  - name: PCC ZIP
+    number: '25'
+    value: '405880588'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00544916
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Economic Solutions Victory Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: 2470  Daniels Bridge Road
+  - name: AUTH STREET 2
+    number: '29'
+    value: Suite 121
+  - name: AUTH CITY
+    number: '30'
+    value: Athens
+  - name: AUTH STATE
+    number: '31'
+    value: GA
+  - name: AUTH ZIP
+    number: '32'
+    value: '306066191'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Barr
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Garland Andy
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130706
+
+'
+- input: "F2S\x1CH0KY06104\x1CC00546382\x1CCommittee To Protect Prosperity And Free
+    Enterprise\x1CPO Box 30844\x1C\x1CBethesda\x1CMD\x1C208240844\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0KY06104
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00546382
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Committee To Protect Prosperity And Free Enterprise
+  - name: AUTH STREET 1
+    number: '5'
+    value: PO Box 30844
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Bethesda
+  - name: AUTH STATE
+    number: '8'
+    value: MD
+  - name: AUTH ZIP
+    number: '9'
+    value: '208240844
+
+'
+- input: "F2S\x1CH0KY06104\x1CC00527549\x1CWire To Wire Committee\x1C320  1st Street
+    SE\x1C\x1CWashington\x1CDC\x1C200031838\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0KY06104
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00527549
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Wire To Wire Committee
+  - name: AUTH STREET 1
+    number: '5'
+    value: 320  1st Street SE
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Washington
+  - name: AUTH STATE
+    number: '8'
+    value: DC
+  - name: AUTH ZIP
+    number: '9'
+    value: '200031838
+
+'
+sourceurl: !!python/unicode 20130706
+type: chunk

@@ -1,0 +1,162 @@
+countrows: 3
+filename: 876005.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH0IN02190\x1CWalorski Swihart\x1CJackie\x1C\x1C\x1C\x1C\x1C59555
+    County Road 3\x1C\x1CElkhart\x1CIN\x1C46517\x1CREP\x1CH\x1CIN\x1C02\x1C2014\x1CC00468579\x1CWalorski
+    for Congress, Inc.\x1CPO Box 954\x1C\x1CMishawaka\x1CIN\x1C465460954\x1CC00543975\x1CPatriot
+    Day I\x1C228 S Washington St\x1C\x1CAlexandria\x1CVA\x1C22314\x1CWalorski\x1CJackie\x1C\x1C\x1C\x1C20130706\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0IN02190
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Walorski Swihart
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Jackie
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 59555 County Road 3
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Elkhart
+  - name: CANDIDATE STATE
+    number: '12'
+    value: IN
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '46517'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: IN
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '02'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00468579
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Walorski for Congress, Inc.
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 954
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Mishawaka
+  - name: PCC STATE
+    number: '24'
+    value: IN
+  - name: PCC ZIP
+    number: '25'
+    value: '465460954'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00543975
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Patriot Day I
+  - name: AUTH STREET 1
+    number: '28'
+    value: 228 S Washington St
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '31'
+    value: VA
+  - name: AUTH ZIP
+    number: '32'
+    value: '22314'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Walorski
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Jackie
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130706
+
+'
+- input: "F2S\x1CH0IN02190\x1CC00523985\x1CFreshman Hold'Em JFC\x1C209 Pennsylvania
+    Ave SE\x1CSuite 2109\x1CWashington\x1CDC\x1C20003\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0IN02190
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00523985
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Freshman Hold'Em JFC
+  - name: AUTH STREET 1
+    number: '5'
+    value: 209 Pennsylvania Ave SE
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 2109
+  - name: AUTH CITY
+    number: '7'
+    value: Washington
+  - name: AUTH STATE
+    number: '8'
+    value: DC
+  - name: AUTH ZIP
+    number: '9'
+    value: '20003
+
+'
+sourceurl: !!python/unicode 20130707
+type: chunk

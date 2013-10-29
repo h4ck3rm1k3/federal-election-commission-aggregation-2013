@@ -1,0 +1,889 @@
+countrows: 7
+filename: 875986.fec
+header: {}
+rows:
+- 2
+- input: "F1A\x1CC00466516\x1C\x1CGibbs for Congress\x1C\x1C13871 TR 473\x1C\x1CLakeville\x1COH\x1C44638\x1C\x1Cbob@bobgibbs.org\x1C\x1Cwww.bobgibbsforcongress.com\x1C20130706\x1CGibbs\x1CJody\x1C\x1C\x1C\x1C20130706\x1CA\x1CH0OH18077\x1CGibbs\x1CRobert\x1C\x1C\x1C\x1CH\x1COH\x1C07\x1CREP\x1C
+    \x1C\x1C\x1C\x1C\x1C\x1CEconomic Solutions Victory Fund\x1CC00544916\x1C\x1C\x1C\x1C\x1C\x1C2470
+    Daniells Bridge Rd. Suite 121\x1C\x1CAthens\x1CGA\x1C30606\x1CJFP\x1CTully\x1CEmily\x1C\x1C\x1C\x1C5596
+    Grand Pavilion Way Apt. 319\x1C\x1CAlexandria\x1CVA\x1C22303\x1CAssistant Treasurer\x1C3309365233\x1CGibbs\x1CJody\x1C\x1C\x1C\x1C13871
+    TR 473\x1C\x1CLakeville\x1COH\x1C44638\x1CTreasurer\x1C3303784357\x1CTully\x1CEmily\x1C\x1C\x1C\x1C5966
+    Grand Pavilion Way,. Apt. 319\x1C\x1CAlexandria\x1CVA\x1C22303\x1CAssistant Treasurer\x1C3309365233\x1CAccess
+    National Bank\x1C1800 Robert Fulton Dr.\x1C\x1CReston\x1CVA\x1C20191\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.F1
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00466516
+  - name: CHANGE OF COMMITTEE NAME
+    number: '3'
+    value: ''
+  - name: COMMITTEE NAME
+    number: '4'
+    value: Gibbs for Congress
+  - name: CHANGE OF ADDRESS
+    number: '5'
+    value: ''
+  - name: STREET 1
+    number: '6'
+    value: 13871 TR 473
+  - name: STREET 2
+    number: '7'
+    value: ''
+  - name: CITY
+    number: '8'
+    value: Lakeville
+  - name: STATE
+    number: '9'
+    value: OH
+  - name: ZIP
+    number: '10'
+    value: '44638'
+  - name: CHANGE OF COMMITTEE EMAIL
+    number: '11'
+    value: ''
+  - name: COMMITTEE EMAIL
+    number: '12'
+    value: bob@bobgibbs.org
+  - name: CHANGE OF COMMITTEE WEB URL
+    number: '13'
+    value: ''
+  - name: COMMITTEE WEB URL
+    number: '14'
+    value: www.bobgibbsforcongress.com
+  - name: EFFECTIVE DATE
+    number: '15'
+    value: '20130706'
+  - name: SIGNATURE LAST NAME
+    number: '16'
+    value: Gibbs
+  - name: SIGNATURE FIRST NAME
+    number: '17'
+    value: Jody
+  - name: SIGNATURE MIDDLE NAME
+    number: '18'
+    value: ''
+  - name: SIGNATURE PREFIX
+    number: '19'
+    value: ''
+  - name: SIGNATURE SUFFIX
+    number: '20'
+    value: ''
+  - name: DATE SIGNED
+    number: '21'
+    value: '20130706'
+  - name: COMMITTEE TYPE
+    number: 22-5.
+    value: A
+  - name: CANDIDATE ID NUMBER
+    number: 23-5.
+    value: H0OH18077
+  - name: CANDIDATE LAST NAME
+    number: 24-5.
+    value: Gibbs
+  - name: CANDIDATE FIRST NAME
+    number: 25-5.
+    value: Robert
+  - name: CANDIDATE MIDDLE NAME
+    number: 26-5.
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: 27-5.
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: 28-5.
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: 29-5.
+    value: H
+  - name: CANDIDATE STATE
+    number: 30-5.
+    value: OH
+  - name: CANDIDATE DISTRICT
+    number: 31-5.
+    value: '07'
+  - name: PARTY CODE
+    number: 32-5.
+    value: REP
+  - name: PARTY TYPE
+    number: 33-5.
+    value: ' '
+  - name: ORGANIZATION TYPE
+    number: 34-5 (e).
+    value: ''
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 35-5 (e).
+    value: ''
+  - name: LOBBYIST/REGISTRANT PAC
+    number: 36-5 (f).
+    value: ''
+  - name: LEADERSHIP PAC
+    number: 37-5 (f).
+    value: ''
+  - name: AFFILIATED Committee ID NUM
+    number: 38-6.
+    value: ''
+  - name: AFFILIATED Committee NAME
+    number: 39-6.
+    value: Economic Solutions Victory Fund
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 40-6.
+    value: C00544916
+  - name: AFFILIATED LAST NAME
+    number: 41-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 42-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 43-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 44-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 45-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 46-6.
+    value: 2470 Daniells Bridge Rd. Suite 121
+  - name: AFFILIATED STREET 2
+    number: 47-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 48-6.
+    value: Athens
+  - name: AFFILIATED STATE
+    number: 49-6.
+    value: GA
+  - name: AFFILIATED ZIP
+    number: 50-6.
+    value: '30606'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 51-6.
+    value: JFP
+  - name: CUSTODIAN LAST NAME
+    number: 52-7.
+    value: Tully
+  - name: CUSTODIAN FIRST NAME
+    number: 53-7.
+    value: Emily
+  - name: CUSTODIAN MIDDLE NAME
+    number: 54-7.
+    value: ''
+  - name: CUSTODIAN PREFIX
+    number: 55-7.
+    value: ''
+  - name: CUSTODIAN SUFFIX
+    number: 56-7.
+    value: ''
+  - name: CUSTODIAN STREET 1
+    number: 57-7.
+    value: 5596 Grand Pavilion Way Apt. 319
+  - name: CUSTODIAN STREET 2
+    number: 58-7.
+    value: ''
+  - name: CUSTODIAN CITY
+    number: 59-7.
+    value: Alexandria
+  - name: CUSTODIAN STATE
+    number: 60-7.
+    value: VA
+  - name: CUSTODIAN ZIP
+    number: 61-7.
+    value: '22303'
+  - name: CUSTODIAN TITLE
+    number: 62-7.
+    value: Assistant Treasurer
+  - name: CUSTODIAN TELEPHONE
+    number: 63-7.
+    value: '3309365233'
+  - name: TREASURER LAST NAME
+    number: 64-8.
+    value: Gibbs
+  - name: TREASURER FIRST NAME
+    number: 65-8.
+    value: Jody
+  - name: TREASURER MIDDLE NAME
+    number: 66-8.
+    value: ''
+  - name: TREASURER PREFIX
+    number: 67-8.
+    value: ''
+  - name: TREASURER SUFFIX
+    number: 68-8.
+    value: ''
+  - name: TREASURER STREET 1
+    number: 69-8.
+    value: 13871 TR 473
+  - name: TREASURER STREET 2
+    number: 70-8.
+    value: ''
+  - name: TREASURER CITY
+    number: 71-8.
+    value: Lakeville
+  - name: TREASURER STATE
+    number: 72-8.
+    value: OH
+  - name: TREASURER ZIP
+    number: 73-8.
+    value: '44638'
+  - name: TREASURER TITLE
+    number: 74-8.
+    value: Treasurer
+  - name: TREASURER TELEPHONE
+    number: 75-8.
+    value: '3303784357'
+  - name: AGENT LAST NAME
+    number: 76-8.
+    value: Tully
+  - name: AGENT FIRST NAME
+    number: 77-8.
+    value: Emily
+  - name: AGENT MIDDLE NAME
+    number: 78-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 79-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 80-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 81-8.
+    value: 5966 Grand Pavilion Way,. Apt. 319
+  - name: AGENT STREET 2
+    number: 82-8.
+    value: ''
+  - name: AGENT CITY
+    number: 83-8.
+    value: Alexandria
+  - name: AGENT STATE
+    number: 84-8.
+    value: VA
+  - name: AGENT ZIP
+    number: 85-8.
+    value: '22303'
+  - name: AGENT TITLE
+    number: 86-8.
+    value: Assistant Treasurer
+  - name: AGENT TELEPHONE
+    number: 87-8.
+    value: '3309365233'
+  - name: BANK NAME
+    number: 88-9. a)
+    value: Access National Bank
+  - name: BANK STREET 1
+    number: 89-9. a)
+    value: 1800 Robert Fulton Dr.
+  - name: BANK STREET 2
+    number: 90-9. a)
+    value: ''
+  - name: BANK CITY
+    number: 91-9. a)
+    value: Reston
+  - name: BANK STATE
+    number: 92-9. a)
+    value: VA
+  - name: BANK ZIP
+    number: 93-9. a)
+    value: '20191'
+  - name: BANK NAME
+    number: 94-9. b)
+    value: ''
+  - name: BANK STREET 1
+    number: 95-9. b)
+    value: ''
+  - name: BANK STREET 2
+    number: 96-9. b)
+    value: ''
+  - name: BANK CITY
+    number: 97-9. b)
+    value: ''
+  - name: BANK STATE
+    number: 98-9. b)
+    value: ''
+  - name: BANK ZIP
+    number: 99-9. b)
+    value: '
+
+'
+- input: "F1S\x1CC00466516\x1COhio 2012 Victory Fund\x1CC00510396\x1CC00510396\x1COhio
+    2012 Victory Fund\x1C\x1C\x1C\x1C\x1C\x1C\x1C2470 Daniell's Bridge Rd.\x1CSuite
+    121\x1CAthens\x1CGA\x1C30606\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CSunTrust
+    Bank\x1CPO Box 4418\x1C\x1CAtlanta\x1CGA\x1C30302\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00466516
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: Ohio 2012 Victory Fund
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: C00510396
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00510396
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: Ohio 2012 Victory Fund
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 2470 Daniell's Bridge Rd.
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: Suite 121
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Athens
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: GA
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: '30606'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: SunTrust Bank
+  - name: BANK STREET 1
+    number: 32-9.
+    value: PO Box 4418
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: Atlanta
+  - name: BANK STATE
+    number: 35-9.
+    value: GA
+  - name: BANK ZIP
+    number: 36-9.
+    value: '30302
+
+'
+- input: "F1S\x1CC00466516\x1CFreshman Hold em JFC\x1CC00523985\x1CC00523985\x1CFreshman
+    Hold em JFC\x1C\x1C\x1C\x1C\x1C\x1C\x1C209 PENNSYLVANIA AVE SE\x1CSuite 2109\x1CWashington\x1CDC\x1C20003\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CBB&T\x1C1909
+    K St.\x1C\x1CWashington\x1CDC\x1C20006\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00466516
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: Freshman Hold em JFC
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: C00523985
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00523985
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: Freshman Hold em JFC
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 209 PENNSYLVANIA AVE SE
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: Suite 2109
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Washington
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: DC
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: '20003'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: BB&T
+  - name: BANK STREET 1
+    number: 32-9.
+    value: 1909 K St.
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: Washington
+  - name: BANK STATE
+    number: 35-9.
+    value: DC
+  - name: BANK ZIP
+    number: 36-9.
+    value: '20006
+
+'
+- input: "F1S\x1CC00466516\x1COhio 2012 Victory Fund\x1CC00510396\x1CC00510396\x1COhio
+    2012 Victory Fund\x1C\x1C\x1C\x1C\x1C\x1C\x1C2470 Daniell's Bridge Rd.\x1CSuite
+    121\x1CAthens\x1CGA\x1C30606\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00466516
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: Ohio 2012 Victory Fund
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: C00510396
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00510396
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: Ohio 2012 Victory Fund
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 2470 Daniell's Bridge Rd.
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: Suite 121
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Athens
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: GA
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: '30606'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 32-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: ''
+  - name: BANK STATE
+    number: 35-9.
+    value: ''
+  - name: BANK ZIP
+    number: 36-9.
+    value: '
+
+'
+- input: "F1S\x1CC00466516\x1CEconomic Solutions Victory Fund\x1CC00544916\x1CC00544916\x1CEconomic
+    Solutions Victory Fund\x1C\x1C\x1C\x1C\x1C\x1C\x1C2470 Daniell's Bridge Ste. 121\x1C\x1CAthens\x1CGA\x1C30606\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00466516
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: Economic Solutions Victory Fund
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: C00544916
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00544916
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: Economic Solutions Victory Fund
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 2470 Daniell's Bridge Ste. 121
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: ''
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Athens
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: GA
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: '30606'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 32-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: ''
+  - name: BANK STATE
+    number: 35-9.
+    value: ''
+  - name: BANK ZIP
+    number: 36-9.
+    value: '
+
+'
+- input: "F1S\x1CC00466516\x1CPatriot Day I\x1CC00543975\x1CC00543975\x1CPatriot Day
+    I\x1C\x1C\x1C\x1C\x1C\x1C\x1C228 S. Washington St.\x1CSuite 115\x1CAlexandria\x1CVA\x1C22314\x1CJFR\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.F1S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F1S
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00466516
+  - name: JOINT FUND PARTICIPANT Committee NAME
+    number: 3-5.
+    value: Patriot Day I
+  - name: JOINT FUND PARTICIPANT Committee FEC-ID
+    number: 4-5.
+    value: C00543975
+  - name: AFFILIATED Committee ID NUM
+    number: 5-6.
+    value: C00543975
+  - name: AFFILIATED Committee NAME
+    number: 6-6.
+    value: Patriot Day I
+  - name: AFFILIATED CANDIDATE ID NUM
+    number: 7-6.
+    value: ''
+  - name: AFFILIATED LAST NAME
+    number: 8-6.
+    value: ''
+  - name: AFFILIATED FIRST NAME
+    number: 9-6.
+    value: ''
+  - name: AFFILIATED MIDDLE NAME
+    number: 10-6.
+    value: ''
+  - name: AFFILIATED PREFIX
+    number: 11-6.
+    value: ''
+  - name: AFFILIATED SUFFIX
+    number: 12-6.
+    value: ''
+  - name: AFFILIATED STREET 1
+    number: 13-6.
+    value: 228 S. Washington St.
+  - name: AFFILIATED STREET 2
+    number: 14-6.
+    value: Suite 115
+  - name: AFFILIATED CITY
+    number: 15-6.
+    value: Alexandria
+  - name: AFFILIATED STATE
+    number: 16-6.
+    value: VA
+  - name: AFFILIATED ZIP
+    number: 17-6.
+    value: '22314'
+  - name: AFFILIATED RELATIONSHIP CODE
+    number: 18-6.
+    value: JFR
+  - name: AGENT LAST NAME
+    number: 19-8.
+    value: ''
+  - name: AGENT FIRST NAME
+    number: 20-8.
+    value: ''
+  - name: AGENT MIDDLE NAME
+    number: 21-8.
+    value: ''
+  - name: AGENT PREFIX
+    number: 22-8.
+    value: ''
+  - name: AGENT SUFFIX
+    number: 23-8.
+    value: ''
+  - name: AGENT STREET 1
+    number: 24-8.
+    value: ''
+  - name: AGENT STREET 2
+    number: 25-8.
+    value: ''
+  - name: AGENT CITY
+    number: 26-8.
+    value: ''
+  - name: AGENT STATE
+    number: 27-8.
+    value: ''
+  - name: AGENT ZIP
+    number: 28-8.
+    value: ''
+  - name: AGENT TITLE
+    number: 29-8.
+    value: ''
+  - name: AGENT TELEPHONE
+    number: 30-8.
+    value: ''
+  - name: BANK NAME
+    number: 31-9.
+    value: ''
+  - name: BANK STREET 1
+    number: 32-9.
+    value: ''
+  - name: BANK STREET 2
+    number: 33-9.
+    value: ''
+  - name: BANK CITY
+    number: 34-9.
+    value: ''
+  - name: BANK STATE
+    number: 35-9.
+    value: ''
+  - name: BANK ZIP
+    number: 36-9.
+    value: '
+
+'
+sourceurl: !!python/unicode 20130706
+type: chunk

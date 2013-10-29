@@ -1,0 +1,161 @@
+countrows: 3
+filename: 874624.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH8WI01024\x1CRyan\x1CPaul\x1CD.\x1C\x1C\x1C\x1CPO Box 771\x1C\x1CJanesville\x1CWI\x1C535470771\x1CREP\x1CH\x1CWI\x1C01\x1C2014\x1CC00330894\x1CRyan
+    for Congress Inc.\x1CPO Box 1488\x1C\x1CJanesville\x1CWI\x1C535471488\x1CC00545947\x1CRyan-NRCC
+    Victory Committee\x1C2470 Daniels Bridge Road\x1CSuite 121\x1CAthens\x1CGA\x1C306066191\x1CRyan\x1CPaul\x1CD.\x1C\x1C\x1C20130620\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8WI01024
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Ryan
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Paul
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: D.
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO Box 771
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Janesville
+  - name: CANDIDATE STATE
+    number: '12'
+    value: WI
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '535470771'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: WI
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '01'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00330894
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Ryan for Congress Inc.
+  - name: PCC STREET 1
+    number: '21'
+    value: PO Box 1488
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Janesville
+  - name: PCC STATE
+    number: '24'
+    value: WI
+  - name: PCC ZIP
+    number: '25'
+    value: '535471488'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00545947
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Ryan-NRCC Victory Committee
+  - name: AUTH STREET 1
+    number: '28'
+    value: 2470 Daniels Bridge Road
+  - name: AUTH STREET 2
+    number: '29'
+    value: Suite 121
+  - name: AUTH CITY
+    number: '30'
+    value: Athens
+  - name: AUTH STATE
+    number: '31'
+    value: GA
+  - name: AUTH ZIP
+    number: '32'
+    value: '306066191'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Ryan
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Paul
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: D.
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130620
+
+'
+- input: "F2S\x1CH8WI01024\x1CC00494476\x1CRyan-Prosperity Action Fund, Inc.\x1C2470
+    Daniels Bridge Road\x1CSuite 121\x1CAthens\x1CGA\x1C306066191\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H8WI01024
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: C00494476
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Ryan-Prosperity Action Fund, Inc.
+  - name: AUTH STREET 1
+    number: '5'
+    value: 2470 Daniels Bridge Road
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 121
+  - name: AUTH CITY
+    number: '7'
+    value: Athens
+  - name: AUTH STATE
+    number: '8'
+    value: GA
+  - name: AUTH ZIP
+    number: '9'
+    value: '306066191
+
+'
+sourceurl: !!python/unicode 20130620
+type: chunk
