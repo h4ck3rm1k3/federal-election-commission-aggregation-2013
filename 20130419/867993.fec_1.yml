@@ -1,0 +1,163 @@
+countrows: 3
+filename: 867993.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH0MI02094\x1CHuizenga\x1CWilliam P\x1C\x1CThe Hon.\x1C\x1C\x1C441
+    Williams Court\x1C\x1CZeeland\x1CMI\x1C494641509\x1CREP\x1CH\x1CMI\x1C02\x1C2014\x1CC00459297\x1CHUIZENGA
+    FOR CONGRESS\x1C441 Williams Court\x1C\x1CZeeland\x1CMI\x1C494641509\x1CC00493817\x1CTeam
+    2012\x1C228 S. Washington Street\x1CSuite 115\x1CAlexandria\x1CVA\x1C22314\x1CHuizenga\x1CWilliam
+    P\x1C\x1CThe Hon.\x1C\x1C20130419\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0MI02094
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Huizenga
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: William P
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: The Hon.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 441 Williams Court
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Zeeland
+  - name: CANDIDATE STATE
+    number: '12'
+    value: MI
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '494641509'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: MI
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '02'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00459297
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: HUIZENGA FOR CONGRESS
+  - name: PCC STREET 1
+    number: '21'
+    value: 441 Williams Court
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Zeeland
+  - name: PCC STATE
+    number: '24'
+    value: MI
+  - name: PCC ZIP
+    number: '25'
+    value: '494641509'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00493817
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Team 2012
+  - name: AUTH STREET 1
+    number: '28'
+    value: 228 S. Washington Street
+  - name: AUTH STREET 2
+    number: '29'
+    value: Suite 115
+  - name: AUTH CITY
+    number: '30'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '31'
+    value: VA
+  - name: AUTH ZIP
+    number: '32'
+    value: '22314'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Huizenga
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: William P
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: The Hon.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130419
+
+'
+- input: "F2S\x1CH0MI02094\x1C\x1CMicigan Young Guns Victory Fund (Amash, Benishek,
+    Huizenga, Walberg\x1C25 E  Main Street\x1C\x1CRichmond\x1CVA\x1C232192109\n"
+  record: fec.version.v8_0.F2S
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H0MI02094
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Micigan Young Guns Victory Fund (Amash, Benishek, Huizenga, Walberg
+  - name: AUTH STREET 1
+    number: '5'
+    value: 25 E  Main Street
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Richmond
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '232192109
+
+'
+sourceurl: !!python/unicode 20130419
+type: chunk

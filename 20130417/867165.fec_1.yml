@@ -1,0 +1,158 @@
+countrows: 3
+filename: 867165.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH6NJ08118\x1CPascrell\x1CWilliam \x1CJ.\x1CHon.\x1CJr.\x1C\x1CPO
+    Box 100\x1C\x1CTeaneck\x1CNJ\x1C07666\x1CDEM\x1CH\x1CNJ\x1C09\x1C2014\x1CC00313510\x1CPascrell
+    for Congress, Inc\x1CP.O. Box 100\x1C\x1CTeaneck\x1CNJ\x1C07666\x1CC00313510\x1CPascrell
+    for Congress, Inc.\x1CPO Box 640\x1C\x1CTotowa\x1CNJ\x1C07511\x1CPascrell\x1CWilliam\x1CJ.\x1C\x1CJr.\x1C20130416\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6NJ08118
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Pascrell
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: 'William '
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: J.
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Hon.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: Jr.
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: PO Box 100
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Teaneck
+  - name: CANDIDATE STATE
+    number: '12'
+    value: NJ
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '07666'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: NJ
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: 09
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00313510
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Pascrell for Congress, Inc
+  - name: PCC STREET 1
+    number: '21'
+    value: P.O. Box 100
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Teaneck
+  - name: PCC STATE
+    number: '24'
+    value: NJ
+  - name: PCC ZIP
+    number: '25'
+    value: '07666'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: C00313510
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Pascrell for Congress, Inc.
+  - name: AUTH STREET 1
+    number: '28'
+    value: PO Box 640
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Totowa
+  - name: AUTH STATE
+    number: '31'
+    value: NJ
+  - name: AUTH ZIP
+    number: '32'
+    value: '07511'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Pascrell
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: William
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: J.
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: Jr.
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130416
+
+'
+- input: "TEXT\x1CH6NJ08118\x1CX0\x1C\x1CF2N\x1CWe are filing this amendment to the
+    campaign's 2013 1st quarter report due to the fact that we inadvertently neglected
+    to change the District designation that resulted from redistricting. The Congressman
+    represents New Jersey's 9th Congressional District now. We apologize for any inconvenience.
+    \      \t\t\t\t\t\t\t  \t\t\t\t\t\t\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: H6NJ08118
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: X0
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F2N
+  - name: TEXT4000
+    number: '6'
+    value: "We are filing this amendment to the campaign's 2013 1st quarter report
+      due to the fact that we inadvertently neglected to change the District designation
+      that resulted from redistricting. The Congressman represents New Jersey's 9th
+      Congressional District now. We apologize for any inconvenience.       \t\t\t\t\t\t\t
+      \ \t\t\t\t\t\t\n"
+sourceurl: !!python/unicode 20130417
+type: chunk

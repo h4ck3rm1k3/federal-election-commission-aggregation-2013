@@ -1,0 +1,127 @@
+countrows: 2
+filename: 867124.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH2ME02097\x1CMichaud\x1CMichael\x1CH.\x1C\x1C\x1C\x1C213 Lisbon St.\x1C\x1CLewiston\x1CME\x1C04240\x1CDEM\x1CH\x1CME\x1C02\x1C2014\x1CC00367821\x1CMichaud
+    for Congress\x1C213 Lisbon St.\x1C\x1CLewiston\x1CME\x1C04240\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CMichaud\x1CMichael\x1CH.\x1C\x1C\x1C20130416\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2ME02097
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Michaud
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Michael
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: H.
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 213 Lisbon St.
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Lewiston
+  - name: CANDIDATE STATE
+    number: '12'
+    value: ME
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '04240'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: ME
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '02'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00367821
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Michaud for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: 213 Lisbon St.
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Lewiston
+  - name: PCC STATE
+    number: '24'
+    value: ME
+  - name: PCC ZIP
+    number: '25'
+    value: '04240'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Michaud
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Michael
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: H.
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130416
+
+'
+sourceurl: !!python/unicode 20130416
+type: chunk

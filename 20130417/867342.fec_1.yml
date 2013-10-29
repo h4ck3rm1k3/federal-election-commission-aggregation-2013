@@ -1,0 +1,202 @@
+countrows: 4
+filename: 867342.fec
+header: {}
+rows:
+- 2
+- input: "F2A\x1CH2CA20094\x1CValadao\x1CDavid\x1C\x1C\x1C\x1C\x1C504 Van Ness Ave\x1C\x1CFresno\x1CCA\x1C93721\x1CREP\x1CH\x1CCA\x1C21\x1C2014\x1CC00499392\x1CValadao
+    for Congress\x1C504 Van Ness\x1C\x1CFresno\x1CCA\x1C93721\x1C\x1CCPE Victory Fund\x1CP.O.
+    Box 13882\x1C\x1CBakersfield\x1CCA\x1C93389\x1CValadao\x1CDavid\x1C\x1C\x1C\x1C20130417\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2A
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2CA20094
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Valadao
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: David
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 504 Van Ness Ave
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Fresno
+  - name: CANDIDATE STATE
+    number: '12'
+    value: CA
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '93721'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: CA
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '21'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00499392
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Valadao for Congress
+  - name: PCC STREET 1
+    number: '21'
+    value: 504 Van Ness
+  - name: PCC STREET 2
+    number: '22'
+    value: ''
+  - name: PCC CITY
+    number: '23'
+    value: Fresno
+  - name: PCC STATE
+    number: '24'
+    value: CA
+  - name: PCC ZIP
+    number: '25'
+    value: '93721'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: CPE Victory Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: P.O. Box 13882
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: Bakersfield
+  - name: AUTH STATE
+    number: '31'
+    value: CA
+  - name: AUTH ZIP
+    number: '32'
+    value: '93389'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Valadao
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: David
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130417
+
+'
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2CA20094
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Young Guns 2012 Round 1
+  - name: AUTH STREET 1
+    number: '5'
+    value: 228 S Washington Street Suite 115
+  - name: AUTH STREET 2
+    number: '6'
+    value: ''
+  - name: AUTH CITY
+    number: '7'
+    value: Alexandria
+  - name: AUTH STATE
+    number: '8'
+    value: VA
+  - name: AUTH ZIP
+    number: '9'
+    value: '22314'
+  - value: '
+
+'
+  expected_count: 9
+  input: "F2S\x1CH2CA20094\x1C\x1CYoung Guns 2012 Round 1\x1C228 S Washington Street
+    Suite 115\x1C\x1CAlexandria\x1CVA\x1C22314\x1C\n"
+  input_count: 10
+  record: fec.version.v8_0.F2S
+  result: []
+- attempt:
+  - name: FORM TYPE
+    number: '1'
+    value: F2S
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2CA20094
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '3'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '4'
+    value: Freshman Hold'em
+  - name: AUTH STREET 1
+    number: '5'
+    value: 209 Pennsylvania Ave SE
+  - name: AUTH STREET 2
+    number: '6'
+    value: Suite 2109
+  - name: AUTH CITY
+    number: '7'
+    value: Washington
+  - name: AUTH STATE
+    number: '8'
+    value: DC
+  - name: AUTH ZIP
+    number: '9'
+    value: '20003'
+  - value: '
+
+'
+  expected_count: 9
+  input: "F2S\x1CH2CA20094\x1C\x1CFreshman Hold'em\x1C209 Pennsylvania Ave SE\x1CSuite
+    2109\x1CWashington\x1CDC\x1C20003\x1C\n"
+  input_count: 10
+  record: fec.version.v8_0.F2S
+  result: []
+sourceurl: !!python/unicode 20130417
+type: chunk

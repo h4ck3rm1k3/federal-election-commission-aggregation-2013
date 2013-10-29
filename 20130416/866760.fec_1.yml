@@ -1,0 +1,812 @@
+countrows: 6
+filename: 866760.fec
+header: {}
+rows:
+- 2
+- input: "F3N\x1CC00511832\x1CElla Ward for Congress\x1C\x1C1517 Pine Grove Lane\x1C\x1CChesapeake\x1CVA\x1C23321\x1CVA\x1C04\x1CQ1\x1C\x1C\x1C\x1C20130101\x1C20130331\x1CGary\x1CRita
+    L.\x1C\x1C\x1C\x1C20130415\x1C0.00\x1C0.00\x1C0.00\x1C263.00\x1C0.00\x1C263.00\x1C0.00\x1C0.00\x1C6043.80\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C263.00\x1C0.00\x1C1059.20\x1C0.00\x1C1059.20\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C1322.20\x1C1322.20\x1C0.00\x1C1322.20\x1C1322.20\x1C0.00\x1C69973.85\x1C500.00\x1C69473.85\x1C74533.94\x1C0.00\x1C74533.94\x1C31260.57\x1C32668.28\x1C63928.85\x1C5395.00\x1C550.00\x1C100.00\x1C69973.85\x1C0.00\x1C7103.00\x1C0.00\x1C7103.00\x1C0.00\x1C204.41\x1C77281.26\x1C74533.94\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C0.00\x1C500.00\x1C500.00\x1C0.00\x1C75033.94\n"
+  record: fec.version.v8_0.F3
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F3N
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00511832
+  - name: COMMITTEE NAME
+    number: '3'
+    value: Ella Ward for Congress
+  - name: CHANGE OF ADDRESS
+    number: '4'
+    value: ''
+  - name: STREET 1
+    number: '5'
+    value: 1517 Pine Grove Lane
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: Chesapeake
+  - name: STATE
+    number: '8'
+    value: VA
+  - name: ZIP
+    number: '9'
+    value: '23321'
+  - name: ELECTION STATE
+    number: '10'
+    value: VA
+  - name: ELECTION DISTRICT
+    number: '11'
+    value: '04'
+  - name: REPORT CODE
+    number: '12'
+    value: Q1
+  - name: ELECTION CODE
+    number: '13'
+    value: ''
+  - name: DATE OF ELECTION
+    number: '14'
+    value: ''
+  - name: STATE OF ELECTION
+    number: '15'
+    value: ''
+  - name: COVERAGE FROM DATE
+    number: '16'
+    value: '20130101'
+  - name: COVERAGE THROUGH DATE
+    number: '17'
+    value: '20130331'
+  - name: TREASURER LAST NAME
+    number: '18'
+    value: Gary
+  - name: TREASURER FIRST NAME
+    number: '19'
+    value: Rita L.
+  - name: TREASURER MIDDLE NAME
+    number: '20'
+    value: ''
+  - name: TREASURER PREFIX
+    number: '21'
+    value: ''
+  - name: TREASURER SUFFIX
+    number: '22'
+    value: ''
+  - name: DATE SIGNED
+    number: '23'
+    value: '20130415'
+  - name: Total Contributions (NO Loans)
+    number: 24-(6a)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 25-(6b)
+    value: '0.00'
+  - name: Net Contributions
+    number: 26-(6c)
+    value: '0.00'
+  - name: Total Operating Expenditures
+    number: 27-(7a)
+    value: '263.00'
+  - name: Total Offset to Operating Expenditures
+    number: 28-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 29-(7c)
+    value: '263.00'
+  - name: CASH ON HAND AT CLOSE ...
+    number: 30-8.
+    value: '0.00'
+  - name: DEBTS TO ( Totals from SCH C and/or D)
+    number: 31-9.
+    value: '0.00'
+  - name: DEBTS BY (Totals from SCH C and/or D)
+    number: 32-10.
+    value: '6043.80'
+  - name: Individuals Itemized
+    number: 33-11(a i.)
+    value: '0.00'
+  - name: Individuals Unitemized
+    number: 34-11(a.ii)
+    value: '0.00'
+  - name: Individual Contribution Total
+    number: 35-11(a.iii)
+    value: '0.00'
+  - name: Political Party Committees
+    number: 36-11(b)
+    value: '0.00'
+  - name: Other Political Committees
+    number: 37-11(c)
+    value: '0.00'
+  - name: The Candidate
+    number: 38-11(d)
+    value: '0.00'
+  - name: Total Contributions
+    number: 39-11(e)
+    value: '0.00'
+  - name: Transfers From Other Authorized Committees
+    number: 40-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 41-13(a)
+    value: '0.00'
+  - name: All Other Loans
+    number: 42-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 43-13(c)
+    value: '0.00'
+  - name: Offsets to Operating Expenditures
+    number: 44-14.
+    value: '0.00'
+  - name: Other Receipts
+    number: 45-15.
+    value: '0.00'
+  - name: Total Receipts
+    number: 46-16.
+    value: '0.00'
+  - name: Operating Expenditures
+    number: 47-17.
+    value: '263.00'
+  - name: Transfers to Other Authorized Committees
+    number: 48-18.
+    value: '0.00'
+  - name: Of Loans made or guar. by the Cand.
+    number: 49-19(a)
+    value: '1059.20'
+  - name: Loan Repayments, All Other Loans
+    number: 50-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 51-19(c)
+    value: '1059.20'
+  - name: Refund/Individuals Other than Political Committees
+    number: 52-20(a)
+    value: '0.00'
+  - name: Refund/Political Party Committees
+    number: 53-20(b)
+    value: '0.00'
+  - name: Refund/Other Political Committees
+    number: 54-20(c)
+    value: '0.00'
+  - name: Total Contribution Refunds
+    number: 55-20(d)
+    value: '0.00'
+  - name: Other Disbursements
+    number: 56-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 57-22.
+    value: '1322.20'
+  - name: Cash Beginning Reporting Period
+    number: 58-23.
+    value: '1322.20'
+  - name: Total Receipts this Period
+    number: 59-24.
+    value: '0.00'
+  - name: Subtotals
+    number: 60-25.
+    value: '1322.20'
+  - name: Total Disbursements this Period
+    number: 61-26.
+    value: '1322.20'
+  - name: Cash on hand at Close Period
+    number: 62-27.
+    value: '0.00'
+  - name: Total Contributions (No Loans)
+    number: 63-(6a)
+    value: '69973.85'
+  - name: Total Contribution Refunds
+    number: 64-(6b)
+    value: '500.00'
+  - name: Net Contributions
+    number: 65-(6c)
+    value: '69473.85'
+  - name: Total Operating Expenditures
+    number: 66-(7a)
+    value: '74533.94'
+  - name: Total Offsets to Operating Expenditures
+    number: 67-(7b)
+    value: '0.00'
+  - name: NET Operating Expenditures.
+    number: 68-(7c)
+    value: '74533.94'
+  - name: Individuals Itemized
+    number: 69-11(a i.)
+    value: '31260.57'
+  - name: Individuals Unitemized
+    number: 70-11(a.ii)
+    value: '32668.28'
+  - name: Individuals Total
+    number: 71-11(a.iii)
+    value: '63928.85'
+  - name: Political Party Committees
+    number: 72-11(b)
+    value: '5395.00'
+  - name: All Other Political Committees (PACS)
+    number: 73-11(c)
+    value: '550.00'
+  - name: The Candidate
+    number: 74-11(d)
+    value: '100.00'
+  - name: Total Contributions
+    number: 75-11(e)
+    value: '69973.85'
+  - name: Transfers From Other AUTH Committees
+    number: 76-12.
+    value: '0.00'
+  - name: Loans made or guarn. by the Candidate
+    number: 77-13(a)
+    value: '7103.00'
+  - name: All Other Loans
+    number: 78-13(b)
+    value: '0.00'
+  - name: Total Loans
+    number: 79-13(c)
+    value: '7103.00'
+  - name: Offsets to Operating Expenditures
+    number: 80-14.
+    value: '0.00'
+  - name: Other Receipts
+    number: 81-15.
+    value: '204.41'
+  - name: Total Receipts
+    number: 82-16.
+    value: '77281.26'
+  - name: Operating Expenditures
+    number: 83-17
+    value: '74533.94'
+  - name: Transfers To Other AUTH Committees
+    number: 84-18.
+    value: '0.00'
+  - name: Loan Repayment By Candidate
+    number: 85-19(a)
+    value: '0.00'
+  - name: Loan Repayments, ALL Other Loans
+    number: 86-19(b)
+    value: '0.00'
+  - name: Total Loan Repayments
+    number: 87-19(c)
+    value: '0.00'
+  - name: Refund/Individuals Other than Political Committees
+    number: 88-20(a)
+    value: '0.00'
+  - name: Refund, Political Party Committees
+    number: 89-20(b)
+    value: '0.00'
+  - name: Refund, Other Political Committees
+    number: 90-20(c)
+    value: '500.00'
+  - name: Total Contributions Refunds
+    number: 91-20(d)
+    value: '500.00'
+  - name: Other Disbursements
+    number: 92-21.
+    value: '0.00'
+  - name: Total Disbursements
+    number: 93-22.
+    value: '75033.94
+
+'
+- input: "SB17\x1CC00511832\x1CSB17.5741\x1C\x1C\x1CIND\x1C\x1CGary\x1CRita L.\x1C\x1C\x1C\x1C3116
+    Bruno Drive\x1C\x1CChesapeake\x1CVA\x1C23323\x1CG2012\x1C\x1C20130201\x1C250.00\x1C\x1CCampaign
+    Finance Reporting\x1C\x1CC00511832\x1CElla Ward for Congress\x1C\x1C\x1C\x1C\x1C\x1C\x1CH\x1CVA\x1C04\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB17
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00511832
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB17.5741
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: IND
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Gary
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Rita L.
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 3116 Bruno Drive
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Chesapeake
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '23323'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130201'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '250.00'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Campaign Finance Reporting
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: C00511832
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: Ella Ward for Congress
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: VA
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: '04'
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SB19A\x1CC00511832\x1CSB19A.5743\x1C\x1C\x1CCAN\x1C\x1CWard\x1CElla P.\x1C\x1C\x1C\x1C1517
+    Pine Grove Lane\x1C\x1CChesapeake\x1CVA\x1C23321\x1CG2012\x1C\x1C20130330\x1C1059.20\x1C\x1CLoan
+    repayment\x1C\x1CC00511832\x1CElla Ward for Congress\x1C\x1C\x1C\x1C\x1C\x1C\x1CH\x1CVA\x1C04\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1C\n"
+  record: fec.version.v8_0.SB
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SB19A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00511832
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SB19A.5743
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED NAME
+    number: '5'
+    value: ''
+  - name: ENTITY TYPE
+    number: '6'
+    value: CAN
+  - name: PAYEE ORGANIZATION NAME
+    number: '7'
+    value: ''
+  - name: PAYEE LAST NAME
+    number: '8'
+    value: Ward
+  - name: PAYEE FIRST NAME
+    number: '9'
+    value: Ella P.
+  - name: PAYEE MIDDLE NAME
+    number: '10'
+    value: ''
+  - name: PAYEE PREFIX
+    number: '11'
+    value: ''
+  - name: PAYEE SUFFIX
+    number: '12'
+    value: ''
+  - name: PAYEE STREET 1
+    number: '13'
+    value: 1517 Pine Grove Lane
+  - name: PAYEE STREET 2
+    number: '14'
+    value: ''
+  - name: PAYEE CITY
+    number: '15'
+    value: Chesapeake
+  - name: PAYEE STATE
+    number: '16'
+    value: VA
+  - name: PAYEE ZIP
+    number: '17'
+    value: '23321'
+  - name: ELECTION CODE
+    number: '18'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '19'
+    value: ''
+  - name: EXPENDITURE DATE
+    number: '20'
+    value: '20130330'
+  - name: EXPENDITURE AMOUNT (F3L Bundled)
+    number: '21'
+    value: '1059.20'
+  - name: SEMI-ANNUAL REFUNDED BUNDLED AMT
+    number: '22'
+    value: ''
+  - name: EXPENDITURE PURPOSE DESCRIP
+    number: '23'
+    value: Loan repayment
+  - name: CATEGORY CODE
+    number: '24'
+    value: ''
+  - name: BENEFICIARY COMMITTEE FEC ID
+    number: '25'
+    value: C00511832
+  - name: BENEFICIARY COMMITTEE NAME
+    number: '26'
+    value: Ella Ward for Congress
+  - name: BENEFICIARY CANDIDATE FEC ID
+    number: '27'
+    value: ''
+  - name: BENEFICIARY CANDIDATE LAST NAME
+    number: '28'
+    value: ''
+  - name: BENEFICIARY CANDIDATE FIRST NAME
+    number: '29'
+    value: ''
+  - name: BENEFICIARY CANDIDATE MIDDLE NAME
+    number: '30'
+    value: ''
+  - name: BENEFICIARY CANDIDATE PREFIX
+    number: '31'
+    value: ''
+  - name: BENEFICIARY CANDIDATE SUFFIX
+    number: '32'
+    value: ''
+  - name: BENEFICIARY CANDIDATE OFFICE
+    number: '33'
+    value: H
+  - name: BENEFICIARY CANDIDATE STATE
+    number: '34'
+    value: VA
+  - name: BENEFICIARY CANDIDATE DISTRICT
+    number: '35'
+    value: '04'
+  - name: CONDUIT NAME
+    number: '36'
+    value: ''
+  - name: CONDUIT STREET 1
+    number: '37'
+    value: ''
+  - name: CONDUIT STREET 2
+    number: '38'
+    value: ''
+  - name: CONDUIT CITY
+    number: '39'
+    value: ''
+  - name: CONDUIT STATE
+    number: '40'
+    value: ''
+  - name: CONDUIT ZIP
+    number: '41'
+    value: ''
+  - name: MEMO CODE
+    number: '42'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '43'
+    value: ''
+  - name: Reference to SI or SL system code that identifies the Account
+    number: '44'
+    value: '
+
+'
+- input: "SC/10\x1CC00511832\x1CSC/10.4139\x1C13A\x1CCAN\x1C\x1CWard\x1CElla P.\x1C\x1C\x1C\x1C1517
+    Pine Grove Lane\x1C\x1CChesapeake\x1CVA\x1C23321\x1CP2012\x1C\x1C3500.00\x1C1059.20\x1C2440.80\x1C20120119\x1C06/30/2012\x1C0.0000\x1CN\x1CY\x1C\x1CH2VA04102\x1CWard\x1CElla
+    P.\x1C\x1C\x1C\x1CH\x1CVA\x1C04\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00511832
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4139
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Ward
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Ella P.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1517 Pine Grove Lane
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Chesapeake
+  - name: LENDER STATE
+    number: '15'
+    value: VA
+  - name: LENDER ZIP
+    number: '16'
+    value: '23321'
+  - name: ELECTION CODE
+    number: '17'
+    value: P2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '3500.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '1059.20'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '2440.80'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120119'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 06/30/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: N
+  - name: Personal Funds
+    number: 26-
+    value: Y
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2VA04102
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: Ward
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: Ella P.
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: VA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '04'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+- input: "SC/10\x1CC00511832\x1CSC/10.4934\x1C13A\x1CCAN\x1C\x1CWard\x1CElla P.\x1C\x1C\x1C\x1C1517
+    Pine Grove Lane\x1C\x1CChesapeake\x1CVA\x1C23321\x1CG2012\x1C\x1C3603.00\x1C0.00\x1C3603.00\x1C20120829\x1C12/31/2012\x1C0.0000\x1CY\x1CN\x1C\x1CH2VA04102\x1CWard\x1CElla
+    P.\x1C\x1C\x1C\x1CH\x1CVA\x1C04\x1C\x1C\n"
+  record: fec.version.v8_0.SC
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: SC/10
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00511832
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: SC/10.4934
+  - name: RECEIPT LINE NUMBER
+    number: '4'
+    value: 13A
+  - name: ENTITY TYPE
+    number: '5'
+    value: CAN
+  - name: LENDER ORGANIZATION NAME
+    number: '6'
+    value: ''
+  - name: LENDER LAST NAME
+    number: '7'
+    value: Ward
+  - name: LENDER FIRST NAME
+    number: '8'
+    value: Ella P.
+  - name: LENDER MIDDLE NAME
+    number: '9'
+    value: ''
+  - name: LENDER PREFIX
+    number: '10'
+    value: ''
+  - name: LENDER SUFFIX
+    number: '11'
+    value: ''
+  - name: LENDER STREET 1
+    number: '12'
+    value: 1517 Pine Grove Lane
+  - name: LENDER STREET 2
+    number: '13'
+    value: ''
+  - name: LENDER CITY
+    number: '14'
+    value: Chesapeake
+  - name: LENDER STATE
+    number: '15'
+    value: VA
+  - name: LENDER ZIP
+    number: '16'
+    value: '23321'
+  - name: ELECTION CODE
+    number: '17'
+    value: G2012
+  - name: ELECTION OTHER DESCRIPTION
+    number: '18'
+    value: ''
+  - name: LOAN AMOUNT (Original)
+    number: '19'
+    value: '3603.00'
+  - name: LOAN PAYMENT TO DATE
+    number: '20'
+    value: '0.00'
+  - name: LOAN BALANCE
+    number: '21'
+    value: '3603.00'
+  - name: Terms
+    number: '22-LOAN INCURRED '
+    value: '20120829'
+  - name: Terms
+    number: '23-LOAN DUE '
+    value: 12/31/2012
+  - name: LOAN INTEREST RATE % (Terms)
+    number: '24'
+    value: '0.0000'
+  - name: Secured?
+    number: 25-
+    value: Y
+  - name: Personal Funds
+    number: 26-
+    value: N
+  - name: LENDER COMMITTEE ID NUMBER
+    number: '27'
+    value: ''
+  - name: LENDER CANDIDATE ID NUMBER
+    number: '28'
+    value: H2VA04102
+  - name: LENDER CANDIDATE LAST NAME
+    number: '29'
+    value: Ward
+  - name: LENDER CANDIDATE FIRST NAME
+    number: '30'
+    value: Ella P.
+  - name: LENDER CANDIDATE MIDDLE NM
+    number: '31'
+    value: ''
+  - name: LENDER CANDIDATE PREFIX
+    number: '32'
+    value: ''
+  - name: LENDER CANDIDATE SUFFIX
+    number: '33'
+    value: ''
+  - name: LENDER CANDIDATE OFFICE
+    number: '34'
+    value: H
+  - name: LENDER CANDIDATE STATE
+    number: '35'
+    value: VA
+  - name: LENDER CANDIDATE DISTRICT
+    number: '36'
+    value: '04'
+  - name: MEMO CODE
+    number: '37'
+    value: ''
+  - name: MEMO TEXT/DESCRIPTION
+    number: '38'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130416
+type: chunk

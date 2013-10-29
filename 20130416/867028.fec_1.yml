@@ -1,0 +1,128 @@
+countrows: 2
+filename: 867028.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH6MI16034\x1CDingell\x1CJohn\x1CD.\x1CMr.\x1C\x1C\x1C700 13th Street,
+    N.W.\x1CSuite 600\x1CWashington\x1CDC\x1C20005\x1CDEM\x1CH\x1CMI\x1C12\x1C2014\x1CC00002600\x1CJohn
+    D. Dingell for Congress Committee\x1C700 13th Street, N.W.\x1CSuite 600\x1CWashington\x1CDC\x1C20005\x1C\x1C\x1C\x1C\x1C\x1C\x1C\x1CDingell\x1CJohn\x1CD.\x1C\x1C\x1C20130416\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H6MI16034
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Dingell
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: John
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: D.
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Mr.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 700 13th Street, N.W.
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: Suite 600
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Washington
+  - name: CANDIDATE STATE
+    number: '12'
+    value: DC
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '20005'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: DEM
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: MI
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '12'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00002600
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: John D. Dingell for Congress Committee
+  - name: PCC STREET 1
+    number: '21'
+    value: 700 13th Street, N.W.
+  - name: PCC STREET 2
+    number: '22'
+    value: Suite 600
+  - name: PCC CITY
+    number: '23'
+    value: Washington
+  - name: PCC STATE
+    number: '24'
+    value: DC
+  - name: PCC ZIP
+    number: '25'
+    value: '20005'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: ''
+  - name: AUTH STREET 1
+    number: '28'
+    value: ''
+  - name: AUTH STREET 2
+    number: '29'
+    value: ''
+  - name: AUTH CITY
+    number: '30'
+    value: ''
+  - name: AUTH STATE
+    number: '31'
+    value: ''
+  - name: AUTH ZIP
+    number: '32'
+    value: ''
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Dingell
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: John
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: D.
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: ''
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130416
+
+'
+sourceurl: !!python/unicode 20130416
+type: chunk

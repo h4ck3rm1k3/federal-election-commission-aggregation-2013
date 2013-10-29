@@ -1,0 +1,242 @@
+countrows: 5
+filename: 867699.fec
+header: {}
+rows:
+- 2
+- input: "F6A\x1CC00510065\x1C20121028\x1CBIELAT FOR CONGRESS 2012\x1CPO BOX 1143\x1C\x1CBROOKLINE\x1CMA\x1C02246\x1CH0MA04127\x1CBIELAT\x1CSEAN\x1C\x1C\x1C\x1CH\x1CMA\x1C04\x1CBACKER\x1CDAN\x1C\x1C\x1C\x1C20130418\n"
+  record: fec.version.v8_0.F6
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F6A
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510065
+  - name: ORIGINAL AMENDMENT DATE
+    number: '3'
+    value: '20121028'
+  - name: COMMITTEE NAME
+    number: '4'
+    value: BIELAT FOR CONGRESS 2012
+  - name: STREET 1
+    number: '5'
+    value: PO BOX 1143
+  - name: STREET 2
+    number: '6'
+    value: ''
+  - name: CITY
+    number: '7'
+    value: BROOKLINE
+  - name: STATE
+    number: '8'
+    value: MA
+  - name: ZIP
+    number: '9'
+    value: '02246'
+  - name: CANDIDATE ID NUMBER
+    number: '10'
+    value: H0MA04127
+  - name: CANDIDATE LAST NAME
+    number: '11'
+    value: BIELAT
+  - name: CANDIDATE FIRST NAME
+    number: '12'
+    value: SEAN
+  - name: CANDIDATE MIDDLE NAME
+    number: '13'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '14'
+    value: ''
+  - name: CANDIDATE SUFFIX
+    number: '15'
+    value: ''
+  - name: CANDIDATE OFFICE
+    number: '16'
+    value: H
+  - name: CANDIDATE STATE
+    number: '17'
+    value: MA
+  - name: CANDIDATE DISTRICT
+    number: '18'
+    value: '04'
+  - name: SIGNER LAST NAME
+    number: '19'
+    value: BACKER
+  - name: SIGNER FIRST NAME
+    number: '20'
+    value: DAN
+  - name: SIGNER MIDDLE NAME
+    number: '21'
+    value: ''
+  - name: SIGNER PREFIX
+    number: '22'
+    value: ''
+  - name: SIGNER SUFFIX
+    number: '23'
+    value: ''
+  - name: DATE SIGNED
+    number: '24'
+    value: '20130418
+
+'
+- input: "TEXT\x1CC00510065\x1C.TEXT\x1C\x1CF6A\x1CThis report has been amended to
+    properly categorize the contribution from NFIB as being reported on line 11c and
+    not Line 11a as originally reported.\n"
+  record: fec.version.v8_0.TEXT
+  result:
+  - name: REC TYPE
+    number: '1'
+    value: TEXT
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510065
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: .TEXT
+  - name: BACK REFERENCE TRAN ID NUMBER
+    number: '4'
+    value: ''
+  - name: BACK REFERENCE SCHED / FORM NAME
+    number: '5'
+    value: F6A
+  - name: TEXT4000
+    number: '6'
+    value: 'This report has been amended to properly categorize the contribution from
+      NFIB as being reported on line 11c and not Line 11a as originally reported.
+
+'
+- input: "F65\x1CC00510065\x1CF6.20689\x1CIND\x1C\x1CRUETTGERS\x1CMAUREEN\x1C\x1C\x1C\x1C453
+    BEDFORD STREET\x1C\x1CCARLISLE\x1CMA\x1C01741\x1C\x1C20121027\x1C2500.00\x1CRETIRED\x1CRETIRED\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510065
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.20689
+  - name: ENTITY TYPE
+    number: '4'
+    value: IND
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: ''
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: RUETTGERS
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: MAUREEN
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 453 BEDFORD STREET
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: ''
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: CARLISLE
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: MA
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '01741'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: ''
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121027'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '2500.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: RETIRED
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: 'RETIRED
+
+'
+- input: "F65\x1CC00510065\x1CF6.24599\x1CPAC\x1CNFIB THE VOICE OF FREE ENTERPRISE
+    INC.\x1C\x1C\x1C\x1C\x1C\x1C1201 F STREET\x1CSUITE 200\x1CWASHINGTON\x1CDC\x1C20004\x1CC90013509\x1C20121027\x1C1000.00\x1C\x1C\n"
+  record: fec.version.v8_0.F65
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F65
+  - name: FILER COMMITTEE ID NUMBER
+    number: '2'
+    value: C00510065
+  - name: TRANSACTION ID NUMBER
+    number: '3'
+    value: F6.24599
+  - name: ENTITY TYPE
+    number: '4'
+    value: PAC
+  - name: CONTRIBUTOR ORGANIZATION NAME
+    number: '5'
+    value: NFIB THE VOICE OF FREE ENTERPRISE INC.
+  - name: CONTRIBUTOR LAST NAME
+    number: '6'
+    value: ''
+  - name: CONTRIBUTOR FIRST NAME
+    number: '7'
+    value: ''
+  - name: CONTRIBUTOR MIDDLE NAME
+    number: '8'
+    value: ''
+  - name: CONTRIBUTOR PREFIX
+    number: '9'
+    value: ''
+  - name: CONTRIBUTOR SUFFIX
+    number: '10'
+    value: ''
+  - name: CONTRIBUTOR STREET 1
+    number: '11'
+    value: 1201 F STREET
+  - name: CONTRIBUTOR STREET 2
+    number: '12'
+    value: SUITE 200
+  - name: CONTRIBUTOR CITY
+    number: '13'
+    value: WASHINGTON
+  - name: CONTRIBUTOR STATE
+    number: '14'
+    value: DC
+  - name: CONTRIBUTOR ZIP
+    number: '15'
+    value: '20004'
+  - name: CONTRIBUTOR COMMITTEE FEC ID
+    number: '16'
+    value: C90013509
+  - name: CONTRIBUTION DATE
+    number: '17'
+    value: '20121027'
+  - name: CONTRIBUTION AMOUNT
+    number: '18'
+    value: '1000.00'
+  - name: CONTRIBUTOR EMPLOYER
+    number: '19'
+    value: ''
+  - name: CONTRIBUTOR OCCUPATION
+    number: '20'
+    value: '
+
+'
+sourceurl: !!python/unicode 20130418
+type: chunk

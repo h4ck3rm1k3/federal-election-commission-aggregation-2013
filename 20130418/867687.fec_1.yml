@@ -1,0 +1,129 @@
+countrows: 2
+filename: 867687.fec
+header: {}
+rows:
+- 2
+- input: "F2N\x1CH2IN05082\x1CBrooks\x1CSusan\x1C\x1CMrs.\x1C\x1C\x1C13406  Birkenhead
+    Street\x1C\x1CCarmel\x1CIN\x1C460328387\x1CREP\x1CH\x1CIN\x1C05\x1C2014\x1CC00500207\x1CFriends
+    of Susan Brooks\x1C9425 N  Meridian Street\x1C# 237\x1CIndianapolis\x1CIN\x1C462601308\x1C\x1CInnovation
+    And Entrepreneur Fund\x1C4905  Del Ray Avenue\x1CSuite 405\x1CBethesda\x1CMD\x1C208142557\x1CBrooks\x1CSusan\x1C\x1CMrs.\x1C\x1C20130418\n"
+  record: fec.version.v8_0.F2
+  result:
+  - name: FORM TYPE
+    number: '1'
+    value: F2N
+  - name: FILER CANDIDATE ID NUMBER
+    number: '2'
+    value: H2IN05082
+  - name: CANDIDATE LAST NAME
+    number: '3'
+    value: Brooks
+  - name: CANDIDATE FIRST NAME
+    number: '4'
+    value: Susan
+  - name: CANDIDATE MIDDLE NAME
+    number: '5'
+    value: ''
+  - name: CANDIDATE PREFIX
+    number: '6'
+    value: Mrs.
+  - name: CANDIDATE SUFFIX
+    number: '7'
+    value: ''
+  - name: CHANGE OF ADDRESS
+    number: '8'
+    value: ''
+  - name: CANDIDATE STREET 1
+    number: '9'
+    value: 13406  Birkenhead Street
+  - name: CANDIDATE STREET 2
+    number: '10'
+    value: ''
+  - name: CANDIDATE CITY
+    number: '11'
+    value: Carmel
+  - name: CANDIDATE STATE
+    number: '12'
+    value: IN
+  - name: CANDIDATE ZIP
+    number: '13'
+    value: '460328387'
+  - name: CANDIDATE PARTY CODE
+    number: '14'
+    value: REP
+  - name: CANDIDATE OFFICE
+    number: '15'
+    value: H
+  - name: CANDIDATE STATE
+    number: '16'
+    value: IN
+  - name: CANDIDATE DISTRICT
+    number: '17'
+    value: '05'
+  - name: YEAR OF ELECTION 1900-2999
+    number: '18'
+    value: '2014'
+  - name: PCC COMMITTEE ID NUMBER
+    number: '19'
+    value: C00500207
+  - name: PCC COMMITTEE NAME
+    number: '20'
+    value: Friends of Susan Brooks
+  - name: PCC STREET 1
+    number: '21'
+    value: 9425 N  Meridian Street
+  - name: PCC STREET 2
+    number: '22'
+    value: '# 237'
+  - name: PCC CITY
+    number: '23'
+    value: Indianapolis
+  - name: PCC STATE
+    number: '24'
+    value: IN
+  - name: PCC ZIP
+    number: '25'
+    value: '462601308'
+  - name: AUTH COMMITTEE ID NUMBER
+    number: '26'
+    value: ''
+  - name: AUTH COMMITTEE NAME
+    number: '27'
+    value: Innovation And Entrepreneur Fund
+  - name: AUTH STREET 1
+    number: '28'
+    value: 4905  Del Ray Avenue
+  - name: AUTH STREET 2
+    number: '29'
+    value: Suite 405
+  - name: AUTH CITY
+    number: '30'
+    value: Bethesda
+  - name: AUTH STATE
+    number: '31'
+    value: MD
+  - name: AUTH ZIP
+    number: '32'
+    value: '208142557'
+  - name: CANDIDATE SIGNATURE LAST NAME
+    number: '33'
+    value: Brooks
+  - name: CANDIDATE SIGNATURE FIRST NAME
+    number: '34'
+    value: Susan
+  - name: CANDIDATE SIGNATURE MIDDLE NAME
+    number: '35'
+    value: ''
+  - name: CANDIDATE SIGNATURE PREFIX
+    number: '36'
+    value: Mrs.
+  - name: CANDIDATE SIGNATURE SUFFIX
+    number: '37'
+    value: ''
+  - name: DATE SIGNED
+    number: '38'
+    value: '20130418
+
+'
+sourceurl: !!python/unicode 20130418
+type: chunk
